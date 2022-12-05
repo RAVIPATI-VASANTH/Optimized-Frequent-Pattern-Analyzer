@@ -1,11 +1,18 @@
+import React, { Component } from "react";
+import ReactDOM from "react-dom/client";
+import Header from "./header/header";
+import Body from "./body/body";
 import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello world</h1>
-    </div>
-  );
+class App extends Component {
+  render() {
+    return (
+      <>
+        <Header></Header>
+        <Body></Body>
+      </>
+    );
+  }
 }
 
 export default App;
