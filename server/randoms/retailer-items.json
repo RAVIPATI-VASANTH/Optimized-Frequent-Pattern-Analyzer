@@ -1,0 +1,66 @@
+{
+  "1": { "title": "retailer-items collection Document" },
+  "2": {
+    "userId": "supermarket@Guntur",
+    "collectionName": "Collection Name",
+    "itemsList": [
+      {
+        "collectionName": "Collection Name",
+        "itemName": "Item Name1",
+        "itemBrand": "Brand Name",
+        "itemPrices": [
+          {
+            "packType": "Pack Type1",
+            "price": "Price1"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          }
+        ]
+      },
+      {
+        "collectionName": "Collection Name",
+        "itemName": "Item Name2",
+        "itemBrand": "Brand Name",
+        "itemPrices": [
+          {
+            "packType": "Pack Type1",
+            "price": "Price1"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          }
+        ]
+      },
+      {
+        "collectionName": "Collection Name",
+        "itemName": "Item Name3",
+        "itemBrand": "Brand Name",
+        "itemPrices": [
+          {
+            "packType": "Pack Type1",
+            "price": "Price1"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          },
+          {
+            "packType": "Pack Type2",
+            "price": "Price2"
+          }
+        ]
+      }
+    ]
+  }
+}
