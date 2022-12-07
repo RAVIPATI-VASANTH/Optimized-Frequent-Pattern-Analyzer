@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import HomePage from "./homepage";
 
 export default class Body extends Component {
   constructor(props) {
@@ -74,7 +75,7 @@ export default class Body extends Component {
 
   render() {
     if (this.state.isLogin) {
-      return <h1>Home Page</h1>;
+      return <HomePage></HomePage>;
     } else {
       return (
         <>

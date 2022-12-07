@@ -8,9 +8,4 @@ const getData = require("./randoms/itemGenerator");
 server.use(loginRouter);
 server.use(registerRouter);
 
-// server.get("/data",(req,res)=>{
-//     console.log("Called");
-//     res.json({"data":getData()});
-// })
-
 server.listen(5000);
