@@ -1,7 +1,14 @@
 import React, { Component } from "react";
+import SearchPanel from "./searchPanel/searchpanel";
+import ListPanel from "./listingPanel/listPanel";
 
 export default class Billing extends Component {
   render() {
-    return <h1>Billing</h1>;
+    return (
+      <>
+        <SearchPanel></SearchPanel>
+        <ListPanel></ListPanel>
+      </>
+    );
   }
 }
