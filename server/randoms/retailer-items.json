@@ -2,10 +2,10 @@
   "1": { "title": "retailer-items collection Document" },
   "2": {
     "userId": "supermarket@Guntur",
-    "collectionName": "Collection Name",
+    "categoryName": "Category Name",
     "itemsList": [
       {
-        "collectionName": "Collection Name",
+        "categoryName": "Category Name",
         "itemName": "Item Name1",
         "itemBrand": "Brand Name",
         "itemPrices": [
