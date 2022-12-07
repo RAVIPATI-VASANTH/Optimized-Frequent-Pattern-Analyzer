@@ -3,7 +3,7 @@ const { MongoClient } = require("mongodb");
 const uri = "mongodb://127.0.0.1:27017";
 
 const loginController = (req, res) => {
-  console.log("requested login");
+  // console.log("requested login");
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
     async function loginToDB(req) {
@@ -29,24 +29,6 @@ const loginController = (req, res) => {
           } else {
             reject("Password Incorrect");
           }
-
-          // result.toArray(function (err, element) {
-          //   if (err) throw err;
-          //   if (element.password === req.query.password.toString()) {
-          //     resolve("Login Successfull");
-          //   } else {
-          //     reject("Password Incorrect");
-          //   }
-          // });
-
-          // result.toArray.forEach((err, element) => {
-          //   if (err) throw err;
-          //   if (element.password === req.query.password.toString()) {
-          //     resolve("Login Successfull");
-          //   } else {
-          //     reject("Password Incorrect");
-          //   }
-          // });
         }
       } finally {
       }
