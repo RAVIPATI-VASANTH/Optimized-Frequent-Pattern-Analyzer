@@ -8,17 +8,44 @@ const searchItemController = (req, res) => {
 
     async function searchItem() {
       try {
-        const database = client.db("MBAProjectDatabase");
-        const retailerItems = database.collection("retailerItems");
+        let q = req.query.searchItem;
+        if (q.length !== 0) {
+          const database = client.db("MBAProjectDatabase");
+          const retailerItems = database.collection("retailerItems");
+          let listObjects = [];
+          const cursor = await retailerItems.find(
+            {
+              "itemsList.itemName": { $regex: `${q}` },
+            },
+            { itemsList: 1 }
+          );
+
+          await cursor.forEach((doc) => {
+            doc.itemsList.forEach((obj) => {
+              if (obj.itemName.indexOf(q) !== -1) {
+                listObjects.push(obj);
+              }
+            });
+          });
+          // console.log(listObjects);
+          resolve(listObjects);
+        } else {
+          reject();
+        }
       } finally {
+        client.close();
       }
     }
-
     searchItem().catch(console.dir);
   });
 
-  promise.then(() => {}).catch(() => {});
-  res.json({ message: "request reached" });
+  promise
+    .then((listObjects) => {
+      res.json({ responseStatus: true, listObjects: listObjects });
+    })
+    .catch(() => {
+      res.json({ responseStatus: false });
+    });
 };
 
 module.exports = searchItemController;
