@@ -10,30 +10,49 @@ export default class SearchPanel extends Component {
   }
 
   searchItems() {
-    //get the items from db as per searchString
-    fetch("/searchItem", { method: "GET" })
+    fetch(`\\searchItem?searchItem=${this.state.searchString}`, {
+      method: "GET",
+    })
       .then((response) => response.json())
       .then((response) => {
-        console.log(response.message);
+        if (response.responseStatus) {
+          this.setState({ itemsList: response.listObjects });
+        } else {
+          this.setState({ itemsList: [] });
+        }
       })
       .catch((err) => {
         console.log(err);
       });
-    //make components using them
-    //add the created components to itemsList
-    //add the components to SearchedItemsDisplayPanel
+  }
+
+  selectItem(index) {
+    let obj = this.state.itemsList[index];
+    this.props.updateListedItems({ data: obj });
   }
 
   render() {
+    let style = { cursor: "pointer" };
+    let itemsComponents = this.state.itemsList.map((element, index) => (
+      <div style={style} onClick={() => this.selectItem(index)}>
+        <p>{element.itemName}</p>
+      </div>
+    ));
+    if (this.state.itemsList.length === 0) {
+      itemsComponents = <p>No Results</p>;
+    }
     return (
       <div>
         <input
+          placeholder="type for items"
           onChange={(event) => {
-            this.setState({ searchString: event.target.value });
-            this.searchItems();
+            this.setState(
+              { searchString: event.target.value },
+              this.searchItems
+            );
           }}
         />
-        <div>Searches Items Display</div>
+        <div>{itemsComponents}</div>
       </div>
     );
   }
