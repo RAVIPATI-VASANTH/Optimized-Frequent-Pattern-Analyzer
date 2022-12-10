@@ -26,7 +26,11 @@ const getData = () => {
       let priceList = [];
       let basePrice = randomInt(5, 300);
       for (let k = 1; k <= randomInt(1, 4); k++) {
-        let priceObj = { packType: `Pack Type ${k}`, price: basePrice * k };
+        let priceObj = {
+          packType: `Pack Type ${k}`,
+          price: basePrice * k,
+          discount: 0,
+        };
         priceList.push(priceObj);
       }
 
@@ -45,8 +49,6 @@ const getData = () => {
     };
     retailerItems.push(currentCollection);
   }
-
-  // console.log(retailerItems);
   return retailerItems;
 };
 
