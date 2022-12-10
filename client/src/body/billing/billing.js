@@ -11,20 +11,59 @@ export default class Billing extends Component {
   }
 
   updateListedItems(newItem) {
+    newItem = {
+      ...newItem.data,
+      quantity: 0,
+      packType: 0,
+    };
     let l = this.state.listedItems;
-    l.push(newItem.data);
+    l.push(newItem);
+
     this.setState({
       listedItems: l,
     });
   }
 
+  quantityHandler(itemIndex, quantity) {
+    let items = this.state.listedItems;
+    items[itemIndex].quantity = quantity;
+    this.setState({
+      listedItems: items,
+    });
+  }
+
+  selectHandler(itemIndex, packType) {
+    let items = this.state.listedItems;
+    items[itemIndex].packType = packType;
+    this.setState({
+      listedItems: items,
+    });
+  }
+
+  removeButtonHandler(itemIndex) {
+    let l = this.state.listedItems;
+    if (l.length === 1) l = [];
+    else l.splice(itemIndex, 1);
+    this.setState({
+      listedItems: l,
+    });
+  }
+
+  clearListedItems() {
+    this.setState({ listedItems: [] });
+  }
+
   render() {
     return (
       <>
-        <SearchPanel
-          updateListedItems={this.updateListedItems.bind(this)}
-        ></SearchPanel>
-        <ListPanel listedItems={this.state.listedItems}></ListPanel>
+        <SearchPanel updateListedItems={this.updateListedItems.bind(this)} />
+        <ListPanel
+          listedItems={this.state.listedItems}
+          quantityHandler={this.quantityHandler.bind(this)}
+          selectHandler={this.selectHandler.bind(this)}
+          removeButtonHandler={this.removeButtonHandler.bind(this)}
+          clearListedItems={this.clearListedItems.bind(this)}
+        />
       </>
     );
   }

@@ -1,66 +1,118 @@
 {
-  "1": { "title": "retailer-items collection Document" },
+  "0": {
+    "title": "crdentials collection Docuument"
+  },
+  "1": {
+    "title": "retailer-items collection Document",
+    "blueprint": {
+      "userId": "supermarket@Guntur",
+      "categoryName": "Category Name",
+      "itemsList": [
+        {
+          "categoryName": "Category Name",
+          "itemName": "Item Name1",
+          "itemBrand": "Brand Name",
+          "itemPrices": [
+            {
+              "packType": "Pack Type1",
+              "price": "Price1",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            }
+          ]
+        },
+        {
+          "collectionName": "Category Name",
+          "itemName": "Item Name2",
+          "itemBrand": "Brand Name",
+          "itemPrices": [
+            {
+              "packType": "Pack Type1",
+              "price": "Price1",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            }
+          ]
+        },
+        {
+          "collectionName": "Category Name",
+          "itemName": "Item Name3",
+          "itemBrand": "Brand Name",
+          "itemPrices": [
+            {
+              "packType": "Pack Type1",
+              "price": "Price1",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            },
+            {
+              "packType": "Pack Type2",
+              "price": "Price2",
+              "discount": 0
+            }
+          ]
+        }
+      ]
+    }
+  },
   "2": {
-    "userId": "supermarket@Guntur",
-    "categoryName": "Category Name",
-    "itemsList": [
-      {
-        "categoryName": "Category Name",
-        "itemName": "Item Name1",
-        "itemBrand": "Brand Name",
-        "itemPrices": [
-          {
-            "packType": "Pack Type1",
-            "price": "Price1"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
+    "title": "transactions collection Document",
+    "blueprint": {
+      "itemsList": [
+        {
+          "categoryName": "Category Name",
+          "itemName": "Item Name1",
+          "itemBrand": "Brand Name",
+          "itemPrice": {
+            "packType": "Pack Type",
+            "price": "Price",
+            "discount": "dicount provide at the time  of transaction"
           }
-        ]
-      },
-      {
-        "collectionName": "Collection Name",
-        "itemName": "Item Name2",
-        "itemBrand": "Brand Name",
-        "itemPrices": [
-          {
-            "packType": "Pack Type1",
-            "price": "Price1"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
+        },
+        {
+          "categoryName": "Category Name",
+          "itemName": "Item Name2",
+          "itemBrand": "Brand Name",
+          "itemPrice": {
+            "packType": "Pack Type",
+            "price": "Price",
+            "discount": "dicount provide at the time  of transaction"
           }
-        ]
-      },
-      {
-        "collectionName": "Collection Name",
-        "itemName": "Item Name3",
-        "itemBrand": "Brand Name",
-        "itemPrices": [
-          {
-            "packType": "Pack Type1",
-            "price": "Price1"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
-          },
-          {
-            "packType": "Pack Type2",
-            "price": "Price2"
+        },
+        {
+          "categoryName": "Category Name",
+          "itemName": "Item Name3",
+          "itemBrand": "Brand Name",
+          "itemPrice": {
+            "packType": "Pack Type",
+            "price": "Price",
+            "discount": "dicount provide at the time  of transaction"
           }
-        ]
-      }
-    ]
+        }
+      ],
+      "timeStamp": "YYYY-MM-DD-hh-mm-ss"
+    }
   }
 }
