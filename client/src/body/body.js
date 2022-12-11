@@ -34,6 +34,7 @@ export default class Body extends Component {
           this.setState({
             isLogin: false,
           });
+          console.log(res.message);
           alert(res.message);
           return false;
         }
@@ -52,7 +53,6 @@ export default class Body extends Component {
     fetch(url, { method: "POST" })
       .then((res) => res.json())
       .then((res) => {
-        console.log(res.loginStatus);
         if (res.loginStatus === true) {
           this.setState({
             isLogin: true,
@@ -72,6 +72,21 @@ export default class Body extends Component {
         console.log(err);
       });
   }
+
+  // checkSession() {
+  //   console.log("called");
+  //   fetch("/")
+  //     .then((res) => res.json())
+  //     .then((res) => {
+  //       if (res.message) this.setState({ isLogin: true });
+  //       else this.setState({ isLogin: false });
+  //     })
+  //     .catch(this.setState({ isLogin: false }));
+  // }
+
+  // componentDidMount() {
+  //   this.checkSession();
+  // }
 
   render() {
     if (this.state.isLogin) {

@@ -8,14 +8,14 @@ export default class ListPanel extends Component {
     };
   }
 
-  static getDerivedStateFromProps(nextprops, prevstate) {
-    let l = [];
-    nextprops.listedItems.forEach((item) => {
-      let obj = { ...item, quantity: 0, packType: 0 };
-      l.push(obj);
-    });
-    return { listedItems: l };
-  }
+  // static getDerivedStateFromProps(nextprops, prevstate) {
+  //   let l = [];
+  //   nextprops.listedItems.forEach((item) => {
+  //     let obj = { ...item, quantity: 0, packType: 0 };
+  //     l.push(obj);
+  //   });
+  //   return { listedItems: l };
+  // }
 
   quantityHandler(obj) {
     const [itemIndex, quantity] = obj.split("-");
@@ -84,7 +84,7 @@ export default class ListPanel extends Component {
       alert("Please select the items");
     else {
       let signal = window.confirm(
-        `Final transaction worth is ${this.state.totalBill}/-\nClick OK to make Trnasaction.`
+        `Final transaction worth is ${this.state.totalBill}/-\nClick OK to make Transaction.`
       );
       if (signal) {
         let transactionalData = this.getTransactionalData();

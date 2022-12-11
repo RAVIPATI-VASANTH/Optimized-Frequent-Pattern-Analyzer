@@ -3,7 +3,6 @@ const { MongoClient } = require("mongodb");
 const uri = "mongodb://127.0.0.1:27017";
 
 const loginController = (req, res) => {
-  // console.log("requested login");
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
     async function loginToDB(req) {

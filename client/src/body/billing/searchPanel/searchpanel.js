@@ -12,6 +12,7 @@ export default class SearchPanel extends Component {
   searchItems() {
     fetch(`\\searchItem?searchItem=${this.state.searchString}`, {
       method: "GET",
+      body: {},
     })
       .then((response) => response.json())
       .then((response) => {

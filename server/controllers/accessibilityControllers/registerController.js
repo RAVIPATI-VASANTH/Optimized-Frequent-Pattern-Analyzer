@@ -32,10 +32,10 @@ const registerController = (req, res) => {
 
   promise
     .then(() => {
-      res.json({ loginStatus: true });
+      res.json({ loginStatus: false });
     })
     .catch(() => {
-      res.json({ loginStatus: false });
+      res.json({ loginStatus: true });
     });
 };
 
