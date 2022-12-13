@@ -5,7 +5,6 @@ const uri = "mongodb://127.0.0.1:27017";
 const confirmTransactionController = (req, res) => {
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
-
     async function confirmTransaction() {
       try {
         const database = client.db("MBAProjectDatabase");
@@ -14,12 +13,11 @@ const confirmTransactionController = (req, res) => {
         await client.close();
         resolve();
       } finally {
-        client.close();
       }
     }
-    confirmTransaction().catch((err) => {
+    confirmTransaction().catch(() => {
       reject();
-      console.log(err);
+      console.dir;
     });
   });
   promise

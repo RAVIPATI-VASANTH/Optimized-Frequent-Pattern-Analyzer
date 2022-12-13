@@ -11,25 +11,30 @@ export default class Managing extends Component {
   }
 
   updateSelectedItem(newItem) {
-    console.log(newItem.data);
     this.setState({
       selectedItem: newItem.data,
     });
+    console.log(newItem.data);
   }
 
   updateSelectCollectionElement() {
-    console.log("request for update the select the collection name ");
+    console.log("request for update the select the collection name");
   }
 
   render() {
     return (
       <>
-        <SearchPanel updateListedItems={this.updateSelectedItem.bind(this)} />
+        <SearchPanel
+          updateListedItems={this.updateSelectedItem.bind(this)}
+          currentUser={this.props.currentUser}
+        />
         <OperatePanel
+          updateSelectedItem={this.updateSelectedItem.bind(this)}
+          currentUser={this.props.currentUser}
           selectedItem={this.state.selectedItem}
-          updateSelectCollectionElement={this.updateSelectCollectionElement.bind(
-            this
-          )}
+          // updateSelectCollectionElement={this.updateSelectCollectionElement.bind(
+          //   this
+          // )}
         />
       </>
     );

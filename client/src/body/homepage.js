@@ -58,7 +58,10 @@ export default class HomePage extends Component {
       return (
         <>
           {navBar}
-          <Profile></Profile>
+          <Profile
+            currentUser={this.props.currentUser}
+            logOutAction={this.props.logOutAction.bind(this)}
+          ></Profile>
         </>
       );
     }
@@ -66,7 +69,7 @@ export default class HomePage extends Component {
       return (
         <>
           {navBar}
-          <Billing></Billing>
+          <Billing currentUser={this.props.currentUser}></Billing>
         </>
       );
     }
@@ -74,7 +77,7 @@ export default class HomePage extends Component {
       return (
         <>
           {navBar}
-          <FPA></FPA>
+          <FPA currentUser={this.props.currentUser}></FPA>
         </>
       );
     }
@@ -82,7 +85,7 @@ export default class HomePage extends Component {
       return (
         <>
           {navBar}
-          <Managing></Managing>
+          <Managing currentUser={this.props.currentUser}></Managing>
         </>
       );
     }

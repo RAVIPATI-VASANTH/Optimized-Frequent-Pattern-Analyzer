@@ -1,19 +1,35 @@
 import React, { Component } from "react";
-import CreateCollectionPanel from "./createCollectionPanel";
+import CreateCategoryPanel from "./tasks/createCategoryPanel";
+import CreateItemPanel from "./tasks/createItemPanel";
+import UpdateItemPanel from "./tasks/updateItemPanel";
+
 export default class OperatePanel extends Component {
   constructor(props) {
     super(props);
     this.state = {
       selectedItem: {},
+      currentAction: true,
+      availableCategoriesList: [],
     };
   }
 
   render() {
-    console.log(this.props);
+    let display;
+    if (Object.keys(this.props.selectedItem).length === 0) {
+      display = <CreateItemPanel currentUser={this.props.currentUser} />;
+    } else {
+      display = (
+        <UpdateItemPanel
+          currentUser={this.props.currentUser}
+          selectedItem={this.props.selectedItem}
+          updateSelectedItem={this.props.updateSelectedItem}
+        />
+      );
+    }
     return (
       <>
-        <CreateCollectionPanel />
-        <p>{this.props.selectedItem.itemName}</p>
+        <CreateCategoryPanel currentUser={this.props.currentUser} />
+        {display}
       </>
     );
   }

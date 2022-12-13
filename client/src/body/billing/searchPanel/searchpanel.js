@@ -10,18 +10,21 @@ export default class SearchPanel extends Component {
   }
 
   searchItems() {
-    fetch(`\\searchItem?searchItem=${this.state.searchString}`, {
-      method: "GET",
-      body: {},
-    })
-      .then((response) => response.json())
-      .then((response) => {
-        if (response.responseStatus) {
-          this.setState({ itemsList: response.listObjects });
-        } else {
-          this.setState({ itemsList: [] });
-        }
-      })
+    fetch(
+      `/searchItem?searchItem=${this.state.searchString}&userId=${this.props.currentUser}`,
+      {
+        method: "GET",
+      }
+    )
+      .then((response) =>
+        response.json().then((response) => {
+          if (response.responseStatus) {
+            this.setState({ itemsList: response.listObjects });
+          } else {
+            this.setState({ itemsList: [] });
+          }
+        })
+      )
       .catch((err) => {
         console.log(err);
       });

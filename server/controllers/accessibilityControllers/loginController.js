@@ -1,5 +1,4 @@
 const { MongoClient } = require("mongodb");
-
 const uri = "mongodb://127.0.0.1:27017";
 
 const loginController = (req, res) => {
@@ -37,7 +36,10 @@ const loginController = (req, res) => {
 
   promise
     .then((message) => {
-      res.json({ loginStatus: true, message: message });
+      res.json({
+        loginStatus: true,
+        message: message,
+      });
     })
     .catch((message) => {
       res.json({ loginStatus: false, message: message });

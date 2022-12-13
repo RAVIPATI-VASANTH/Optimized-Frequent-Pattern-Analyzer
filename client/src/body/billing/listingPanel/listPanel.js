@@ -8,15 +8,6 @@ export default class ListPanel extends Component {
     };
   }
 
-  // static getDerivedStateFromProps(nextprops, prevstate) {
-  //   let l = [];
-  //   nextprops.listedItems.forEach((item) => {
-  //     let obj = { ...item, quantity: 0, packType: 0 };
-  //     l.push(obj);
-  //   });
-  //   return { listedItems: l };
-  // }
-
   quantityHandler(obj) {
     const [itemIndex, quantity] = obj.split("-");
     this.props.quantityHandler(Number(itemIndex), Number(quantity));
@@ -63,7 +54,11 @@ export default class ListPanel extends Component {
     });
     let date = new Date();
     let timeStamp = `${date.getFullYear()}-${date.getMonth()}-${date.getDate()}-${date.getHours()}-${date.getMinutes()}-${date.getSeconds()}`;
-    return { itemsList: l, timeStamp: timeStamp };
+    return {
+      userId: this.props.currentUser,
+      itemsList: l,
+      timeStamp: timeStamp,
+    };
   }
 
   checkQuantity() {
@@ -94,16 +89,17 @@ export default class ListPanel extends Component {
             method: "POST",
           }
         )
-          .then((response) => response.json())
-          .then((response) => {
-            if (response.message) {
-              alert("Transaction Successfull");
-              this.props.clearListedItems();
-              this.calculateBill();
-            } else {
-              alert("Something went Wrong");
-            }
-          })
+          .then((response) =>
+            response.json().then((response) => {
+              if (response.message) {
+                alert("Transaction Successfull");
+                this.props.clearListedItems();
+                this.calculateBill();
+              } else {
+                alert("Something went Wrong");
+              }
+            })
+          )
           .catch((err) => console.log(err));
       }
     }
