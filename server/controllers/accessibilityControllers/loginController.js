@@ -1,9 +1,7 @@
 const { MongoClient } = require("mongodb");
-
 const uri = "mongodb://127.0.0.1:27017";
 
 const loginController = (req, res) => {
-  // console.log("requested login");
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
     async function loginToDB(req) {
@@ -38,7 +36,10 @@ const loginController = (req, res) => {
 
   promise
     .then((message) => {
-      res.json({ loginStatus: true, message: message });
+      res.json({
+        loginStatus: true,
+        message: message,
+      });
     })
     .catch((message) => {
       res.json({ loginStatus: false, message: message });

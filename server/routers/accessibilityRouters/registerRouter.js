@@ -1,4 +1,5 @@
 const express = require("express");
+
 const registerController = require("../../controllers/accessibilityControllers/registerController");
 
 const registerRouter = express.Router();

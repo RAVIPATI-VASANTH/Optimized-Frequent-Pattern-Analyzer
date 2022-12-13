@@ -56,8 +56,12 @@ export default class Billing extends Component {
   render() {
     return (
       <>
-        <SearchPanel updateListedItems={this.updateListedItems.bind(this)} />
+        <SearchPanel
+          updateListedItems={this.updateListedItems.bind(this)}
+          currentUser={this.props.currentUser}
+        />
         <ListPanel
+          currentUser={this.props.currentUser}
           listedItems={this.state.listedItems}
           quantityHandler={this.quantityHandler.bind(this)}
           selectHandler={this.selectHandler.bind(this)}

@@ -12,6 +12,7 @@ export default class Body extends Component {
       registerPassword: "",
       registerRePassword: "",
       message: "",
+      currentUser: "",
     };
   }
 
@@ -22,22 +23,30 @@ export default class Body extends Component {
       this.state.userId +
       "&password=" +
       this.state.password;
-    fetch(url, { method: "POST" })
-      .then((res) => res.json())
-      .then((res) => {
-        if (res.loginStatus === true) {
-          this.setState({
-            isLogin: true,
-          });
-          return true;
-        } else {
-          this.setState({
-            isLogin: false,
-          });
-          alert(res.message);
-          return false;
-        }
-      })
+    fetch(url, {
+      method: "POST",
+      body: JSON.stringify({
+        userId: this.state.userId,
+        password: this.state.password,
+      }),
+    })
+      .then((res) =>
+        res.json().then((res) => {
+          if (res.loginStatus) {
+            this.setState({
+              isLogin: true,
+              currentUser: this.state.userId,
+            });
+            return true;
+          } else {
+            this.setState({
+              isLogin: false,
+            });
+            alert(res.message);
+            return false;
+          }
+        })
+      )
       .catch((err) => {
         console.log(err);
       });
@@ -49,33 +58,63 @@ export default class Body extends Component {
       this.state.registerUserId +
       "&password=" +
       this.state.registerPassword;
-    fetch(url, { method: "POST" })
-      .then((res) => res.json())
-      .then((res) => {
-        console.log(res.loginStatus);
-        if (res.loginStatus === true) {
-          this.setState({
-            isLogin: true,
-          });
-          return true;
-        } else {
-          alert("User is already Registered please login.");
-          this.setState({
-            registerUserId: "",
-            registerPassword: "",
-            registerRePassword: "",
-          });
-          return false;
-        }
-      })
+    fetch(url, {
+      method: "POST",
+      body: { userId: this.state.userId, password: this.state.password },
+    })
+      .then((res) =>
+        res.json().then((res) => {
+          if (res.loginStatus === true) {
+            this.setState({
+              isLogin: true,
+              currentUser: this.state.userId,
+            });
+            return true;
+          } else {
+            alert("User is already Registered please login.");
+            this.setState({
+              registerUserId: "",
+              registerPassword: "",
+              registerRePassword: "",
+            });
+            return false;
+          }
+        })
+      )
       .catch((err) => {
         console.log(err);
       });
   }
 
+  logOutAction() {
+    this.setState({
+      isLogin: false,
+      currentUser: "",
+    });
+  }
+
+  // checkSession() {
+  //   fetch("/checkSession")
+  //     .then((res) => res.json())
+  //     .then((res) => {
+  //       if (res.message) this.setState({ isLogin: true });
+  //       else this.setState({ isLogin: false });
+  //     })
+  //     .catch(this.setState({ isLogin: false }));
+  // }
+
+  // componentDidMount() {
+  //   this.checkSession();
+  // }
+
   render() {
     if (this.state.isLogin) {
-      return <HomePage></HomePage>;
+      return (
+        <HomePage
+          currentUser={this.state.currentUser}
+          logOutAction={this.logOutAction.bind(this)}
+        ></HomePage>
+      );
     } else {
       return (
         <>
@@ -84,7 +123,7 @@ export default class Body extends Component {
             <br />
             <label>User ID</label>
             <input
-              type="text"
+              type="email"
               value={this.state.userId}
               onChange={(event) => {
                 this.setState({ userId: event.target.value });
@@ -107,7 +146,7 @@ export default class Body extends Component {
             <br />
             <label>User ID</label>
             <input
-              type="text"
+              type="email"
               value={this.state.registerUserId}
               onChange={(event) => {
                 this.setState({ registerUserId: event.target.value });
