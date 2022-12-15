@@ -10,7 +10,7 @@ export default class CreateCategoryPanel extends Component {
 
   createCollection() {
     if (!this.state.categoryName)
-      alert("Please Fill the input field from to create the collection");
+      alert("Please Fill the input field from to create the category");
     else {
       fetch(
         `/createCategory?categoryName=${this.state.categoryName}&userId=${this.props.currentUser}`,
@@ -21,8 +21,10 @@ export default class CreateCategoryPanel extends Component {
         .then((response) =>
           response.json().then((response) => {
             if (response.message) {
-              alert("Collection Created Succesfully");
-              this.setState({ categoryName: "" });
+              alert("Category Created Succesfully");
+              this.setState({ categoryName: "" }, () =>
+                this.props.updateSelectCategoryElement()
+              );
             } else alert(response.text);
           })
         )
@@ -31,13 +33,13 @@ export default class CreateCategoryPanel extends Component {
           alert("Some thing went Wrong");
         });
     }
-    // this.props.updateSelectCollectionElement();
   }
 
   render() {
     return (
       <div>
         <input
+          value={this.state.categoryName}
           onChange={(event) => {
             this.setState({ categoryName: event.target.value });
           }}
