@@ -2,42 +2,38 @@ const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
 
-const getCategoriesController = (req, res) => {
+const getBrandsController = (req, res) => {
   let promise = new Promise((resolve, reject) => {
     const client = new MongoClient(uri);
 
-    async function getCategories() {
+    async function getBrands() {
       try {
-        let categoryList = [];
         const database = client.db("MBAProjectDatabase");
-        const retailerItems = database.collection("retailerItems");
-        const cursor = await retailerItems.find(
+        const retailerBrands = database.collection("retailerBrands");
+        const cursor = await retailerBrands.findOne(
           {
             userId: req.query.userId.toString(),
           },
-          { categoryName: 1 }
+          { brandsList: 1 }
         );
-        await cursor.forEach((doc) => {
-          categoryList.push(doc.categoryName);
-        });
-        resolve(categoryList);
+        resolve(cursor.brandsList);
         await client.close();
       } finally {
       }
     }
 
-    getCategories().catch(() => {
+    getBrands().catch(() => {
       console.dir;
       reject("Something Went Wrong");
     });
   });
   promise
-    .then((categoryList) => {
-      res.json({ message: true, categoryList: categoryList });
+    .then((brandsList) => {
+      res.json({ message: true, brandsList: brandsList });
     })
     .catch((text) => {
       res.json({ message: false, text: text });
     });
 };
 
-module.exports = getCategoriesController;
+module.exports = getBrandsController;

@@ -7,7 +7,9 @@ const registerRouter = require("./routers/accessibilityRouters/registerRouter");
 const searchItemRouter = require("./routers/taskRouters/searchItemRouter");
 const confirmTransactionRouter = require("./routers/taskRouters/confirmTransactionRouter");
 const createCategoryRouter = require("./routers/taskRouters/createCategoryRouter");
+const createBrandRouter = require("./routers/taskRouters/createBrandRouter");
 const getCategoriesRouter = require("./routers/taskRouters/getCategoriesRouter");
+const getBrandsRouter = require("./routers/taskRouters/getBrandsRouter");
 
 // server.use(
 //   session({
@@ -30,6 +32,8 @@ server.use(registerRouter);
 server.use(searchItemRouter);
 server.use(confirmTransactionRouter);
 server.use(createCategoryRouter);
+server.use(createBrandRouter);
 server.use(getCategoriesRouter);
+server.use(getBrandsRouter);
 
 server.listen(5000);

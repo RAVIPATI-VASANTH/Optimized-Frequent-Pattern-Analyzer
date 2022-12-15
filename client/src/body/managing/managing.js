@@ -14,7 +14,6 @@ export default class Managing extends Component {
     this.setState({
       selectedItem: newItem.data,
     });
-    console.log(newItem.data);
   }
 
   updateSelectCollectionElement() {
