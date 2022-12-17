@@ -41,7 +41,7 @@ export default class CreateBrandpanel extends Component {
         <input
           value={this.state.brandName}
           onChange={(event) => {
-            this.setState({ brandName: event.target.value });
+            this.setState({ brandName: event.target.value.trim() });
           }}
         />
         <button onClick={this.createBrand.bind(this)}>Create Brand</button>
