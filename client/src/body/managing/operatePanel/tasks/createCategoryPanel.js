@@ -41,7 +41,7 @@ export default class CreateCategoryPanel extends Component {
         <input
           value={this.state.categoryName}
           onChange={(event) => {
-            this.setState({ categoryName: event.target.value });
+            this.setState({ categoryName: event.target.value.trim() });
           }}
         />
         <button onClick={this.createCollection.bind(this)}>

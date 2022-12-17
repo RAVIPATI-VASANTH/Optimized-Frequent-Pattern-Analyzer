@@ -1,12 +1,11 @@
 import React, { Component } from "react";
 import PriceItem from "./priceItem";
-
 export default class CreateItemPanel extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      categoryName: "",
-      brandName: "",
+      categoryIndex: 0,
+      brandIndex: 0,
       itemName: "",
       itemBrand: "",
       packType: "",
@@ -22,7 +21,9 @@ export default class CreateItemPanel extends Component {
     fetch(`/getCategories?userId=${this.props.currentUser}`)
       .then((response) => {
         response.json().then((response) => {
-          this.setState({ availableCategoriesList: response.categoryList });
+          this.setState({
+            availableCategoriesList: response.categoryList,
+          });
         });
       })
       .catch(() => alert("something went wrong"));
@@ -32,7 +33,9 @@ export default class CreateItemPanel extends Component {
     fetch(`/getBrands?userId=${this.props.currentUser}`)
       .then((response) => {
         response.json().then((response) => {
-          this.setState({ availableBrandsList: response.brandsList });
+          this.setState({
+            availableBrandsList: response.brandsList,
+          });
         });
       })
       .catch(() => alert("something went wrong"));
@@ -54,62 +57,124 @@ export default class CreateItemPanel extends Component {
   }
 
   addPack() {
-    let obj = {
-      packType: this.state.packType,
-      price: this.state.price,
-      discount: this.state.discount,
-    };
-    let l = this.state.pricesList;
-    var signal = false;
-    for (var i = 0; i < l.length; i++) {
-      if (l[i].packType === obj.packType) {
-        alert("Pack Type is already listed above.");
-        signal = true;
-        break;
+    if (this.state.packType && this.state.price) {
+      let obj = {
+        packType: this.state.packType,
+        price: this.state.price,
+        discount: this.state.discount,
+      };
+      let l = this.state.pricesList;
+      var signal = false;
+      for (var i = 0; i < l.length; i++) {
+        if (l[i].packType === obj.packType) {
+          alert("Pack Type is already listed above.");
+          signal = true;
+          break;
+        }
       }
+      if (!signal) {
+        l.push(obj);
+        this.setState({ pricesList: l, packType: "", price: 0, discount: 0 });
+      }
+    } else {
+      alert("Please Fill the Pack Type Name and Price");
     }
-    if (!signal) {
-      l.push(obj);
-      this.setState({ pricesList: l, packType: "", price: 0, discount: 0 });
+  }
+
+  validate() {
+    if (!this.state.itemName) {
+      alert("Item Name Cannot be Empty");
+      return false;
+    } else if (this.state.pricesList.length === 0) {
+      alert("Please create atleast one Pack Type.");
+      return false;
     }
+    return true;
+  }
+
+  createItem() {
+    if (this.validate()) {
+      let item = {
+        categoryName:
+          this.state.availableCategoriesList[this.state.categoryIndex],
+        itemName: this.state.itemName,
+        itemBrand: this.state.availableBrandsList[this.state.brandIndex],
+        itemPrices: this.state.pricesList,
+      };
+      fetch(
+        `/createItem?userId=${this.props.currentUser}&item=${JSON.stringify(
+          item
+        )}`,
+        { method: "POST" }
+      )
+        .then((response) => {
+          response.json().then((response) => {
+            if (response.message) {
+              this.setState({
+                categoryIndex: 0,
+                brandIndex: 0,
+                itemName: "",
+                itemBrand: "",
+                packType: "",
+                price: 0,
+                discount: 0,
+                pricesList: [],
+              });
+              alert("Item inserted Successfully");
+            } else {
+              alert(response.text);
+            }
+          });
+        })
+        .catch((err) => {
+          console.log(err);
+          alert("Something Went Wrong");
+        });
+    }
+  }
+
+  categorySelectHandler(index) {
+    this.setState({
+      categoryIndex: Number(index),
+    });
+  }
+
+  brandSelectHandler(index) {
+    this.setState({
+      brandIndex: Number(index),
+    });
   }
 
   render() {
     let categorySelect = (
       <>
-        <input
-          type="text"
-          list="Categories"
-          value={this.state.categoryName}
-          onChange={(event) =>
-            this.setState({ categoryName: event.target.value })
-          }
-        />
-        <datalist id="Categories">
+        <select
+          onChange={(event) => {
+            this.categorySelectHandler(event.target.value);
+          }}
+        >
           {this.state.availableCategoriesList.map((category, index) => (
-            <option key={index} value={category}>
+            <option key={index} value={index}>
               {category}
             </option>
           ))}
-        </datalist>
+        </select>
       </>
     );
 
     let brandSelect = (
       <>
-        <input
-          type="text"
-          list="Brands"
-          value={this.state.brandName}
-          onChange={(event) => this.setState({ brandName: event.target.value })}
-        />
-        <datalist id="Brands">
+        <select
+          onChange={(event) => {
+            this.brandSelectHandler(event.target.value);
+          }}
+        >
           {this.state.availableBrandsList.map((brand, index) => (
-            <option key={index} value={brand}>
+            <option key={index} value={index}>
               {brand}
             </option>
           ))}
-        </datalist>
+        </select>
       </>
     );
 
@@ -139,7 +204,9 @@ export default class CreateItemPanel extends Component {
         <input
           type="text"
           value={this.state.itemName}
-          onChange={(event) => this.setState({ itemName: event.target.value })}
+          onChange={(event) =>
+            this.setState({ itemName: event.target.value.trim() })
+          }
         />
         <br />
         {pricesList}
@@ -148,25 +215,31 @@ export default class CreateItemPanel extends Component {
         <input
           type="text"
           value={this.state.packType}
-          onChange={(event) => this.setState({ packType: event.target.value })}
+          onChange={(event) =>
+            this.setState({ packType: event.target.value.trim() })
+          }
         />
         <br />
         <label>Enter Price</label>
         <input
           type="text"
           value={this.state.price}
-          onChange={(event) => this.setState({ price: event.target.value })}
+          onChange={(event) =>
+            this.setState({ price: event.target.value.trim() })
+          }
         />
         <br />
         <label>Enter Discount</label>
         <input
           type="text"
           value={this.state.discount}
-          onChange={(event) => this.setState({ discount: event.target.value })}
+          onChange={(event) =>
+            this.setState({ discount: event.target.value.trim() })
+          }
         />
         <br />
         <button onClick={this.addPack.bind(this)}>Add Pack</button>
-        <button type="submit">Create Item</button>
+        <button onClick={this.createItem.bind(this)}>Create Item</button>
       </div>
     );
   }

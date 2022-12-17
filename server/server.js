@@ -10,6 +10,7 @@ const createCategoryRouter = require("./routers/taskRouters/createCategoryRouter
 const createBrandRouter = require("./routers/taskRouters/createBrandRouter");
 const getCategoriesRouter = require("./routers/taskRouters/getCategoriesRouter");
 const getBrandsRouter = require("./routers/taskRouters/getBrandsRouter");
+const createItemRouter = require("./routers/taskRouters/createItemRouter");
 
 // server.use(
 //   session({
@@ -35,5 +36,6 @@ server.use(createCategoryRouter);
 server.use(createBrandRouter);
 server.use(getCategoriesRouter);
 server.use(getBrandsRouter);
+server.use(createItemRouter);
 
 server.listen(5000);
