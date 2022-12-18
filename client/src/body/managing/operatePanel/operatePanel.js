@@ -9,27 +9,57 @@ export default class OperatePanel extends Component {
     super(props);
     this.state = {
       selectedItem: {},
-      currentAction: true,
       availableCategoriesList: [],
+      availableBrandsList: [],
     };
-    this.createItemPanelRef = React.createRef();
   }
 
   updateSelectCategoryElement() {
-    this.createItemPanelRef.current.getCategories();
+    this.getCategories();
   }
 
   updateSelectBrandElement() {
-    this.createItemPanelRef.current.getBrands();
+    this.getBrands();
+  }
+
+  getCategories() {
+    fetch(`/getCategories?userId=${this.props.currentUser}`)
+      .then((response) => {
+        response.json().then((response) => {
+          this.setState({
+            availableCategoriesList: response.categoryList,
+          });
+        });
+      })
+      .catch(() => alert("something went wrong"));
+  }
+
+  getBrands() {
+    fetch(`/getBrands?userId=${this.props.currentUser}`)
+      .then((response) => {
+        response.json().then((response) => {
+          this.setState({
+            availableBrandsList: response.brandsList,
+          });
+        });
+      })
+      .catch(() => alert("something went wrong"));
+  }
+
+  componentDidMount() {
+    this.getCategories();
+    this.getBrands();
   }
 
   render() {
+    // console.log(this.props.selectedItem);
     let display;
     if (Object.keys(this.props.selectedItem).length === 0) {
       display = (
         <CreateItemPanel
           currentUser={this.props.currentUser}
-          ref={this.createItemPanelRef}
+          availableBrandsList={this.state.availableBrandsList}
+          availableCategoriesList={this.state.availableCategoriesList}
         />
       );
     } else {
@@ -37,6 +67,8 @@ export default class OperatePanel extends Component {
         <UpdateItemPanel
           currentUser={this.props.currentUser}
           selectedItem={this.props.selectedItem}
+          availableBrandsList={this.state.availableBrandsList}
+          availableCategoriesList={this.state.availableCategoriesList}
           updateSelectedItem={this.props.updateSelectedItem}
         />
       );

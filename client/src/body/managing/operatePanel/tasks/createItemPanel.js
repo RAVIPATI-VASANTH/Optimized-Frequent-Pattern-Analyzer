@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import PriceItem from "./priceItem";
+import PriceItem from "./subTasks/priceItem";
 export default class CreateItemPanel extends Component {
   constructor(props) {
     super(props);
@@ -7,43 +7,11 @@ export default class CreateItemPanel extends Component {
       categoryIndex: 0,
       brandIndex: 0,
       itemName: "",
-      itemBrand: "",
       packType: "",
       price: 0,
       discount: 0,
       pricesList: [],
-      availableCategoriesList: [],
-      availableBrandsList: [],
     };
-  }
-
-  getCategories() {
-    fetch(`/getCategories?userId=${this.props.currentUser}`)
-      .then((response) => {
-        response.json().then((response) => {
-          this.setState({
-            availableCategoriesList: response.categoryList,
-          });
-        });
-      })
-      .catch(() => alert("something went wrong"));
-  }
-
-  getBrands() {
-    fetch(`/getBrands?userId=${this.props.currentUser}`)
-      .then((response) => {
-        response.json().then((response) => {
-          this.setState({
-            availableBrandsList: response.brandsList,
-          });
-        });
-      })
-      .catch(() => alert("something went wrong"));
-  }
-
-  componentDidMount() {
-    this.getCategories();
-    this.getBrands();
   }
 
   removePriceItem(data) {
@@ -96,9 +64,9 @@ export default class CreateItemPanel extends Component {
     if (this.validate()) {
       let item = {
         categoryName:
-          this.state.availableCategoriesList[this.state.categoryIndex],
+          this.props.availableCategoriesList[this.state.categoryIndex],
         itemName: this.state.itemName,
-        itemBrand: this.state.availableBrandsList[this.state.brandIndex],
+        itemBrand: this.props.availableBrandsList[this.state.brandIndex],
         itemPrices: this.state.pricesList,
       };
       fetch(
@@ -153,7 +121,7 @@ export default class CreateItemPanel extends Component {
             this.categorySelectHandler(event.target.value);
           }}
         >
-          {this.state.availableCategoriesList.map((category, index) => (
+          {this.props.availableCategoriesList.map((category, index) => (
             <option key={index} value={index}>
               {category}
             </option>
@@ -169,7 +137,7 @@ export default class CreateItemPanel extends Component {
             this.brandSelectHandler(event.target.value);
           }}
         >
-          {this.state.availableBrandsList.map((brand, index) => (
+          {this.props.availableBrandsList.map((brand, index) => (
             <option key={index} value={index}>
               {brand}
             </option>
