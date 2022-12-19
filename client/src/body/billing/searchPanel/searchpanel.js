@@ -10,6 +10,7 @@ export default class SearchPanel extends Component {
   }
 
   searchItems() {
+    console.log("Search panel called");
     fetch(
       `/searchItem?searchItem=${this.state.searchString}&userId=${this.props.currentUser}`,
       {
