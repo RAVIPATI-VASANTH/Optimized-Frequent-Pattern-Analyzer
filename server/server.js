@@ -11,22 +11,8 @@ const createBrandRouter = require("./routers/taskRouters/createBrandRouter");
 const getCategoriesRouter = require("./routers/taskRouters/getCategoriesRouter");
 const getBrandsRouter = require("./routers/taskRouters/getBrandsRouter");
 const createItemRouter = require("./routers/taskRouters/createItemRouter");
-
-// server.use(
-//   session({
-//     name: "server",
-//     resave: false,
-//     saveUninitialized: false,
-//     cookie: {
-//       maxAge: 1000 * 60 * 60,
-//       secure: false,
-//     },
-//     secret: "this is a secret",
-//   })
-// );
-
-// server.use(bodyParser.urlencoded({ extended: false }));
-// server.use(bodyParser.json());
+const deleteItemRouter = require("./routers/taskRouters/deleteItemRouter");
+const updateItemRouter = require("./routers/taskRouters/updateItemRouter");
 
 server.use(loginRouter);
 server.use(registerRouter);
@@ -37,5 +23,7 @@ server.use(createBrandRouter);
 server.use(getCategoriesRouter);
 server.use(getBrandsRouter);
 server.use(createItemRouter);
+server.use(deleteItemRouter);
+server.use(updateItemRouter);
 
 server.listen(5000);

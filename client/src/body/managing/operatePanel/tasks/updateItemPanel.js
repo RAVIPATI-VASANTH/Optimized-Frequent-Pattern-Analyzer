@@ -11,30 +11,20 @@ export default class UpdateItemPanel extends Component {
       packType: "",
       price: 0,
       discount: 0,
-      pricesList: this.props.selectedItem.itemPrices,
+      pricesList: [...this.props.selectedItem.itemPrices],
     };
   }
 
   getCategoryIndex() {
-    for (var i = 0; i < this.props.availableCategoriesList.length; i++) {
-      if (
-        this.props.selectedItem.categoryName ===
-        this.props.availableCategoriesList[i].category
-      ) {
-        return i;
-      }
-    }
+    return this.props.availableCategoriesList.indexOf(
+      this.props.selectedItem.categoryName
+    );
   }
 
   getBrandIndex() {
-    for (var i = 0; i < this.props.availableBrandsList.length; i++) {
-      if (
-        this.props.selectedItem.brandName ===
-        this.props.availableBrandsList[i].brandName
-      ) {
-        return i;
-      }
-    }
+    return this.props.availableBrandsList.indexOf(
+      this.props.selectedItem.itemBrand
+    );
   }
 
   removePriceItem(data) {
@@ -60,7 +50,7 @@ export default class UpdateItemPanel extends Component {
         categoryIndex: this.getCategoryIndex(),
         brandIndex: this.getBrandIndex(),
         itemName: this.props.selectedItem.itemName,
-        pricesList: this.props.selectedItem.itemPrices,
+        pricesList: [...this.props.selectedItem.itemPrices],
       });
     }
   }
@@ -78,7 +68,7 @@ export default class UpdateItemPanel extends Component {
   }
 
   validity() {
-    if (!this.state.itemName) {
+    if (!this.state.itemName.trim()) {
       alert("Item Name Cannot be Empty");
       return false;
     } else if (this.state.pricesList.length === 0) {
@@ -90,12 +80,80 @@ export default class UpdateItemPanel extends Component {
 
   updateItem() {
     if (this.validity()) {
-      console.log(
-        this.props.selectedItem,
-        this.state,
-        this.props.availableBrandsList[this.state.brandIndex],
-        this.props.availableCategoriesList[this.state.categoryIndex]
-      );
+      let item = {
+        categoryName:
+          this.props.availableCategoriesList[this.state.categoryIndex],
+        itemName: this.state.itemName.trim(),
+        itemBrand: this.props.availableBrandsList[this.state.brandIndex],
+        itemPrices: this.state.pricesList,
+      };
+      fetch(
+        `/updateItem?userId=${
+          this.props.currentUser
+        }&updatedItem=${JSON.stringify(item)}&olderItem=${JSON.stringify(
+          this.props.selectedItem
+        )}`,
+        { method: "POST" }
+      )
+        .then((response) =>
+          response.json().then((response) => {
+            if (response.message) {
+              alert("Item Updated Successfully");
+              this.props.updateSearchPanel();
+            } else {
+              alert(response.text);
+            }
+          })
+        )
+        .catch((error) => {
+          console.log(error);
+          alert("Something went wrong");
+        });
+    }
+  }
+
+  deleteItem() {
+    fetch(`/deleteItem?item=${JSON.stringify(this.props.selectedItem)}`, {
+      method: "POST",
+    })
+      .then((response) =>
+        response.json().then((reponse) => {
+          if (reponse.message) {
+            alert("Item Deleted Succefully");
+            this.props.updateSearchPanel();
+          } else {
+            alert(reponse.text);
+          }
+        })
+      )
+      .catch((error) => {
+        console.log(error);
+        alert("Something went wrong");
+      });
+  }
+
+  addPack() {
+    if (this.state.packType.trim() && this.state.price) {
+      let obj = {
+        packType: this.state.packType.trim(),
+        price: Number(this.state.price),
+        discount: Number(this.state.discount),
+      };
+      let l = this.state.pricesList;
+      var signal = false;
+      for (var i = 0; i < l.length; i++) {
+        if (l[i].packType === obj.packType) {
+          alert("Pack Type is already listed above.");
+          signal = true;
+          break;
+        }
+      }
+      if (!signal) {
+        l.push(obj);
+        this.setState({ pricesList: l, packType: "", price: 0, discount: 0 });
+      }
+    } else {
+      alert("Please Fill the Pack Type Name and Price");
     }
   }
 
@@ -184,16 +242,38 @@ export default class UpdateItemPanel extends Component {
         <input
           type="text"
           value={this.state.itemName}
-          onChange={(event) =>
-            this.setState({ itemName: event.target.value.trim() })
-          }
+          onChange={(event) => this.setState({ itemName: event.target.value })}
         />
         <br />
         {pricesList}
+        <br />
+        <label>Enter Pack Type Name</label>
+        <input
+          type="text"
+          value={this.state.packType}
+          onChange={(event) => this.setState({ packType: event.target.value })}
+        />
+        <br />
+        <label>Enter Price</label>
+        <input
+          type="text"
+          value={this.state.price}
+          onChange={(event) => this.setState({ price: event.target.value })}
+        />
+        <br />
+        <label>Enter Discount</label>
+        <input
+          type="text"
+          value={this.state.discount}
+          onChange={(event) => this.setState({ discount: event.target.value })}
+        />
+        <br />
+        <button onClick={this.addPack.bind(this)}>Add Pack</button>
         <button onClick={() => this.props.updateSelectedItem({ data: {} })}>
           Cancel
         </button>
         <button onClick={this.updateItem.bind(this)}>Update Item</button>
+        <button onClick={this.deleteItem.bind(this)}>Delete Item</button>
       </>
     );
   }

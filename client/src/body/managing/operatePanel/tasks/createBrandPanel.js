@@ -9,11 +9,13 @@ export default class CreateBrandpanel extends Component {
   }
 
   createBrand() {
-    if (!this.state.brandName)
+    if (!this.state.brandName.trim())
       alert("Please Fill the input field from to create the brand");
     else {
       fetch(
-        `/createBrand?brandName=${this.state.brandName}&userId=${this.props.currentUser}`,
+        `/createBrand?brandName=${this.state.brandName.trim()}&userId=${
+          this.props.currentUser
+        }`,
         {
           method: "POST",
         }
@@ -22,9 +24,7 @@ export default class CreateBrandpanel extends Component {
           response.json().then((response) => {
             if (response.message) {
               alert("Brand Created Succesfully");
-              this.setState({ brandName: "" }, () =>
-                this.props.updateSelectBrandElement()
-              );
+              this.setState({ brandName: "" });
             } else alert(response.text);
           })
         )

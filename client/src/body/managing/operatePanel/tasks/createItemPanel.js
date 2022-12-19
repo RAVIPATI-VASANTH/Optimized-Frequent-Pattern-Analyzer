@@ -25,11 +25,11 @@ export default class CreateItemPanel extends Component {
   }
 
   addPack() {
-    if (this.state.packType && this.state.price) {
+    if (this.state.packType.trim() && this.state.price) {
       let obj = {
-        packType: this.state.packType,
-        price: this.state.price,
-        discount: this.state.discount,
+        packType: this.state.packType.trim(),
+        price: Number(this.state.price),
+        discount: Number(this.state.discount),
       };
       let l = this.state.pricesList;
       var signal = false;
@@ -50,7 +50,7 @@ export default class CreateItemPanel extends Component {
   }
 
   validate() {
-    if (!this.state.itemName) {
+    if (!this.state.itemName.trim()) {
       alert("Item Name Cannot be Empty");
       return false;
     } else if (this.state.pricesList.length === 0) {
@@ -89,6 +89,7 @@ export default class CreateItemPanel extends Component {
                 pricesList: [],
               });
               alert("Item inserted Successfully");
+              this.props.updateSearchPanel();
             } else {
               alert(response.text);
             }
@@ -172,9 +173,7 @@ export default class CreateItemPanel extends Component {
         <input
           type="text"
           value={this.state.itemName}
-          onChange={(event) =>
-            this.setState({ itemName: event.target.value.trim() })
-          }
+          onChange={(event) => this.setState({ itemName: event.target.value })}
         />
         <br />
         {pricesList}
@@ -183,27 +182,21 @@ export default class CreateItemPanel extends Component {
         <input
           type="text"
           value={this.state.packType}
-          onChange={(event) =>
-            this.setState({ packType: event.target.value.trim() })
-          }
+          onChange={(event) => this.setState({ packType: event.target.value })}
         />
         <br />
         <label>Enter Price</label>
         <input
           type="text"
           value={this.state.price}
-          onChange={(event) =>
-            this.setState({ price: event.target.value.trim() })
-          }
+          onChange={(event) => this.setState({ price: event.target.value })}
         />
         <br />
         <label>Enter Discount</label>
         <input
           type="text"
           value={this.state.discount}
-          onChange={(event) =>
-            this.setState({ discount: event.target.value.trim() })
-          }
+          onChange={(event) => this.setState({ discount: event.target.value })}
         />
         <br />
         <button onClick={this.addPack.bind(this)}>Add Pack</button>

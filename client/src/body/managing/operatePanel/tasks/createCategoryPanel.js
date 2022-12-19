@@ -9,11 +9,13 @@ export default class CreateCategoryPanel extends Component {
   }
 
   createCollection() {
-    if (!this.state.categoryName)
+    if (!this.state.categoryName.trim())
       alert("Please Fill the input field from to create the category");
     else {
       fetch(
-        `/createCategory?categoryName=${this.state.categoryName}&userId=${this.props.currentUser}`,
+        `/createCategory?categoryName=${this.state.categoryName.trim()}&userId=${
+          this.props.currentUser
+        }`,
         {
           method: "POST",
         }
@@ -22,9 +24,7 @@ export default class CreateCategoryPanel extends Component {
           response.json().then((response) => {
             if (response.message) {
               alert("Category Created Succesfully");
-              this.setState({ categoryName: "" }, () =>
-                this.props.updateSelectCategoryElement()
-              );
+              this.setState({ categoryName: "" });
             } else alert(response.text);
           })
         )

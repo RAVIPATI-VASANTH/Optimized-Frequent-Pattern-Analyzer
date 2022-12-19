@@ -8,6 +8,7 @@ export default class Managing extends Component {
     this.state = {
       selectedItem: {},
     };
+    this.searchPanelRef = React.createRef();
   }
 
   updateSelectedItem(newItem) {
@@ -16,8 +17,9 @@ export default class Managing extends Component {
     });
   }
 
-  updateSelectCollectionElement() {
-    console.log("request for update the select the collection name");
+  updateSearchPanel() {
+    console.log("request for update search Panel");
+    this.searchPanelRef.current.searchItems();
   }
 
   render() {
@@ -26,14 +28,13 @@ export default class Managing extends Component {
         <SearchPanel
           updateListedItems={this.updateSelectedItem.bind(this)}
           currentUser={this.props.currentUser}
+          ref={this.searchPanelRef}
         />
         <OperatePanel
           updateSelectedItem={this.updateSelectedItem.bind(this)}
           currentUser={this.props.currentUser}
           selectedItem={this.state.selectedItem}
-          // updateSelectCollectionElement={this.updateSelectCollectionElement.bind(
-          //   this
-          // )}
+          updateSearchPanel={this.updateSearchPanel.bind(this)}
         />
       </>
     );

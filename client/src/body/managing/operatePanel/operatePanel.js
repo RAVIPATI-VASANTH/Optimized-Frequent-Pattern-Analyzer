@@ -52,7 +52,6 @@ export default class OperatePanel extends Component {
   }
 
   render() {
-    // console.log(this.props.selectedItem);
     let display;
     if (Object.keys(this.props.selectedItem).length === 0) {
       display = (
@@ -60,6 +59,7 @@ export default class OperatePanel extends Component {
           currentUser={this.props.currentUser}
           availableBrandsList={this.state.availableBrandsList}
           availableCategoriesList={this.state.availableCategoriesList}
+          updateSearchPanel={this.props.updateSearchPanel}
         />
       );
     } else {
@@ -70,21 +70,14 @@ export default class OperatePanel extends Component {
           availableBrandsList={this.state.availableBrandsList}
           availableCategoriesList={this.state.availableCategoriesList}
           updateSelectedItem={this.props.updateSelectedItem}
+          updateSearchPanel={this.props.updateSearchPanel}
         />
       );
     }
     return (
       <>
-        <CreateCategoryPanel
-          currentUser={this.props.currentUser}
-          updateSelectCategoryElement={this.updateSelectCategoryElement.bind(
-            this
-          )}
-        />
-        <CreateBrandpanel
-          currentUser={this.props.currentUser}
-          updateSelectBrandElement={this.updateSelectBrandElement.bind(this)}
-        />
+        <CreateCategoryPanel currentUser={this.props.currentUser} />
+        <CreateBrandpanel currentUser={this.props.currentUser} />
         {display}
       </>
     );
