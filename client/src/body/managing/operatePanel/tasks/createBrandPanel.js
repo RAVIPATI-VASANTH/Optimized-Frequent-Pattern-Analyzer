@@ -25,6 +25,7 @@ export default class CreateBrandpanel extends Component {
             if (response.message) {
               alert("Brand Created Succesfully");
               this.setState({ brandName: "" });
+              this.props.updatebrandsList();
             } else alert(response.text);
           })
         )
