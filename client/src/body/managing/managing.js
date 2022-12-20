@@ -18,7 +18,6 @@ export default class Managing extends Component {
   }
 
   updateSearchPanel() {
-    console.log("request for update search Panel");
     this.searchPanelRef.current.searchItems();
   }
 

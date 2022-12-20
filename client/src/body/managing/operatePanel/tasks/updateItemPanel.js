@@ -90,7 +90,7 @@ export default class UpdateItemPanel extends Component {
       fetch(
         `/updateItem?userId=${
           this.props.currentUser
-        }&updatedItem=${JSON.stringify(item)}&olderItem=${JSON.stringify(
+        }&updatedItem=${JSON.stringify(item)}&prevItem=${JSON.stringify(
           this.props.selectedItem
         )}`,
         { method: "POST" }
@@ -100,6 +100,7 @@ export default class UpdateItemPanel extends Component {
             if (response.message) {
               alert("Item Updated Successfully");
               this.props.updateSearchPanel();
+              this.props.updateSelectedItem({ data: {} });
             } else {
               alert(response.text);
             }

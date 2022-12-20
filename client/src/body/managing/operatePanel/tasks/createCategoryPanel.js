@@ -25,6 +25,7 @@ export default class CreateCategoryPanel extends Component {
             if (response.message) {
               alert("Category Created Succesfully");
               this.setState({ categoryName: "" });
+              this.props.updateCategoriesList();
             } else alert(response.text);
           })
         )
