@@ -13,6 +13,7 @@ const getBrandsRouter = require("./routers/taskRouters/getBrandsRouter");
 const createItemRouter = require("./routers/taskRouters/createItemRouter");
 const deleteItemRouter = require("./routers/taskRouters/deleteItemRouter");
 const updateItemRouter = require("./routers/taskRouters/updateItemRouter");
+const getFPARequestsRouter = require("./routers/taskRouters/getFPARequestsRouter");
 
 server.use(loginRouter);
 server.use(registerRouter);
@@ -25,5 +26,6 @@ server.use(getBrandsRouter);
 server.use(createItemRouter);
 server.use(deleteItemRouter);
 server.use(updateItemRouter);
+server.use(getFPARequestsRouter);
 
 server.listen(5000);
