@@ -4,6 +4,6 @@ const searchItemController = require("../../controllers/taskControllers/searchIt
 
 const searchItemRouter = express.Router();
 
-searchItemRouter.get("/searchItem", searchItemController);
+searchItemRouter.post("/searchItem", searchItemController);
 
 module.exports = searchItemRouter;

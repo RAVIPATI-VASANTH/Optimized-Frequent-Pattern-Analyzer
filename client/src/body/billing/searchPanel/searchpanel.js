@@ -13,7 +13,7 @@ export default class SearchPanel extends Component {
     fetch(
       `/searchItem?searchItem=${this.state.searchString}&userId=${this.props.currentUser}`,
       {
-        method: "GET",
+        method: "POST",
       }
     )
       .then((response) =>
