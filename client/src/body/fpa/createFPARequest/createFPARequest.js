@@ -8,7 +8,40 @@ export default class CreateFPARequest extends Component {
       itemsList: [],
       brandsList: [],
       categoriesList: [],
+      selectedList: { categories: [], brands: [], items: [] },
+      activeItem: "",
     };
+  }
+
+  addItem(index) {
+    let l = this.state.selectedList.items;
+    let signal = true;
+    for (var i = 0; i < l.length; i++) {
+      if (l[i].itemName === this.state.itemsList[index].itemName) {
+        signal = false;
+        break;
+      }
+    }
+    if (signal) {
+      l.push(this.state.itemsList[index]);
+      let obj = {
+        categories: this.state.selectedList.categories,
+        brands: this.state.selectedList.brands,
+        items: l,
+      };
+      this.setState({ selectedList: obj });
+    }
+  }
+
+  removeItem(index) {
+    let l = this.state.selectedList.items;
+    l.splice(index, 1);
+    let obj = {
+      categories: this.state.selectedList.categories,
+      brands: this.state.selectedList.brands,
+      items: l,
+    };
+    this.setState({ selectedList: obj });
   }
 
   searchItems(searchString) {
@@ -21,11 +54,20 @@ export default class CreateFPARequest extends Component {
       .then((response) =>
         response.json().then((response) => {
           if (response.responseStatus) {
-            // console.log(response.listObjects);
             this.setState({ itemsList: response.listObjects }, () => {
               let l = [];
+              let style = { cursor: "pointer" };
               this.state.itemsList.forEach((item, index) => {
-                l.push(<div>{item.itemName}</div>);
+                l.push(
+                  <div
+                    style={style}
+                    onClick={() => {
+                      this.addItem(index);
+                    }}
+                  >
+                    {item.itemName}
+                  </div>
+                );
               });
               this.setState({ displayList: l });
             });
@@ -104,6 +146,34 @@ export default class CreateFPARequest extends Component {
   }
 
   render() {
+    let activePanel;
+    if (this.state.activeItem) {
+    } else {
+      activePanel = this.state.displayList.map((item) => item);
+    }
+
+    let selectedItemsElements = [];
+    for (const [key, value] of Object.entries(this.state.selectedList)) {
+      value.forEach((element, index) => {
+        if (key === "items") {
+          selectedItemsElements.push(
+            <>
+              <p>
+                {key}:{element.itemName}
+              </p>
+              <button
+                onClick={() => {
+                  this.removeItem(index);
+                }}
+              >
+                Remove
+              </button>
+            </>
+          );
+        }
+      });
+    }
+
     return (
       <>
         <label>Category</label>
@@ -127,8 +197,12 @@ export default class CreateFPARequest extends Component {
           }}
         />
         <br />
-        {this.state.displayList.map((item) => item)}
-        <div>Selected Items</div>
+
+        <div>
+          {activePanel}
+          <p>Selected Items</p>
+          {selectedItemsElements.map((element) => element)}
+        </div>
       </>
     );
   }
