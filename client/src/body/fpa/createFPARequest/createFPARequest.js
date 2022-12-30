@@ -9,7 +9,8 @@ export default class CreateFPARequest extends Component {
       brandsList: [],
       categoriesList: [],
       selectedList: { categories: [], brands: [], items: [] },
-      activeItem: "",
+      activeType: { category: false, brand: false },
+      activeComponentItemsList: [],
     };
   }
 
@@ -33,6 +34,96 @@ export default class CreateFPARequest extends Component {
     }
   }
 
+  addBrandItem(index) {
+    let l = this.state.selectedList.items;
+    let signal = true;
+    for (var i = 0; i < l.length; i++) {
+      if (
+        l[i].itemName === this.state.activeComponentItemsList[index].itemName
+      ) {
+        signal = false;
+        break;
+      }
+    }
+    if (signal) {
+      l.push(this.state.activeComponentItemsList[index]);
+      let obj = {
+        categories: this.state.selectedList.categories,
+        brands: this.state.selectedList.brands,
+        items: l,
+      };
+      this.setState({ selectedList: obj });
+    }
+  }
+
+  addCategoryItem(index) {
+    let l = this.state.selectedList.items;
+    let signal = true;
+    for (var i = 0; i < l.length; i++) {
+      if (
+        l[i].itemName === this.state.activeComponentItemsList[index].itemName
+      ) {
+        signal = false;
+        break;
+      }
+    }
+    if (signal) {
+      l.push(this.state.activeComponentItemsList[index]);
+      let obj = {
+        categories: this.state.selectedList.categories,
+        brands: this.state.selectedList.brands,
+        items: l,
+      };
+      this.setState({ selectedList: obj });
+    }
+  }
+
+  addBrand() {
+    let signal = true;
+    for (var i = 0; i < this.state.selectedList.brands.length; i++) {
+      if (this.state.activeType.name === this.state.selectedList.brands[i]) {
+        signal = false;
+        break;
+      }
+    }
+    if (signal) {
+      let l = this.state.selectedList.brands;
+      l.push(this.state.activeType.name);
+      let obj = {
+        categories: this.state.selectedList.categories,
+        brands: l,
+        items: this.state.selectedList.items,
+      };
+      this.setState({
+        selectedList: obj,
+      });
+    }
+  }
+
+  addCategory() {
+    let signal = true;
+    for (var i = 0; i < this.state.selectedList.categories.length; i++) {
+      if (
+        this.state.activeType.name === this.state.selectedList.categories[i]
+      ) {
+        signal = false;
+        break;
+      }
+    }
+    if (signal) {
+      let l = this.state.selectedList.categories;
+      l.push(this.state.activeType.name);
+      let obj = {
+        categories: l,
+        brands: this.state.selectedList.brands,
+        items: this.state.selectedList.items,
+      };
+      this.setState({
+        selectedList: obj,
+      });
+    }
+  }
+
   removeItem(index) {
     let l = this.state.selectedList.items;
     l.splice(index, 1);
@@ -40,6 +131,28 @@ export default class CreateFPARequest extends Component {
       categories: this.state.selectedList.categories,
       brands: this.state.selectedList.brands,
       items: l,
+    };
+    this.setState({ selectedList: obj });
+  }
+
+  removeBrand(index) {
+    let l = this.state.selectedList.brands;
+    l.splice(index, 1);
+    let obj = {
+      categories: this.state.selectedList.categories,
+      brands: l,
+      items: this.state.selectedList.items,
+    };
+    this.setState({ selectedList: obj });
+  }
+
+  removeCategory(index) {
+    let l = this.state.selectedList.categories;
+    l.splice(index, 1);
+    let obj = {
+      categories: l,
+      brands: this.state.selectedList.brands,
+      items: this.state.selectedList.items,
     };
     this.setState({ selectedList: obj });
   }
@@ -81,6 +194,40 @@ export default class CreateFPARequest extends Component {
       });
   }
 
+  selectBrand(index) {
+    this.setState(
+      {
+        activeType: {
+          category: false,
+          brand: false,
+          name: this.state.brandsList[index],
+        },
+      },
+      () => {
+        fetch(
+          `/getBrandItems?userId=${this.props.currentUser}&brandName=${this.state.activeType.name}`,
+          { method: "POST" }
+        )
+          .then((response) =>
+            response.json().then((response) => {
+              this.setState({
+                activeType: {
+                  category: false,
+                  brand: true,
+                  name: this.state.brandsList[index],
+                },
+                activeComponentItemsList: response.brandItemsList,
+              });
+            })
+          )
+          .catch((err) => {
+            console.log(err);
+            alert("Something Went Wrong");
+          });
+      }
+    );
+  }
+
   searchBrands(searchString) {
     fetch(
       `/searchBrands?searchBrand=${searchString}&userId=${this.props.currentUser}`,
@@ -97,8 +244,18 @@ export default class CreateFPARequest extends Component {
               },
               () => {
                 let l = [];
+                let style = { cursor: "pointer" };
                 this.state.brandsList.forEach((brand, index) => {
-                  l.push(<div>{brand}</div>);
+                  l.push(
+                    <div
+                      style={style}
+                      onClick={() => {
+                        this.selectBrand(index);
+                      }}
+                    >
+                      {brand}
+                    </div>
+                  );
                 });
                 this.setState({ displayList: l });
               }
@@ -111,6 +268,40 @@ export default class CreateFPARequest extends Component {
       .catch((err) => {
         console.log(err);
       });
+  }
+
+  selectCategory(index) {
+    this.setState(
+      {
+        activeType: {
+          category: false,
+          brand: false,
+          name: this.state.categoriesList[index],
+        },
+      },
+      () => {
+        fetch(
+          `/getCategoryItems?userId=${this.props.currentUser}&categoryName=${this.state.activeType.name}`,
+          { method: "POST" }
+        )
+          .then((response) =>
+            response.json().then((response) => {
+              this.setState({
+                activeType: {
+                  category: true,
+                  brand: false,
+                  name: this.state.categoriesList[index],
+                },
+                activeComponentItemsList: response.categoryItemsList,
+              });
+            })
+          )
+          .catch((err) => {
+            console.log(err);
+            alert("Something Went Wrong");
+          });
+      }
+    );
   }
 
   searchCategories(searchString) {
@@ -128,9 +319,19 @@ export default class CreateFPARequest extends Component {
                 categoriesList: response.categoryObjects,
               },
               () => {
+                let style = { cursor: "pointer" };
                 let l = [];
                 this.state.categoriesList.forEach((category, index) => {
-                  l.push(<div>{category}</div>);
+                  l.push(
+                    <div
+                      style={style}
+                      onClick={() => {
+                        this.selectCategory(index);
+                      }}
+                    >
+                      {category}
+                    </div>
+                  );
                 });
                 this.setState({ displayList: l });
               }
@@ -145,9 +346,57 @@ export default class CreateFPARequest extends Component {
       });
   }
 
+  cancelActiveType() {
+    this.setState({
+      activeType: { category: false, brand: false, name: "" },
+      activeComponentItemsList: [],
+    });
+  }
+
   render() {
+    let style = { cursor: "pointer" };
     let activePanel;
-    if (this.state.activeItem) {
+    if (this.state.activeType.category || this.state.activeType.brand) {
+      if (this.state.activeType.category) {
+        activePanel = (
+          <>
+            {this.state.activeType.name}
+            <button onClick={() => this.cancelActiveType()}>Cancel</button>
+            <button onClick={() => this.addCategory()}>
+              Add Complete Category
+            </button>
+            {this.state.activeComponentItemsList.map((item, index) => (
+              <div
+                style={style}
+                onClick={() => {
+                  this.addCategoryItem(index);
+                }}
+              >
+                {item.itemName}
+              </div>
+            ))}
+          </>
+        );
+      }
+      if (this.state.activeType.brand) {
+        activePanel = (
+          <>
+            {this.state.activeType.name}
+            <button onClick={() => this.cancelActiveType()}>Cancel</button>
+            <button onClick={() => this.addBrand()}>Add Complete Brand</button>
+            {this.state.activeComponentItemsList.map((item, index) => (
+              <div
+                style={style}
+                onClick={() => {
+                  this.addBrandItem(index);
+                }}
+              >
+                {item.itemName}
+              </div>
+            ))}
+          </>
+        );
+      }
     } else {
       activePanel = this.state.displayList.map((item) => item);
     }
@@ -164,6 +413,36 @@ export default class CreateFPARequest extends Component {
               <button
                 onClick={() => {
                   this.removeItem(index);
+                }}
+              >
+                Remove
+              </button>
+            </>
+          );
+        } else if (key === "brands") {
+          selectedItemsElements.push(
+            <>
+              <p>
+                {key}:{element}
+              </p>
+              <button
+                onClick={() => {
+                  this.removeBrand(index);
+                }}
+              >
+                Remove
+              </button>
+            </>
+          );
+        } else {
+          selectedItemsElements.push(
+            <>
+              <p>
+                {key}:{element}
+              </p>
+              <button
+                onClick={() => {
+                  this.removeCategory(index);
                 }}
               >
                 Remove
@@ -197,7 +476,8 @@ export default class CreateFPARequest extends Component {
           }}
         />
         <br />
-
+        <label>Time Line</label>
+        <input type="date" />
         <div>
           {activePanel}
           <p>Selected Items</p>
