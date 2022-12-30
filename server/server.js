@@ -15,6 +15,7 @@ const deleteItemRouter = require("./routers/taskRouters/deleteItemRouter");
 const updateItemRouter = require("./routers/taskRouters/updateItemRouter");
 const getFPARequestsRouter = require("./routers/taskRouters/getFPARequestsRouter");
 const searchBrandRouter = require("./routers/taskRouters/searchBrandRouter");
+const searchCategories = require("./routers/taskRouters/searchCategoryRouter");
 
 server.use(loginRouter);
 server.use(registerRouter);
@@ -29,5 +30,6 @@ server.use(deleteItemRouter);
 server.use(updateItemRouter);
 server.use(getFPARequestsRouter);
 server.use(searchBrandRouter);
+server.use(searchCategories);
 
 server.listen(5000);
