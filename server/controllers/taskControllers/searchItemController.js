@@ -30,13 +30,16 @@ const searchItemController = (req, res) => {
           });
           resolve(listObjects);
         } else {
-          reject();
+          resolve([]);
         }
       } finally {
         client.close();
       }
     }
-    searchItem().catch(console.dir);
+    searchItem().catch(() => {
+      console.dir;
+      reject();
+    });
   });
 
   promise

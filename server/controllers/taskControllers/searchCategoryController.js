@@ -2,30 +2,30 @@ const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
 
-const searchBrandController = (req, res) => {
+const searchCategoryController = (req, res) => {
+  6;
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
 
     async function searchBrand() {
       try {
-        let q = req.query.searchBrand;
+        let q = req.query.searchCategory;
         if (q.length !== 0) {
           const database = client.db("MBAProjectDatabase");
-          const retailerBrands = database.collection("retailerBrands");
-          let brandObjects = [];
-          const cursor = await retailerBrands.findOne(
+          const retailerItems = database.collection("retailerItems");
+          let categoryObjects = [];
+          const cursor = await retailerItems.find(
             {
               userId: req.query.userId,
+              categoryName: { $regex: `${req.query.searchCategory}` },
             },
-            { brandsList: 1 }
+            { categoryName: 1 }
           );
-          cursor.brandsList.forEach((brand) => {
-            if (brand.indexOf(q) != -1) {
-              brandObjects.push(brand);
-            }
+          await cursor.forEach((doc) => {
+            categoryObjects.push(doc.categoryName);
           });
 
-          resolve(brandObjects);
+          resolve(categoryObjects);
         } else {
           resolve([]);
         }
@@ -37,12 +37,12 @@ const searchBrandController = (req, res) => {
   });
 
   promise
-    .then((brandObjects) => {
-      res.json({ responseStatus: true, brandObjects: brandObjects });
+    .then((categoryObjects) => {
+      res.json({ responseStatus: true, categoryObjects: categoryObjects });
     })
     .catch(() => {
       res.json({ responseStatus: false });
     });
 };
 
-module.exports = searchBrandController;
+module.exports = searchCategoryController;

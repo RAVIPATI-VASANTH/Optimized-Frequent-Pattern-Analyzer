@@ -71,7 +71,37 @@ export default class CreateFPARequest extends Component {
       });
   }
 
-  searchCategories(searchString) {}
+  searchCategories(searchString) {
+    fetch(
+      `/searchCategories?searchCategory=${searchString}&userId=${this.props.currentUser}`,
+      {
+        method: "POST",
+      }
+    )
+      .then((response) =>
+        response.json().then((response) => {
+          if (response.responseStatus) {
+            this.setState(
+              {
+                categoriesList: response.categoryObjects,
+              },
+              () => {
+                let l = [];
+                this.state.categoriesList.forEach((category, index) => {
+                  l.push(<div>{category}</div>);
+                });
+                this.setState({ displayList: l });
+              }
+            );
+          } else {
+            alert(response.text);
+          }
+        })
+      )
+      .catch((err) => {
+        console.log(err);
+      });
+  }
 
   render() {
     return (
