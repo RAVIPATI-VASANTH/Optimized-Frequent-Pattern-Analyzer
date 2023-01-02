@@ -6,6 +6,7 @@ export default class FPA extends Component {
     super(props);
     this.state = {
       createPanelSignal: true,
+      fpaRequests:[]
     };
   }
 
@@ -16,13 +17,41 @@ export default class FPA extends Component {
       .then((response) =>
         response.json().then((response) => {
           if (response.message) {
-            // console.log("fetched Successfully");
+            this.setState({
+              fpaRequests:response.fpaRequests
+            })
           } else {
-            // console.log(response.text);
+            alert(response.text);
           }
         })
       )
       .catch((err) => console.log(err));
+  }
+
+  componentDidUpdate(previousProps, previousState){
+    if(previousState.createPanelSignal!==this.state.createPanelSignal){
+      fetch(`/getFPARequests?userId=${this.props.currentUser}`, {
+        method: "POST",
+      })
+        .then((response) =>
+          response.json().then((response) => {
+            if (response.message) {
+              this.setState({
+                fpaRequests:response.fpaRequests
+              })
+            } else {
+              alert(response.text);
+            }
+          })
+        )
+        .catch((err) => console.log(err));
+    }
+  }
+
+  requestConfirmed(){
+    this.setState({
+    createPanelSignal:!this.state.createPanelSignal
+    });
   }
 
   render() {
@@ -41,7 +70,15 @@ export default class FPA extends Component {
           Create Request
         </button>
       );
-      viewComponent = <>No current FPA Requests</>;
+      if(!this.state.fpaRequests.length){
+        viewComponent = <>No current FPA Requests</>;
+      }else{
+        viewComponent=<>
+          {
+            this.state.fpaRequests.map((request,index)=>(<div index={index}>{request.requestName} {request.status}</div>))
+          }
+        </>
+      }
     } else {
       createButton = (
         <button
@@ -56,6 +93,7 @@ export default class FPA extends Component {
       );
       viewComponent = (
         <CreateFPARequest
+          requestConfirmed={this.requestConfirmed.bind(this)}
           currentUser={this.props.currentUser}
         ></CreateFPARequest>
       );
