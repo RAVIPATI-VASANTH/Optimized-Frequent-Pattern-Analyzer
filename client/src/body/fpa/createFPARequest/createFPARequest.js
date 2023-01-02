@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import ConfirmRequest from "./confirmRequest.js"
 
 export default class CreateFPARequest extends Component {
   constructor(props) {
@@ -482,6 +483,7 @@ export default class CreateFPARequest extends Component {
           {activePanel}
           <p>Selected Items</p>
           {selectedItemsElements.map((element) => element)}
+          <ConfirmRequest selectedList={this.state.selectedList}/>
         </div>
       </>
     );
