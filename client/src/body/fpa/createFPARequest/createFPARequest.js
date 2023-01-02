@@ -97,6 +97,8 @@ export default class CreateFPARequest extends Component {
       };
       this.setState({
         selectedList: obj,
+        activeType:{ category: false, brand: false },
+        activeComponentItemsList:[]
       });
     }
   }
@@ -121,6 +123,8 @@ export default class CreateFPARequest extends Component {
       };
       this.setState({
         selectedList: obj,
+        activeType:{ category: false, brand: false },
+        activeComponentItemsList:[]
       });
     }
   }
@@ -354,6 +358,7 @@ export default class CreateFPARequest extends Component {
     });
   }
 
+
   render() {
     let style = { cursor: "pointer" };
     let activePanel;
@@ -483,7 +488,7 @@ export default class CreateFPARequest extends Component {
           {activePanel}
           <p>Selected Items</p>
           {selectedItemsElements.map((element) => element)}
-          <ConfirmRequest selectedList={this.state.selectedList}/>
+          <ConfirmRequest selectedList={this.state.selectedList} currentUser={this.props.currentUser} requestConfirmed={this.props.requestConfirmed}/>
         </div>
       </>
     );
