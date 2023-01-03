@@ -5,7 +5,7 @@ export default class FPA extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      createPanelSignal: true,
+      createPanelSignal: false,
       fpaRequests:[]
     };
   }
@@ -54,10 +54,30 @@ export default class FPA extends Component {
     });
   }
 
+  cancelFPARequest(index){
+    fetch(`/cancelFPARequest?userId=${this.props.currentUser}&requestName=${this.state.fpaRequests[index].requestName}`,{
+      method:"POST"
+    }).then(response=>response.json().then(response=>{
+      if(response.message){
+        alert("Request canceled Succesfully");
+        let l=this.state.fpaRequests;
+        l.splice(index,1);
+        this.setState({
+          fpaRequests:l
+        })
+      }else{
+        alert(response.text);
+        console.log(response.text)
+      }
+    })).catch((err)=>{
+      console.log(err);
+      alert("something went wrong");
+    })
+  }
+
   render() {
     let createButton;
     let viewComponent;
-    console.log();
     if (!this.state.createPanelSignal) {
       createButton = (
         <button
@@ -75,7 +95,7 @@ export default class FPA extends Component {
       }else{
         viewComponent=<>
           {
-            this.state.fpaRequests.map((request,index)=>(<div index={index}>{request.requestName} {request.status}</div>))
+            this.state.fpaRequests.map((request,index)=>(<div key={index}>{request.requestName} {request.status}<button onClick={()=>this.cancelFPARequest(index)}>Cancel Request</button></div>))
           }
         </>
       }
