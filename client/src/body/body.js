@@ -17,18 +17,8 @@ export default class Body extends Component {
   }
 
   login() {
-    let url =
-      "\\login?" +
-      "userId=" +
-      this.state.userId +
-      "&password=" +
-      this.state.password;
-    fetch(url, {
+    fetch(`/login?userId=${this.state.userId}&password=${this.state.password}`, {
       method: "POST",
-      body: JSON.stringify({
-        userId: this.state.userId,
-        password: this.state.password,
-      }),
     })
       .then((res) =>
         res.json().then((res) => {
@@ -53,14 +43,8 @@ export default class Body extends Component {
   }
 
   register() {
-    let url =
-      "\\register?userId=" +
-      this.state.registerUserId +
-      "&password=" +
-      this.state.registerPassword;
-    fetch(url, {
+    fetch(`/register?userId=${this.state.registerUserId}&password=${this.state.registerPassword}`, {
       method: "POST",
-      body: { userId: this.state.userId, password: this.state.password },
     })
       .then((res) =>
         res.json().then((res) => {

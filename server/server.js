@@ -17,7 +17,8 @@ const searchBrandRouter = require("./routers/taskRouters/searchBrandRouter");
 const searchCategoriesRouter = require("./routers/taskRouters/searchCategoryRouter");
 const getCategoryItemsRouter = require("./routers/taskRouters/getCategoryItemsRouter");
 const getBrandItemsRouter = require("./routers/taskRouters/getBrandItemsRouter");
-const confirmRequestRouter=require("./routers/taskRouters/confirmRequestRouter")
+const confirmRequestRouter=require("./routers/taskRouters/confirmRequestRouter");
+const cancelFPARequestRouter=require("./routers/taskRouters/cancelFPARequestRouter");
 
 server.use(loginRouter);
 server.use(registerRouter);
@@ -36,5 +37,6 @@ server.use(searchCategoriesRouter);
 server.use(getCategoryItemsRouter);
 server.use(getBrandItemsRouter);
 server.use(confirmRequestRouter);
+server.use(cancelFPARequestRouter);
 
-server.listen(5000);
+server.listen(5000,console.log("server is running"));
