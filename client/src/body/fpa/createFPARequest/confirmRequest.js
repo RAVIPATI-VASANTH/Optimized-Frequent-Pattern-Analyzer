@@ -15,7 +15,7 @@ export default class ConfirmRequest extends Component {
     confirmRequest(){
         if(this.props.selectedList.categories.length || this.props.selectedList.brands.length || this.props.selectedList.items.length){
             if(this.state.requestName && this.state.minConfidence && this.state.minSupport ){
-                let request={...this.state,selectedList:this.props.selectedList}
+                let request={...this.state,selectedList:this.props.selectedList,date:this.props.date}
                 fetch(`/confirmRequest?userId=${this.props.currentUser}&request=${JSON.stringify(request)}`,{
                     method:"POST"
                 }).then(response=>response.json().then(response=>{

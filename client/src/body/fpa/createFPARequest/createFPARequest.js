@@ -9,9 +9,10 @@ export default class CreateFPARequest extends Component {
       itemsList: [],
       brandsList: [],
       categoriesList: [],
-      selectedList: { categories: [], brands: [], items: [] },
+      selectedList: { categories: [], brands: [], items: [], date:"" },
       activeType: { category: false, brand: false },
       activeComponentItemsList: [],
+      date:""
     };
   }
 
@@ -358,6 +359,11 @@ export default class CreateFPARequest extends Component {
     });
   }
 
+  updateDate(date){
+    this.setState({
+      date:date
+    })
+  }
 
   render() {
     let style = { cursor: "pointer" };
@@ -409,54 +415,56 @@ export default class CreateFPARequest extends Component {
 
     let selectedItemsElements = [];
     for (const [key, value] of Object.entries(this.state.selectedList)) {
-      value.forEach((element, index) => {
-        if (key === "items") {
-          selectedItemsElements.push(
-            <>
-              <p>
-                {key}:{element.itemName}
-              </p>
-              <button
-                onClick={() => {
-                  this.removeItem(index);
-                }}
-              >
-                Remove
-              </button>
-            </>
-          );
-        } else if (key === "brands") {
-          selectedItemsElements.push(
-            <>
-              <p>
-                {key}:{element}
-              </p>
-              <button
-                onClick={() => {
-                  this.removeBrand(index);
-                }}
-              >
-                Remove
-              </button>
-            </>
-          );
-        } else {
-          selectedItemsElements.push(
-            <>
-              <p>
-                {key}:{element}
-              </p>
-              <button
-                onClick={() => {
-                  this.removeCategory(index);
-                }}
-              >
-                Remove
-              </button>
-            </>
-          );
-        }
-      });
+      if(key!=="date"){
+        value.forEach((element, index) => {
+          if (key === "items") {
+            selectedItemsElements.push(
+              <>
+                <p>
+                  {key}:{element.itemName}
+                </p>
+                <button
+                  onClick={() => {
+                    this.removeItem(index);
+                  }}
+                >
+                  Remove
+                </button>
+              </>
+            );
+          } else if (key === "brands") {
+            selectedItemsElements.push(
+              <>
+                <p>
+                  {key}:{element}
+                </p>
+                <button
+                  onClick={() => {
+                    this.removeBrand(index);
+                  }}
+                >
+                  Remove
+                </button>
+              </>
+            );
+          } else {
+            selectedItemsElements.push(
+              <>
+                <p>
+                  {key}:{element}
+                </p>
+                <button
+                  onClick={() => {
+                    this.removeCategory(index);
+                  }}
+                >
+                  Remove
+                </button>
+              </>
+            );
+          }
+        });
+      }
     }
 
     return (
@@ -483,12 +491,12 @@ export default class CreateFPARequest extends Component {
         />
         <br />
         <label>Time Line</label>
-        <input type="date" />
+        <input type="date" onChange={(event)=>{this.updateDate(event.target.value)}}/>
         <div>
           {activePanel}
           <p>Selected Items</p>
           {selectedItemsElements.map((element) => element)}
-          <ConfirmRequest selectedList={this.state.selectedList} currentUser={this.props.currentUser} requestConfirmed={this.props.requestConfirmed}/>
+          <ConfirmRequest selectedList={this.state.selectedList} date={this.state.date} currentUser={this.props.currentUser} requestConfirmed={this.props.requestConfirmed}/>
         </div>
       </>
     );
