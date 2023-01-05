@@ -70,9 +70,9 @@ export default class CreateItemPanel extends Component {
         itemPrices: this.state.pricesList,
       };
       fetch(
-        `/createItem?userId=${this.props.currentUser}&item=${JSON.stringify(
-          item
-        )}`,
+        `http://127.0.0.1:5000/createItem?userId=${
+          this.props.currentUser
+        }&item=${JSON.stringify(item)}`,
         { method: "POST" }
       )
         .then((response) => {

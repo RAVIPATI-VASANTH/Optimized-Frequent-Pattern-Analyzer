@@ -10,8 +10,10 @@ const confirmTransactionController = (req, res) => {
         const database = client.db("MBAProjectDatabase");
         const transactions = database.collection("transactions");
         await transactions.insertOne(JSON.parse(req.query.transaction));
+        
         await client.close();
         resolve();
+        
       } finally {
       }
     }
@@ -22,6 +24,7 @@ const confirmTransactionController = (req, res) => {
   });
   promise
     .then(() => {
+      
       res.json({ message: true });
     })
     .catch(() => {

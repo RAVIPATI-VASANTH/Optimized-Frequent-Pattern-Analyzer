@@ -17,9 +17,12 @@ export default class Body extends Component {
   }
 
   login() {
-    fetch(`/login?userId=${this.state.userId}&password=${this.state.password}`, {
-      method: "POST",
-    })
+    fetch(
+      `http://127.0.0.1:5000/login?userId=${this.state.userId}&password=${this.state.password}`,
+      {
+        method: "POST",
+      }
+    )
       .then((res) =>
         res.json().then((res) => {
           if (res.loginStatus) {
@@ -43,9 +46,12 @@ export default class Body extends Component {
   }
 
   register() {
-    fetch(`/register?userId=${this.state.registerUserId}&password=${this.state.registerPassword}`, {
-      method: "POST",
-    })
+    fetch(
+      `http://127.0.0.1:5000/register?userId=${this.state.registerUserId}&password=${this.state.registerPassword}`,
+      {
+        method: "POST",
+      }
+    )
       .then((res) =>
         res.json().then((res) => {
           if (res.loginStatus === true) {

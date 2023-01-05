@@ -23,7 +23,9 @@ export default class OperatePanel extends Component {
   }
 
   getCategories() {
-    fetch(`/getCategories?userId=${this.props.currentUser}`)
+    fetch(
+      `http://127.0.0.1:5000/getCategories?userId=${this.props.currentUser}`
+    )
       .then((response) => {
         response.json().then((response) => {
           this.setState({
@@ -35,7 +37,7 @@ export default class OperatePanel extends Component {
   }
 
   getBrands() {
-    fetch(`/getBrands?userId=${this.props.currentUser}`)
+    fetch(`http://127.0.0.1:5000/getBrands?userId=${this.props.currentUser}`)
       .then((response) => {
         response.json().then((response) => {
           this.setState({

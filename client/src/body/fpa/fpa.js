@@ -6,20 +6,23 @@ export default class FPA extends Component {
     super(props);
     this.state = {
       createPanelSignal: false,
-      fpaRequests:[]
+      fpaRequests: [],
     };
   }
 
   componentDidMount() {
-    fetch(`/getFPARequests?userId=${this.props.currentUser}`, {
-      method: "POST",
-    })
+    fetch(
+      `http://127.0.0.1:5000/getFPARequests?userId=${this.props.currentUser}`,
+      {
+        method: "POST",
+      }
+    )
       .then((response) =>
         response.json().then((response) => {
           if (response.message) {
             this.setState({
-              fpaRequests:response.fpaRequests
-            })
+              fpaRequests: response.fpaRequests,
+            });
           } else {
             alert(response.text);
           }
@@ -28,17 +31,20 @@ export default class FPA extends Component {
       .catch((err) => console.log(err));
   }
 
-  componentDidUpdate(previousProps, previousState){
-    if(previousState.createPanelSignal!==this.state.createPanelSignal){
-      fetch(`/getFPARequests?userId=${this.props.currentUser}`, {
-        method: "POST",
-      })
+  componentDidUpdate(previousProps, previousState) {
+    if (previousState.createPanelSignal !== this.state.createPanelSignal) {
+      fetch(
+        `http://127.0.0.1:5000/getFPARequests?userId=${this.props.currentUser}`,
+        {
+          method: "POST",
+        }
+      )
         .then((response) =>
           response.json().then((response) => {
             if (response.message) {
               this.setState({
-                fpaRequests:response.fpaRequests
-              })
+                fpaRequests: response.fpaRequests,
+              });
             } else {
               alert(response.text);
             }
@@ -48,31 +54,38 @@ export default class FPA extends Component {
     }
   }
 
-  requestConfirmed(){
+  requestConfirmed() {
     this.setState({
-    createPanelSignal:!this.state.createPanelSignal
+      createPanelSignal: !this.state.createPanelSignal,
     });
   }
 
-  cancelFPARequest(index){
-    fetch(`/cancelFPARequest?userId=${this.props.currentUser}&requestName=${this.state.fpaRequests[index].requestName}`,{
-      method:"POST"
-    }).then(response=>response.json().then(response=>{
-      if(response.message){
-        alert("Request canceled Succesfully");
-        let l=this.state.fpaRequests;
-        l.splice(index,1);
-        this.setState({
-          fpaRequests:l
-        })
-      }else{
-        alert(response.text);
-        console.log(response.text)
+  cancelFPARequest(index) {
+    fetch(
+      `http://127.0.0.1:5000/cancelFPARequest?userId=${this.props.currentUser}&requestName=${this.state.fpaRequests[index].requestName}`,
+      {
+        method: "POST",
       }
-    })).catch((err)=>{
-      console.log(err);
-      alert("something went wrong");
-    })
+    )
+      .then((response) =>
+        response.json().then((response) => {
+          if (response.message) {
+            alert("Request canceled Succesfully");
+            let l = this.state.fpaRequests;
+            l.splice(index, 1);
+            this.setState({
+              fpaRequests: l,
+            });
+          } else {
+            alert(response.text);
+            console.log(response.text);
+          }
+        })
+      )
+      .catch((err) => {
+        console.log(err);
+        alert("something went wrong");
+      });
   }
 
   render() {
@@ -90,14 +103,21 @@ export default class FPA extends Component {
           Create Request
         </button>
       );
-      if(!this.state.fpaRequests.length){
+      if (!this.state.fpaRequests.length) {
         viewComponent = <>No current FPA Requests</>;
-      }else{
-        viewComponent=<>
-          {
-            this.state.fpaRequests.map((request,index)=>(<div key={index}>{request.requestName} {request.status}<button onClick={()=>this.cancelFPARequest(index)}>Cancel Request</button></div>))
-          }
-        </>
+      } else {
+        viewComponent = (
+          <>
+            {this.state.fpaRequests.map((request, index) => (
+              <div key={index}>
+                {request.requestName} {request.status}
+                <button onClick={() => this.cancelFPARequest(index)}>
+                  Cancel Request
+                </button>
+              </div>
+            ))}
+          </>
+        );
       }
     } else {
       createButton = (

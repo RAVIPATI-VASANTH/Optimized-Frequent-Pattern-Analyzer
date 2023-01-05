@@ -84,7 +84,9 @@ export default class ListPanel extends Component {
       if (signal) {
         let transactionalData = this.getTransactionalData();
         fetch(
-          `/saveTransaction?transaction=${JSON.stringify(transactionalData)}`,
+          `http://127.0.0.1:5000/saveTransaction?transaction=${JSON.stringify(
+            transactionalData
+          )}`,
           {
             method: "POST",
           }
