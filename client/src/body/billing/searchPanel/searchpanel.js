@@ -11,7 +11,7 @@ export default class SearchPanel extends Component {
 
   searchItems() {
     fetch(
-      `/searchItem?searchItem=${this.state.searchString}&userId=${this.props.currentUser}`,
+      `http://127.0.0.1:5000/searchItem?searchItem=${this.state.searchString}&userId=${this.props.currentUser}`,
       {
         method: "POST",
       }

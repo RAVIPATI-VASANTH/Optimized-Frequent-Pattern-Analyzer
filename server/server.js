@@ -17,8 +17,17 @@ const searchBrandRouter = require("./routers/taskRouters/searchBrandRouter");
 const searchCategoriesRouter = require("./routers/taskRouters/searchCategoryRouter");
 const getCategoryItemsRouter = require("./routers/taskRouters/getCategoryItemsRouter");
 const getBrandItemsRouter = require("./routers/taskRouters/getBrandItemsRouter");
-const confirmRequestRouter=require("./routers/taskRouters/confirmRequestRouter");
-const cancelFPARequestRouter=require("./routers/taskRouters/cancelFPARequestRouter");
+const confirmRequestRouter = require("./routers/taskRouters/confirmRequestRouter");
+const cancelFPARequestRouter = require("./routers/taskRouters/cancelFPARequestRouter");
+
+const cors = require("cors");
+const corsOptions = {
+  origin: "*",
+  credentials: true, //access-control-allow-credentials:true
+  optionSuccessStatus: 200,
+};
+
+server.use(cors(corsOptions));
 
 server.use(loginRouter);
 server.use(registerRouter);
@@ -39,4 +48,4 @@ server.use(getBrandItemsRouter);
 server.use(confirmRequestRouter);
 server.use(cancelFPARequestRouter);
 
-server.listen(5000,console.log("server is running"));
+server.listen(5000, console.log("server is running"));

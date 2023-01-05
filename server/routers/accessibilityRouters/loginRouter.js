@@ -4,6 +4,6 @@ const loginController = require("../../controllers/accessibilityControllers/logi
 
 const loginRouter = express.Router();
 
-loginRouter.post("/login",loginController );
+loginRouter.post("/login", loginController);
 
 module.exports = loginRouter;

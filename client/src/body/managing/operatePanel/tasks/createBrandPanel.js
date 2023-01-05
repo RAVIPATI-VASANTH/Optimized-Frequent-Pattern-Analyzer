@@ -13,7 +13,7 @@ export default class CreateBrandpanel extends Component {
       alert("Please Fill the input field from to create the brand");
     else {
       fetch(
-        `/createBrand?brandName=${this.state.brandName.trim()}&userId=${
+        `http://127.0.0.1:5000/createBrand?brandName=${this.state.brandName.trim()}&userId=${
           this.props.currentUser
         }`,
         {

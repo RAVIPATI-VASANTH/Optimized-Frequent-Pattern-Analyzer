@@ -13,7 +13,7 @@ export default class CreateCategoryPanel extends Component {
       alert("Please Fill the input field from to create the category");
     else {
       fetch(
-        `/createCategory?categoryName=${this.state.categoryName.trim()}&userId=${
+        `http://127.0.0.1:5000/createCategory?categoryName=${this.state.categoryName.trim()}&userId=${
           this.props.currentUser
         }`,
         {

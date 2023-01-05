@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import ConfirmRequest from "./confirmRequest.js"
+import ConfirmRequest from "./confirmRequest.js";
 
 export default class CreateFPARequest extends Component {
   constructor(props) {
@@ -9,10 +9,10 @@ export default class CreateFPARequest extends Component {
       itemsList: [],
       brandsList: [],
       categoriesList: [],
-      selectedList: { categories: [], brands: [], items: [], date:"" },
+      selectedList: { categories: [], brands: [], items: [], date: "" },
       activeType: { category: false, brand: false },
       activeComponentItemsList: [],
-      date:""
+      date: "",
     };
   }
 
@@ -98,8 +98,8 @@ export default class CreateFPARequest extends Component {
       };
       this.setState({
         selectedList: obj,
-        activeType:{ category: false, brand: false },
-        activeComponentItemsList:[]
+        activeType: { category: false, brand: false },
+        activeComponentItemsList: [],
       });
     }
   }
@@ -124,8 +124,8 @@ export default class CreateFPARequest extends Component {
       };
       this.setState({
         selectedList: obj,
-        activeType:{ category: false, brand: false },
-        activeComponentItemsList:[]
+        activeType: { category: false, brand: false },
+        activeComponentItemsList: [],
       });
     }
   }
@@ -165,7 +165,7 @@ export default class CreateFPARequest extends Component {
 
   searchItems(searchString) {
     fetch(
-      `/searchItem?searchItem=${searchString}&userId=${this.props.currentUser}`,
+      `http://127.0.0.1:5000/searchItem?searchItem=${searchString}&userId=${this.props.currentUser}`,
       {
         method: "POST",
       }
@@ -211,7 +211,7 @@ export default class CreateFPARequest extends Component {
       },
       () => {
         fetch(
-          `/getBrandItems?userId=${this.props.currentUser}&brandName=${this.state.activeType.name}`,
+          `http://127.0.0.1:5000/getBrandItems?userId=${this.props.currentUser}&brandName=${this.state.activeType.name}`,
           { method: "POST" }
         )
           .then((response) =>
@@ -236,7 +236,7 @@ export default class CreateFPARequest extends Component {
 
   searchBrands(searchString) {
     fetch(
-      `/searchBrands?searchBrand=${searchString}&userId=${this.props.currentUser}`,
+      `http://127.0.0.1:5000/searchBrands?searchBrand=${searchString}&userId=${this.props.currentUser}`,
       {
         method: "POST",
       }
@@ -287,7 +287,7 @@ export default class CreateFPARequest extends Component {
       },
       () => {
         fetch(
-          `/getCategoryItems?userId=${this.props.currentUser}&categoryName=${this.state.activeType.name}`,
+          `http://127.0.0.1:5000/getCategoryItems?userId=${this.props.currentUser}&categoryName=${this.state.activeType.name}`,
           { method: "POST" }
         )
           .then((response) =>
@@ -312,7 +312,7 @@ export default class CreateFPARequest extends Component {
 
   searchCategories(searchString) {
     fetch(
-      `/searchCategories?searchCategory=${searchString}&userId=${this.props.currentUser}`,
+      `http://127.0.0.1:5000/searchCategories?searchCategory=${searchString}&userId=${this.props.currentUser}`,
       {
         method: "POST",
       }
@@ -359,10 +359,10 @@ export default class CreateFPARequest extends Component {
     });
   }
 
-  updateDate(date){
+  updateDate(date) {
     this.setState({
-      date:date
-    })
+      date: date,
+    });
   }
 
   render() {
@@ -415,7 +415,7 @@ export default class CreateFPARequest extends Component {
 
     let selectedItemsElements = [];
     for (const [key, value] of Object.entries(this.state.selectedList)) {
-      if(key!=="date"){
+      if (key !== "date") {
         value.forEach((element, index) => {
           if (key === "items") {
             selectedItemsElements.push(
@@ -491,12 +491,22 @@ export default class CreateFPARequest extends Component {
         />
         <br />
         <label>Time Line</label>
-        <input type="date" onChange={(event)=>{this.updateDate(event.target.value)}}/>
+        <input
+          type="date"
+          onChange={(event) => {
+            this.updateDate(event.target.value);
+          }}
+        />
         <div>
           {activePanel}
           <p>Selected Items</p>
           {selectedItemsElements.map((element) => element)}
-          <ConfirmRequest selectedList={this.state.selectedList} date={this.state.date} currentUser={this.props.currentUser} requestConfirmed={this.props.requestConfirmed}/>
+          <ConfirmRequest
+            selectedList={this.state.selectedList}
+            date={this.state.date}
+            currentUser={this.props.currentUser}
+            requestConfirmed={this.props.requestConfirmed}
+          />
         </div>
       </>
     );

@@ -88,7 +88,7 @@ export default class UpdateItemPanel extends Component {
         itemPrices: this.state.pricesList,
       };
       fetch(
-        `/updateItem?userId=${
+        `http://127.0.0.1:5000/updateItem?userId=${
           this.props.currentUser
         }&updatedItem=${JSON.stringify(item)}&prevItem=${JSON.stringify(
           this.props.selectedItem
@@ -114,9 +114,14 @@ export default class UpdateItemPanel extends Component {
   }
 
   deleteItem() {
-    fetch(`/deleteItem?item=${JSON.stringify(this.props.selectedItem)}`, {
-      method: "POST",
-    })
+    fetch(
+      `http://127.0.0.1:5000/deleteItem?item=${JSON.stringify(
+        this.props.selectedItem
+      )}`,
+      {
+        method: "POST",
+      }
+    )
       .then((response) =>
         response.json().then((reponse) => {
           if (reponse.message) {
