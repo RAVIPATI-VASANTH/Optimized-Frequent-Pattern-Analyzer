@@ -48,4 +48,4 @@ server.use(getBrandItemsRouter);
 server.use(confirmRequestRouter);
 server.use(cancelFPARequestRouter);
 
-server.listen(5000, console.log("server is running"));
+server.listen(5000);

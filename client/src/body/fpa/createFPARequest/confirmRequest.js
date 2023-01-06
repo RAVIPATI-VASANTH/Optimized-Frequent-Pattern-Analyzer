@@ -28,6 +28,7 @@ export default class ConfirmRequest extends Component {
           selectedList: this.props.selectedList,
           date: this.props.date,
         };
+        console.log(JSON.stringify(request));
         fetch(
           `http://127.0.0.1:5000/confirmRequest?userId=${
             this.props.currentUser
@@ -91,7 +92,7 @@ export default class ConfirmRequest extends Component {
         <br />
         <label>Status</label>
         <select
-          value="Draft"
+          defaultValue="Draft"
           onChange={(event) => {
             this.setState({
               status: event.target.value,
