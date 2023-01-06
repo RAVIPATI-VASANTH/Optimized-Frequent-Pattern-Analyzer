@@ -70,7 +70,7 @@ export default class FPA extends Component {
       .then((response) =>
         response.json().then((response) => {
           if (response.message) {
-            alert("Request canceled Succesfully");
+            // alert("Request canceled Succesfully");
             let l = this.state.fpaRequests;
             l.splice(index, 1);
             this.setState({

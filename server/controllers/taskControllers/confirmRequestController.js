@@ -5,6 +5,7 @@ const { MongoClient } = require("mongodb");
 const uri = "mongodb://127.0.0.1:27017";
 
 const confirmRequestController = (req, res) => {
+  console.log("called");
   let promise = new Promise(function (resolve, reject) {
     const client = new MongoClient(uri);
     async function confirmRequest() {
@@ -29,7 +30,7 @@ const confirmRequestController = (req, res) => {
     .then(() => {
       let itemsBluePrint = JSON.parse(req.query.request, req.query.userId);
       if (itemsBluePrint.status === "Start Now")
-        startFPARequest(itemsBluePrint);
+        startFPARequest(itemsBluePrint, req.query.userId);
       res.json({ message: true });
     })
     .catch((err) => {
