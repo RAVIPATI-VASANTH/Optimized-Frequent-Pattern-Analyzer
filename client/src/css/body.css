@@ -1,0 +1,49 @@
+.credentialsDiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex: 1 1;
+  gap: 50rem;
+  justify-content: center;
+  align-content: center;
+  background-color: #fbce2e;
+  color: #181a1e;
+  font-size: 3rem;
+  font-weight: bolder;
+}
+
+.loginDiv,
+.registerDiv {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+}
+
+.label {
+  font-size: 2rem;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.inputEmail,
+.inputPassword {
+  border-radius: 5px;
+  border: #fbce2e;
+  height: 3rem;
+  width: 25rem;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.button {
+  border-radius: 5px;
+  border: #fbce2e;
+  color: white;
+  background-color: #181a1e;
+  margin: 1rem 0 1rem 0;
+  height: 3.5rem;
+  width: 25.5rem;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+}

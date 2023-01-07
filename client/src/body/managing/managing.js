@@ -23,7 +23,7 @@ export default class Managing extends Component {
 
   render() {
     return (
-      <>
+      <div>
         <SearchPanel
           updateListedItems={this.updateSelectedItem.bind(this)}
           currentUser={this.props.currentUser}
@@ -35,7 +35,7 @@ export default class Managing extends Component {
           selectedItem={this.state.selectedItem}
           updateSearchPanel={this.updateSearchPanel.bind(this)}
         />
-      </>
+      </div>
     );
   }
 }

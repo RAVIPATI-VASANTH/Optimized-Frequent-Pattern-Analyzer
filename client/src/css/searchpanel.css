@@ -1,0 +1,48 @@
+.search {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.6rem;
+  font-weight: bold;
+  min-width: 70%;
+}
+
+.searchElement {
+  border: 0;
+  border-radius: 0 0 5px 5px;
+  padding: 1rem 1.5rem 1.5rem 1rem;
+  background-color: #fbce2e;
+}
+
+.label {
+  font-size: 1.6rem;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.searchItem {
+  border-radius: 5px;
+  border: #fbce2e;
+  height: 3rem;
+  width: 85%;
+  margin-top: 1rem;
+  font-size: medium;
+  font-weight: bold;
+}
+
+.listItems {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.item {
+  background-color: #fbce2e;
+  border: 0;
+  border-radius: 5px;
+  align-content: center;
+}

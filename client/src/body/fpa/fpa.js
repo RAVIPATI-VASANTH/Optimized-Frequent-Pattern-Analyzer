@@ -139,11 +139,11 @@ export default class FPA extends Component {
       );
     }
     return (
-      <>
+      <div>
         {createButton}
         <br />
         {viewComponent}
-      </>
+      </div>
     );
   }
 }

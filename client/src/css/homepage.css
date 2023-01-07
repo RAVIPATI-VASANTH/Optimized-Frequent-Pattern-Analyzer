@@ -1,0 +1,35 @@
+.homepage {
+  display: flex;
+  flex: 1 5;
+  flex-direction: row;
+  background-color: white;
+  color: black;
+}
+
+.navBar {
+  display: flex;
+  flex-direction: column;
+  align-self: stretch;
+  background-color: #181a1e;
+  padding: 1rem;
+}
+
+.navButtonSelected {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #fbce2e;
+  margin: 1rem;
+  cursor: pointer;
+  background-color: #181a1e;
+  border: 0;
+}
+
+.navButton {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  margin: 1rem;
+  cursor: pointer;
+  background-color: #181a1e;
+  border: 0;
+}
