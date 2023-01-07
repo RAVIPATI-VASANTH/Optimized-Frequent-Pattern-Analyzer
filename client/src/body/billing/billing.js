@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import SearchPanel from "./searchPanel/searchpanel";
 import ListPanel from "./listingPanel/listPanel";
+import "./../../css/billing.css";
 
 export default class Billing extends Component {
   constructor(props) {
@@ -55,7 +56,7 @@ export default class Billing extends Component {
 
   render() {
     return (
-      <>
+      <div className="billing">
         <SearchPanel
           updateListedItems={this.updateListedItems.bind(this)}
           currentUser={this.props.currentUser}
@@ -68,7 +69,7 @@ export default class Billing extends Component {
           removeButtonHandler={this.removeButtonHandler.bind(this)}
           clearListedItems={this.clearListedItems.bind(this)}
         />
-      </>
+      </div>
     );
   }
 }

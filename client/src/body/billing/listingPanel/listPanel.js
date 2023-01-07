@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./../../../css/listpanel.css";
 
 export default class ListPanel extends Component {
   constructor(props) {
@@ -152,7 +153,7 @@ export default class ListPanel extends Component {
     ));
     return (
       <div>
-        <div>Listed Items</div>
+        <div className="label">Selected Items</div>
         {itemsComponents}
         {totalBill}
         <button onClick={this.confirmTransaction.bind(this)}>

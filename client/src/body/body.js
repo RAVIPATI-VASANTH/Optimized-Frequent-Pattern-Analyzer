@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import HomePage from "./homepage";
-
+import "./../css/body.css";
 export default class Body extends Component {
   constructor(props) {
     super(props);
@@ -83,20 +83,6 @@ export default class Body extends Component {
     });
   }
 
-  // checkSession() {
-  //   fetch("/checkSession")
-  //     .then((res) => res.json())
-  //     .then((res) => {
-  //       if (res.message) this.setState({ isLogin: true });
-  //       else this.setState({ isLogin: false });
-  //     })
-  //     .catch(this.setState({ isLogin: false }));
-  // }
-
-  // componentDidMount() {
-  //   this.checkSession();
-  // }
-
   render() {
     if (this.state.isLogin) {
       return (
@@ -107,62 +93,89 @@ export default class Body extends Component {
       );
     } else {
       return (
-        <>
-          <div>
-            Login panel
-            <br />
-            <label>User ID</label>
-            <input
-              type="email"
-              value={this.state.userId}
-              onChange={(event) => {
-                this.setState({ userId: event.target.value });
-              }}
-            />
-            <label>Password</label>
-            <input
-              type="password"
-              value={this.state.password}
-              onChange={(event) => {
-                this.setState({ password: event.target.value });
-              }}
-            />
-            <button type="submit" onClick={this.login.bind(this)}>
+        <div className="credentialsDiv">
+          <div className="loginDiv">
+            <p>Login</p>
+            <>
+              <label className="label" for="loginEmail">
+                User ID
+              </label>
+              <input
+                className="inputEmail"
+                id="loginEmail"
+                type="email"
+                value={this.state.userId}
+                onChange={(event) => {
+                  this.setState({ userId: event.target.value });
+                }}
+              />
+            </>
+            <>
+              <label className="label" for="loginPassword">
+                Password
+              </label>
+              <input
+                className="inputPassword"
+                id="loginPassword"
+                type="password"
+                value={this.state.password}
+                onChange={(event) => {
+                  this.setState({ password: event.target.value });
+                }}
+              />
+            </>
+            <button
+              className="button"
+              type="submit"
+              onClick={this.login.bind(this)}
+            >
               Login
             </button>
           </div>
-          <div>
-            Register panel
-            <br />
-            <label>User ID</label>
+          <div className="registerDiv">
+            <p>Register</p>
+            <label className="label" for="registerEmail">
+              User ID
+            </label>
             <input
+              className="inputEmail"
+              id="registerEmail"
               type="email"
               value={this.state.registerUserId}
               onChange={(event) => {
                 this.setState({ registerUserId: event.target.value });
               }}
             />
-            <label>Password</label>
+            <label className="label" for="registerPassword">
+              Password
+            </label>
             <input
+              className="inputPassword"
+              id="registerPassword"
               type="password"
               value={this.state.registerPassword}
               onChange={(event) => {
                 this.setState({ registerPassword: event.target.value });
               }}
             />
-            <label>Re-Enter Password</label>
+            <label className="label">Re-Enter Password</label>
             <input
+              className="inputPassword"
               type="password"
               value={this.state.registerRePassword}
               onChange={(event) => {
                 this.setState({ registerRePassword: event.target.value });
               }}
             />
-            <button type="submit" onClick={this.register.bind(this)}>
+            <button
+              className="button"
+              type="submit"
+              onClick={this.register.bind(this)}
+            >
               Register
             </button>
           </div>
-        </>
+        </div>
       );
     }
   }
