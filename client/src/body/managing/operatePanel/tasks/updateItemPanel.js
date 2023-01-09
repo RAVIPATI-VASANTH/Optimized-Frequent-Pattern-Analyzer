@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PriceItem from "./subTasks/priceItem";
+import "./../../../../css/updateItem.css";
 
 export default class UpdateItemPanel extends Component {
   constructor(props) {
@@ -201,6 +202,8 @@ export default class UpdateItemPanel extends Component {
     let categorySelect = (
       <>
         <select
+          className="selectCB"
+          id="categorySelect"
           onChange={(event) => {
             this.categorySelectHandler(event.target.value);
           }}
@@ -213,6 +216,8 @@ export default class UpdateItemPanel extends Component {
     let brandSelect = (
       <>
         <select
+          className="selectCB"
+          id="brandSelect"
           onChange={(event) => {
             this.brandSelectHandler(event.target.value);
           }}
@@ -223,7 +228,7 @@ export default class UpdateItemPanel extends Component {
     );
 
     let pricesList = (
-      <>
+      <div className="priceListDiv">
         {this.state.pricesList.map((obj, index) => (
           <PriceItem
             index={index}
@@ -233,54 +238,82 @@ export default class UpdateItemPanel extends Component {
             removePriceItem={this.removePriceItem.bind(this)}
           />
         ))}
-      </>
+      </div>
     );
 
     return (
-      <>
-        <label>Select Category</label>
-        {categorySelect}
-        <br />
-        <label>Select Brand</label>
-        {brandSelect}
-        <br />
-        <label>Enter Item Name</label>
-        <input
-          type="text"
-          value={this.state.itemName}
-          onChange={(event) => this.setState({ itemName: event.target.value })}
-        />
-        <br />
+      <div className="subPanel">
+        <div className="updateGrid">
+          <label for="categorySelect">Category</label>
+          {categorySelect}
+          <label for="brandSelect">Brand</label>
+          {brandSelect}
+          <label for="itemName">Item Name</label>
+          <input
+            id="itemName"
+            className="itemName"
+            type="text"
+            value={this.state.itemName}
+            onChange={(event) =>
+              this.setState({ itemName: event.target.value })
+            }
+          />
+          <label for="itemPack">Pack Type</label>
+          <input
+            placeholder="enter here.."
+            id="itemPack"
+            className="itemPack"
+            type="text"
+            value={this.state.packType}
+            onChange={(event) =>
+              this.setState({ packType: event.target.value })
+            }
+          />
+          <label>Price</label>
+          <input
+            className="itemPack"
+            type="text"
+            value={this.state.price}
+            onChange={(event) => this.setState({ price: event.target.value })}
+          />
+          <label>Discount</label>
+          <input
+            className="itemPack"
+            type="text"
+            value={this.state.discount}
+            onChange={(event) =>
+              this.setState({ discount: event.target.value })
+            }
+          />
+        </div>
         {pricesList}
-        <br />
-        <label>Enter Pack Type Name</label>
-        <input
-          type="text"
-          value={this.state.packType}
-          onChange={(event) => this.setState({ packType: event.target.value })}
-        />
-        <br />
-        <label>Enter Price</label>
-        <input
-          type="text"
-          value={this.state.price}
-          onChange={(event) => this.setState({ price: event.target.value })}
-        />
-        <br />
-        <label>Enter Discount</label>
-        <input
-          type="text"
-          value={this.state.discount}
-          onChange={(event) => this.setState({ discount: event.target.value })}
-        />
-        <br />
-        <button onClick={this.addPack.bind(this)}>Add Pack</button>
-        <button onClick={() => this.props.updateSelectedItem({ data: {} })}>
-          Cancel
-        </button>
-        <button onClick={this.updateItem.bind(this)}>Update Item</button>
-        <button onClick={this.deleteItem.bind(this)}>Delete Item</button>
-      </>
+        <div className="updateButtonGrid">
+          <button
+            className="updatePanelButton"
+            onClick={this.addPack.bind(this)}
+          >
+            Add Pack
+          </button>
+          <button
+            className="updatePanelButton"
+            onClick={() => this.props.updateSelectedItem({ data: {} })}
+          >
+            Cancel
+          </button>
+          <button
+            className="updatePanelButton"
+            onClick={this.updateItem.bind(this)}
+          >
+            Update
+          </button>
+          <button
+            className="updatePanelButton"
+            onClick={this.deleteItem.bind(this)}
+          >
+            Delete
+          </button>
+        </div>
+      </div>
     );
   }
 }

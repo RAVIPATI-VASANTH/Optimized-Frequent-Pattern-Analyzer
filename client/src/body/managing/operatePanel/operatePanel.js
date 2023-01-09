@@ -3,6 +3,7 @@ import CreateCategoryPanel from "./tasks/createCategoryPanel";
 import CreateBrandpanel from "./tasks/createBrandPanel";
 import CreateItemPanel from "./tasks/createItemPanel";
 import UpdateItemPanel from "./tasks/updateItemPanel";
+import "./../../../css/operating.css";
 
 export default class OperatePanel extends Component {
   constructor(props) {
@@ -77,7 +78,7 @@ export default class OperatePanel extends Component {
       );
     }
     return (
-      <>
+      <div className="operating">
         <CreateCategoryPanel
           currentUser={this.props.currentUser}
           updateCategoriesList={this.getCategories.bind(this)}
@@ -87,7 +88,7 @@ export default class OperatePanel extends Component {
           updatebrandsList={this.getBrands.bind(this)}
         />
         {display}
-      </>
+      </div>
     );
   }
 }

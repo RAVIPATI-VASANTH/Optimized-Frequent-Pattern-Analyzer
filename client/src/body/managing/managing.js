@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import SearchPanel from "../billing/searchPanel/searchpanel";
 import OperatePanel from "./operatePanel/operatePanel";
+import "./../../css/managing.css";
 
 export default class Managing extends Component {
   constructor(props) {
@@ -23,7 +24,7 @@ export default class Managing extends Component {
 
   render() {
     return (
-      <div>
+      <div className="managing">
         <SearchPanel
           updateListedItems={this.updateSelectedItem.bind(this)}
           currentUser={this.props.currentUser}

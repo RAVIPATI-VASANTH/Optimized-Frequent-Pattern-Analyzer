@@ -110,53 +110,72 @@ export default class ListPanel extends Component {
 
   render() {
     //when anything goes wrong with bill count, do billing  in parent component.
-    let totalBill = <p>Current Bill : {this.state.totalBill} /-</p>;
+    // billling is not updating when removing all removed form listed panel
+    let totalBill = (
+      <p className="totalbill">Current Bill : {this.state.totalBill} /-</p>
+    );
     let itemsComponents = this.props.listedItems.map((item, itemIndex) => (
-      <div>
-        <p>{item.itemName}</p>
-        <button value={itemIndex} onClick={this.removeButtonHandler.bind(this)}>
-          X
-        </button>
+      <div className="item">
+        <p className="itemName">{item.itemName}</p>
         <div>
-          <label>quantity</label>
+          <label for="quantityInput" className="quantityLabel">
+            Quantity
+          </label>
           <input
+            className="quantityInput"
+            id="quantityInput"
             type="number"
             min="0"
-            placeholder="0"
             onChange={(event) => {
               this.quantityHandler(`${itemIndex}-${event.target.value}`);
             }}
           />
-          <br />
-          <select
-            onChange={(event) => {
-              this.selectHandler(event.target.value);
-            }}
-          >
-            {item.itemPrices.map((pricePack, priceIndex) => (
-              <option value={`${itemIndex}-${priceIndex}`}>
-                {pricePack.packType} , {pricePack.price}
-              </option>
-            ))}
-          </select>
-          <p>
-            Discount :
-            {
-              this.props.listedItems[itemIndex].itemPrices[
-                this.props.listedItems[itemIndex].packType
-              ].discount
-            }
-            %
-          </p>
         </div>
+        <br />
+        <select
+          className="selectpackType"
+          onChange={(event) => {
+            this.selectHandler(event.target.value);
+          }}
+        >
+          {item.itemPrices.map((pricePack, priceIndex) => (
+            <option value={`${itemIndex}-${priceIndex}`}>
+              {pricePack.packType} , {pricePack.price}
+            </option>
+          ))}
+        </select>
+        <p className="discount">
+          Discount :
+          {
+            this.props.listedItems[itemIndex].itemPrices[
+              this.props.listedItems[itemIndex].packType
+            ].discount
+          }
+          %
+        </p>
+        <button
+          className="removeItem"
+          value={itemIndex}
+          onClick={this.removeButtonHandler.bind(this)}
+        >
+          Remove Item
+        </button>
       </div>
     ));
+    if (this.props.listedItems.length === 0) {
+      itemsComponents = <p className="message">No Items Selected Yet</p>;
+    }
     return (
-      <div>
-        <div className="label">Selected Items</div>
-        {itemsComponents}
+      <div className="listed">
+        <div className="label1">
+          <center>Selected Items</center>
+        </div>
+        <div className="selectedList">{itemsComponents}</div>
         {totalBill}
-        <button onClick={this.confirmTransaction.bind(this)}>
+        <button
+          className="confirm"
+          onClick={this.confirmTransaction.bind(this)}
+        >
           Confirm Transaction
         </button>
       </div>

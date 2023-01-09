@@ -3,7 +3,8 @@
   flex-direction: column;
   font-size: 1.6rem;
   font-weight: bold;
-  min-width: 70%;
+  min-width: 75%;
+  height: 100%;
 }
 
 .searchElement {
@@ -11,6 +12,7 @@
   border-radius: 0 0 5px 5px;
   padding: 1rem 1.5rem 1.5rem 1rem;
   background-color: #fbce2e;
+  height: 10%;
 }
 
 .label {
@@ -31,18 +33,18 @@
 
 .listItems {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
   gap: 1rem;
-  justify-content: space-between;
-  align-items: center;
   padding: 1rem;
-  overflow-y: scroll;
-  height: 100%;
+  overflow: hidden;
+  overflow-y: auto;
+  height: 64rem;
 }
 
 .item {
   background-color: #fbce2e;
   border: 0;
+  height: min-content;
   border-radius: 5px;
   align-content: center;
 }

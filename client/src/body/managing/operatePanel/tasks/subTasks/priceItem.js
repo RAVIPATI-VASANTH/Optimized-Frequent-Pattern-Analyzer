@@ -8,7 +8,7 @@ export default class PriceItem extends Component {
 
   render() {
     return (
-      <>
+      <div>
         <p>{this.props.packType}</p>
         <p>{this.props.price}</p>
         <p>{this.props.discount}</p>
@@ -20,7 +20,7 @@ export default class PriceItem extends Component {
         >
           remove
         </button>
-      </>
+      </div>
     );
   }
 }
