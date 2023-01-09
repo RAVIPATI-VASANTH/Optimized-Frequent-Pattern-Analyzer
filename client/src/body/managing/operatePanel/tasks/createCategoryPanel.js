@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./../../../../css/create.css";
 
 export default class CreateCategoryPanel extends Component {
   constructor(props) {
@@ -38,14 +39,19 @@ export default class CreateCategoryPanel extends Component {
 
   render() {
     return (
-      <div>
+      <div className="div">
         <input
+          className="createInput"
           value={this.state.categoryName}
           onChange={(event) => {
             this.setState({ categoryName: event.target.value.trim() });
           }}
         />
-        <button onClick={this.createCollection.bind(this)}>
+        <br />
+        <button
+          className="createButton"
+          onClick={this.createCollection.bind(this)}
+        >
           Create Category
         </button>
       </div>

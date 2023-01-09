@@ -1,0 +1,68 @@
+.subPanel {
+  margin-bottom: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.updateGrid {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  justify-items: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+  row-gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.selectCB {
+  padding: 0 0 0 1rem;
+  margin: 0;
+  width: 100%;
+  height: 3rem;
+  font-weight: bold;
+  border-radius: 5px;
+  outline: none;
+  background-color: #fbce2e;
+}
+
+.itemName,
+.itemPack {
+  border: 1px solid black;
+  border-radius: 5px;
+  border: #fbce2e;
+  height: 3rem;
+  width: 100%;
+  font-size: medium;
+  font-weight: bold;
+  background-color: #fbce2e;
+}
+
+.updateButtonGrid {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: 0.5rem;
+  align-items: center;
+  justify-items: center;
+}
+
+.updatePanelButton {
+  border-radius: 5px;
+  color: white;
+  background-color: #181a1e;
+  height: 3rem;
+  width: 75%;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.priceListDiv {
+  width: 100%;
+  overflow: hidden;
+  overflow-y: auto;
+}

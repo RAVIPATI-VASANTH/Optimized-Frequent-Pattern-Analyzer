@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import PriceItem from "./subTasks/priceItem";
+import "./../../../../css/createItem.css";
+
 export default class CreateItemPanel extends Component {
   constructor(props) {
     super(props);
@@ -118,6 +120,8 @@ export default class CreateItemPanel extends Component {
     let categorySelect = (
       <>
         <select
+          className="selectCB"
+          id="categorySelect"
           onChange={(event) => {
             this.categorySelectHandler(event.target.value);
           }}
@@ -134,6 +138,8 @@ export default class CreateItemPanel extends Component {
     let brandSelect = (
       <>
         <select
+          className="selectCB"
+          id="brandSelect"
           onChange={(event) => {
             this.brandSelectHandler(event.target.value);
           }}
@@ -162,45 +168,65 @@ export default class CreateItemPanel extends Component {
     );
 
     return (
-      <div>
-        <label>Select Category</label>
-        {categorySelect}
-        <br />
-        <label>Select Brand</label>
-        {brandSelect}
-        <br />
-        <label>Enter Item Name</label>
-        <input
-          type="text"
-          value={this.state.itemName}
-          onChange={(event) => this.setState({ itemName: event.target.value })}
-        />
-        <br />
+      <div className="subPanel">
+        <div className="createGrid">
+          <label for="categorySelect">Category</label>
+          {categorySelect}
+          <label for="brandSelect">Brand</label>
+          {brandSelect}
+          <label for="itemName">Item Name</label>
+          <input
+            id="itemName"
+            className="itemName"
+            type="text"
+            value={this.state.itemName}
+            onChange={(event) =>
+              this.setState({ itemName: event.target.value })
+            }
+          />
+          <label for="itemPack">Pack Type</label>
+          <input
+            placeholder="enter here.."
+            id="itemPack"
+            className="itemPack"
+            type="text"
+            value={this.state.packType}
+            onChange={(event) =>
+              this.setState({ packType: event.target.value })
+            }
+          />
+          <label>Price</label>
+          <input
+            className="itemPack"
+            type="text"
+            value={this.state.price}
+            onChange={(event) => this.setState({ price: event.target.value })}
+          />
+          <label>Discount</label>
+          <input
+            className="itemPack"
+            type="text"
+            value={this.state.discount}
+            onChange={(event) =>
+              this.setState({ discount: event.target.value })
+            }
+          />
+        </div>
         {pricesList}
-        <br />
-        <label>Enter Pack Type Name</label>
-        <input
-          type="text"
-          value={this.state.packType}
-          onChange={(event) => this.setState({ packType: event.target.value })}
-        />
-        <br />
-        <label>Enter Price</label>
-        <input
-          type="text"
-          value={this.state.price}
-          onChange={(event) => this.setState({ price: event.target.value })}
-        />
-        <br />
-        <label>Enter Discount</label>
-        <input
-          type="text"
-          value={this.state.discount}
-          onChange={(event) => this.setState({ discount: event.target.value })}
-        />
-        <br />
-        <button onClick={this.addPack.bind(this)}>Add Pack</button>
-        <button onClick={this.createItem.bind(this)}>Create Item</button>
+        <div className="createButtonGrid">
+          <button
+            className="createPanelButton"
+            onClick={this.addPack.bind(this)}
+          >
+            Add Pack
+          </button>
+          <button
+            className="createPanelButton"
+            onClick={this.createItem.bind(this)}
+          >
+            Create Item
+          </button>
+        </div>
       </div>
     );
   }

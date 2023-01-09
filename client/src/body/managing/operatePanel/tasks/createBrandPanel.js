@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./../../../../css/create.css";
 
 export default class CreateBrandpanel extends Component {
   constructor(props) {
@@ -38,14 +39,18 @@ export default class CreateBrandpanel extends Component {
 
   render() {
     return (
-      <div>
+      <div className="div">
         <input
+          className="createInput"
           value={this.state.brandName}
           onChange={(event) => {
             this.setState({ brandName: event.target.value.trim() });
           }}
         />
-        <button onClick={this.createBrand.bind(this)}>Create Brand</button>
+        <br />
+        <button className="createButton" onClick={this.createBrand.bind(this)}>
+          Create Brand
+        </button>
       </div>
     );
   }
