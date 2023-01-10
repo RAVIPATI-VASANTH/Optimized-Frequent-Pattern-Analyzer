@@ -154,7 +154,7 @@ export default class CreateItemPanel extends Component {
     );
 
     let pricesList = (
-      <>
+      <div className="createPriceListDiv">
         {this.state.pricesList.map((obj, index) => (
           <PriceItem
             index={index}
@@ -164,7 +164,7 @@ export default class CreateItemPanel extends Component {
             removePriceItem={this.removePriceItem.bind(this)}
           />
         ))}
-      </>
+      </div>
     );
 
     return (

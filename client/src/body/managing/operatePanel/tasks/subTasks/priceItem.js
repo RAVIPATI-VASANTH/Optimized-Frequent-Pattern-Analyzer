@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./../../../../../css/priceitem.css";
 
 export default class PriceItem extends Component {
   constructor(props) {
@@ -8,11 +9,17 @@ export default class PriceItem extends Component {
 
   render() {
     return (
-      <div>
-        <p>{this.props.packType}</p>
-        <p>{this.props.price}</p>
-        <p>{this.props.discount}</p>
+      <div className="priceItem">
+        <div className="priceItemGrid">
+          <label>Pack Type</label>
+          <div>{this.props.packType}</div>
+          <label>Price</label>
+          <div>{this.props.price}</div>
+          <label>Discount</label>
+          <discount>{this.props.discount}</discount>
+        </div>
         <button
+          className="priceItemButton"
           onClick={() => {
             console.log(this.props.index);
             this.props.removePriceItem({ index: this.props.index });
