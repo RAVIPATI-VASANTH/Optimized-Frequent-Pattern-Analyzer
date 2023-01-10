@@ -228,7 +228,7 @@ export default class UpdateItemPanel extends Component {
     );
 
     let pricesList = (
-      <div className="priceListDiv">
+      <>
         {this.state.pricesList.map((obj, index) => (
           <PriceItem
             index={index}
@@ -238,7 +238,7 @@ export default class UpdateItemPanel extends Component {
             removePriceItem={this.removePriceItem.bind(this)}
           />
         ))}
-      </div>
+      </>
     );
 
     return (
@@ -286,7 +286,7 @@ export default class UpdateItemPanel extends Component {
             }
           />
         </div>
-        {pricesList}
+        <div className="updatePriceListDiv">{pricesList}</div>
         <div className="updateButtonGrid">
           <button
             className="updatePanelButton"
