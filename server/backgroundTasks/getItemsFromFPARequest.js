@@ -11,7 +11,6 @@ const getItemFromFPARequets = (itemsBluePrint, userId) => {
         const database = client.db("MBAProjectDatabase");
         const transactions = database.collection("transactions");
         let cursor = await transactions.find({ userId: userId });
-        console.log(itemsBluePrint);
         //need to implement the date also
         cursor.forEach((doc) => {
           console.log(doc);
@@ -27,7 +26,6 @@ const getItemFromFPARequets = (itemsBluePrint, userId) => {
                 itemsBluePrint.selectedList.categories[j]
               ) {
                 transactionsList.push(doc);
-                console.log("pushed");
                 signal = false;
               }
             }
