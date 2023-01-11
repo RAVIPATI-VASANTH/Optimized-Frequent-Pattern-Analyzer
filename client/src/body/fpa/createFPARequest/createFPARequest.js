@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import ConfirmRequest from "./confirmRequest.js";
+import "./../../../css/createFPARequest.css";
 
 export default class CreateFPARequest extends Component {
   constructor(props) {
@@ -12,7 +13,7 @@ export default class CreateFPARequest extends Component {
       selectedList: { categories: [], brands: [], items: [], date: "" },
       activeType: { category: false, brand: false },
       activeComponentItemsList: [],
-      date: "",
+      date: { from: "", to: "" },
     };
   }
 
@@ -179,12 +180,12 @@ export default class CreateFPARequest extends Component {
               this.state.itemsList.forEach((item, index) => {
                 l.push(
                   <div
-                    style={style}
+                    className="viewDivItem"
                     onClick={() => {
                       this.addItem(index);
                     }}
                   >
-                    {item.itemName}
+                    <>{item.itemName}</>
                   </div>
                 );
               });
@@ -254,6 +255,7 @@ export default class CreateFPARequest extends Component {
                 this.state.brandsList.forEach((brand, index) => {
                   l.push(
                     <div
+                      className="viewDivItem"
                       style={style}
                       onClick={() => {
                         this.selectBrand(index);
@@ -330,6 +332,7 @@ export default class CreateFPARequest extends Component {
                 this.state.categoriesList.forEach((category, index) => {
                   l.push(
                     <div
+                      className="viewDivItem"
                       style={style}
                       onClick={() => {
                         this.selectCategory(index);
@@ -359,26 +362,46 @@ export default class CreateFPARequest extends Component {
     });
   }
 
-  updateDate(date) {
+  updateFromDate(date) {
+    let obj = { from: date, to: this.state.date.to };
     this.setState({
-      date: date,
+      date: obj,
     });
+  }
+
+  updateToDate(date) {
+    let obj = { from: this.state.date.from, to: date };
+    this.setState({
+      date: obj,
+    });
+    //need to validate that to date is always greater than or equal to from
   }
 
   render() {
     let style = { cursor: "pointer" };
     let activePanel;
+    let viewInfopanel = <></>;
     if (this.state.activeType.category || this.state.activeType.brand) {
       if (this.state.activeType.category) {
-        activePanel = (
-          <>
-            {this.state.activeType.name}
-            <button onClick={() => this.cancelActiveType()}>Cancel</button>
-            <button onClick={() => this.addCategory()}>
+        viewInfopanel = (
+          <div className="viewInfo">
+            <p className="typeName">{this.state.activeType.name}</p>
+            <button
+              className="typebutton"
+              onClick={() => this.cancelActiveType()}
+            >
+              Cancel
+            </button>
+            <button className="typebutton" onClick={() => this.addCategory()}>
               Add Complete Category
             </button>
+          </div>
+        );
+        activePanel = (
+          <>
             {this.state.activeComponentItemsList.map((item, index) => (
               <div
+                className="viewDivItem"
                 style={style}
                 onClick={() => {
                   this.addCategoryItem(index);
@@ -389,15 +412,19 @@ export default class CreateFPARequest extends Component {
             ))}
           </>
         );
-      }
-      if (this.state.activeType.brand) {
-        activePanel = (
-          <>
+      } else if (this.state.activeType.brand) {
+        viewInfopanel = (
+          <div className="viewInfo">
             {this.state.activeType.name}
             <button onClick={() => this.cancelActiveType()}>Cancel</button>
             <button onClick={() => this.addBrand()}>Add Complete Brand</button>
+          </div>
+        );
+        activePanel = (
+          <>
             {this.state.activeComponentItemsList.map((item, index) => (
               <div
+                className="viewDivItem"
                 style={style}
                 onClick={() => {
                   this.addBrandItem(index);
@@ -419,88 +446,103 @@ export default class CreateFPARequest extends Component {
         value.forEach((element, index) => {
           if (key === "items") {
             selectedItemsElements.push(
-              <>
-                <p>
-                  {key}:{element.itemName}
-                </p>
+              <div className="selectedDivItem">
+                <p>{element.itemName}</p>
                 <button
                   onClick={() => {
                     this.removeItem(index);
                   }}
                 >
-                  Remove
+                  x
                 </button>
-              </>
+              </div>
             );
           } else if (key === "brands") {
             selectedItemsElements.push(
-              <>
-                <p>
-                  {key}:{element}
-                </p>
+              <div className="selectedDivItem">
+                <p>{element}</p>
                 <button
                   onClick={() => {
                     this.removeBrand(index);
                   }}
                 >
-                  Remove
+                  x
                 </button>
-              </>
+              </div>
             );
           } else {
             selectedItemsElements.push(
-              <>
-                <p>
-                  {key}:{element}
-                </p>
+              <div className="selectedDivItem">
+                <p>{element}</p>
                 <button
                   onClick={() => {
                     this.removeCategory(index);
                   }}
                 >
-                  Remove
+                  x
                 </button>
-              </>
+              </div>
             );
           }
         });
       }
     }
+    if (selectedItemsElements.length === 0) {
+      selectedItemsElements.push(<p>No Items are selecetd yet</p>);
+    }
 
     return (
-      <>
-        <label>Category</label>
-        <input
-          onChange={(event) => {
-            this.searchCategories(event.target.value);
-          }}
-        />
-        <br />
-        <label>Brands</label>
-        <input
-          onChange={(event) => {
-            this.searchBrands(event.target.value);
-          }}
-        />
-        <br />
-        <label>Items</label>
-        <input
-          onChange={(event) => {
-            this.searchItems(event.target.value);
-          }}
-        />
-        <br />
-        <label>Time Line</label>
-        <input
-          type="date"
-          onChange={(event) => {
-            this.updateDate(event.target.value);
-          }}
-        />
-        <div>
-          {activePanel}
-          <p>Selected Items</p>
-          {selectedItemsElements.map((element) => element)}
+      <div className="createFPARequest">
+        <div className="createTop">
+          <div className="listingPanel">
+            <div className="selectionDiv">
+              <div className="selectionInputGrid">
+                <label>Category</label>
+                <input
+                  className="selectionInput"
+                  onChange={(event) => {
+                    this.searchCategories(event.target.value);
+                  }}
+                />
+                <label>Brand</label>
+                <input
+                  className="selectionInput"
+                  onChange={(event) => {
+                    this.searchBrands(event.target.value);
+                  }}
+                />
+                <label>Item</label>
+                <input
+                  className="selectionInput"
+                  onChange={(event) => {
+                    this.searchItems(event.target.value);
+                  }}
+                />
+              </div>
+              <div className="selectionDateGrid">
+                <label>From</label>
+                <input
+                  className="selectionDate"
+                  type="date"
+                  onChange={(event) => {
+                    this.updateFromDate(event.target.value);
+                  }}
+                />
+                <label>To</label>
+                <input
+                  className="selectionDate"
+                  type="date"
+                  onChange={(event) => {
+                    this.updateToDate(event.target.value);
+                  }}
+                />
+              </div>
+            </div>
+            <div className="viewDiv">
+              {viewInfopanel}
+              <div className="viewDivList">{activePanel}</div>
+            </div>
+          </div>
           <ConfirmRequest
             selectedList={this.state.selectedList}
             date={this.state.date}
@@ -508,7 +550,13 @@ export default class CreateFPARequest extends Component {
             requestConfirmed={this.props.requestConfirmed}
           />
         </div>
-      </>
+        <div className="selectedItemDiv">
+          <div>Selected Items</div>
+          <div className="selectedListDiv">
+            {selectedItemsElements.map((element) => element)}
+          </div>
+        </div>
+      </div>
     );
   }
 }

@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import CreateFPARequest from "./createFPARequest/createFPARequest";
+import "./../../css/fpa.css";
 
 export default class FPA extends Component {
   constructor(props) {
@@ -94,6 +95,7 @@ export default class FPA extends Component {
     if (!this.state.createPanelSignal) {
       createButton = (
         <button
+          className="topCreateButton"
           onClick={() =>
             this.setState({
               createPanelSignal: !this.state.createPanelSignal,
@@ -104,24 +106,35 @@ export default class FPA extends Component {
         </button>
       );
       if (!this.state.fpaRequests.length) {
-        viewComponent = <>No current FPA Requests</>;
+        viewComponent = (
+          <div className="fpalistdiv fpalabel">
+            No current FPA Requests Created
+          </div>
+        );
       } else {
         viewComponent = (
-          <>
+          <div className="fpalistdiv">
             {this.state.fpaRequests.map((request, index) => (
-              <div key={index}>
-                {request.requestName} {request.status}
-                <button onClick={() => this.cancelFPARequest(index)}>
-                  Cancel Request
-                </button>
+              <div className="fpaRequest" key={index}>
+                <p>{request.requestName}</p>
+                <div className="fpaInfoDiv">
+                  <p>Status : {request.status}</p>
+                  <button
+                    className="fpaCancelButton"
+                    onClick={() => this.cancelFPARequest(index)}
+                  >
+                    Cancel Request
+                  </button>
+                </div>
               </div>
             ))}
-          </>
+          </div>
         );
       }
     } else {
       createButton = (
         <button
+          className="topCreateButton"
           onClick={() =>
             this.setState({
               createPanelSignal: !this.state.createPanelSignal,
@@ -139,9 +152,11 @@ export default class FPA extends Component {
       );
     }
     return (
-      <div>
-        {createButton}
-        <br />
+      <div className="fpa">
+        <div className="top">
+          <p className="fpalabel">FPA Requests</p>
+          {createButton}
+        </div>
         {viewComponent}
       </div>
     );

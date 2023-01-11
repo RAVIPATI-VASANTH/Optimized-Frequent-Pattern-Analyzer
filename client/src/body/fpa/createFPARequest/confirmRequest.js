@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./../../../css/confirmRequest.css";
 
 export default class ConfirmRequest extends Component {
   constructor(props) {
@@ -60,38 +61,37 @@ export default class ConfirmRequest extends Component {
 
   render() {
     return (
-      <>
+      <div className="confirmRequest">
         <label>Request Name</label>
         <input
+          className="confirmRequestInput"
           type="text"
           value={this.state.requestName}
           onChange={(event) =>
             this.setState({ requestName: event.target.value })
           }
         />
-        <br />
-        <label>Minimum Support</label>
+        <label>Minimum Support(%)</label>
         <input
+          className="confirmRequestInput"
           type="text"
           value={this.state.minSupport}
           onChange={(event) =>
             this.setState({ minSupport: Number(event.target.value) })
           }
         />
-        %
-        <br />
-        <label>Minimum Confidence</label>
+        <label>Minimum Confidence(%)</label>
         <input
+          className="confirmRequestInput"
           type="text"
           value={this.state.minConfidence}
           onChange={(event) =>
             this.setState({ minConfidence: Number(event.target.value) })
           }
         />
-        %
-        <br />
         <label>Status</label>
         <select
+          className="createRequestSelect"
           defaultValue="Draft"
           onChange={(event) => {
             this.setState({
@@ -102,20 +102,26 @@ export default class ConfirmRequest extends Component {
           <option value="Draft">Draft</option>
           <option value="Start Now">Start Now</option>
         </select>
-        <br />
-        <label>Consider Disocunts</label>
-        <input
-          type="checkbox"
-          value={this.state.discountStatus}
-          onClick={() => {
-            this.setState({
-              discountStatus: !this.state.discountStatus,
-            });
-          }}
-        />
-        <br />
-        <button onClick={() => this.confirmRequest()}>Confirm Request</button>
-      </>
+        <div className="checkBoxDiv">
+          <label>Consider Disocunts</label>
+          <input
+            className="confirmRequestCheckBox"
+            type="checkbox"
+            value={this.state.discountStatus}
+            onClick={() => {
+              this.setState({
+                discountStatus: !this.state.discountStatus,
+              });
+            }}
+          />
+        </div>
+        <button
+          className="confirmRequestButton"
+          onClick={() => this.confirmRequest()}
+        >
+          Confirm Request
+        </button>
+      </div>
     );
   }
 }

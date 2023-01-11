@@ -28,9 +28,9 @@ const confirmRequestController = (req, res) => {
   });
   promise
     .then(() => {
-      let itemsBluePrint = JSON.parse(req.query.request, req.query.userId);
-      if (itemsBluePrint.status === "Start Now")
-        startFPARequest(itemsBluePrint, req.query.userId);
+      // let itemsBluePrint = JSON.parse(req.query.request, req.query.userId);
+      // if (itemsBluePrint.status === "Start Now")
+      //   startFPARequest(itemsBluePrint, req.query.userId);
       res.json({ message: true });
     })
     .catch((err) => {
