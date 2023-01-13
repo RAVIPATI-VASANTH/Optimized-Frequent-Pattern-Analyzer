@@ -41,12 +41,10 @@ export default class SearchPanel extends Component {
     let itemsComponents = this.state.itemsList.map((element, index) => (
       <div
         style={style}
-        className="item"
+        className="searchPanelItem"
         onClick={() => this.selectItem(index)}
       >
-        <center>
-          <p>{element.itemName}</p>
-        </center>
+        <div>{element.itemName}</div>
       </div>
     ));
     if (this.state.itemsList.length === 0) {

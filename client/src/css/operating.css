@@ -4,3 +4,10 @@
   width: 25%;
   height: 100%;
 }
+
+.createDiv {
+  background-color: #fbce2e;
+  width: 95%;
+  margin: 1rem;
+  border-radius: 5px;
+}

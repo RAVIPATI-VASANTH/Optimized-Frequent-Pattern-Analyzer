@@ -2,7 +2,6 @@
   display: flex;
   flex-direction: column;
   width: 100%;
-  background-color: #fbce2e;
   height: fit-content;
   align-items: center;
 }
@@ -11,7 +10,7 @@
   border-radius: 5px;
   border: #fbce2e;
   height: 3rem;
-  width: 85%;
+  width: 90%;
   margin-top: 1rem;
   font-size: medium;
   font-weight: bold;

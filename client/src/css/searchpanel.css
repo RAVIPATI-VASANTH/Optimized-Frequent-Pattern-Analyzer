@@ -9,10 +9,11 @@
 
 .searchElement {
   border: 0;
-  border-radius: 0 0 5px 5px;
+  border-radius: 5px;
   padding: 1rem 1.5rem 1.5rem 1rem;
   background-color: #fbce2e;
-  height: 10%;
+  height: 9%;
+  margin: 1rem;
 }
 
 .label {
@@ -33,18 +34,21 @@
 
 .listItems {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
   gap: 1rem;
   padding: 1rem;
   overflow: hidden;
   overflow-y: auto;
-  height: 64rem;
+  height: 62.5rem;
 }
 
-.item {
+.searchPanelItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   background-color: #fbce2e;
   border: 0;
-  height: min-content;
   border-radius: 5px;
+  padding: 1rem;
   align-content: center;
 }

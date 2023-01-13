@@ -79,14 +79,16 @@ export default class OperatePanel extends Component {
     }
     return (
       <div className="operating">
-        <CreateCategoryPanel
-          currentUser={this.props.currentUser}
-          updateCategoriesList={this.getCategories.bind(this)}
-        />
-        <CreateBrandpanel
-          currentUser={this.props.currentUser}
-          updatebrandsList={this.getBrands.bind(this)}
-        />
+        <div className="createDiv">
+          <CreateCategoryPanel
+            currentUser={this.props.currentUser}
+            updateCategoriesList={this.getCategories.bind(this)}
+          />
+          <CreateBrandpanel
+            currentUser={this.props.currentUser}
+            updatebrandsList={this.getBrands.bind(this)}
+          />
+        </div>
         {display}
       </div>
     );
