@@ -116,7 +116,7 @@ export default class ListPanel extends Component {
     );
     let itemsComponents = this.props.listedItems.map((item, itemIndex) => (
       <div className="item">
-        <p className="itemName">{item.itemName}</p>
+        <p className="itemNameLabel">{item.itemName}</p>
         <div>
           <label for="quantityInput" className="quantityLabel">
             Quantity
@@ -131,7 +131,6 @@ export default class ListPanel extends Component {
             }}
           />
         </div>
-        <br />
         <select
           className="selectpackType"
           onChange={(event) => {

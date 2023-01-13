@@ -176,7 +176,6 @@ export default class CreateFPARequest extends Component {
           if (response.responseStatus) {
             this.setState({ itemsList: response.listObjects }, () => {
               let l = [];
-              let style = { cursor: "pointer" };
               this.state.itemsList.forEach((item, index) => {
                 l.push(
                   <div
@@ -488,7 +487,7 @@ export default class CreateFPARequest extends Component {
       }
     }
     if (selectedItemsElements.length === 0) {
-      selectedItemsElements.push(<p>No Items are selecetd yet</p>);
+      selectedItemsElements.push(<p>No Items are selected yet</p>);
     }
 
     return (
@@ -551,7 +550,9 @@ export default class CreateFPARequest extends Component {
           />
         </div>
         <div className="selectedItemDiv">
-          <div>Selected Items</div>
+          <div>
+            <p className="selectedItemsLabel">Selected Items</p>
+          </div>
           <div className="selectedListDiv">
             {selectedItemsElements.map((element) => element)}
           </div>
