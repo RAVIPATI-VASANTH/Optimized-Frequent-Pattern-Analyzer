@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "6396cc89f1685314116b31ed"
+  },
+  "userId": "supermarket@Guntur",
+  "itemsList": [
+    {
+      "categoryName": "Category 13",
+      "itemName": "Item 762",
+      "itemBrand": "Brand 66",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 17,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 13",
+      "itemName": "Item 766",
+      "itemBrand": "Brand 70",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 82,
+        "discount": 0
+      }
+    }
+  ],
+  "timeStamp": "2022-11-12-12-9-4"
+},{
+  "_id": {
+    "$oid": "63a467082c84cdc70d9ee023"
+  },
+  "userId": "supermarket@Guntur",
+  "itemsList": [
+    {
+      "categoryName": "Category 13",
+      "itemName": "Item 762",
+      "itemBrand": "Brand 66",
+      "itemPrice": {
+        "packType": "Pack Type 2",
+        "price": 34,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 13",
+      "itemName": "Item 791",
+      "itemBrand": "Brand 44",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 13,
+        "discount": 0
+      }
+    }
+  ],
+  "timeStamp": "2022-11-22-19-47-44"
+},{
+  "_id": {
+    "$oid": "63b8565a7fdd23c8fea355c8"
+  },
+  "userId": "supermarket@untur",
+  "itemsList": [
+    {
+      "categoryName": "Category 1100",
+      "itemName": "Item 762",
+      "itemBrand": "Brand 6999",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 17,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 13",
+      "itemName": "Item 766",
+      "itemBrand": "Brand 70",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 82,
+        "discount": 0
+      }
+    }
+  ],
+  "timeStamp": "2022-11-12-12-9-4"
+},{
+  "_id": {
+    "$oid": "63bb941e87cd9857eef8b258"
+  },
+  "userId": "supermarket@Guntur",
+  "itemsList": [
+    {
+      "categoryName": "Category 3",
+      "itemName": "Item 104",
+      "itemBrand": "Brand 23",
+      "itemPrice": {
+        "packType": "Pack Type 2",
+        "price": 568,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 3",
+      "itemName": "Item 104",
+      "itemBrand": "Brand 23",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 284,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 17",
+      "itemName": "Item 1007",
+      "itemBrand": "Brand 45",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 68,
+        "discount": 0
+      }
+    }
+  ],
+  "timeStamp": "2023-0-9-9-42-14"
+},{
+  "_id": {
+    "$oid": "63bbcfdd87cd9857eef8b259"
+  },
+  "userId": "supermarket@Guntur",
+  "itemsList": [
+    {
+      "categoryName": "Category 2",
+      "itemName": "Item 99",
+      "itemBrand": "Brand 35",
+      "itemPrice": {
+        "packType": "Pack Type 2",
+        "price": 486,
+        "discount": 0
+      }
+    },
+    {
+      "categoryName": "Category 15",
+      "itemName": "Item 901",
+      "itemBrand": "Brand 141",
+      "itemPrice": {
+        "packType": "Pack Type 1",
+        "price": 116,
+        "discount": 0
+      }
+    }
+  ],
+  "timeStamp": "2023-0-9-13-57-9"
+}]

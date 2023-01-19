@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "63bef7992ef363a2ab562141"
+  },
+  "requestName": "V",
+  "status": "Draft",
+  "minSupport": 2,
+  "minConfidence": 1,
+  "discountStatus": false,
+  "selectedList": {
+    "categories": [
+      "Category 11"
+    ],
+    "brands": [
+      "Brand 4"
+    ],
+    "items": [
+      {
+        "categoryName": "Category 11",
+        "itemName": "Item 624",
+        "itemBrand": "Brand 102",
+        "itemPrices": [
+          {
+            "packType": "Pack Type 1",
+            "price": 156,
+            "discount": 0
+          },
+          {
+            "packType": "Pack Type 2",
+            "price": 312,
+            "discount": 0
+          }
+        ]
+      },
+      {
+        "categoryName": "vasanth",
+        "itemName": "Item H",
+        "itemBrand": "Brand 4",
+        "itemPrices": [
+          {
+            "packType": "10",
+            "price": 10,
+            "discount": 0
+          }
+        ]
+      }
+    ]
+  },
+  "date": {
+    "from": "",
+    "to": ""
+  },
+  "userId": "supermarket@Guntur"
+}]

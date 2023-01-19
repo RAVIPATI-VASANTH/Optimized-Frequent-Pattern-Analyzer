@@ -157,7 +157,7 @@ export default class ListPanel extends Component {
           value={itemIndex}
           onClick={this.removeButtonHandler.bind(this)}
         >
-          Remove Item
+          Remove
         </button>
       </div>
     ));
