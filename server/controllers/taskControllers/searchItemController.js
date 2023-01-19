@@ -10,6 +10,7 @@ const searchItemController = (req, res) => {
       try {
         let q = req.query.searchItem;
         if (q.length !== 0) {
+          console.log("hello");
           const database = client.db("MBAProjectDatabase");
           const retailerItems = database.collection("retailerItems");
           let listObjects = [];
@@ -28,6 +29,7 @@ const searchItemController = (req, res) => {
                 }
               });
           });
+          console.log(listObjects);
           resolve(listObjects);
         } else {
           resolve([]);
@@ -44,6 +46,7 @@ const searchItemController = (req, res) => {
 
   promise
     .then((listObjects) => {
+      console.log(listObjects);
       res.json({ responseStatus: true, listObjects: listObjects });
     })
     .catch(() => {
