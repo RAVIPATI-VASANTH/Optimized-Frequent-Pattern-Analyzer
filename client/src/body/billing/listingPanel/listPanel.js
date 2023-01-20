@@ -51,10 +51,11 @@ export default class ListPanel extends Component {
           price: item.itemPrices[item.packType].price,
           discount: item.itemPrices[item.packType].discount,
         },
+        quantity: item.quantity,
       });
     });
     let date = new Date();
-    let timeStamp = `${date.getFullYear()}-${date.getMonth()}-${date.getDate()}-${date.getHours()}-${date.getMinutes()}-${date.getSeconds()}`;
+    let timeStamp = date.toString();
     return {
       userId: this.props.currentUser,
       itemsList: l,

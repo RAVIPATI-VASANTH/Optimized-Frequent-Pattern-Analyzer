@@ -1,8 +1,35 @@
+##Tasks:
+
 1) Get all Items to DB
 2) Get all Brands from items
-3) create Transactions code and write in Database
+3) create Transactions code and write in Database  [DONE]
 4) Implement Algorithm new 
 5) Apply the algorithm to Transactions
 6) Designing the output of The FPA in UI
 7) Implement the UI in Tool
 8) Documentation and PPT
+
+
+
+##Subtasks:
+
+#Getting FPA of items
+    =>gather all items of request
+    =>create FPTree for request
+    =>apply promises to perform the for each individual item.
+
+#Getting Brand Usage over Others
+    =>gather all items of request
+    =>gether all the brands 
+    =>classify the brands which are in same category
+    =>now find the probabilities of each brands in each category and display them
+
+#Difference of buying a product in different Seasons/ Time Line/ Years
+    => take the list of items to be examine according to Seasons/ Time Line/ Years
+    => count the transaction tha item involved in the give time line.
+    => display the count to each item.
+
+#Discount states
+    => take the list of items to be examine according to Seasons/ Time Line/ Years
+    => count item with discount enabled and disabled 
+    => display the results of each Item

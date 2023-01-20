@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import CreateFPARequest from "./createFPARequest/createFPARequest";
+import FPARequest from "./fpaRequest/fpaRequest";
 import "./../../css/fpa.css";
 
 export default class FPA extends Component {
@@ -7,6 +8,7 @@ export default class FPA extends Component {
     super(props);
     this.state = {
       createPanelSignal: false,
+      fpaActive: null,
       fpaRequests: [],
     };
   }
@@ -89,6 +91,16 @@ export default class FPA extends Component {
       });
   }
 
+  selectedFPA(index) {
+    this.setState({ fpaActive: this.state.fpaRequests[index] });
+  }
+
+  setFPAActiveToNull() {
+    this.setState({
+      fpaActive: null,
+    });
+  }
+
   render() {
     let createButton;
     let viewComponent;
@@ -115,7 +127,13 @@ export default class FPA extends Component {
         viewComponent = (
           <div className="fpalistdiv">
             {this.state.fpaRequests.map((request, index) => (
-              <div className="fpaRequest" key={index}>
+              <div
+                className="fpaRequest"
+                key={index}
+                onClick={() => {
+                  this.selectedFPA(index);
+                }}
+              >
                 <p>{request.requestName}</p>
                 <div className="fpaInfoDiv">
                   <p>Status : {request.status}</p>
@@ -151,13 +169,26 @@ export default class FPA extends Component {
         ></CreateFPARequest>
       );
     }
+
+    let display;
+    if (this.state.fpaActive === null) {
+      display = viewComponent;
+    } else {
+      display = (
+        <FPARequest
+          fpaActive={this.state.fpaActive}
+          setFPAActiveToNull={this.setFPAActiveToNull.bind(this)}
+        ></FPARequest>
+      );
+    }
+
     return (
       <div className="fpa">
         <div className="top">
           <p className="fpalabel">FPA Requests</p>
           {createButton}
         </div>
-        {viewComponent}
+        {display}
       </div>
     );
   }
