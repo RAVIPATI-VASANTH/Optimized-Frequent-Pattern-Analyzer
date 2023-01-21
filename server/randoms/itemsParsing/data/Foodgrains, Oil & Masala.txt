@@ -1,11 +1,11 @@
-supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Whole Wheat, Aashitvaad, 3, 10kg, 476.00, 2kg, 125.00, 5kg, 318.00
+supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Whole Wheat, Aashirvaad, 3, 10kg, 476.00, 2kg, 125.00, 5kg, 318.00
 supermarket@Guntur, Atta - Flours & Sooji, Sooji Ordinary/Bombag Rava, BB Royal, 3, 5kg, 275.00, 500g, 33.00, 1kg, 55.00
-supermarket@Guntur, Atta - Flours & Sooji, Select Sharbati Atta, Aashitvaad, 3, 10kg, 680, 5kg, 351, 1kg, 73
+supermarket@Guntur, Atta - Flours & Sooji, Select Sharbati Atta, Aashirvaad, 3, 10kg, 680, 5kg, 351, 1kg, 73
 supermarket@Guntur, Atta - Flours & Sooji, Bansi Sooji, BB Royal, 2, 1kg, 75, 500g, 38
 supermarket@Guntur, Atta - Flours & Sooji, Rice - Flour, BB Royal, 2, 1kg, 60, 500g, 30
 supermarket@Guntur, Atta - Flours & Sooji, Maida - BB Royal, BB Royal, 4, 2kg, 120, 1kg, 60, 500g, 30, 5kg, 300
 supermarket@Guntur, Atta - Flours & Sooji, Atta Sharbati MP Whole Wheat, BB Royal, 5, 1kg, 68, 5kg, 330, 2kg, 138, 500g, 35, 10kg, 650
-supermarket@Guntur, Atta - Flours & Sooji, Atta with Multigrains - High Fibre, Aashitvaad, 3, 1kg, 76, 5kg, 367, 10kg, 720
+supermarket@Guntur, Atta - Flours & Sooji, Atta with Multigrains - High Fibre, Aashirvaad, 3, 1kg, 76, 5kg, 367, 10kg, 720
 supermarket@Guntur, Atta - Flours & Sooji, Besan Fine/Kadale Hittu, BB Royal, 2, 1kg, 150, 500g, 75
 supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Chakki Fresh, Pillsbury, 4, 1kg, 66, 2kg, 123, 5kg, 308, 10kg, 565
 supermarket@Guntur, Atta - Flours & Sooji, Chiroti Sooji, BB Royal, 2, 500g, 33, 1kg, 65
@@ -27,7 +27,7 @@ supermarket@Guntur, Atta - Flours & Sooji, Organic - Whole Wheat Atta/Godihittu,
 supermarket@Guntur, Atta - Flours & Sooji, Rice Flour/Akki Hittu - Super Saver, Super Saver, 2, 1kg, 55, 500g, 28
 supermarket@Guntur, Atta - Flours & Sooji, Corn Flour/ Starch, BB Royal, 2, 500g, 50, 1kg, 90
 supermarket@Guntur, Atta - Flours & Sooji, Chakki Fresh Atta/Godihittu, Fortune, 1, 5kg, 300
-supermarket@Guntur, Atta - Flours & Sooji, Sugar Release Control Atta/Godihittu, Aashitvaad, 1, 5kg, 420
+supermarket@Guntur, Atta - Flours & Sooji, Sugar Release Control Atta/Godihittu, Aashirvaad, 1, 5kg, 420
 supermarket@Guntur, Atta - Flours & Sooji, Organic - Rice Flour/Akki Hittu, BB Royal, 3, 1kg, 99, 2kg, 190, 500g, 50
 supermarket@Guntur, Atta - Flours & Sooji, Organic - Sooji/Rava, BB Royal, 3, 2kg, 169, 1kg, 88, 500g, 45
 supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Multigrain, Pillsbury, 2, 5kg, 367, 1kg, 75
@@ -39,7 +39,7 @@ supermarket@Guntur, Atta - Flours & Sooji, Cornflour - Weikfield, Weikfield, 1, 
 supermarket@Guntur, Atta - Flours & Sooji, Rava - Roasted - Double Horse, Double Horse, 1, 500g, 65
 supermarket@Guntur, Atta - Flours & Sooji, Ragi/nachni Flour - BB Popular, BB Popular, 3, 2kg, 200, 500g, 50, 1kg, 100
 supermarket@Guntur, Atta - Flours & Sooji, Bajra Flour - BB Royal, BB Royal, 1, 500g, 50
-supermarket@Guntur, Atta - Flours & Sooji, Nature's Super Foods - Ragi Flour/Ragi Hittu, Aashitvaad, 2, 500g, 50, 1kg, 50
+supermarket@Guntur, Atta - Flours & Sooji, Nature's Super Foods - Ragi Flour/Ragi Hittu, Aashirvaad, 2, 500g, 50, 1kg, 50
 supermarket@Guntur, Atta - Flours & Sooji, Organic - Besan/Kadale Hittu, BB Royal, 2, 1kg, 149, 500g, 76
 supermarket@Guntur, Atta - Flours & Sooji, Chiroti Sooji - Super Saver, Super Saver, 2, 500g, 30, 1kg, 50
 supermarket@Guntur, Atta - Flours & Sooji, Ragi - Huri Hittu, Indira's, 1, 400g, 75

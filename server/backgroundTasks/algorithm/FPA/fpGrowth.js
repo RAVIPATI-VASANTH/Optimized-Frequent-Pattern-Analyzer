@@ -1,4 +1,4 @@
-const fpTree = require("./Classes/fptree");
+const fpTree = require("./fpTree/fptree");
 
 class FPGrowth {
   constructor(transactions) {
