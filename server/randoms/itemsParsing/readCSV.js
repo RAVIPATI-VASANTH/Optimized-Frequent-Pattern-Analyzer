@@ -3,7 +3,7 @@ const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
 const nReadlines = require("n-readlines");
-const broadbandLines = new nReadlines("./data/Cleaning & Household.txt");
+const broadbandLines = new nReadlines("./data/pavan items.txt");
 
 let line;
 let lineNumber = 1;

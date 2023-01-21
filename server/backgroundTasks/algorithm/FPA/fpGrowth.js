@@ -1,4 +1,4 @@
-const fpTree = require("./Classes/fptree");
+const fpTree = require("./fpTree/fptree");
 
 class FPGrowth {
   constructor(transactions) {
@@ -7,13 +7,28 @@ class FPGrowth {
     this.itemsOrderOfOccurance = {};
   }
 
+  getCountsOfItems() {
+    let counts = {};
+    this.transactions.forEach((list) => {
+      list.forEach((element) => {
+        if (counts.hasOwnProperty(element)) {
+          counts[element] += 1;
+        } else {
+          this.itemsOrderOfOccurance[element] = this.occuranceCount;
+          this.occuranceCount++;
+          counts[element] = 1;
+        }
+      });
+    });
+    return counts;
+  }
+
   start() {
     // getting items counts of each unique item
-    console.log(this.transactions);
+    // console.log(this.transactions);
     this.itemscount = this.getCountsOfItems();
-    console.log(this.itemscount);
-
-    // Sort the each transaction as the this.itemsCount
+    console.log("items Counted");
+    // Sorting the each transaction as the this.itemsCount
     this.transactions.forEach((transaction) => {
       for (var i = 0; i < transaction.length; i++) {
         for (var j = 0; j < transaction.length - i - 1; j++) {
@@ -42,7 +57,7 @@ class FPGrowth {
       }
     });
 
-    console.log(this.transactions);
+    console.log("sorting completed");
 
     //Creating FP Tree
     this.fpTree = new fpTree();
@@ -50,5 +65,12 @@ class FPGrowth {
     this.transactions.forEach((element) => {
       this.fpTree.insertTransaction(element);
     });
+
+    console.log(
+      this.fpTree.root.value,
+      Object.keys(this.fpTree.root.childMap).length
+    );
   }
 }
+
+module.exports = FPGrowth;

@@ -1,4 +1,3 @@
-const { constants } = require("fs/promises");
 const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
@@ -42,6 +41,7 @@ promise
       var noofCustomersInADay = randomInt(100, 125);
       for (var j = 1; j < noofCustomersInADay; j++) {
         // console.log(`Day ${i} customer${j} ${today.toString()}`);
+        // console.log(allTransactions.length);
         var finalItems = [];
         var randomCategories = [];
         var dummycategories = [...categories];
@@ -94,7 +94,7 @@ promise
         allTransactions.push({
           userId: "supermarket@Guntur",
           itemsList: finalItems,
-          timeStamp: today.toString(),
+          timeStamp: new Date(today),
         });
       }
       today.setDate(today.getDate() + 1);

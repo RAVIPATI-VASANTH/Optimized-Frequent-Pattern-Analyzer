@@ -1,199 +1,199 @@
-supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Whole Wheat, Aashitvaad, 3, 10kg, 476.00, 2kg, 125.00, 5kg, 318.00
-supermarket@Guntur, Atta - Flours & Sooji, Sooji Ordinary/Bombag Rava, BB Royal, 3, 5kg, 275.00, 500g, 33.00, 1kg, 55.00
-supermarket@Guntur, Atta - Flours & Sooji, Select Sharbati Atta, Aashitvaad, 3, 10kg, 680, 5kg, 351, 1kg, 73
-supermarket@Guntur, Atta - Flours & Sooji, Bansi Sooji, BB Royal, 2, 1kg, 75, 500g, 38
-supermarket@Guntur, Atta - Flours & Sooji, Rice - Flour, BB Royal, 2, 1kg, 60, 500g, 30
-supermarket@Guntur, Atta - Flours & Sooji, Maida - BB Royal, BB Royal, 4, 2kg, 120, 1kg, 60, 500g, 30, 5kg, 300
-supermarket@Guntur, Atta - Flours & Sooji, Atta Sharbati MP Whole Wheat, BB Royal, 5, 1kg, 68, 5kg, 330, 2kg, 138, 500g, 35, 10kg, 650
-supermarket@Guntur, Atta - Flours & Sooji, Atta with Multigrains - High Fibre, Aashitvaad, 3, 1kg, 76, 5kg, 367, 10kg, 720
-supermarket@Guntur, Atta - Flours & Sooji, Besan Fine/Kadale Hittu, BB Royal, 2, 1kg, 150, 500g, 75
-supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Chakki Fresh, Pillsbury, 4, 1kg, 66, 2kg, 123, 5kg, 308, 10kg, 565
-supermarket@Guntur, Atta - Flours & Sooji, Chiroti Sooji, BB Royal, 2, 500g, 33, 1kg, 65
-supermarket@Guntur, Atta - Flours & Sooji, Roasted Sooji/Rava, BB Royal, 2, 1kg, 80, 500g, 40
-supermarket@Guntur, Atta - Flours & Sooji, Idli Sooji/Rava, BB Royal, 1, 2kg, 120
-supermarket@Guntur, Atta - Flours & Sooji, Chakki-Fresh-Wheat-Atta/Godihittu - Fortified, BB Royal, 3, 1kg, 62, 5kg, 275, 10kg, 510
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Maida, BB Royal, 3, 2kg, 170, 500g, 43, 1kg, 66
-supermarket@Guntur, Atta - Flours & Sooji, Wheat Dalia/Lapsi rava, BB Royal, 2, 1kg, 80, 500g, 30
-supermarket@Guntur, Atta - Flours & Sooji, Fine Besan/Kadale Hittu - 100% Chana Dal, Tata Sampann, 2, 1kg, 125, 500g, 64
-supermarket@Guntur, Atta - Flours & Sooji, Atta With 9 Multigrain, BB Royal, 3, 10kg, 650, 5kg, 330, 1kg, 68
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Ragi Flour, BB Royal, 4, 2kg, 160, 1kg, 80, 500g, 41, 5kg, 349
-supermarket@Guntur, Atta - Flours & Sooji, Maida - Super Saver, Super Saver, 2, 500g, 28, 1kg, 55
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Jowar Flour/Jolada Hittu, BB Royal, 2, 1kg, 90, 500g, 46
-supermarket@Guntur, Atta - Flours & Sooji, Ragi Flour/Ragi Hittu, Super Saver, 2, 1kg, 90, 500g, 45
-supermarket@Guntur, Atta - Flours & Sooji, Gold Atta Sharbati Atta, Pillsbury, 2, 1kg, 65, 5kg, 335
-supermarket@Guntur, Atta - Flours & Sooji, Rice Flour, Vijay, 1, 1kg, 54
-supermarket@Guntur, Atta - Flours & Sooji, Sooji Ordinary/Bombay Rava, Super Saver, 2, 500g, 31, 1kg, 55
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Whole Wheat Atta/Godihittu, BB Royal, 5, 5kg, 329, 2kg, 135, 500g, 35, 10kg, 658, 1kg, 69
-supermarket@Guntur, Atta - Flours & Sooji, Rice Flour/Akki Hittu - Super Saver, Super Saver, 2, 1kg, 55, 500g, 28
-supermarket@Guntur, Atta - Flours & Sooji, Corn Flour/ Starch, BB Royal, 2, 500g, 50, 1kg, 90
-supermarket@Guntur, Atta - Flours & Sooji, Chakki Fresh Atta/Godihittu, Fortune, 1, 5kg, 300
-supermarket@Guntur, Atta - Flours & Sooji, Sugar Release Control Atta/Godihittu, Aashitvaad, 1, 5kg, 420
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Rice Flour/Akki Hittu, BB Royal, 3, 1kg, 99, 2kg, 190, 500g, 50
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Sooji/Rava, BB Royal, 3, 2kg, 169, 1kg, 88, 500g, 45
-supermarket@Guntur, Atta - Flours & Sooji, Atta/Godihittu - Multigrain, Pillsbury, 2, 5kg, 367, 1kg, 75
-supermarket@Guntur, Atta - Flours & Sooji, Idli Rava - Vijay, Vijay, 1, 1kg, 54
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Maize Flour/Makka Atta, BB Royal, 2, 500g, 46, 1kg, 89
-supermarket@Guntur, Atta - Flours & Sooji, Ragi Flour - Vijay, Vijay, 1, 500g, 30
-supermarket@Guntur, Atta - Flours & Sooji, Bombay Sooji - Vijay, Vijay, 1, 1kg, 64
-supermarket@Guntur, Atta - Flours & Sooji, Cornflour - Weikfield, Weikfield, 1, 100g, 30
-supermarket@Guntur, Atta - Flours & Sooji, Rava - Roasted - Double Horse, Double Horse, 1, 500g, 65
-supermarket@Guntur, Atta - Flours & Sooji, Ragi/nachni Flour - BB Popular, BB Popular, 3, 2kg, 200, 500g, 50, 1kg, 100
-supermarket@Guntur, Atta - Flours & Sooji, Bajra Flour - BB Royal, BB Royal, 1, 500g, 50
-supermarket@Guntur, Atta - Flours & Sooji, Nature's Super Foods - Ragi Flour/Ragi Hittu, Aashitvaad, 2, 500g, 50, 1kg, 50
-supermarket@Guntur, Atta - Flours & Sooji, Organic - Besan/Kadale Hittu, BB Royal, 2, 1kg, 149, 500g, 76
-supermarket@Guntur, Atta - Flours & Sooji, Chiroti Sooji - Super Saver, Super Saver, 2, 500g, 30, 1kg, 50
-supermarket@Guntur, Atta - Flours & Sooji, Ragi - Huri Hittu, Indira's, 1, 400g, 75
-supermarket@Guntur, Atta - Flours & Sooji, Wheat Flour (Atta/Godihittu), Super Saver, 1, 10kg, 475
-supermarket@Guntur, Atta - Flours & Sooji, Puttupodi - White - Double Horse, Double Horse, 2, 1kg, 120, 500g, 65
-supermarket@Guntur, Atta - Flours & Sooji, Bansi Sooji - Vijay, Vijay, 1, 1kg, 62
-supermarket@Guntur, Atta - Flours & Sooji, Appam Idiyappam Pathiri - Double Horse, Double Horse, 1, 500g, 43
-supermarket@Guntur, Atta - Flours & Sooji, Besan/Kadale Hittu - Super Saver, Super Saver, 2, 1kg, 120, 500g, 60
-supermarket@Guntur, Atta - Flours & Sooji, Akki Tari - Vijay, Vijay, 1, 1kg, 52
-supermarket@Guntur, Dals & Pulses, Toor Dal/Togari Bele - Desi, BB Royal, 3, 5kg, 850, 2kg, 340, 500g, 85
-supermarket@Guntur, Dals & Pulses, Peanuts/Kadalekayi - Raw, BB Royal, 3, 200g, 50, 500g, 115, 1kg, 230
-supermarket@Guntur, Dals & Pulses, Fried Gram/Huri Kadale, BB Royal, 3, 200g, 40, 500g, 90, 1kg, 180
-supermarket@Guntur, Dals & Pulses, Urad Dal/Uddina Bele - Split, BB Popular, 2, 1kg, 200, 500g, 100
-supermarket@Guntur, Dals & Pulses, Toor Dal/Togari Bele, Tata Sampann, 2, 500g, 100, 1kg, 199
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 380, 1kg, 190, 500g, 95
-supermarket@Guntur, Dals & Pulses, Chana Dal/Kadale Bele - BB Royal,  BB Royal, 3, 2kg, 320, 1kg, 120, 500g, 60
-supermarket@Guntur, Dals & Pulses, Organic - Toor Dal/Togari Bele, BB Royal, 4, 2kg, 399, 5kg, 899, 1kg, 200, 500g, 105
-supermarket@Guntur, Dals & Pulses, Toor/Arhar Dal - BB Popular, BB Popular, 1, 500g, 80
-supermarket@Guntur, Dals & Pulses, Green Moong Whole/Sabut, BB Royal, 1, 500g, 90
-supermarket@Guntur, Dals & Pulses, Chana - Kabuli/Kabuli Kadale, BB Popular, 2, 200g, 43, 500g, 90
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - BB Royal, BB Royal, 3, 2kg, 400, 1kg, 200, 500g, 100
-supermarket@Guntur, Dals & Pulses, Urad Dal/Uddina Bele - Split, BB Royal, 4, 200g, 50, 500g, 105, 1kg, 210, 2kg, 420
-supermarket@Guntur, Dals & Pulses, Urad Gota/Whole - BB Royal, BB Royal, 1, 2kg, 420
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - Tata Sampann, Tata Sampann, 2, 1kg, 180, 500g, 88
-supermarket@Guntur, Dals & Pulses, Chana - Brown/Kadale Kaalu - BB Popular, BB Popular, 2, 1kg, 140, 500g, 70
-supermarket@Guntur, Dals & Pulses, Organic - Raw Peanuts/Kadalekayi, BB Royal, 2, 1kg, 249, 500g, 126
-supermarket@Guntur, Dals & Pulses, Unpolished Urad Dal - Whole, Tata Sampann, 2, 500g, 96, 1kg, 189
-supermarket@Guntur, Dals & Pulses, Masoor Dal/Mysore Bele - BB Royal, BB Royal, 1, 200g, 37
-supermarket@Guntur, Dals & Pulses, Chana Dal/Kadale Bele - BB Popular, BB Popular, 3, 2kg, 230, 1kg, 115, 500g, 59
-supermarket@Guntur, Dals & Pulses, Masoor Dal/Mysore Bele - BB Popular, BB Popular, 3, 1kg, 150, 500g, 75, 200g, 32
-supermarket@Guntur, Dals & Pulses, Toor/Arhar Dal - Super Saver, Super Saver, 4, 2kg, 300, 1kg, 150, 5kg, 750, 500g, 75
-supermarket@Guntur, Dals & Pulses, Organic Kabuli Chana/Kabuli Kadale, BB Royal, 3, 2kg, 399, 1kg, 205, 500g, 105
-supermarket@Guntur, Dals & Pulses, Red Lobia/Alasandee Kaalu - BB Royal, BB Royal, 2, 1kg, 160, 500g, 80
-supermarket@Guntur, Edible Oils & Ghee, Refined - Sunflower Oil - Sunpure, Sunpure, 2, 1l, 152, 5l, 900
-supermarket@Guntur, Edible Oils & Ghee, Sunflower Refined Oil - Sun Lite - Fortune, Fortune, 1, 1l, 169
-supermarket@Guntur, Edible Oils & Ghee, Pooja Oil - Anandam, Anandam, 2, 890g, 180, 445g, 90
-supermarket@Guntur, Edible Oils & Ghee, Ghee/Tuppa - GRB, GRB, 3, 1l, 835, 500ml, 425, 200ml, 180
-supermarket@Guntur, Edible Oils & Ghee, Oil - Gingelly - Idhayam, Idhayam, 2, 500ml, 217, 1l, 430
-supermarket@Guntur, Edible Oils & Ghee, Fortune Premium Kachi Ghani Pure Mustard Oil, Fortune, 2, 1l, 224, 500ml, 111
-supermarket@Guntur, Edible Oils & Ghee, Rice Bran Oil - Fortune, Fortune, 1, 1l, 199
-supermarket@Guntur, Edible Oils & Ghee, Gold Refined Cooking oil - Saffola, Saffola, 1, 1l, 220
-supermarket@Guntur, Edible Oils & Ghee, Refined - Sunflower Oil - Dhara, Dhara, 2, 5l, 1075, 1l, 210
-supermarket@Guntur, Edible Oils & Ghee, Nakshatra Pooja Oil - Mr. Gold, Mr. Gold, 1, 1l, 205
-supermarket@Guntur, Edible Oils & Ghee, Sun lite Refined Sunflower Oil, Fortune, 1, 5l, 865
-supermarket@Guntur, Edible Oils & Ghee, Oil - Groundnut - Dhara, Dhara, 2, 5l, 1300, 1l, 255
-supermarket@Guntur, Edible Oils & Ghee, Pure Ghee/Tuppa - Fresho, Fresho, 4, 500ml, 380, 1l, 675, 200ml, 155, 2l, 1350
-supermarket@Guntur, Edible Oils & Ghee, Cold Pressed Sunflower Cooking Oil, BB Royal Organic, 3, 3l, 1170, 2l, 780, 1l, 390
-supermarket@Guntur, Edible Oils & Ghee, Sunflower Oil - Gemini, Gemini, 2, 1l, 210, 5l, 1075
-supermarket@Guntur, Edible Oils & Ghee, Cow Desi Ghee/Tuppa - Fresho, Fresho, 3, 2l, 2600, 500ml, 660, 1l, 1300
-supermarket@Guntur, Edible Oils & Ghee, Gold Refined Cooking oil - Saffola, Saffola, 3, 5l, 1170, 2l, 455, 15l, 3085
-supermarket@Guntur, Edible Oils & Ghee, Olive Oil For Indian Cooking, BORGES, 2, 2l, 2600, 1l, 1350
-supermarket@Guntur, Edible Oils & Ghee, Rice Bran Health Physically Refined Rice Bran Oil, Sunpure, 2, 1l, 175, 2l, 350
-supermarket@Guntur, Edible Oils & Ghee, Superlite Advanced Oil - Sunflower, Sundrop, 1, 3l, 669
-supermarket@Guntur, Edible Oils & Ghee, Cow Ghee/Tuppa - Aashirvaad Svasti, Aashirvaad Svasti, 4, 500g, 445, 400ml, 370, 200g, 185, 1l, 890
-supermarket@Guntur, Edible Oils & Ghee, Coconad - Coconut Oil - Klf, Klf, 2, 1l, 300, 500ml, 150
-supermarket@Guntur, Edible Oils & Ghee, Filtered Groundnut Oil - Mr. Gold, Mr. Gold, 1, 1l, 240
-supermarket@Guntur, Edible Oils & Ghee, Oil - Groundnut - Freedom, Freedom, 1, 1l, 205
-supermarket@Guntur, Edible Oils & Ghee, Refined Oil - Rice Bran - Fortune, Fortune, 1, 5l, 1025
-supermarket@Guntur, Salt Sugar & Jaggery, Sugar/Sakkare - BB Popular, BB Popular, 3, 5kg, 275, 1kg, 55, 2kg, 110
-supermarket@Guntur, Salt Sugar & Jaggery, Vacuum Evaporated Iodised Salt, Tata Salt, 1, 1kg, 28
-supermarket@Guntur, Salt Sugar & Jaggery, Sugar - Pure & Hygienic - Fine Grain - Natural - Sulphur Free, Madhur, 2, 1kg, 60, 5kg, 295
-supermarket@Guntur, Salt Sugar & Jaggery, Refined Sugar (Sulphurless)/Sakkare, BB Royal, 3, 5kg, 300, 2kg, 120, 1kg, 60
-supermarket@Guntur, Salt Sugar & Jaggery, Organic - Brown Sugar/Sakkare, BB Royal, 4, 2kg, 229, 500g, 60, 1kg, 119, 5kg, 549
-supermarket@Guntur, Salt Sugar & Jaggery, Sugar/Sakkare - White Label, Parry's, 2, 1kg, 60, 5kg, 300
-supermarket@Guntur, Salt Sugar & Jaggery, Jaggery/Bella Round - BB Royal, BB Royal, 1, 1kg, 100
-supermarket@Guntur, Salt Sugar & Jaggery, Organic - Sugar/Sakkare - BB Royal, BB Royal, 4, 2kg, 215, 4kg, 430, 1kg, 110, 5kg, 499
-supermarket@Guntur, Salt Sugar & Jaggery, Salt/Uppu - Iodised - Aashirvaad, Aashirvaad, 1, 1kg, 28
-supermarket@Guntur, Salt Sugar & Jaggery, Iodised Crystal Salt/Uppu, Tata Salt, 1, 1kg, 22
-supermarket@Guntur, Salt Sugar & Jaggery, Himalayan Pink Rock Salt/Uppu Powder, GoodDiet, 1, 1kg, 95
-supermarket@Guntur, Salt Sugar & Jaggery, Salt/Uppu - Crystal - AKAR, AKAR, 1, 1kg, 26
-supermarket@Guntur, Salt Sugar & Jaggery, Jaggery/Bella - Kolhapuri - BB Royal, BB Royal, 2, 450g, 72, 900g, 82
-supermarket@Guntur, Salt Sugar & Jaggery, Tata Salt - Lite - 15% Low Sodium Iodised Salt, Tata Salt, 1, 1kg, 50
-supermarket@Guntur, Salt Sugar & Jaggery, Pure Refined - Sugar Sulphur Free/Sakkare, Parry's, 2, 1kg, 70, 5kg, 320
-supermarket@Guntur, Salt Sugar & Jaggery, Amrit - Brown Sugar/Sakkare, Parry's, 1, 500g, 50
-supermarket@Guntur, Salt Sugar & Jaggery, jaggery powder PP - Parry's, Parry's, 1, 500g, 55
-supermarket@Guntur, Salt Sugar & Jaggery, Jaggery/Bella Round - BB Royal, BB Royal, 1, 500g, 50
-supermarket@Guntur, Salt Sugar & Jaggery, Rock Salt/Uppu - Tata Salt, Tata Salt, 4, 1kg, 120, 100g, 32, 200g, 30, 500g, 65
-supermarket@Guntur, Salt Sugar & Jaggery, Iodized Crystal Salt/Uppu, Aashirvaad, 1, 1kg, 22
-supermarket@Guntur, Salt Sugar & Jaggery, Black Salt/Kala Namak - Powder, BB Royal, 3, 100g, 15, 200g, 30, 50g, 10
-supermarket@Guntur, Salt Sugar & Jaggery, Natural Jaggery/Bella Powder, Forgreen, 2, 500g, 59, 1kg, 119
-supermarket@Guntur, Salt Sugar & Jaggery, Organic - Jaggery/Bella - BB Royal, BB Royal, 2, 800g, 109, 400g, 55
-supermarket@Guntur, Salt Sugar & Jaggery, Jaggery/Bella - Cubes - BB Royal, BB Royal, 1, 400g, 80
-supermarket@Guntur, Salt Sugar & Jaggery, Misri / Sugar/Sakkare Diamond, BB Royal, 2, 200g, 40, 100g, 20
-supermarket@Guntur, Salt Sugar & Jaggery, 50% Less Calories Sugar/Sakkare, Sugarlite, 1, 500g, 99
-supermarket@Guntur, Salt Sugar & Jaggery, Rock Salt - Powder/Uppu - BB Royal, BB Royal, 2, 1kg, 90, 500g, 45
-supermarket@Guntur, Salt Sugar & Jaggery, Super Lite Iodized Salt - 30 % Less Sodium, Tata Salt, 1, 1kg, 60
-supermarket@Guntur, Salt Sugar & Jaggery, Organic Misri - Whole Sugar/Sakkare Candy, BB Royal, 3, 500g, 99, 200g, 42, 100g, 23
-supermarket@Guntur, Salt Sugar & Jaggery, Jaggery/Bella Powder - Pesticide Free, Safe Harvest, 1, 500g, 75
-supermarket@Guntur, Salt Sugar & Jaggery, Rock Salt/Uppu - Natural - Organic Tattva, Organic Tattva, 1, 500g, 60
-supermarket@Guntur, Salt Sugar & Jaggery, Pure Refined - Sugar - Sulphur Free/Sakkare, Parry's, 1, 1kg, 75
-supermarket@Guntur, Salt Sugar & Jaggery, Sprinklers - Iodised Table Salt/Uppu, Catch, 2, 100g, 25, 200g, 40
-supermarket@Guntur, Salt Sugar & Jaggery, Salt/Uppu - Saffola, Saffola, 1, 1kg, 35
-supermarket@Guntur, Salt Sugar & Jaggery, Gold Low Calorie Sweetener, Sugar free, 1, 100g, 150
-supermarket@Guntur, Salt Sugar & Jaggery, Black Salt/Kala Namak - Powder, BB Royal, 1, 200g, 30
-supermarket@Guntur, Salt Sugar & Jaggery, Sweet Care - Low GI Sugar, Parry's, 2, 500g, 60, 200g, 50
-supermarket@Guntur, Salt Sugar & Jaggery, Pure Refined - Sugar - Parry's, Parry's, 1, 500g, 65
-supermarket@Guntur, Salt Sugar & Jaggery, Himalayan Kala Namak, Keya, 1, 200g, 60
-supermarket@Guntur, Dals & Pulses, Toor Dal/Togari Bele - Desi - BB Royal, BB Royal, 4, 5kg, 850, 2kg, 340, 500g, 85, 1kg, 170
-supermarket@Guntur, Dals & Pulses, Peanuts/Kadalekayi - Raw, BB Royal, 3, 200g, 50, 500g, 115, 1kg, 230
-supermarket@Guntur, Dals & Pulses, Fried Gram/Huri Kadale - BB Royal, BB Royal, 3, 200g, 40, 1kg, 180, 500g, 90
-supermarket@Guntur, Dals & Pulses, Urad Dal/Uddina Bele - Split, BB Popular, 2, 1kg, 200, 500g, 100
-supermarket@Guntur, Dals & Pulses, Toor Dal/Togari Bele - Tata Sampann, Tata Sampann, 2, 500g, 100, 1kg, 199
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 380, 1kg, 190, 500g, 95
-supermarket@Guntur, Dals & Pulses, Chana Dal/Kadale Bele, BB Royal, 3, 2kg, 320, 1kg, 160, 500g, 80
-supermarket@Guntur, Dals & Pulses, Organic - Toor Dal/Togari Bele, BB Royal, 4, 2kg, 399, 5kg, 899, 1kg, 200, 500g, 105
-supermarket@Guntur, Dals & Pulses, Toor/Arhar Dal - BB Popular, BB Popular, 4, 5kg, 800, 1kg, 160, 2kg, 320, 500g, 80
-supermarket@Guntur, Dals & Pulses, Green Moong Whole/Sabut, BB Royal, 2, 500g, 90, 1kg, 180
-supermarket@Guntur, Dals & Pulses, Chana - Kabuli/Kabuli Kadale, BB Popular, 3, 200g, 40, 500g, 90, 1kg, 180
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 400, 500g, 100, 1kg, 200
-supermarket@Guntur, Dals & Pulses, Urad Gota/Whole - BB Royal, BB Royal, 3, 2kg, 420, 1kg, 210, 500g, 105
-supermarket@Guntur, Dals & Pulses, Moong Dal/Hesaru Bele - Tata Sampann, Tata Sampann, 2, 500g, 88, 1kg, 180
-supermarket@Guntur, Dals & Pulses, Chana - Brown/Kadale Kaalu - BB Popular, BB Popular, 2, 1kg, 140, 500g, 70
-supermarket@Guntur, Dals & Pulses, Organic - Raw Peanuts/Kadalekayi - BB Royal, BB Royal, 2, 1kg, 249, 500g, 126
-supermarket@Guntur, Dals & Pulses, Unpolished Urad Dal - Whole - Tata Sampann, Tata Sampann, 2, 500g, 96, 1kg, 189
-supermarket@Guntur, Dals & Pulses, Masoor Dal/Mysore Bele - BB Royal, BB Royal, 3, 1kg, 160, 500g, 80, 200g, 37
-supermarket@Guntur, Dals & Pulses, Chana Dal/Kadale Bele - BB Popular, BB Popular, 3, 2kg, 230, 1kg, 115, 500g, 58
-supermarket@Guntur, Dals & Pulses, Masoor Dal/Mysore Bele - BB Popular, BB Popular, 3, 1kg, 150, 500g, 75, 200g, 32
-supermarket@Guntur, Dals & Pulses, Toor/Arhar Dal - Super Saver, Super Saver, 4, 500g, 75, 2kg, 300, 1kg, 150, 5kg, 750
-supermarket@Guntur, Dals & Pulses, Organic Kabuli Chana/Kabuli Kadale, BB Royal, 3, 2kg, 399, 1kg, 205, 500g, 105
-supermarket@Guntur, Dals & Pulses, Red Lobia/Alasandee Kaalu, BB Royal, 2, 1kg, 160, 500g, 80
-supermarket@Guntur, Dals & Pulses, Lobia/Alasandee Kaalu - Red - BB Royal, BB Royal, 1, 200g, 35
-supermarket@Guntur, Dals & Pulses, Green Peas/Matar - BB Royal, BB Royal, 3, 200g, 70, 1kg, 290, 500g, 150
-supermarket@Guntur, Masalas & Spices, Cumin/Jeera/Jeerige - Whole, BB Royal, 5, 500g, 300, 1kg, 600, 200g, 120, 100g, 60, 50g, 30
-supermarket@Guntur, Masalas & Spices, Mustard/Sasive/Rai - Small, BB Royal, 4, 1kg, 300, 500g, 150, 100g, 30, 200g, 60
-supermarket@Guntur, Masalas & Spices, Fenugreek/Methi/Menthya, BB Popular, 3, 100g, 20, 200g, 40, 50g, 10
-supermarket@Guntur, Masalas & Spices, Tamarind/Imli - Deseeded, BB Royal, 3, 1kg, 400, 200g, 80, 500g, 200
-supermarket@Guntur, Masalas & Spices, Organic Black Pepper/Kari Menasui, BB Royal, 5, 500g, 549, 100g, 120, 400g, 460, 200g, 230, 50g, 60
-supermarket@Guntur, Masalas & Spices, Chilli - Guntur with Stem, BB Royal, 3, 500g, 350, 200g, 140, 100g, 70
-supermarket@Guntur, Masalas & Spices, Coriander Seeds/Kottambari Beeja, BB Royal, 4, 200g, 100, 100g, 50, 50g, 25, 500g, 225
-supermarket@Guntur, Masalas & Spices, Organic - Byadagi Chilli Whole, BB Royal, 2, 200g, 199, 100g, 100
-supermarket@Guntur, Masalas & Spices, Black Pepper/Kari Menasu, BB Popular, 3, 200g, 280, 100g, 140, 50g, 70
-supermarket@Guntur, Masalas & Spices, Phool Makhana - BB Popular, BB Popular, 2, 100g, 150, 50g, 75
-supermarket@Guntur, Masalas & Spices, Chilli - Guntur Stemless, BB Royal, 3, 500g, 400, 200g, 160, 100g, 80
-supermarket@Guntur, Masalas & Spices, Organic - Cinnamon/Chakke, BB Royal, 4, 200g, 239, 50g, 61, 20g, 27, 100g, 120
-supermarket@Guntur, Masalas & Spices, Masala - Puliogare Powder, MTR, 3, 200g, 135, 100g, 70, 27g, 12
-supermarket@Guntur, Masalas & Spices, Organic - Cardamom Green/Elakki, BB Royal, 3, 20g, 99, 50g, 225, 100g, 449
-supermarket@Guntur, Masalas & Spices, Powder - Asafoetida, LG, 2, 50g, 85, 100g, 165
-supermarket@Guntur, Masalas & Spices, Til/Ellu - White, BB Royal, 4, 500g, 250, 200g, 100, 50g, 25, 100g, 50
-supermarket@Guntur, Masalas & Spices, Mustard/Sasive/Rai - Big, BB Royal, 4, 1kg, 168, 200g, 35, 500g, 85, 100g, 18
-supermarket@Guntur, Masalas & Spices, Fennel/Saunf/Sompu - Big, BB Popular, 2, 100g, 35, 50g, 18
-supermarket@Guntur, Masalas & Spices, Chilli - Byadagi Stemless, BB Royal, 4, 500g, 560, 50g, 58, 100g, 115, 200g, 225
-supermarket@Guntur, Masalas & Spices, Organic - Methi/Menthya, BB Royal, 4, 1kg, 130, 500g, 69, 100g, 19, 200g, 36
-supermarket@Guntur, Masalas & Spices, Tamarind/Imli - BB Popular, BB Popular, 2, 1kg, 143.5, 500g, 72
-supermarket@Guntur, Masalas & Spices, Fennel/Saunf/Sompu - Small, BB Royal, 3, 200g, 88, 100g, 48, 50g, 25
-supermarket@Guntur, Masalas & Spices, Mustard/Sasive/Rai - Small, BB Popular, 4, 50g, 10, 500g, 65.5, 100g, 14.5, 200g, 29
-supermarket@Guntur, Masalas & Spices, Organic - Mustard/Sasive/Rai Small, BB Royal, 3, 500g, 72, 100g, 19, 200g, 38
-supermarket@Guntur, Masalas & Spices, Powder - Coriander, MTR, 2, 500g, 171, 100g, 37
-supermarket@Guntur, Masalas & Spices, Powder - Hing, MTR, 2, 25g, 47, 50g, 90
-supermarket@Guntur, Masalas & Spices, Turmeric Powder/Arisina Pudi, MTR, 1, 100g, 32
-supermarket@Guntur, Masalas & Spices, Organic - Cumin/Jeera/Jeerige, BB Royal, 3, 100g, 49, 500g, 229, 200g, 95
-supermarket@Guntur, Masalas & Spices, Paste - Ginger & Garlic, Mother's Recipe, 2, 200g, 40, 100g, 20
-supermarket@Guntur, Masalas & Spices, Tikhalal Chilli Powder/Menasina Pudi, Everest, 1, 500g, 300
-supermarket@Guntur, Masalas & Spices, Powder - Tikhalal Chilli, Everest, 1, 200g, 100
-supermarket@Guntur, Masalas & Spices, Coriander Seeds/Kottambari Beeja, BB Royal,  3, 100g, 30, 200g, 58, 500g, 140
+supermarket@Guntur, Atta - Flours and Sooji, Atta/Godihittu - Whole Wheat, Aashirvaad, 3, 10kg, 476.00, 2kg, 125.00, 5kg, 318.00
+supermarket@Guntur, Atta - Flours and Sooji, Sooji Ordinary/Bombag Rava, BB Royal, 3, 5kg, 275.00, 500g, 33.00, 1kg, 55.00
+supermarket@Guntur, Atta - Flours and Sooji, Select Sharbati Atta, Aashirvaad, 3, 10kg, 680, 5kg, 351, 1kg, 73
+supermarket@Guntur, Atta - Flours and Sooji, Bansi Sooji, BB Royal, 2, 1kg, 75, 500g, 38
+supermarket@Guntur, Atta - Flours and Sooji, Rice - Flour, BB Royal, 2, 1kg, 60, 500g, 30
+supermarket@Guntur, Atta - Flours and Sooji, Maida - BB Royal, BB Royal, 4, 2kg, 120, 1kg, 60, 500g, 30, 5kg, 300
+supermarket@Guntur, Atta - Flours and Sooji, Atta Sharbati MP Whole Wheat, BB Royal, 5, 1kg, 68, 5kg, 330, 2kg, 138, 500g, 35, 10kg, 650
+supermarket@Guntur, Atta - Flours and Sooji, Atta with Multigrains - High Fibre, Aashirvaad, 3, 1kg, 76, 5kg, 367, 10kg, 720
+supermarket@Guntur, Atta - Flours and Sooji, Besan Fine/Kadale Hittu, BB Royal, 2, 1kg, 150, 500g, 75
+supermarket@Guntur, Atta - Flours and Sooji, Atta/Godihittu - Chakki Fresh, Pillsbury, 4, 1kg, 66, 2kg, 123, 5kg, 308, 10kg, 565
+supermarket@Guntur, Atta - Flours and Sooji, Chiroti Sooji, BB Royal, 2, 500g, 33, 1kg, 65
+supermarket@Guntur, Atta - Flours and Sooji, Roasted Sooji/Rava, BB Royal, 2, 1kg, 80, 500g, 40
+supermarket@Guntur, Atta - Flours and Sooji, Idli Sooji/Rava, BB Royal, 1, 2kg, 120
+supermarket@Guntur, Atta - Flours and Sooji, Chakki-Fresh-Wheat-Atta/Godihittu - Fortified, BB Royal, 3, 1kg, 62, 5kg, 275, 10kg, 510
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Maida, BB Royal, 3, 2kg, 170, 500g, 43, 1kg, 66
+supermarket@Guntur, Atta - Flours and Sooji, Wheat Dalia/Lapsi rava, BB Royal, 2, 1kg, 80, 500g, 30
+supermarket@Guntur, Atta - Flours and Sooji, Fine Besan/Kadale Hittu - 100% Chana Dal, Tata Sampann, 2, 1kg, 125, 500g, 64
+supermarket@Guntur, Atta - Flours and Sooji, Atta With 9 Multigrain, BB Royal, 3, 10kg, 650, 5kg, 330, 1kg, 68
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Ragi Flour, BB Royal, 4, 2kg, 160, 1kg, 80, 500g, 41, 5kg, 349
+supermarket@Guntur, Atta - Flours and Sooji, Maida - Super Saver, Super Saver, 2, 500g, 28, 1kg, 55
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Jowar Flour/Jolada Hittu, BB Royal, 2, 1kg, 90, 500g, 46
+supermarket@Guntur, Atta - Flours and Sooji, Ragi Flour/Ragi Hittu, Super Saver, 2, 1kg, 90, 500g, 45
+supermarket@Guntur, Atta - Flours and Sooji, Gold Atta Sharbati Atta, Pillsbury, 2, 1kg, 65, 5kg, 335
+supermarket@Guntur, Atta - Flours and Sooji, Rice Flour, Vijay, 1, 1kg, 54
+supermarket@Guntur, Atta - Flours and Sooji, Sooji Ordinary/Bombay Rava, Super Saver, 2, 500g, 31, 1kg, 55
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Whole Wheat Atta/Godihittu, BB Royal, 5, 5kg, 329, 2kg, 135, 500g, 35, 10kg, 658, 1kg, 69
+supermarket@Guntur, Atta - Flours and Sooji, Rice Flour/Akki Hittu - Super Saver, Super Saver, 2, 1kg, 55, 500g, 28
+supermarket@Guntur, Atta - Flours and Sooji, Corn Flour/ Starch, BB Royal, 2, 500g, 50, 1kg, 90
+supermarket@Guntur, Atta - Flours and Sooji, Chakki Fresh Atta/Godihittu, Fortune, 1, 5kg, 300
+supermarket@Guntur, Atta - Flours and Sooji, Sugar Release Control Atta/Godihittu, Aashirvaad, 1, 5kg, 420
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Rice Flour/Akki Hittu, BB Royal, 3, 1kg, 99, 2kg, 190, 500g, 50
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Sooji/Rava, BB Royal, 3, 2kg, 169, 1kg, 88, 500g, 45
+supermarket@Guntur, Atta - Flours and Sooji, Atta/Godihittu - Multigrain, Pillsbury, 2, 5kg, 367, 1kg, 75
+supermarket@Guntur, Atta - Flours and Sooji, Idli Rava - Vijay, Vijay, 1, 1kg, 54
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Maize Flour/Makka Atta, BB Royal, 2, 500g, 46, 1kg, 89
+supermarket@Guntur, Atta - Flours and Sooji, Ragi Flour - Vijay, Vijay, 1, 500g, 30
+supermarket@Guntur, Atta - Flours and Sooji, Bombay Sooji - Vijay, Vijay, 1, 1kg, 64
+supermarket@Guntur, Atta - Flours and Sooji, Cornflour - Weikfield, Weikfield, 1, 100g, 30
+supermarket@Guntur, Atta - Flours and Sooji, Rava - Roasted - Double Horse, Double Horse, 1, 500g, 65
+supermarket@Guntur, Atta - Flours and Sooji, Ragi/nachni Flour - BB Popular, BB Popular, 3, 2kg, 200, 500g, 50, 1kg, 100
+supermarket@Guntur, Atta - Flours and Sooji, Bajra Flour - BB Royal, BB Royal, 1, 500g, 50
+supermarket@Guntur, Atta - Flours and Sooji, Nature's Super Foods - Ragi Flour/Ragi Hittu, Aashirvaad, 2, 500g, 50, 1kg, 50
+supermarket@Guntur, Atta - Flours and Sooji, Organic - Besan/Kadale Hittu, BB Royal, 2, 1kg, 149, 500g, 76
+supermarket@Guntur, Atta - Flours and Sooji, Chiroti Sooji - Super Saver, Super Saver, 2, 500g, 30, 1kg, 50
+supermarket@Guntur, Atta - Flours and Sooji, Ragi - Huri Hittu, Indira's, 1, 400g, 75
+supermarket@Guntur, Atta - Flours and Sooji, Wheat Flour (Atta/Godihittu), Super Saver, 1, 10kg, 475
+supermarket@Guntur, Atta - Flours and Sooji, Puttupodi - White - Double Horse, Double Horse, 2, 1kg, 120, 500g, 65
+supermarket@Guntur, Atta - Flours and Sooji, Bansi Sooji - Vijay, Vijay, 1, 1kg, 62
+supermarket@Guntur, Atta - Flours and Sooji, Appam Idiyappam Pathiri - Double Horse, Double Horse, 1, 500g, 43
+supermarket@Guntur, Atta - Flours and Sooji, Besan/Kadale Hittu - Super Saver, Super Saver, 2, 1kg, 120, 500g, 60
+supermarket@Guntur, Atta - Flours and Sooji, Akki Tari - Vijay, Vijay, 1, 1kg, 52
+supermarket@Guntur, Dals and Pulses, Toor Dal/Togari Bele - Desi, BB Royal, 3, 5kg, 850, 2kg, 340, 500g, 85
+supermarket@Guntur, Dals and Pulses, Peanuts/Kadalekayi - Raw, BB Royal, 3, 200g, 50, 500g, 115, 1kg, 230
+supermarket@Guntur, Dals and Pulses, Fried Gram/Huri Kadale, BB Royal, 3, 200g, 40, 500g, 90, 1kg, 180
+supermarket@Guntur, Dals and Pulses, Urad Dal/Uddina Bele - Split, BB Popular, 2, 1kg, 200, 500g, 100
+supermarket@Guntur, Dals and Pulses, Toor Dal/Togari Bele, Tata Sampann, 2, 500g, 100, 1kg, 199
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 380, 1kg, 190, 500g, 95
+supermarket@Guntur, Dals and Pulses, Chana Dal/Kadale Bele - BB Royal,  BB Royal, 3, 2kg, 320, 1kg, 120, 500g, 60
+supermarket@Guntur, Dals and Pulses, Organic - Toor Dal/Togari Bele, BB Royal, 4, 2kg, 399, 5kg, 899, 1kg, 200, 500g, 105
+supermarket@Guntur, Dals and Pulses, Toor/Arhar Dal - BB Popular, BB Popular, 1, 500g, 80
+supermarket@Guntur, Dals and Pulses, Green Moong Whole/Sabut, BB Royal, 1, 500g, 90
+supermarket@Guntur, Dals and Pulses, Chana - Kabuli/Kabuli Kadale, BB Popular, 2, 200g, 43, 500g, 90
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - BB Royal, BB Royal, 3, 2kg, 400, 1kg, 200, 500g, 100
+supermarket@Guntur, Dals and Pulses, Urad Dal/Uddina Bele - Split, BB Royal, 4, 200g, 50, 500g, 105, 1kg, 210, 2kg, 420
+supermarket@Guntur, Dals and Pulses, Urad Gota/Whole - BB Royal, BB Royal, 1, 2kg, 420
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - Tata Sampann, Tata Sampann, 2, 1kg, 180, 500g, 88
+supermarket@Guntur, Dals and Pulses, Chana - Brown/Kadale Kaalu - BB Popular, BB Popular, 2, 1kg, 140, 500g, 70
+supermarket@Guntur, Dals and Pulses, Organic - Raw Peanuts/Kadalekayi, BB Royal, 2, 1kg, 249, 500g, 126
+supermarket@Guntur, Dals and Pulses, Unpolished Urad Dal - Whole, Tata Sampann, 2, 500g, 96, 1kg, 189
+supermarket@Guntur, Dals and Pulses, Masoor Dal/Mysore Bele - BB Royal, BB Royal, 1, 200g, 37
+supermarket@Guntur, Dals and Pulses, Chana Dal/Kadale Bele - BB Popular, BB Popular, 3, 2kg, 230, 1kg, 115, 500g, 59
+supermarket@Guntur, Dals and Pulses, Masoor Dal/Mysore Bele - BB Popular, BB Popular, 3, 1kg, 150, 500g, 75, 200g, 32
+supermarket@Guntur, Dals and Pulses, Toor/Arhar Dal - Super Saver, Super Saver, 4, 2kg, 300, 1kg, 150, 5kg, 750, 500g, 75
+supermarket@Guntur, Dals and Pulses, Organic Kabuli Chana/Kabuli Kadale, BB Royal, 3, 2kg, 399, 1kg, 205, 500g, 105
+supermarket@Guntur, Dals and Pulses, Red Lobia/Alasandee Kaalu - BB Royal, BB Royal, 2, 1kg, 160, 500g, 80
+supermarket@Guntur, Edible Oils and Ghee, Refined - Sunflower Oil - Sunpure, Sunpure, 2, 1l, 152, 5l, 900
+supermarket@Guntur, Edible Oils and Ghee, Sunflower Refined Oil - Sun Lite - Fortune, Fortune, 1, 1l, 169
+supermarket@Guntur, Edible Oils and Ghee, Pooja Oil - Anandam, Anandam, 2, 890g, 180, 445g, 90
+supermarket@Guntur, Edible Oils and Ghee, Ghee/Tuppa - GRB, GRB, 3, 1l, 835, 500ml, 425, 200ml, 180
+supermarket@Guntur, Edible Oils and Ghee, Oil - Gingelly - Idhayam, Idhayam, 2, 500ml, 217, 1l, 430
+supermarket@Guntur, Edible Oils and Ghee, Fortune Premium Kachi Ghani Pure Mustard Oil, Fortune, 2, 1l, 224, 500ml, 111
+supermarket@Guntur, Edible Oils and Ghee, Rice Bran Oil - Fortune, Fortune, 1, 1l, 199
+supermarket@Guntur, Edible Oils and Ghee, Gold Refined Cooking oil - Saffola, Saffola, 1, 1l, 220
+supermarket@Guntur, Edible Oils and Ghee, Refined - Sunflower Oil - Dhara, Dhara, 2, 5l, 1075, 1l, 210
+supermarket@Guntur, Edible Oils and Ghee, Nakshatra Pooja Oil - Mr. Gold, Mr. Gold, 1, 1l, 205
+supermarket@Guntur, Edible Oils and Ghee, Sun lite Refined Sunflower Oil, Fortune, 1, 5l, 865
+supermarket@Guntur, Edible Oils and Ghee, Oil - Groundnut - Dhara, Dhara, 2, 5l, 1300, 1l, 255
+supermarket@Guntur, Edible Oils and Ghee, Pure Ghee/Tuppa - Fresho, Fresho, 4, 500ml, 380, 1l, 675, 200ml, 155, 2l, 1350
+supermarket@Guntur, Edible Oils and Ghee, Cold Pressed Sunflower Cooking Oil, BB Royal Organic, 3, 3l, 1170, 2l, 780, 1l, 390
+supermarket@Guntur, Edible Oils and Ghee, Sunflower Oil - Gemini, Gemini, 2, 1l, 210, 5l, 1075
+supermarket@Guntur, Edible Oils and Ghee, Cow Desi Ghee/Tuppa - Fresho, Fresho, 3, 2l, 2600, 500ml, 660, 1l, 1300
+supermarket@Guntur, Edible Oils and Ghee, Gold Refined Cooking oil - Saffola, Saffola, 3, 5l, 1170, 2l, 455, 15l, 3085
+supermarket@Guntur, Edible Oils and Ghee, Olive Oil For Indian Cooking, BORGES, 2, 2l, 2600, 1l, 1350
+supermarket@Guntur, Edible Oils and Ghee, Rice Bran Health Physically Refined Rice Bran Oil, Sunpure, 2, 1l, 175, 2l, 350
+supermarket@Guntur, Edible Oils and Ghee, Superlite Advanced Oil - Sunflower, Sundrop, 1, 3l, 669
+supermarket@Guntur, Edible Oils and Ghee, Cow Ghee/Tuppa - Aashirvaad Svasti, Aashirvaad Svasti, 4, 500g, 445, 400ml, 370, 200g, 185, 1l, 890
+supermarket@Guntur, Edible Oils and Ghee, Coconad - Coconut Oil - Klf, Klf, 2, 1l, 300, 500ml, 150
+supermarket@Guntur, Edible Oils and Ghee, Filtered Groundnut Oil - Mr. Gold, Mr. Gold, 1, 1l, 240
+supermarket@Guntur, Edible Oils and Ghee, Oil - Groundnut - Freedom, Freedom, 1, 1l, 205
+supermarket@Guntur, Edible Oils and Ghee, Refined Oil - Rice Bran - Fortune, Fortune, 1, 5l, 1025
+supermarket@Guntur, Salt Sugar and Jaggery, Sugar/Sakkare - BB Popular, BB Popular, 3, 5kg, 275, 1kg, 55, 2kg, 110
+supermarket@Guntur, Salt Sugar and Jaggery, Vacuum Evaporated Iodised Salt, Tata Salt, 1, 1kg, 28
+supermarket@Guntur, Salt Sugar and Jaggery, Sugar - Pure and Hygienic - Fine Grain - Natural - Sulphur Free, Madhur, 2, 1kg, 60, 5kg, 295
+supermarket@Guntur, Salt Sugar and Jaggery, Refined Sugar (Sulphurless)/Sakkare, BB Royal, 3, 5kg, 300, 2kg, 120, 1kg, 60
+supermarket@Guntur, Salt Sugar and Jaggery, Organic - Brown Sugar/Sakkare, BB Royal, 4, 2kg, 229, 500g, 60, 1kg, 119, 5kg, 549
+supermarket@Guntur, Salt Sugar and Jaggery, Sugar/Sakkare - White Label, Parry's, 2, 1kg, 60, 5kg, 300
+supermarket@Guntur, Salt Sugar and Jaggery, Jaggery/Bella Round - BB Royal, BB Royal, 1, 1kg, 100
+supermarket@Guntur, Salt Sugar and Jaggery, Organic - Sugar/Sakkare - BB Royal, BB Royal, 4, 2kg, 215, 4kg, 430, 1kg, 110, 5kg, 499
+supermarket@Guntur, Salt Sugar and Jaggery, Salt/Uppu - Iodised - Aashirvaad, Aashirvaad, 1, 1kg, 28
+supermarket@Guntur, Salt Sugar and Jaggery, Iodised Crystal Salt/Uppu, Tata Salt, 1, 1kg, 22
+supermarket@Guntur, Salt Sugar and Jaggery, Himalayan Pink Rock Salt/Uppu Powder, GoodDiet, 1, 1kg, 95
+supermarket@Guntur, Salt Sugar and Jaggery, Salt/Uppu - Crystal - AKAR, AKAR, 1, 1kg, 26
+supermarket@Guntur, Salt Sugar and Jaggery, Jaggery/Bella - Kolhapuri - BB Royal, BB Royal, 2, 450g, 72, 900g, 82
+supermarket@Guntur, Salt Sugar and Jaggery, Tata Salt - Lite - 15% Low Sodium Iodised Salt, Tata Salt, 1, 1kg, 50
+supermarket@Guntur, Salt Sugar and Jaggery, Pure Refined - Sugar Sulphur Free/Sakkare, Parry's, 2, 1kg, 70, 5kg, 320
+supermarket@Guntur, Salt Sugar and Jaggery, Amrit - Brown Sugar/Sakkare, Parry's, 1, 500g, 50
+supermarket@Guntur, Salt Sugar and Jaggery, jaggery powder PP - Parry's, Parry's, 1, 500g, 55
+supermarket@Guntur, Salt Sugar and Jaggery, Jaggery/Bella Round - BB Royal, BB Royal, 1, 500g, 50
+supermarket@Guntur, Salt Sugar and Jaggery, Rock Salt/Uppu - Tata Salt, Tata Salt, 4, 1kg, 120, 100g, 32, 200g, 30, 500g, 65
+supermarket@Guntur, Salt Sugar and Jaggery, Iodized Crystal Salt/Uppu, Aashirvaad, 1, 1kg, 22
+supermarket@Guntur, Salt Sugar and Jaggery, Black Salt/Kala Namak - Powder, BB Royal, 3, 100g, 15, 200g, 30, 50g, 10
+supermarket@Guntur, Salt Sugar and Jaggery, Natural Jaggery/Bella Powder, Forgreen, 2, 500g, 59, 1kg, 119
+supermarket@Guntur, Salt Sugar and Jaggery, Organic - Jaggery/Bella - BB Royal, BB Royal, 2, 800g, 109, 400g, 55
+supermarket@Guntur, Salt Sugar and Jaggery, Jaggery/Bella - Cubes - BB Royal, BB Royal, 1, 400g, 80
+supermarket@Guntur, Salt Sugar and Jaggery, Misri / Sugar/Sakkare Diamond, BB Royal, 2, 200g, 40, 100g, 20
+supermarket@Guntur, Salt Sugar and Jaggery, 50% Less Calories Sugar/Sakkare, Sugarlite, 1, 500g, 99
+supermarket@Guntur, Salt Sugar and Jaggery, Rock Salt - Powder/Uppu - BB Royal, BB Royal, 2, 1kg, 90, 500g, 45
+supermarket@Guntur, Salt Sugar and Jaggery, Super Lite Iodized Salt - 30 % Less Sodium, Tata Salt, 1, 1kg, 60
+supermarket@Guntur, Salt Sugar and Jaggery, Organic Misri - Whole Sugar/Sakkare Candy, BB Royal, 3, 500g, 99, 200g, 42, 100g, 23
+supermarket@Guntur, Salt Sugar and Jaggery, Jaggery/Bella Powder - Pesticide Free, Safe Harvest, 1, 500g, 75
+supermarket@Guntur, Salt Sugar and Jaggery, Rock Salt/Uppu - Natural - Organic Tattva, Organic Tattva, 1, 500g, 60
+supermarket@Guntur, Salt Sugar and Jaggery, Pure Refined - Sugar - Sulphur Free/Sakkare, Parry's, 1, 1kg, 75
+supermarket@Guntur, Salt Sugar and Jaggery, Sprinklers - Iodised Table Salt/Uppu, Catch, 2, 100g, 25, 200g, 40
+supermarket@Guntur, Salt Sugar and Jaggery, Salt/Uppu - Saffola, Saffola, 1, 1kg, 35
+supermarket@Guntur, Salt Sugar and Jaggery, Gold Low Calorie Sweetener, Sugar free, 1, 100g, 150
+supermarket@Guntur, Salt Sugar and Jaggery, Black Salt/Kala Namak - Powder, BB Royal, 1, 200g, 30
+supermarket@Guntur, Salt Sugar and Jaggery, Sweet Care - Low GI Sugar, Parry's, 2, 500g, 60, 200g, 50
+supermarket@Guntur, Salt Sugar and Jaggery, Pure Refined - Sugar - Parry's, Parry's, 1, 500g, 65
+supermarket@Guntur, Salt Sugar and Jaggery, Himalayan Kala Namak, Keya, 1, 200g, 60
+supermarket@Guntur, Dals and Pulses, Toor Dal/Togari Bele - Desi - BB Royal, BB Royal, 4, 5kg, 850, 2kg, 340, 500g, 85, 1kg, 170
+supermarket@Guntur, Dals and Pulses, Peanuts/Kadalekayi - Raw, BB Royal, 3, 200g, 50, 500g, 115, 1kg, 230
+supermarket@Guntur, Dals and Pulses, Fried Gram/Huri Kadale - BB Royal, BB Royal, 3, 200g, 40, 1kg, 180, 500g, 90
+supermarket@Guntur, Dals and Pulses, Urad Dal/Uddina Bele - Split, BB Popular, 2, 1kg, 200, 500g, 100
+supermarket@Guntur, Dals and Pulses, Toor Dal/Togari Bele - Tata Sampann, Tata Sampann, 2, 500g, 100, 1kg, 199
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 380, 1kg, 190, 500g, 95
+supermarket@Guntur, Dals and Pulses, Chana Dal/Kadale Bele, BB Royal, 3, 2kg, 320, 1kg, 160, 500g, 80
+supermarket@Guntur, Dals and Pulses, Organic - Toor Dal/Togari Bele, BB Royal, 4, 2kg, 399, 5kg, 899, 1kg, 200, 500g, 105
+supermarket@Guntur, Dals and Pulses, Toor/Arhar Dal - BB Popular, BB Popular, 4, 5kg, 800, 1kg, 160, 2kg, 320, 500g, 80
+supermarket@Guntur, Dals and Pulses, Green Moong Whole/Sabut, BB Royal, 2, 500g, 90, 1kg, 180
+supermarket@Guntur, Dals and Pulses, Chana - Kabuli/Kabuli Kadale, BB Popular, 3, 200g, 40, 500g, 90, 1kg, 180
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - BB Popular, BB Popular, 3, 2kg, 400, 500g, 100, 1kg, 200
+supermarket@Guntur, Dals and Pulses, Urad Gota/Whole - BB Royal, BB Royal, 3, 2kg, 420, 1kg, 210, 500g, 105
+supermarket@Guntur, Dals and Pulses, Moong Dal/Hesaru Bele - Tata Sampann, Tata Sampann, 2, 500g, 88, 1kg, 180
+supermarket@Guntur, Dals and Pulses, Chana - Brown/Kadale Kaalu - BB Popular, BB Popular, 2, 1kg, 140, 500g, 70
+supermarket@Guntur, Dals and Pulses, Organic - Raw Peanuts/Kadalekayi - BB Royal, BB Royal, 2, 1kg, 249, 500g, 126
+supermarket@Guntur, Dals and Pulses, Unpolished Urad Dal - Whole - Tata Sampann, Tata Sampann, 2, 500g, 96, 1kg, 189
+supermarket@Guntur, Dals and Pulses, Masoor Dal/Mysore Bele - BB Royal, BB Royal, 3, 1kg, 160, 500g, 80, 200g, 37
+supermarket@Guntur, Dals and Pulses, Chana Dal/Kadale Bele - BB Popular, BB Popular, 3, 2kg, 230, 1kg, 115, 500g, 58
+supermarket@Guntur, Dals and Pulses, Masoor Dal/Mysore Bele - BB Popular, BB Popular, 3, 1kg, 150, 500g, 75, 200g, 32
+supermarket@Guntur, Dals and Pulses, Toor/Arhar Dal - Super Saver, Super Saver, 4, 500g, 75, 2kg, 300, 1kg, 150, 5kg, 750
+supermarket@Guntur, Dals and Pulses, Organic Kabuli Chana/Kabuli Kadale, BB Royal, 3, 2kg, 399, 1kg, 205, 500g, 105
+supermarket@Guntur, Dals and Pulses, Red Lobia/Alasandee Kaalu, BB Royal, 2, 1kg, 160, 500g, 80
+supermarket@Guntur, Dals and Pulses, Lobia/Alasandee Kaalu - Red - BB Royal, BB Royal, 1, 200g, 35
+supermarket@Guntur, Dals and Pulses, Green Peas/Matar - BB Royal, BB Royal, 3, 200g, 70, 1kg, 290, 500g, 150
+supermarket@Guntur, Masalas and Spices, Cumin/Jeera/Jeerige - Whole, BB Royal, 5, 500g, 300, 1kg, 600, 200g, 120, 100g, 60, 50g, 30
+supermarket@Guntur, Masalas and Spices, Mustard/Sasive/Rai - Small, BB Royal, 4, 1kg, 300, 500g, 150, 100g, 30, 200g, 60
+supermarket@Guntur, Masalas and Spices, Fenugreek/Methi/Menthya, BB Popular, 3, 100g, 20, 200g, 40, 50g, 10
+supermarket@Guntur, Masalas and Spices, Tamarind/Imli - Deseeded, BB Royal, 3, 1kg, 400, 200g, 80, 500g, 200
+supermarket@Guntur, Masalas and Spices, Organic Black Pepper/Kari Menasui, BB Royal, 5, 500g, 549, 100g, 120, 400g, 460, 200g, 230, 50g, 60
+supermarket@Guntur, Masalas and Spices, Chilli - Guntur with Stem, BB Royal, 3, 500g, 350, 200g, 140, 100g, 70
+supermarket@Guntur, Masalas and Spices, Coriander Seeds/Kottambari Beeja, BB Royal, 4, 200g, 100, 100g, 50, 50g, 25, 500g, 225
+supermarket@Guntur, Masalas and Spices, Organic - Byadagi Chilli Whole, BB Royal, 2, 200g, 199, 100g, 100
+supermarket@Guntur, Masalas and Spices, Black Pepper/Kari Menasu, BB Popular, 3, 200g, 280, 100g, 140, 50g, 70
+supermarket@Guntur, Masalas and Spices, Phool Makhana - BB Popular, BB Popular, 2, 100g, 150, 50g, 75
+supermarket@Guntur, Masalas and Spices, Chilli - Guntur Stemless, BB Royal, 3, 500g, 400, 200g, 160, 100g, 80
+supermarket@Guntur, Masalas and Spices, Organic - Cinnamon/Chakke, BB Royal, 4, 200g, 239, 50g, 61, 20g, 27, 100g, 120
+supermarket@Guntur, Masalas and Spices, Masala - Puliogare Powder, MTR, 3, 200g, 135, 100g, 70, 27g, 12
+supermarket@Guntur, Masalas and Spices, Organic - Cardamom Green/Elakki, BB Royal, 3, 20g, 99, 50g, 225, 100g, 449
+supermarket@Guntur, Masalas and Spices, Powder - Asafoetida, LG, 2, 50g, 85, 100g, 165
+supermarket@Guntur, Masalas and Spices, Til/Ellu - White, BB Royal, 4, 500g, 250, 200g, 100, 50g, 25, 100g, 50
+supermarket@Guntur, Masalas and Spices, Mustard/Sasive/Rai - Big, BB Royal, 4, 1kg, 168, 200g, 35, 500g, 85, 100g, 18
+supermarket@Guntur, Masalas and Spices, Fennel/Saunf/Sompu - Big, BB Popular, 2, 100g, 35, 50g, 18
+supermarket@Guntur, Masalas and Spices, Chilli - Byadagi Stemless, BB Royal, 4, 500g, 560, 50g, 58, 100g, 115, 200g, 225
+supermarket@Guntur, Masalas and Spices, Organic - Methi/Menthya, BB Royal, 4, 1kg, 130, 500g, 69, 100g, 19, 200g, 36
+supermarket@Guntur, Masalas and Spices, Tamarind/Imli - BB Popular, BB Popular, 2, 1kg, 143.5, 500g, 72
+supermarket@Guntur, Masalas and Spices, Fennel/Saunf/Sompu - Small, BB Royal, 3, 200g, 88, 100g, 48, 50g, 25
+supermarket@Guntur, Masalas and Spices, Mustard/Sasive/Rai - Small, BB Popular, 4, 50g, 10, 500g, 65.5, 100g, 14.5, 200g, 29
+supermarket@Guntur, Masalas and Spices, Organic - Mustard/Sasive/Rai Small, BB Royal, 3, 500g, 72, 100g, 19, 200g, 38
+supermarket@Guntur, Masalas and Spices, Powder - Coriander, MTR, 2, 500g, 171, 100g, 37
+supermarket@Guntur, Masalas and Spices, Powder - Hing, MTR, 2, 25g, 47, 50g, 90
+supermarket@Guntur, Masalas and Spices, Turmeric Powder/Arisina Pudi, MTR, 1, 100g, 32
+supermarket@Guntur, Masalas and Spices, Organic - Cumin/Jeera/Jeerige, BB Royal, 3, 100g, 49, 500g, 229, 200g, 95
+supermarket@Guntur, Masalas and Spices, Paste - Ginger and Garlic, Mother's Recipe, 2, 200g, 40, 100g, 20
+supermarket@Guntur, Masalas and Spices, Tikhalal Chilli Powder/Menasina Pudi, Everest, 1, 500g, 300
+supermarket@Guntur, Masalas and Spices, Powder - Tikhalal Chilli, Everest, 1, 200g, 100
+supermarket@Guntur, Masalas and Spices, Coriander Seeds/Kottambari Beeja, BB Royal,  3, 100g, 30, 200g, 58, 500g, 140
 supermarket@Guntur, Dry Fruits, Cashew/Godambi - Whole, BB Popular, 4, 100g, 90, 1kg, 835, 200g, 175, 500g, 390
 supermarket@Guntur, Dry Fruits, Organic - Almond/Badam, BB Royal, 4, 500g, 539, 1kg, 1049, 100g, 119, 200g, 225
 supermarket@Guntur, Dry Fruits, Almond/Badam - Californian Giri, BB Popular, 4, 500g, 316, 100g, 70, 1kg, 655, 200g, 135
@@ -215,6 +215,6 @@ supermarket@Guntur, Dry Fruits, Organic - Walnut Kernels/Akharot, BB Royal, 3, 5
 supermarket@Guntur, Dry Fruits, Raisins/Ona Drakshi - Indian, BB Royal, 3, 100g, 45, 200g, 88, 500g, 215
 supermarket@Guntur, Dry Fruits, Almond/Badam - Sonora, BB Royal, 2, 100g, 149, 200g, 296
 supermarket@Guntur, Dry Fruits, Organic - Flax Seeds, BB Royal, 4, 1kg, 165, 2kg, 320, 500g, 88, 200g, 36
-supermarket@Guntur, Dry Fruits, Pista - Irani Roasted & Salted, BB Royal, 3, 500g, 795, 200g, 320, 100g, 162
-supermarket@Guntur, Dry Fruits, Pista - California Roasted & Salted, BB Royal, 3, 500g, 670, 100g, 138, 200g, 270
+supermarket@Guntur, Dry Fruits, Pista - Irani Roasted and Salted, BB Royal, 3, 500g, 795, 200g, 320, 100g, 162
+supermarket@Guntur, Dry Fruits, Pista - California Roasted and Salted, BB Royal, 3, 500g, 670, 100g, 138, 200g, 270
 supermarket@Guntur, Dry Fruits, Dates/Kharjura - Deseeded, Lion, 2, 500g, 135, 200g, 49
