@@ -15,6 +15,7 @@ const getCategoryItemsController = (req, res) => {
           userId: req.query.userId,
           categoryName: req.query.categoryName,
         });
+        console.log(req.query.categoryName);
         categoryItemsList = cursor.itemsList;
         resolve(categoryItemsList);
         await client.close();
@@ -22,7 +23,8 @@ const getCategoryItemsController = (req, res) => {
       }
     }
 
-    getBrandItems().catch(() => {
+    getBrandItems().catch((err) => {
+      console.log(err);
       console.dir;
       reject("Something Went Wrong");
     });

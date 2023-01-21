@@ -1,5 +1,4 @@
 ##Tasks:
-
 1) Get all Items to DB
 2) Get all Brands from items                        [DONE]
 3) create Transaction's code and write in Database  [DONE]
@@ -12,7 +11,6 @@
 
 
 ##Subtasks:
-
 #Getting FPA of items
     =>gather all items of request
     =>create FPTree for request

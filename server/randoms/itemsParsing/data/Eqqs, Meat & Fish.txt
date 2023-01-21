@@ -34,134 +34,134 @@ supermarket@Guntur, Poultry, Chicken - Gizzard, Fresho, 2, 500g, 79, 1kg, 119
 supermarket@Guntur, Poultry, Tandoori size whole Chicken, Fresho, 1, 1pc, 299
 supermarket@Guntur, Poultry, Pork Bavarian Style Meat Loaf, Fresho, 1, 500g, 925
 supermarket@Guntur, Poultry, Honey Glazed Roast Pork Belly, Fresho, 1, 500g, 1125
-supermarket@Guntur, Poultry, Roasted & Stuffed Duck - Whole, Meisterwurst, 1, 1kg, 3850
+supermarket@Guntur, Poultry, Roasted and Stuffed Duck - Whole, Meisterwurst, 1, 1kg, 3850
 supermarket@Guntur, Poultry, Pork Tenderloin With Bacon Wrapped - Roasted, Meisterwurst, 1, 250g, 563
 supermarket@Guntur, Poultry, Chicken - Biryani Cut, Fresho, 1, 1kg, 389
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Frankfurter - Fresho Signature, Fresho Signature, 3, 200g, 120, 300g, 299, 500g, 499
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Lemon Pepper Salami, Fresho Signature, 3, 200g, 152, 300g, 228, 500g, 450
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Mortadella Sliced - Fresho Signature, Fresho Signature, 3, 200g, 199, 300g, 300, 500g, 499
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Sandwich Ham - Fresho Signature, Fresho Signature, 3, 200g, 170, 300g, 240, 500g, 499
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Breakfast Bacon - Prasuma, Prasuma, 1, 300g, 395
-supermarket@Guntur, Sausages - Bacon & Salami, Italian Sausage - Keventer, Keventer, 1, 500g, 267.75
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Jumbo Hot Dog - Meatzza, Meatzza, 1, 500g, 365
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Sausage - Beechwood Smoked- Prasuma, Prasuma, 1, 250g, 190
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Ham - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 195
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Ham - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 249.60
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Sausage - Beechwood Smoked - Prasuma, Prasuma, 1, 250g, 250
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab Regular - Fresho, Fresho, 1, 500g, 310
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Sausage - Meatzza, Meatzza, 1, 500g, 306
-supermarket@Guntur, Sausages - Bacon & Salami, Mutton Seekh Kabab Regular - Fresho, Fresho, 1, 500g, 481.5
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Bacon Sausages - Smoked - Meisterwurst, Meisterwurst, 1, 300g, 705
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Frankfurter - Beechwood Smoked - Prasuma, Prasuma, 1, 300g, 295
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab Lime N Pudina, Fresho, 1, 500g, 310
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Salami Plain Slice, Meatzza, 1, 250g, 185
-supermarket@Guntur, Sausages - Bacon & Salami, Pork - Streaky Bacon - sumeru, sumeru, 1, 500g, 750
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab Punjabi, Fresho, 1, 500g, 319
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Premium Ham - La Carne, La Carne, 1, 250g, 325
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Momos Spicy - Prasuma, Prasuma, 3, 10pcs, 187, 24pcs, 308.75, 48pcs, 617.5
-supermarket@Guntur, Sausages - Bacon & Salami, Smoked Back Bacon - Meatzza, Meatzza, 1, 250g, 395
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Pepperoni Salami - Cured & Smoked, Prasuma, 1, 100g, 183.3
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Classic Salami - La Carne, La Carne, 1, 250g, 160
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Premium Ham - La Carne, La Carne, 1, 250g, 200
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab - Onion, Fresho, 1, 500g, 328.5
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab Nawabi, Fresho, 1, 500g, 360
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab - Pahadi, Fresho, 1, 500g, 310
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Breakfast Sausage - La Carne, La Carne, 1, 500g, 325
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Breakfast Bacon - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 320
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Shami Kabab - Fresho, Fresho, 1, 500g, 292
-supermarket@Guntur, Sausages - Bacon & Salami, Pork - Back Bacon - sumeru, sumeru, 1, 500g, 750
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Kheema Paratha - Blue Flame, Blue Flame, 1, 200g, 190
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Spicy Sausage - Meisterwurst, Meisterwurst, 1, 300g, 555
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Chorizo Sausage - La Carne, La Carne, 1, 500g, 375
-supermarket@Guntur, Sausages - Bacon & Salami, Pork - Cooked Ham - Bon Appetit, Bon Appetit, 1, 100g, 225
-supermarket@Guntur, Sausages - Bacon & Salami, Jalapeno & Cheese Sausage, Keventer, 1, 250g, 221
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Chilli Salami - Prasuma, Prasuma, 1, 200g, 185
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Seek Kabab - Meatzza, Meatzza, 2, 500g, 365, 250g, 195
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Sausages - Black Pepper - Fresho, Fresho, 1, 500g, 301.5
-supermarket@Guntur, Sausages - Bacon & Salami, Pork - Breakfast Bacon - Bon Appetit, Bon Appetit, 1, 300g, 545
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab Malai N Cheese, Fresho, 1, 500g, 319
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Premium Bacon Bits - La Carne, La Carne, 1, 250g, 275
-supermarket@Guntur, Sausages - Bacon & Salami, Mutton Shami Kabab - Fresho, Fresho, 1, 500g, 428
-supermarket@Guntur, Sausages - Bacon & Salami, Krakauer - Pork Garlic - Bon Appetit, Bon Appetit, 1, 300g, 525
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Spring Roll - Blue Flame, Blue Flame, 1, 280g, 230
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Spicy Breast Strips, Meatzza, 1, 500g, 365
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Cocktail Sausage - La Carne, La Carne, 1, 500g, 325
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Meat Loaf - Bon Appetit, Bon Appetit, 1, 100g, 96
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken Seekh Kabab - Achari, Fresho, 1, 500g, 319.5
-supermarket@Guntur, Sausages - Bacon & Salami, Pork Classic Salami - La Carne, La Carne, 1, 250g, 250
-supermarket@Guntur, Sausages - Bacon & Salami, Chicken - Salami Masala Slice, Meatzza, 2, 250g, 185, 500g, 310
-supermarket@Guntur, Mutton & Lamb, Mutton - Curry Cut - Fresho, Fresho, 1, 1kg, 999
-supermarket@Guntur, Mutton & Lamb, Mutton Goatkid - Rewaji, Fresho, 1, 1kg, 1339
-supermarket@Guntur, Mutton & Lamb, Mutton Bones - Fresho, Fresho, 3, 1kg, 559, 250g, 149, 500g, 259
-supermarket@Guntur, Mutton & Lamb, Mutton Paya - Antibiotic Residue-Free, Fresho, 1, 1pc, 809
-supermarket@Guntur, Mutton & Lamb, Mutton Fat - Fresho, Fresho, 1, 250g, 49
-supermarket@Guntur, Mutton & Lamb, Mutton Seekh Kebab - La Carne, La Carne, 1, 500g, 525
-supermarket@Guntur, Mutton & Lamb, Mutton - Seekh Kebab - Meatzza, Meatzza, 1, 500g, 610
-supermarket@Guntur, Mutton & Lamb, Mutton Rack - Fresho, Fresho, 1, 1kg, 1882
-supermarket@Guntur, Mutton & Lamb, Mutton Curry Cut - Fresho, Fresho, 1, 1kg, 1559
-supermarket@Guntur, Mutton & Lamb, Fresho Mutton Shanks/ Nalli, Fresho, 1, 1kg, 1329
-supermarket@Guntur, Mutton & Lamb, Mutton Goat Kid Rack, Fresho, 1, 1kg, 1309
-supermarket@Guntur, Mutton & Lamb, Horeca Mutton Biriyani Cut, Fresho, 1, 2kg, 2000
-supermarket@Guntur, Mutton & Lamb, Horeca Mutton Liver, Fresho, 1, 2kg, 1000
-supermarket@Guntur, Mutton & Lamb, Horeca Mutton Boneless, Fresho, 1, 1kg, 1000
-supermarket@Guntur, Mutton & Lamb, Mutton - Mince - Fresho, Fresho, 1, 500g, 799
-supermarket@Guntur, Mutton & Lamb, Mutton - Liver- Antibiotic Residue-Free, Fresho, 1, 250g, 179
-supermarket@Guntur, Mutton & Lamb, Mutton Goatkid - Mince, Fresho, 1, 250g, 429
-supermarket@Guntur, Mutton & Lamb, Mutton - Biryani Pieces - Fresho, Fresho, 1, 1kg, 1249
-supermarket@Guntur, Mutton & Lamb, Mutton Goat Kid - Curry Cut, Fresho, 1, 500g, 619
-supermarket@Guntur, Mutton & Lamb, Mutton Liver - B, Fresho, 1, 1kg, 410
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Frankfurter - Fresho Signature, Fresho Signature, 3, 200g, 120, 300g, 299, 500g, 499
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Lemon Pepper Salami, Fresho Signature, 3, 200g, 152, 300g, 228, 500g, 450
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Mortadella Sliced - Fresho Signature, Fresho Signature, 3, 200g, 199, 300g, 300, 500g, 499
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Sandwich Ham - Fresho Signature, Fresho Signature, 3, 200g, 170, 300g, 240, 500g, 499
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Breakfast Bacon - Prasuma, Prasuma, 1, 300g, 395
+supermarket@Guntur, Sausages - Bacon and Salami, Italian Sausage - Keventer, Keventer, 1, 500g, 267.75
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Jumbo Hot Dog - Meatzza, Meatzza, 1, 500g, 365
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Sausage - Beechwood Smoked- Prasuma, Prasuma, 1, 250g, 190
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Ham - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 195
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Ham - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 249.60
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Sausage - Beechwood Smoked - Prasuma, Prasuma, 1, 250g, 250
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab Regular - Fresho, Fresho, 1, 500g, 310
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Sausage - Meatzza, Meatzza, 1, 500g, 306
+supermarket@Guntur, Sausages - Bacon and Salami, Mutton Seekh Kabab Regular - Fresho, Fresho, 1, 500g, 481.5
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Bacon Sausages - Smoked - Meisterwurst, Meisterwurst, 1, 300g, 705
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Frankfurter - Beechwood Smoked - Prasuma, Prasuma, 1, 300g, 295
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab Lime N Pudina, Fresho, 1, 500g, 310
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Salami Plain Slice, Meatzza, 1, 250g, 185
+supermarket@Guntur, Sausages - Bacon and Salami, Pork - Streaky Bacon - sumeru, sumeru, 1, 500g, 750
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab Punjabi, Fresho, 1, 500g, 319
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Premium Ham - La Carne, La Carne, 1, 250g, 325
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Momos Spicy - Prasuma, Prasuma, 3, 10pcs, 187, 24pcs, 308.75, 48pcs, 617.5
+supermarket@Guntur, Sausages - Bacon and Salami, Smoked Back Bacon - Meatzza, Meatzza, 1, 250g, 395
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Pepperoni Salami - Cured and Smoked, Prasuma, 1, 100g, 183.3
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Classic Salami - La Carne, La Carne, 1, 250g, 160
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Premium Ham - La Carne, La Carne, 1, 250g, 200
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab - Onion, Fresho, 1, 500g, 328.5
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab Nawabi, Fresho, 1, 500g, 360
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab - Pahadi, Fresho, 1, 500g, 310
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Breakfast Sausage - La Carne, La Carne, 1, 500g, 325
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Breakfast Bacon - Beechwood Smoked - Prasuma, Prasuma, 1, 200g, 320
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Shami Kabab - Fresho, Fresho, 1, 500g, 292
+supermarket@Guntur, Sausages - Bacon and Salami, Pork - Back Bacon - sumeru, sumeru, 1, 500g, 750
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Kheema Paratha - Blue Flame, Blue Flame, 1, 200g, 190
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Spicy Sausage - Meisterwurst, Meisterwurst, 1, 300g, 555
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Chorizo Sausage - La Carne, La Carne, 1, 500g, 375
+supermarket@Guntur, Sausages - Bacon and Salami, Pork - Cooked Ham - Bon Appetit, Bon Appetit, 1, 100g, 225
+supermarket@Guntur, Sausages - Bacon and Salami, Jalapeno and Cheese Sausage, Keventer, 1, 250g, 221
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Chilli Salami - Prasuma, Prasuma, 1, 200g, 185
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Seek Kabab - Meatzza, Meatzza, 2, 500g, 365, 250g, 195
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Sausages - Black Pepper - Fresho, Fresho, 1, 500g, 301.5
+supermarket@Guntur, Sausages - Bacon and Salami, Pork - Breakfast Bacon - Bon Appetit, Bon Appetit, 1, 300g, 545
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab Malai N Cheese, Fresho, 1, 500g, 319
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Premium Bacon Bits - La Carne, La Carne, 1, 250g, 275
+supermarket@Guntur, Sausages - Bacon and Salami, Mutton Shami Kabab - Fresho, Fresho, 1, 500g, 428
+supermarket@Guntur, Sausages - Bacon and Salami, Krakauer - Pork Garlic - Bon Appetit, Bon Appetit, 1, 300g, 525
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Spring Roll - Blue Flame, Blue Flame, 1, 280g, 230
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Spicy Breast Strips, Meatzza, 1, 500g, 365
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Cocktail Sausage - La Carne, La Carne, 1, 500g, 325
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Meat Loaf - Bon Appetit, Bon Appetit, 1, 100g, 96
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken Seekh Kabab - Achari, Fresho, 1, 500g, 319.5
+supermarket@Guntur, Sausages - Bacon and Salami, Pork Classic Salami - La Carne, La Carne, 1, 250g, 250
+supermarket@Guntur, Sausages - Bacon and Salami, Chicken - Salami Masala Slice, Meatzza, 2, 250g, 185, 500g, 310
+supermarket@Guntur, Mutton and Lamb, Mutton - Curry Cut - Fresho, Fresho, 1, 1kg, 999
+supermarket@Guntur, Mutton and Lamb, Mutton Goatkid - Rewaji, Fresho, 1, 1kg, 1339
+supermarket@Guntur, Mutton and Lamb, Mutton Bones - Fresho, Fresho, 3, 1kg, 559, 250g, 149, 500g, 259
+supermarket@Guntur, Mutton and Lamb, Mutton Paya - Antibiotic Residue-Free, Fresho, 1, 1pc, 809
+supermarket@Guntur, Mutton and Lamb, Mutton Fat - Fresho, Fresho, 1, 250g, 49
+supermarket@Guntur, Mutton and Lamb, Mutton Seekh Kebab - La Carne, La Carne, 1, 500g, 525
+supermarket@Guntur, Mutton and Lamb, Mutton - Seekh Kebab - Meatzza, Meatzza, 1, 500g, 610
+supermarket@Guntur, Mutton and Lamb, Mutton Rack - Fresho, Fresho, 1, 1kg, 1882
+supermarket@Guntur, Mutton and Lamb, Mutton Curry Cut - Fresho, Fresho, 1, 1kg, 1559
+supermarket@Guntur, Mutton and Lamb, Fresho Mutton Shanks/ Nalli, Fresho, 1, 1kg, 1329
+supermarket@Guntur, Mutton and Lamb, Mutton Goat Kid Rack, Fresho, 1, 1kg, 1309
+supermarket@Guntur, Mutton and Lamb, Horeca Mutton Biriyani Cut, Fresho, 1, 2kg, 2000
+supermarket@Guntur, Mutton and Lamb, Horeca Mutton Liver, Fresho, 1, 2kg, 1000
+supermarket@Guntur, Mutton and Lamb, Horeca Mutton Boneless, Fresho, 1, 1kg, 1000
+supermarket@Guntur, Mutton and Lamb, Mutton - Mince - Fresho, Fresho, 1, 500g, 799
+supermarket@Guntur, Mutton and Lamb, Mutton - Liver- Antibiotic Residue-Free, Fresho, 1, 250g, 179
+supermarket@Guntur, Mutton and Lamb, Mutton Goatkid - Mince, Fresho, 1, 250g, 429
+supermarket@Guntur, Mutton and Lamb, Mutton - Biryani Pieces - Fresho, Fresho, 1, 1kg, 1249
+supermarket@Guntur, Mutton and Lamb, Mutton Goat Kid - Curry Cut, Fresho, 1, 500g, 619
+supermarket@Guntur, Mutton and Lamb, Mutton Liver - B, Fresho, 1, 1kg, 410
 supermarket@Guntur, Marinades, Peri Peri Basa Fish Steak, Fresho, 2, 250g, 119, 500g, 209
-supermarket@Guntur, Marinades, Tandoori Chicken - Fresh & Juicy, Fresho, 3, 250g, 139, 500g, 229, 1kg, 489
+supermarket@Guntur, Marinades, Tandoori Chicken - Fresh and Juicy, Fresho, 3, 250g, 139, 500g, 229, 1kg, 489
 supermarket@Guntur, Marinades, Crispy Chicken Strips - Juicy Texture, Fresho, 2, 250g, 159, 500g, 339
 supermarket@Guntur, Marinades, Lush Hariyali Chicken Tikka - Fresh, Fresho, 3, 500g, 279, 1kg, 529, 250g, 179
-supermarket@Guntur, Marinades, Peri Peri Chicken Cubes - Fresh & Juicy, Fresho, 3, 1kg, 579, 500g, 309, 250g, 169
-supermarket@Guntur, Marinades, Peri Peri Prawns – Fresh & Juicy, Fresho, 2, 1kg, 1169, 500g, 699
-supermarket@Guntur, Marinades, Desi Rohu Fish Steak - Fresh & Juicy, Fresho, 2, 250g, 169, 500g, 279
-supermarket@Guntur, Marinades, Chicken Malai Tikka - Fresh & Juicy, Fresho, 3, 1kg, 659, 500g, 369, 250g, 169
+supermarket@Guntur, Marinades, Peri Peri Chicken Cubes - Fresh and Juicy, Fresho, 3, 1kg, 579, 500g, 309, 250g, 169
+supermarket@Guntur, Marinades, Peri Peri Prawns – Fresh and Juicy, Fresho, 2, 1kg, 1169, 500g, 699
+supermarket@Guntur, Marinades, Desi Rohu Fish Steak - Fresh and Juicy, Fresho, 2, 250g, 169, 500g, 279
+supermarket@Guntur, Marinades, Chicken Malai Tikka - Fresh and Juicy, Fresho, 3, 1kg, 659, 500g, 369, 250g, 169
 supermarket@Guntur, Marinades, Creamy Afghani Chicken Tikka - Fresh, Fresho, 3, 250g, 149, 1kg, 659, 500g, 369
 supermarket@Guntur, Marinades, Honey Mustard Tilapia Fillets - Fresh, Fresho, 2, 250g, 159, 500g, 269
 supermarket@Guntur, Marinades, Crispy Fish Finger - Crunchy Outside, Fresho, 2, 250g, 269, 500g, 409
 supermarket@Guntur, Marinades, Malabar Whole Mackerel - Fresh, Fresho, 2, 500g, 319, 150g, 219
 supermarket@Guntur, Marinades, Chicken Hariyali Lollypop - Fresh, Fresho, 2, 500g, 239, 250g, 149
-supermarket@Guntur, Marinades, Tandoori Chicken Wings - Fresh & Juicy, Fresho, 3, 1kg, 1129, 500g, 209, 250g, 139
+supermarket@Guntur, Marinades, Tandoori Chicken Wings - Fresh and Juicy, Fresho, 3, 1kg, 1129, 500g, 209, 250g, 139
 supermarket@Guntur, Marinades, Chicken Burger Patty - Crunchy Outside, Fresho, 2, 4pcs, 149, 2pcs, 279
-supermarket@Guntur, Marinades, Tandoori Chicken Drumstick - Fresh & Juicy, Fresho, 2, 250g, 149, 500g, 299
-supermarket@Guntur, Marinades, Honey Mustard Chicken - Fresh & Juicy, Fresho, 3, 1kg, 519, 500g, 309, 250g, 149
-supermarket@Guntur, Marinades, Desi Catla Steak - Fresh & Juicy, Fresho, 2, 250g, 149, 500g, 329
-supermarket@Guntur, Marinades, Malabar Prawns - Fresh & Juicy, Fresho, 3, 1kg, 1089, 500g, 1909, 250g, 1039
-supermarket@Guntur, Marinades, Classic Hariyali Rohu Fish Steak - Fresh & Juicy, Fresho, 2, 500g, 269, 250g, 149
-supermarket@Guntur, Marinades, Amritsari Achari Chicken Tikka - Fresh & Juicy, Fresho, 1, 250g, 189
-supermarket@Guntur, Marinades, Peri-Peri Chicken Wings - Fresh & Juicy, Fresho, 3, 250g, 139, 1kg, 369, 500g, 209
+supermarket@Guntur, Marinades, Tandoori Chicken Drumstick - Fresh and Juicy, Fresho, 2, 250g, 149, 500g, 299
+supermarket@Guntur, Marinades, Honey Mustard Chicken - Fresh and Juicy, Fresho, 3, 1kg, 519, 500g, 309, 250g, 149
+supermarket@Guntur, Marinades, Desi Catla Steak - Fresh and Juicy, Fresho, 2, 250g, 149, 500g, 329
+supermarket@Guntur, Marinades, Malabar Prawns - Fresh and Juicy, Fresho, 3, 1kg, 1089, 500g, 1909, 250g, 1039
+supermarket@Guntur, Marinades, Classic Hariyali Rohu Fish Steak - Fresh and Juicy, Fresho, 2, 500g, 269, 250g, 149
+supermarket@Guntur, Marinades, Amritsari Achari Chicken Tikka - Fresh and Juicy, Fresho, 1, 250g, 189
+supermarket@Guntur, Marinades, Peri-Peri Chicken Wings - Fresh and Juicy, Fresho, 3, 250g, 139, 1kg, 369, 500g, 209
 supermarket@Guntur, Marinades, Chicken - Wings - Keventer, Keventer, 1, 400g, 310
-supermarket@Guntur, Marinades, Chicken Tandoori Whole Leg - Fresh & Juicy, Fresho, 2, 2pcs, 249, 4pcs, 609
-supermarket@Guntur, Fish & Seafood, Frozen Prawns - Medium - Fresho, Fresho, 1, 250g, 184
-supermarket@Guntur, Fish & Seafood, Basa Fish Fillet - Preservative Free, Fresho, 3, 500g, 329, 1kg, 599, 250g, 289
-supermarket@Guntur, Fish & Seafood, Rohu Fish Curry Cut/Bengali Cut, Fresho, 3, 1kg, 449, 500g, 269, 250g, 169
-supermarket@Guntur, Fish & Seafood, Frozen Basa Fillet, Fresho, 1, 500g, 280
-supermarket@Guntur, Fish & Seafood, Catla Fish Curry Cut/Bengali Cut, Fresho, 3, 250g, 169, 500g, 249, 1kg, 399
-supermarket@Guntur, Fish & Seafood, Prawns- Peeled & Deveined, Fresho, 1, 500g, 600
-supermarket@Guntur, Fish & Seafood, Frozen Salmon Skin-on Portions, Big Sams, 1, 250g, 1295
-supermarket@Guntur, Fish & Seafood, Tuna Flakes - Light Meat- in Water, Tasty Nibbles, 1, 185g, 160
-supermarket@Guntur, Fish & Seafood, Kolkata/Bengali Hilsa Fish - Cut Pieces, Fresho, 3, 250g, 649, 500g, 1329, 1kg, 5979
-supermarket@Guntur, Fish & Seafood, Mackerel Fish - Medium Whole Cleaned, Fresho, 1, 500g, 181.5
-supermarket@Guntur, Fish & Seafood, Tuna Chunks - Light Meat, Tasty Nibbles, 1, 185g, 170
-supermarket@Guntur, Fish & Seafood, White Prawns - Jumbo, Fresho, 2, 250g, 429, 500g, 589
-supermarket@Guntur, Fish & Seafood, Kolkata/Bengali Pabda Fish - Whole Cleaned, Fresho, 3, 1kg, 989, 500g, 509, 250g, 279
-supermarket@Guntur, Fish & Seafood, Tilapia Fish Whole Cleaned - Preservative Free, Fresho, 1, 500g, 139
-supermarket@Guntur, Fish & Seafood, Kolkata/Bengali Galda Fish Processed Large, Fresho, 1, 250g, 309
-supermarket@Guntur, Fish & Seafood, Light Meat Tuna Flakes In Sunflower Oil, Tasty Nibbles, 1, 185g, 160
-supermarket@Guntur, Fish & Seafood, Mackerel Fish - Large Whole Cleaned, Fresho, 1, 500g, 219
-supermarket@Guntur, Fish & Seafood, Kolkata/Bengali Hilsa Fish - Steak/Slice, Fresho, 1, 500g, 3829
-supermarket@Guntur, Fish & Seafood, Fish - Katla Head, Fresho, 2, 500g, 439, 250g, 179
-supermarket@Guntur, Fish & Seafood, Sardine Fish - Large Whole Cleaned, Fresho, 1, 500g, 199
-supermarket@Guntur, Fish & Seafood, Basa Fish Cubes - Boneless, Fresho, 3, 250g, 259, 500g, 459, 1kg, 909
-supermarket@Guntur, Fish & Seafood, Bombay Duck - H.S. Dry Fish, H.S. Dry Fish, 1, 80g, 110
-supermarket@Guntur, Fish & Seafood, Frozen Prawns - Large, Fresho, 1, 250g, 320
-supermarket@Guntur, Fish & Seafood, Roopchanda Fish - Curry Cut, Fresho, 2, 250g, 129, 500g, 229
-supermarket@Guntur, Fish & Seafood, Fresh Sardine Fish - Whole Cut- Cleaned, Fresho, 1, 1kg, 549
-supermarket@Guntur, Pork & Other Meats, Pork Peppery Meatball, Meisterwurst, 1, 300g, 555
-supermarket@Guntur, Pork & Other Meats, Pork - Mince, Prasuma, 1, 250g, 330
-supermarket@Guntur, Pork & Other Meats, Pork - Tenderloin, Prasuma, 1, 450g, 1100
-supermarket@Guntur, Pork & Other Meats, Pork - Cold Cut Paprika, Bon Appetit, 1, 100g, 157
-supermarket@Guntur, Pork & Other Meats, Pork - Chop Boneless, Prasuma, 1, 400g, 950
-supermarket@Guntur, Pork & Other Meats, Pork - Loin Slice, Prasuma, 1, 200g, 520
+supermarket@Guntur, Marinades, Chicken Tandoori Whole Leg - Fresh and Juicy, Fresho, 2, 2pcs, 249, 4pcs, 609
+supermarket@Guntur, Fish and Seafood, Frozen Prawns - Medium - Fresho, Fresho, 1, 250g, 184
+supermarket@Guntur, Fish and Seafood, Basa Fish Fillet - Preservative Free, Fresho, 3, 500g, 329, 1kg, 599, 250g, 289
+supermarket@Guntur, Fish and Seafood, Rohu Fish Curry Cut/Bengali Cut, Fresho, 3, 1kg, 449, 500g, 269, 250g, 169
+supermarket@Guntur, Fish and Seafood, Frozen Basa Fillet, Fresho, 1, 500g, 280
+supermarket@Guntur, Fish and Seafood, Catla Fish Curry Cut/Bengali Cut, Fresho, 3, 250g, 169, 500g, 249, 1kg, 399
+supermarket@Guntur, Fish and Seafood, Prawns- Peeled and Deveined, Fresho, 1, 500g, 600
+supermarket@Guntur, Fish and Seafood, Frozen Salmon Skin-on Portions, Big Sams, 1, 250g, 1295
+supermarket@Guntur, Fish and Seafood, Tuna Flakes - Light Meat- in Water, Tasty Nibbles, 1, 185g, 160
+supermarket@Guntur, Fish and Seafood, Kolkata/Bengali Hilsa Fish - Cut Pieces, Fresho, 3, 250g, 649, 500g, 1329, 1kg, 5979
+supermarket@Guntur, Fish and Seafood, Mackerel Fish - Medium Whole Cleaned, Fresho, 1, 500g, 181.5
+supermarket@Guntur, Fish and Seafood, Tuna Chunks - Light Meat, Tasty Nibbles, 1, 185g, 170
+supermarket@Guntur, Fish and Seafood, White Prawns - Jumbo, Fresho, 2, 250g, 429, 500g, 589
+supermarket@Guntur, Fish and Seafood, Kolkata/Bengali Pabda Fish - Whole Cleaned, Fresho, 3, 1kg, 989, 500g, 509, 250g, 279
+supermarket@Guntur, Fish and Seafood, Tilapia Fish Whole Cleaned - Preservative Free, Fresho, 1, 500g, 139
+supermarket@Guntur, Fish and Seafood, Kolkata/Bengali Galda Fish Processed Large, Fresho, 1, 250g, 309
+supermarket@Guntur, Fish and Seafood, Light Meat Tuna Flakes In Sunflower Oil, Tasty Nibbles, 1, 185g, 160
+supermarket@Guntur, Fish and Seafood, Mackerel Fish - Large Whole Cleaned, Fresho, 1, 500g, 219
+supermarket@Guntur, Fish and Seafood, Kolkata/Bengali Hilsa Fish - Steak/Slice, Fresho, 1, 500g, 3829
+supermarket@Guntur, Fish and Seafood, Fish - Katla Head, Fresho, 2, 500g, 439, 250g, 179
+supermarket@Guntur, Fish and Seafood, Sardine Fish - Large Whole Cleaned, Fresho, 1, 500g, 199
+supermarket@Guntur, Fish and Seafood, Basa Fish Cubes - Boneless, Fresho, 3, 250g, 259, 500g, 459, 1kg, 909
+supermarket@Guntur, Fish and Seafood, Bombay Duck - H.S. Dry Fish, H.S. Dry Fish, 1, 80g, 110
+supermarket@Guntur, Fish and Seafood, Frozen Prawns - Large, Fresho, 1, 250g, 320
+supermarket@Guntur, Fish and Seafood, Roopchanda Fish - Curry Cut, Fresho, 2, 250g, 129, 500g, 229
+supermarket@Guntur, Fish and Seafood, Fresh Sardine Fish - Whole Cut- Cleaned, Fresho, 1, 1kg, 549
+supermarket@Guntur, Pork and Other Meats, Pork Peppery Meatball, Meisterwurst, 1, 300g, 555
+supermarket@Guntur, Pork and Other Meats, Pork - Mince, Prasuma, 1, 250g, 330
+supermarket@Guntur, Pork and Other Meats, Pork - Tenderloin, Prasuma, 1, 450g, 1100
+supermarket@Guntur, Pork and Other Meats, Pork - Cold Cut Paprika, Bon Appetit, 1, 100g, 157
+supermarket@Guntur, Pork and Other Meats, Pork - Chop Boneless, Prasuma, 1, 400g, 950
+supermarket@Guntur, Pork and Other Meats, Pork - Loin Slice, Prasuma, 1, 200g, 520

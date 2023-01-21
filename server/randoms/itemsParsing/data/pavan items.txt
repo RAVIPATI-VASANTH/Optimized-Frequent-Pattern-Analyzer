@@ -1,24 +1,24 @@
 supermarket@Guntur,Bakery Snacks,Bread - Garlic,Fresho Signature,1,200g,79
 supermarket@Guntur,Bakery Snacks,Ragi Crackers,The Baker's Dozen,1,100g,119
-supermarket@Guntur,Bakery Snacks,Garlic & Herb Croutons Bites,Fresho Signature,1,100g,99
+supermarket@Guntur,Bakery Snacks,Garlic and Herb Croutons Bites,Fresho Signature,1,100g,99
 supermarket@Guntur,Bakery Snacks,Cinnamon Sticks,Fresho Signature,2,100g,36,200g,61
 supermarket@Guntur,Bakery Snacks,Spicy Paprika Croutons Bites,Fresho Signature,1,100g,109
 supermarket@Guntur,Bakery Snacks,jeera bread sticks,Fresho Signature,2,100g,41.05,200g,80
 supermarket@Guntur,Bakery Snacks,Garlic Bread - 100% Wholewheat,The Baker's Dozen,2,160g,55,320g,99.09
-supermarket@Guntur,Bakery Snacks,Baked Pita Bread Crisps - Chilli & Garlic,Wingreens Farms,2,100g,127.50,200g,255
-supermarket@Guntur,Bakery Snacks,Parmesan Cheese Snack Sticks - Irresistible & Appetizing Snack,Fresho Signature,1,100g,95
+supermarket@Guntur,Bakery Snacks,Baked Pita Bread Crisps - Chilli and Garlic,Wingreens Farms,2,100g,127.50,200g,255
+supermarket@Guntur,Bakery Snacks,Parmesan Cheese Snack Sticks - Irresistible and Appetizing Snack,Fresho Signature,1,100g,95
 supermarket@Guntur,Bakery Snacks,Lavash - 100% Wholewheat,The Baker's Dozen,2,100g,119,200g,238
 supermarket@Guntur,Bakery Snacks,Chilli Garlic Grissini Breadsticks - 100% Wholewheat,The Baker's Dozen,1,100g,119
 supermarket@Guntur,Bakery Snacks,Freshly Baked - Multigrain Lavash,Fresho Signature,2,100g,75,200g,140
-supermarket@Guntur,Bakery Snacks,Methi Snack Sticks - Delicate & Fresh Flavour,Fresho Signature,1,100g,69
-supermarket@Guntur,Bakery Snacks,Beetroot Lavash - Heavenly Taste & Delicious,Fresho Signature,1,100g,99
+supermarket@Guntur,Bakery Snacks,Methi Snack Sticks - Delicate and Fresh Flavour,Fresho Signature,1,100g,69
+supermarket@Guntur,Bakery Snacks,Beetroot Lavash - Heavenly Taste and Delicious,Fresho Signature,1,100g,99
 supermarket@Guntur,Bakery Snacks,Peri Peri Crackers - 100% Wholewheat,The Baker's Dozen,1,100g,119
-supermarket@Guntur,Bakery Snacks,Pizza Snack Sticks - Delicate & Appetizing Snack,Fresho Signature,1,100g,119
+supermarket@Guntur,Bakery Snacks,Pizza Snack Sticks - Delicate and Appetizing Snack,Fresho Signature,1,100g,119
 supermarket@Guntur,Bakery Snacks,Beetroot Crackers - 100% Wholewheat,The Baker's Dozen,1,100g,119
 supermarket@Guntur,Bakery Snacks,Spicy Cheese Straw,Fresho Signature,2,100g,75,200g,150
 supermarket@Guntur,Bakery Snacks,Freshly Baked - Plain Lavash,Fresho Signature,2,100g,109,200g,198
 supermarket@Guntur,Bakery Snacks,Masala Lavash,Fresho Signature,2,100g,109,200g,198
-supermarket@Guntur,Bakery Snacks,Garlic&oregano soup sticks,POLKA,1,125g,90
+supermarket@Guntur,Bakery Snacks,Garlicandoregano soup sticks,POLKA,1,125g,90
 supermarket@Guntur,Bakery Snacks,Quinoa Puffs - Lunchbox Snack,Dibha,1,30g,150
 supermarket@Guntur,Bakery Snacks,Crispy Baked Multi-grain Flat Bread - With Flax Seeds,Wingreens Farms,2,100g,150,200g,185
 supermarket@Guntur,Bakery Snacks,Bread Sticks - Plain,Fresho Signature,1,100g,59
@@ -37,18 +37,18 @@ supermarket@Guntur,Non Dairy,Soyabean Tempeh Cubes - Natural,Hello Tempayy,2,100
 supermarket@Guntur,Non Dairy,Soy Paneer/Tofu - Rich In Protein/Calcium,Pure Diet,1,200g,60
 supermarket@Guntur,Non Dairy,Spiced Tawa Masla Soyabean Tempeh Cubes,Hello Tempayy,1,200g,148.50
 supermarket@Guntur,Non Dairy,Soyabean Tempeh Cubes - Peppery Szechuan Chilli,Hello Tempayy,1,200g,288.90
-supermarket@Guntur,Non Dairy,Vegan Smooth & Butter - Fortified With Vitamin B12 & D,White Cub,1,200g,180
+supermarket@Guntur,Non Dairy,Vegan Smooth and Butter - Fortified With Vitamin B12 and D,White Cub,1,200g,180
 supermarket@Guntur,Non Dairy,Spicy Peri Peri Soyabean Tempeh Cubes - Rich In Protein,Hello Tempayy,1,200g,165
-supermarket@Guntur,Non Dairy,Natura Rice & Walnut Drink Vegan,Borges,1,1L,165
+supermarket@Guntur,Non Dairy,Natura Rice and Walnut Drink Vegan,Borges,1,1L,165
 supermarket@Guntur,Non Dairy,Plant Based Coconut Original Beverage - Unsweetened,Paper Boat,1,1L,300
 supermarket@Guntur,Non Dairy,Tofu Supreme - Regular,Soyfit,1,200g,120
 supermarket@Guntur,Non Dairy,Tofu Supreme - Garlic Pepper,Soyfit,1,200g,140
 supermarket@Guntur,Non Dairy,Vegan Thousand Island Dip - With No Trans Fat,Grabenord,1,300g,299
 supermarket@Guntur,Non Dairy,Tofu Supreme - Chilli,Soyfit,1,200g,140
-supermarket@Guntur,Non Dairy,Vanilla Soya Drink - With 30% More ProteinVegan & Gluten Free,Real Health,1,1L,155
+supermarket@Guntur,Non Dairy,Vanilla Soya Drink - With 30% More ProteinVegan and Gluten Free,Real Health,1,1L,155
 supermarket@Guntur,Non Dairy,Ultimate Tea Coffee Whitener - 100% Plant Based,Ultx,1,500g,670
-supermarket@Guntur,Non Dairy,Unsweetened Almond Drink - With 30% More ProteinVegan & Gluten Free,Real Health,1,1L,325
-supermarket@Guntur,Non Dairy,Chocolate Soya Drink - With 30% More ProteinVegan & Gluten Free,Real Health,1,1L,132
+supermarket@Guntur,Non Dairy,Unsweetened Almond Drink - With 30% More ProteinVegan and Gluten Free,Real Health,1,1L,325
+supermarket@Guntur,Non Dairy,Chocolate Soya Drink - With 30% More ProteinVegan and Gluten Free,Real Health,1,1L,132
 supermarket@Guntur,Non Dairy,Nuggets - Plant-Based Non-GMO Protein-RichVeganCholesterol Free,One Good,1,250g,249
 supermarket@Guntur,Non Dairy,Patty - Plant-Based Vegan Non-GMOCholesterol Free,One Good,1,250g,226
 supermarket@Guntur,Non Dairy,Oat Drink - Plant Based,Alt Co,1,1L,299
@@ -67,338 +67,338 @@ supermarket@Guntur,Non Dairy,Kapiva Vegan Protein - Chocolate,Kapiva Ayurveda,1,
  supermarket@Guntur,Non Dairy,Punchy Pepper Cashew Butter,Jus Amazin,1,125g,299
 supermarket@Guntur,Non Dairy,Sweet 'N' Salty Peanut Butter,Jus Amazin,1,125g,150
 supermarket@Guntur,Non Dairy,Just Like Chicken Classic Nuggets,Shaka Harry,1,125g,295
-supermarket@Guntur,Non Dairy,Just Like Chicken Hot & Spicy Nuggets,Shaka Harry,2,250g,295,500g,590
+supermarket@Guntur,Non Dairy,Just Like Chicken Hot and Spicy Nuggets,Shaka Harry,2,250g,295,500g,590
 supermarket@Guntur,Non Dairy,Organic Vegetable Tofu - Soy Paneer,MOOZ,1,200g,100
 supermarket@Guntur,Non Dairy,Organic Masala Tofu - Soy Paneer,MOOZ,1,200g,100
 supermarket@Guntur,Non Dairy,Tofu Paneer - Rich In Protein,BRIYAS,1,200g,99
 supermarket@Guntur,Non Dairy,Almond Milk - Plain,Raw Pressery,1,1L,325
 supermarket@Guntur,Non Dairy,Kombucha Natural Drink,Healthy Gut,1,330ml,199
 supermarket@Guntur,Non Dairy,Egg Replacer - Vegan,Yes You Can,1,180g,600
-supermarket@Guntur,Cookies Rusk & Khari,Toastea Premium Bake Rusk,Britannia,2,150g,30,300g,90
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Milk,Tasties,1,200g,75
-supermarket@Guntur,Cookies Rusk & Khari,Khari - Maska,Tasties,1,200g,109
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Suji & Elaichi,Tasties,1,200g,39
-supermarket@Guntur,Cookies Rusk & Khari,Rusk Real Elaichi,Parle,1,300g,55
-supermarket@Guntur,Cookies Rusk & Khari,Toastea Premium Bake Rusk With Goodness Of Elaichi,Britannia,1,250g,45
-supermarket@Guntur,Cookies Rusk & Khari,Cheese Flavoured Cracker Biscuits - Family Pack,Malkist,1,144g,60
-supermarket@Guntur,Cookies Rusk & Khari,Chocobakes Choc Filled Cookies/Biscuits,Cadbury,1,300g,210
-supermarket@Guntur,Cookies Rusk & Khari,Traditional Jeera Bakery Biscuits,BB Popular,1,200g,145
-supermarket@Guntur,Cookies Rusk & Khari,Bakery Biscuit - Tooti Fruity,BB Popular,1,200g,145
-supermarket@Guntur,Cookies Rusk & Khari,Banana Pudding Cake - Sliced,Elite,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Enrobed Vanilla Dark Chocolate Dipped Cookies,Fresho Signature,1,75g,99
-supermarket@Guntur,Cookies Rusk & Khari,Center Filled Coffee Cookies,Fresho Signature,1,75g,49
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Suji Elaichi Light,Bhikhaaram Chandmal,1,400g,110
-supermarket@Guntur,Cookies Rusk & Khari,Cheese Flavoured Cracker Biscuits,Malkist,1,540g,180
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Ragi,Tasties,1,200g,130
-supermarket@Guntur,Cookies Rusk & Khari,Biscuits - Osmania,Tasties,1,200g,89
-supermarket@Guntur,Cookies Rusk & Khari,Jeera Ajwain Rusk,Tasties,1,200g,45
-supermarket@Guntur,Cookies Rusk & Khari,Choco Pie With Real Mango,Orion,1,168g,99
-supermarket@Guntur,Cookies Rusk & Khari,Biscuits - Cashew Nut,Tasties,1,200g,89
-supermarket@Guntur,Cookies Rusk & Khari,Bakery Biscuit - Choco Chips,BB Popular,1,200g,145
-supermarket@Guntur,Cookies Rusk & Khari,Biscuits - Badam Pista,Tasties,1,200g,99
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Classic,Elite,1,59g,10
-supermarket@Guntur,Cookies Rusk & Khari,Assorted Eggless Cookies,Fresho Signature,1,150g,239
-supermarket@Guntur,Cookies Rusk & Khari,Center Filled Dark Chocolate Cookies,Fresho Signature,1,75g,49
-supermarket@Guntur,Cookies Rusk & Khari,Bakery Biscuit - Ajwain,BB Popular,1,200g,145
-supermarket@Guntur,Cookies Rusk & Khari,Dark Chocolate Cookies,The Baker's Dozen,1,200g,149.31
-supermarket@Guntur,Cookies Rusk & Khari,French Heart,Tasties,1,200g,125
-supermarket@Guntur,Cookies Rusk & Khari,Almond Biscuit Sticks,Fresho Signature,1,150g,195
-supermarket@Guntur,Cookies Rusk & Khari,Biscotti - Chocolate Cashew,Fresho Signature,1,150g,159
-supermarket@Guntur,Cookies Rusk & Khari,Whole Wheat Rusk - Sweet,Nutribee,1,200g,100
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Pizza,Elite,1,100g,25
-supermarket@Guntur,Cookies Rusk & Khari,Bakery Biscuit - Badam,BB Popular,1,200g,145
-supermarket@Guntur,Cookies Rusk & Khari,English Short Bread,Freasho Signature,1,150g,159
-supermarket@Guntur,Cookies Rusk & Khari,Khari - Ajwain,Tasties,1,200g,180
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Foxtail Millet,e-millet,1,110g,35
-supermarket@Guntur,Cookies Rusk & Khari,Biscuit - Coconut,Milk Ma,1,200g,55
-supermarket@Guntur,Cookies Rusk & Khari,Biscotti - Almond,Fresho Signature,1,150g,159
-supermarket@Guntur,Cookies Rusk & Khari,The Ultimate Choco Chip Cookies,Orion,1,100g,60
-supermarket@Guntur,Cookies Rusk & Khari,Millet Rusk - Sweet,Nutribee,1,200g,115
-supermarket@Guntur,Cookies Rusk & Khari,Assorted Cookies,CookieMan,1,200g,150
-supermarket@Guntur,Cookies Rusk & Khari,Butter Cookies,Milk Ma,1,200g,45
-supermarket@Guntur,Cookies Rusk & Khari,Rusk-Muesli,Tasties,1,400g,112
-supermarket@Guntur,Cookies Rusk & Khari,Traditional Butter Cookies,Fresho Signature,1,150g,139
-supermarket@Guntur,Cookies Rusk & Khari,Dreams Carrot Pudding Cup Cake,Elite,1,149g,50
-supermarket@Guntur,Cookies Rusk & Khari,Peanut Butter Cookies,The Baker's Dozen,1,150g,189
-supermarket@Guntur,Cookies Rusk & Khari,Maska Chaska Cookies,Fresho Signature,1,150g,135
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Navagrain Millet,e-Millet,1,110g,35
-supermarket@Guntur,Cookies Rusk & Khari,Biscuit - Cashew,Milk Ma,1,200g,45
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Garlic,Tasties,1,200g,112
-supermarket@Guntur,Cookies Rusk & Khari,Rusk-Fruit,Milk Ma,1,150g,35
-supermarket@Guntur,Cookies Rusk & Khari,Danish Butter Cookies,Fresho Signature,1,400g,319
-supermarket@Guntur,Cookies Rusk & Khari,Ragi Delight,Milk Ma,1,150g,45
-supermarket@Guntur,Cookies Rusk & Khari,French Heart Puff Cookies,POLKA,1,350g,129
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Oatmeal,Fresho Signature,1,150g,139
-supermarket@Guntur,Cookies Rusk & Khari,Foxtail Millet With Honey Cookies,Millet Cookies,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Barnyard Millet,e-Millet,1,110g,35
-supermarket@Guntur,Cookies Rusk & Khari,Coconut Oats Cookies,The Baker's Dozen,1,150g,169
-supermarket@Guntur,Cookies Rusk & Khari,Biscuit - Salt,Milk Ma,1,200g,45
-supermarket@Guntur,Cookies Rusk & Khari,Whole Wheat Rusk - Chilli Garlic,Nutribee,1,200g,110
-supermarket@Guntur,Cookies Rusk & Khari,Salt With Ajwain,Millet Cookies,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Choco Chips Banana Cookies - Whole Wheat Flour,Fabbox,1,189g,198
-supermarket@Guntur,Cookies Rusk & Khari,Choc Chunk Cookies,CookieMan,1,120g,120
-supermarket@Guntur,Cookies Rusk & Khari,Butter Crunch Cookies,The Baker's Dozen,1,180g,169
-supermarket@Guntur,Cookies Rusk & Khari,Gluten Free Ragi,POLKA,1,325g,144
-supermarket@Guntur,Cookies Rusk & Khari,Milk Bikis Biscuit - Zero Trans Fat,Britannia,1,300g,55
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Chocochip,Fresho Signature,1,150g,149
-supermarket@Guntur,Cookies Rusk & Khari,Assorted Cookies - Fruit & Nut,CookieMan,1,400g,300
-supermarket@Guntur,Cookies Rusk & Khari,Multigrain Khari Puff - Fresh & Crispy,POLKA,1,300g,120
-supermarket@Guntur,Cookies Rusk & Khari,Enrobed Cinnamon Milk Chocolate Dipped Cookies,Fresho Signature,1,75g,99
-supermarket@Guntur,Cookies Rusk & Khari,Whole Wheat Rusk,Nutribee,1,200g,105
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Dark Chocochip,Fresho Signature,1,150g,159
-supermarket@Guntur,Cookies Rusk & Khari,Little Millet,Millet Cookies,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Chai Biscuits With Cardamom,Lal,1,160g,90
-supermarket@Guntur,Cookies Rusk & Khari,Pistachio Biscuit Sticks,Fresho Signature,1,150g,209
-supermarket@Guntur,Cookies Rusk & Khari,Coconut Macaroon Cookies,CookieMan,1,200g,249
-supermarket@Guntur,Cookies Rusk & Khari,Sugar Free Cookies - Crunchy,Vig Baker's,1,75g,50
-supermarket@Guntur,Cookies Rusk & Khari,Kaju Pista Cookies,Lal,1,160g,120
-supermarket@Guntur,Cookies Rusk & Khari,Brandy Snap Cookies - Flavoured,CookieMan,1,120g,99
-supermarket@Guntur,Cookies Rusk & Khari,Butter Cookies,Elite,1,75g,20
-supermarket@Guntur,Cookies Rusk & Khari,Low Gi (Palm Sugar),Millet Cookies,1,150g,80
-supermarket@Guntur,Cookies Rusk & Khari,Salt With Jeera,Millet Cookies,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Cashew Cookies,The Baker's Dozen,1,150g,169
-supermarket@Guntur,Cookies Rusk & Khari,Strawberry Cream Roll,POLKA,1,45g,30
-supermarket@Guntur,Cookies Rusk & Khari,Biscuit - Khara,Milk Ma,1,200g,45
-supermarket@Guntur,Cookies Rusk & Khari,Ragi Cookies,SHREEMATHA,1,160g,55
-supermarket@Guntur,Cookies Rusk & Khari,Fruit Cookies,Lal,1,160g,99
-supermarket@Guntur,Cookies Rusk & Khari,Double Chocolate Cookies,CookieMan,1,200g,250
-supermarket@Guntur,Cookies Rusk & Khari,Pista Biscotti,CookieMan,1,250g,295
-supermarket@Guntur,Cookies Rusk & Khari,Fruit & Nut Cookies,CookieMan,1,200g,249
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Dry Fruit,Tasties,1,300g,209
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Honey & Oats,Fresho Signature,1,150g,159
-supermarket@Guntur,Cookies Rusk & Khari,Nava Grains,Millet Cookies,1,150g,60
-supermarket@Guntur,Cookies Rusk & Khari,Nutty Choc Overload Chewy Cookies,CookieMan,1,250g,290
-supermarket@Guntur,Cookies Rusk & Khari,Whole Wheat Multigrain Cookies,Fresho Signature,1,150g,125
-supermarket@Guntur,Cookies Rusk & Khari,Mini Cookies - Lemon,Fresho Signature,1,100g,89
-supermarket@Guntur,Cookies Rusk & Khari,Choc Chip Cookies,CookieMan,1,200g,249
-supermarket@Guntur,Cookies Rusk & Khari,Pista Fingers,CookieMan,1,250g,430
-supermarket@Guntur,Cookies Rusk & Khari,Kaju Pista Cookies - Teatime Snack,POLKA,1,325g,180
-supermarket@Guntur,Cookies Rusk & Khari,Coconut Rice Crisps Cookies,Fresho Signature,1,150g,209
-supermarket@Guntur,Cookies Rusk & Khari,Biscuits - Moon,Tasties,1,200g,178
-supermarket@Guntur,Cookies Rusk & Khari,Khatai - Two In One,Tasties,1,250g,89
-supermarket@Guntur,Cookies Rusk & Khari,Cake Rusk - Tutti Frutti,Brownie Basket,1,100g,70
-supermarket@Guntur,Cookies Rusk & Khari,Jeera Biscuits - Crunchy,Vig Baker's,1,300g,110
-supermarket@Guntur,Cookies Rusk & Khari,Atta Biscuits - Crunchy,Vig Baker's,1,300g,110
-supermarket@Guntur,Cookies Rusk & Khari,Atta Zeera Cookies,Brownies Basket,1,200g,90
-supermarket@Guntur,Cookies Rusk & Khari,Atta Pista Cookies,Brownies Basket,1,200g,130
-supermarket@Guntur,Cookies Rusk & Khari,Cake Rusk - Chocolate,Fresho Signature,1,150g,99
-supermarket@Guntur,Cookies Rusk & Khari,Millet Rusk - Curry Leaf,Nuribee,1,200g,125
-supermarket@Guntur,Cookies Rusk & Khari,Milllet cookie,Nutribee,1,200g,125
-supermarket@Guntur,Cookies Rusk & Khari,Khatai - Badam,Tasties,1,300g,149
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Peanut Butter,Fresho Signature,1,150g,209
-supermarket@Guntur,Cookies Rusk & Khari,Nutty Cookies - Chewy,CookieMan,1,200g,390
-supermarket@Guntur,Cookies Rusk & Khari,Almond Fingers,CookieMan,1,250g,90
-supermarket@Guntur,Cookies Rusk & Khari,Millet Cookies - Apple Cinnamon Delight,Praana,1,45g,39
-supermarket@Guntur,Cookies Rusk & Khari,Almond Cookies - Crunchy,Vig Baker's,1,80g,65
-supermarket@Guntur,Cookies Rusk & Khari,Chocochip Cookies - Crunchy,Vig Baker's,1,150g,95
-supermarket@Guntur,Cookies Rusk & Khari,Atta Til Mexicana Cookies,Brownies Basket,1,200g,90
-supermarket@Guntur,Cookies Rusk & Khari,Atta Badam Cookies,Brownies Basket,1,200g,130
-supermarket@Guntur,Cookies Rusk & Khari,Atta Tutti Frutti Cookies,Brownies Basket,1,200g,90
-supermarket@Guntur,Cookies Rusk & Khari,Cookies - Honey,Tasties,1,400g,259
-supermarket@Guntur,Cookies Rusk & Khari,Coconut Cookies - Crunchy Snack,BATTER CHATTER,1,200g,130
-supermarket@Guntur,Cookies Rusk & Khari,Millet Cookies - Vanilla Choco Elite,Praana,1,45g,39
-supermarket@Guntur,Cookies Rusk & Khari,Oat & Kaju Cookies,POLKA,1,325g,180
-supermarket@Guntur,Cookies Rusk & Khari,Badam Khatai Cookies,POLKA,1,325g,144
-supermarket@Guntur,Cookies Rusk & Khari,Peanut Butter Nutty Cookies,Open Secret,1,75g,105
-supermarket@Guntur,Cookies Rusk & Khari,White Choco Cashew Nutty Cookies,Open Secret,1,75g,105
-supermarket@Guntur,Cookies Rusk & Khari,Choco Almond Nutty Cookies,Open Secret,1,75g,96
-supermarket@Guntur,Cookies Rusk & Khari,Butter Cookies - Sugar Free,Tasties,1,75g,42
-supermarket@Guntur,Cookies Rusk & Khari,Oatmeal Cookies - Sugar Free,Tasties,1,75g,49
-supermarket@Guntur,Cookies Rusk & Khari,Multigrain Cookies - Sugar Free,Tasties,1,75g,49
-supermarket@Guntur,Cookies Rusk & Khari,Chilli Garlic Butter Toast,Fresho Signature,1,100g,109
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Sooji Elaichi,Elite,1,182g,35
-supermarket@Guntur,Cookies Rusk & Khari,Rusk - Baby,Milk Ma,1,150g,30
-supermarket@Guntur,Cookies Rusk & Khari,Super Tasty Coffee Thins Biscuits,COFFEE JOY,1,50g,25
-supermarket@Guntur,Cookies Rusk & Khari,Garlic & Herb Toast,Fresho Signature,1,100g,109
-supermarket@Guntur,Cookies Rusk & Khari,Marori Khari Puff,POLKA,1,300g,120
-supermarket@Guntur,Cookies Rusk & Khari,Atta Biscuits - Crunchy,Vig Baker's,1,300g,110
-supermarket@Guntur,Cookies Rusk & Khari,Double Choc Chip Cookies,CookieMan,1,150g,199
-supermarket@Guntur,Cookies Rusk & Khari,Choc Chip Cookies,CookieMan,1,150g,199
-supermarket@Guntur,Cookies Rusk & Khari,Ginger Bread Cookies,Fresho Signature,1,150g,209
-supermarket@Guntur,Ice Creams & Desserts,Vanilla Magic Ice Cream,Amul,1,1L,180
-supermarket@Guntur,Ice Creams & Desserts,Chocolate Brownie Ice Cream,Amul,1,1L,215
-supermarket@Guntur,Ice Creams & Desserts,Tricone Choco Crunch Ice Cream,Amul,1,120ml,30
-supermarket@Guntur,Ice Creams & Desserts,Tricone Butterscotch Ice Cream,Amul,1,120ml,30
-supermarket@Guntur,Ice Creams & Desserts,Magnum Truffle Stick Ice Cream,kwality walls,1,80ml,90
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Anjeer with Chocolate Sauce,Amul,1,125ml,40
-supermarket@Guntur,Ice Creams & Desserts,Sundae Chocolate Magic Ice Cream,Amul,1,1L,200
-supermarket@Guntur,Ice Creams & Desserts,Rajbhog Ice Cream,Amul,1,125ml,40
-supermarket@Guntur,Ice Creams & Desserts,Butterscotch Bliss Ice Cream,Amul,1,1L,200
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Vanilla with Chocolate Sauce,Amul,1,125ml,35
-supermarket@Guntur,Ice Creams & Desserts,Ice Cubes - Fresh, Dr. Cubes,1,1kg,85
-supermarket@Guntur,Ice Creams & Desserts,Tender Coconut Frozen Dessert,kwality walls,1,100ml,50
-supermarket@Guntur,Ice Creams & Desserts,Gold Butterscotch Ice Cream,Amul,1,1L,235
-supermarket@Guntur,Ice Creams & Desserts,Double Sundae Choco Almond,Amul,1,1L,210
-supermarket@Guntur,Ice Creams & Desserts,Fruit 'N' Nut Fantasy Ice Cream,Amul,1,125ml,35
-supermarket@Guntur,Ice Creams & Desserts,Gold Vanilla Ice Cream,Amul,1,1L,210
-supermarket@Guntur,Ice Creams & Desserts,Gold King Alphonso Ice Cream,Amul,1,1L,235
-supermarket@Guntur,Ice Creams & Desserts,Trixy Cookie Cup,Kwality walls,1,110ml,70
-supermarket@Guntur,Ice Creams & Desserts,Oreo Cornetto,kwality walls,1,120ml,70
-supermarket@Guntur,Ice Creams & Desserts,Double Chocolate Cornetto Frozen Dessert,kwality walls,1,105ml,40
-supermarket@Guntur,Ice Creams & Desserts,Moroccan Dry Fruit Ice Cream - Real Milk,Amul,1,1L,250
-supermarket@Guntur,Ice Creams & Desserts,Tricone Two In One Ice Cream,Amul,1,120ml,35
-supermarket@Guntur,Ice Creams & Desserts,Tender Coconut Frozen Dessert,kwality walls,1,500ml,229
-supermarket@Guntur,Ice Creams & Desserts,Oreo & Cream Frozen Dessert,kwality walls,1,100ml,60
-supermarket@Guntur,Ice Creams & Desserts,Creme Delights Alphonso Mango Frozen Dessert,kwality walls,1,700ml,180
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - World Cone,Havmor,1,150ml,80
-supermarket@Guntur,Ice Creams & Desserts,Desi Kulfi,kwality walls,1,100ml,51
-supermarket@Guntur,Ice Creams & Desserts,Caramel Cookies Ice Cream,Amul,1,1L,200
-supermarket@Guntur,Ice Creams & Desserts,Blockbuster Triple Chocolate Stick Ice Cream,Havmor,1,90ml,70
-supermarket@Guntur,Ice Creams & Desserts,Matka Kulfi - Rich & Creamy,Cream Bell,1,90ml,50
-supermarket@Guntur,Ice Creams & Desserts,Desi Twist - Creamy Kulfi,kwality walls,1,700ml,249
-supermarket@Guntur,Ice Creams & Desserts,Roasted Badam Cone Ice Cream,Dairy day,1,120ml,60
-supermarket@Guntur,Ice Creams & Desserts,Cream Raspberry Cone Ice Cream,Cream Bell,1,130ml,50
-supermarket@Guntur,Ice Creams & Desserts,old Orange Salsa Ice Cream,Amul,1,1L,225
-supermarket@Guntur,Ice Creams & Desserts,Frozen Dessert - Feast Choco Bar,kwality walls,1,70ml,20
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Gajar Halwa Rich & Creamy,Dairy day,1,500ml,199
-supermarket@Guntur,Ice Creams & Desserts,Excotia Ice Cream - Arabian Delite,Dairy day,1,100ml,50
-supermarket@Guntur,Ice Creams & Desserts,Exotica Ice Cream - Rajbhog,Dairy day,1,100ml,60
-supermarket@Guntur,Ice Creams & Desserts,Golden Fantasy Ice Cream Cake - Rich Taste, Cream Bell,1,1L,500
-supermarket@Guntur,Ice Creams & Desserts,Cookie Magic Cone Ice Cream,Dairy day,1,120ml,60
-supermarket@Guntur,Ice Creams & Desserts,Almond Carnival Ice Cream,Havmor,1,700ml,300
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream Cake - Black Forest,Dairy Day,1,500ml,450
-supermarket@Guntur,Ice Creams & Desserts,Chocoholic Ice Cream,THE BROOKLYN CREAMERY,1,450ml,348
-supermarket@Guntur,Ice Creams & Desserts,Acai Berry Banana,THE BROOKLYN CREAMERY,1,450ml,450
-supermarket@Guntur,Ice Creams & Desserts,Chocolate Fudge Brownie,THE BROOKLYN CREAMERY,1,450ml,349
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Strawberry,Haagen-Dazs,1,473ml,780
-supermarket@Guntur,Ice Creams & Desserts,Premium Ice Cream - Fig Walnut,London Dairy,1,500ml,450
-supermarket@Guntur,Ice Creams & Desserts,Premium Ice Cream - Tiramisu,London Dairy,1,1L,810
-supermarket@Guntur,Ice Creams & Desserts,Premium Ice Cream - Kulfi,London Dairy,1,500ml,450
-supermarket@Guntur,Ice Creams & Desserts,Premium Ice Cream - Mocha Almond Fudge,London Dairy,1,1L,900
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Vanilla Lite,London Dairy,1,500ml,450
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Alphonso Mango,Baskin Robbbins,1,700ml,469
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Honey Nut Crunch,Baskin Robbbins,1,450ml,379
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Gold Medal Ribbon,Baskin Robbbins,1,450ml,389
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream Sundae - Mississippi Mud,Baskin Robbbins,1,165ml,125
-supermarket@Guntur,Ice Creams & Desserts,Sea Salt Caramel Ice Cream,THE BROOKLYN CREAMERY,1,450ml,349
-supermarket@Guntur,Ice Creams & Desserts,Sweet Cream Vanilla Ice Cream,THE BROOKLYN CREAMERY,1,450ml,349
-supermarket@Guntur,Ice Creams & Desserts,Choco-Molten Lava Cake,Pillsbury,1,90g,79
-supermarket@Guntur,Ice Creams & Desserts,Heavenly Raspberry & Vanilla Cheesecake,The Finishing Touch,1,200g,300
-supermarket@Guntur,Ice Creams & Desserts,Red Velvet Cake,Baskin Robbbins,1,500g,669
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Very Berry Strawberry,Baskin Robbbins,1,700ml,409
-supermarket@Guntur,Ice Creams & Desserts,Black Forest Ice Cream Cake,Baskin Robbbins,1,500g,649
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream Sticks - Cookies & Cream,Haagen-Dazs,1,80ml,200
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream Sundae - Fruit Overload,Baskin Robbbins,1,165ml,110
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Roasted Californain Almond,Baskin Robbbins,1,450ml,349
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream - Classic Vanilla,Baskin Robbbins,1,450ml,309
-supermarket@Guntur,Ice Creams & Desserts,Ice Cream Sticks - Strawberry & Cream,Haagen-Dazs,1,80ml,200
-supermarket@Guntur,Energy & Soft Drinks,Diet Coke Soft Drink,Coca Cola,1,300ml,40
-supermarket@Guntur,Energy & Soft Drinks,Original Taste Soft Drink - Refreshing,Coca Cola,1,1.25L,65
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink - Refreshing Strong,Thums Up,1,750ml,40
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Water - Club Soda,Kinely,1,750ml,20
-supermarket@Guntur,Energy & Soft Drinks,Zero Sugar Coke - No Calories,Coca Cola,1,300ml,40
-supermarket@Guntur,Energy & Soft Drinks,Black Soft Drink - Max Taste,Pepsi,1,250ml,35
-supermarket@Guntur,Energy & Soft Drinks,Energy Drink,RED BULL,1,250ml,480
-supermarket@Guntur,Energy & Soft Drinks,Soda - Original Ginger Ale,Schweppes,1,300ml,50
-supermarket@Guntur,Energy & Soft Drinks,Indian Tonic Water,Schweppes,1,300ml,50
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink,Pepsi,1,250ml,20
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink,Mountain Dew,1,250ml,35
-supermarket@Guntur,Energy & Soft Drinks,Soda - The Club,Bisleri,1,600ml,18
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink - With Added Orange Flavour,Mirinda,1,750ml,40
-supermarket@Guntur,Energy & Soft Drinks,Zero Lemon Lime Sparkling Water,paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Pop Goli Marble Soda Blueberry,DOBRA,1,50ml,45
-supermarket@Guntur,Energy & Soft Drinks,Pop Goli Marble Soda Kokum,DOBRA,1,225ml,60
-supermarket@Guntur,Energy & Soft Drinks,Pop Goli Marble Soda Orangelo,DOBRA,1,225ml,60
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Coffee - Dark Roast,Paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Pop Goli Marble Soda Nimbu,DOBRA,1,225ml,50
-supermarket@Guntur,Energy & Soft Drinks,Pop Goli Marble Soda Grape,DOBRA,1,225ml,50
-supermarket@Guntur,Energy & Soft Drinks,Energy Drink - Sugar Free,RED BULL,1,250ml,125
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Beverage - Tonic Water,JIMMY'S COCKTAILS,1,250ml,60
-supermarket@Guntur,Energy & Soft Drinks,Premium Sparkling Mixer - Mint Mojito,Schweppes,1,300ml,75
-supermarket@Guntur,Energy & Soft Drinks,Bitter Lemon Original Mixer,Schweppes,1,300ml,75
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Water - Green Apple,Paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Club Soda - Evervess,Lehar,1,750ml,20
-supermarket@Guntur,Energy & Soft Drinks,Sports Drink - Blue Bolt Flavour,Gatorade,1,500ml,50
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink - Lime Flavoured,Sprite,1,2.25ml,85
-supermarket@Guntur,Energy & Soft Drinks,Sportz Soft Drink - Lemon Flavour,Limca,1,500ml,40
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink - Lemon,7 Up,1,750ml,40
-supermarket@Guntur,Energy & Soft Drinks,Soft Drink - Orange Flavoured,Fanta,1,750ml,40
-supermarket@Guntur,Energy & Soft Drinks,Sports Drink - Orange Flavour,Gatorade,1,500ml,50
-supermarket@Guntur,Energy & Soft Drinks,Swag Can,Pepsi,1,250ml,35
-supermarket@Guntur,Energy & Soft Drinks,Swing Juicer Drink - Lush Lychee, paperboat swing,1,250ml,20
-supermarket@Guntur,Energy & Soft Drinks,Swing Juicer Drink - Zesty Pomegranate,Paperboat Swing,1,250ml,20
-supermarket@Guntur,Energy & Soft Drinks, Energy Drink,String,1,250ml,20
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Water - Cumin,Paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Swing Juicer Drink - Mixed Fruit Medley,Paperboat Swing,1,250ml,20
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Water - Ginger Lemon,Paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Spyci - Masala Maar Ke,Bisleri,1,160ml,10
-supermarket@Guntur,Energy & Soft Drinks,Instant Energy Health Drink - Tangy Orange, Glucon-D,1,200g,75
-supermarket@Guntur,Energy & Soft Drinks,Ultra Energy Drink - Zero Sugar,Monster,1,350ml,110
-supermarket@Guntur,Energy & Soft Drinks,Sparkling Tea - Lemon,Paper Boat,1,600ml,60
-supermarket@Guntur,Energy & Soft Drinks,Sports Drink - Lemon Flavour,Gatorade,1,500ml,50
-supermarket@Guntur,Energy & Soft Drinks,Charged - Berry Bolt 2X Caffeine,Coca Cola,1,300ml,50
-supermarket@Guntur,Energy & Soft Drinks,Fruitnik Electro+ ORS Apple Drink,Amrutanjan,1,200ml,35
-supermarket@Guntur,Energy & Soft Drinks,Apple Juice Based Drink,Appy,1,600ml,35
-supermarket@Guntur,Energy & Soft Drinks,Ale of Grapefruits - A Traditional Recipe,Gunsberg,1,330ml,99
-supermarket@Guntur,Energy & Soft Drinks,Indian Tonic Water - Natural Quinine,Sepoy&Co.,1,200ml,95
-supermarket@Guntur,Energy & Soft Drinks,Energy Drink - Tropical Yellow Edition,RED BULL,1,250ml,115
-supermarket@Guntur,Energy & Soft Drinks,Instant Energy Health Drink - Nimbu Pani,Glucon-D,1,200g,75
-supermarket@Guntur,Energy & Soft Drinks,Spiced Grapefruit Tonic Water - Natural Quinine,Sepoy&Co.,1,200ml,95
-supermarket@Guntur,Energy & Soft Drinks,Limonata - Limey Minty cooler,Bisleri,1,600ml,40
-supermarket@Guntur,Energy & Soft Drinks,Spyci - Masala Maar Ke,Bisleri,1,600ml,40
-supermarket@Guntur,Energy & Soft Drinks,Original Ginger Ale - Naturally Light,Sepoy&Co.,1,200ml,95
-supermarket@Guntur,Energy & Soft Drinks,Pina Colada,&stirred,1,150ml,60
-supermarket@Guntur,Energy & Soft Drinks,Iced Tea - Peach,Blue Bird,1,400g,150
-supermarket@Guntur,Energy & Soft Drinks,Tonic Water - From The Makers Of Bailley,Bombay 99,1,250ml,50
-supermarket@Guntur,Energy & Soft Drinks,Non-Alcoholic Beer Bottle - Malt Beverage,Barbican,1,330ml,120
-supermarket@Guntur,Energy & Soft Drinks,Mint Tonic Water - Natural Quinine,Sepoy&Co.,1,200ml,95
-supermarket@Guntur,Energy & Soft Drinks,Tzinga Classic - Caffeinated Energy Drink, Tzinga,1,250ml,50
-supermarket@Guntur,Energy & Soft Drinks,Green Apple Syrup - Tart & Sweet,GOOD&MOORE,1,750ml,510
-supermarket@Guntur,Energy & Soft Drinks,Celebration Cocktail Pack ,JIMMY'S COCKTAILS,1,250ml,599
-supermarket@Guntur,Energy & Soft Drinks,Isotonic Sports Drink - Blue Rush,FITLETIC FUEL BETTER,1,500ml,60
-supermarket@Guntur,Energy & Soft Drinks,Cinnamon Flavoured Syrup,GOOD&MOORE,1,750ml,690
-supermarket@Guntur,Energy & Soft Drinks,Isotonic Sports Drink - Orange,FITLETIC FUEL BETTER,1,500ml,60
-supermarket@Guntur,Energy & Soft Drinks,Non-Alcoholic Beverage - Low Calorie,Booch,1,250ml,108
-supermarket@Guntur,Energy & Soft Drinks,Glucose D,Moti's,1,50g,25
-supermarket@Guntur,Energy & Soft Drinks,Bloody Mary Non-Alcoholic Beverage,Lazy Cocktails&Co.,1,250ml,99
-supermarket@Guntur,Energy & Soft Drinks,Jalapeno Margarita Non-Alcoholic Beverage,Lazy Cocktails&Co.,1,250ml,99
-supermarket@Guntur,Energy & Soft Drinks,Fruit Drink - Wild Cranberry,Sante,1,250ml,60
-supermarket@Guntur,Health Drink & Supplement,Bournvita Chocolate Health Drink,Cadbury,1,2Kg,790
-supermarket@Guntur,Health Drink & Supplement,Drink Powder - Sports Stars First Choice,Boost,1,750g,449
-supermarket@Guntur,Health Drink & Supplement,Badam Drink Mix - Real Badam,MTR,1,450g,260
-supermarket@Guntur,Health Drink & Supplement,Health & Nutrition Drink,Horlicks,1,2kg,1059
-supermarket@Guntur,Health Drink & Supplement,Hot Chocolate Drink Powder Mix,Cadbury,1,400g,360
-supermarket@Guntur,Health Drink & Supplement,Chocolate Health Drink,Bournvita,1,75g,30
-supermarket@Guntur,Health Drink & Supplement,Nutritional Powder - Complete & Balanced,Pediasure,1,400g,655
-supermarket@Guntur,Health Drink & Supplement,High Protein Berry Full Hearty Milk Mix,Timios,1,250g,390
-supermarket@Guntur,Health Drink & Supplement,High Protein Banana Hearty Milk Mix,Timios,1,250g,380
-supermarket@Guntur,Health Drink & Supplement,Plant Protein Powder - Rich Chocolate Flavour,Tata GoFit,1,500g,1279
-supermarket@Guntur,Health Drink & Supplement,Plant Protein Powder - For Women,Tata GoFit,1,250g,849
-supermarket@Guntur,Health Drink & Supplement,Women's Plus Chocolate,Horlicks,1,400g,300
-supermarket@Guntur,Health Drink & Supplement,Health & Nutritional Drink - Original,Protinex,1,400g,675
-supermarket@Guntur,Health Drink & Supplement,Lite Health & Nutrition Drink,Horllicks,1,450g,345
-supermarket@Guntur,Health Drink & Supplement,Health & Nutritional Drink,Protinex,1,400g,625
-supermarket@Guntur,Health Drink & Supplement,Nutrition Drink - HealthEnergy & Sports,Boost,1,200g,135
-supermarket@Guntur,Health Drink & Supplement,Exotic Dark Hot Chocolate Drink Powder Mix,Hersheys,1,250g,215
-supermarket@Guntur,Health Drink & Supplement,Diabetes Care - Vanilla,Ensure,1,400g,850
-supermarket@Guntur,Health Drink & Supplement,Nutrition & Health Drink,Complan,1,500g,305
-supermarket@Guntur,Health Drink & Supplement,Protein Plus Chocolate,Horlicks,1,200g,340
-supermarket@Guntur,Health Drink & Supplement,Lactogrow Nutritious Milk Drink For Growing Children,Nestle,1,400g,360
-supermarket@Guntur,Health Drink & Supplement,Health Drink - Choco Caramel,Maltova,1,500g,280
-supermarket@Guntur,Health Drink & Supplement,Instant Energy Health Drink - Nimbu Pani,Glucon-D,1,400g,179
-supermarket@Guntur,Health Drink & Supplement,Strawberry Syrup,Hersheys,1,623g,230
-supermarket@Guntur,Health Drink & Supplement,Drinking Chocolate Powder,Weikfield,1,200g,120
-supermarket@Guntur,Health Drink & Supplement,Nutty Shake Mix Healthy Drink - Kesar Badam,Open Secret,1,225g,349
-supermarket@Guntur,Health Drink & Supplement,Mix - Badam Milk,Bambino,1,200g,110
-supermarket@Guntur,Health Drink & Supplement,Turmeric Latte - Golden Milk/Haldi Doodh,Nutty Yogi,1,125g,179
-supermarket@Guntur,Health Drink & Supplement,Ojasvita Malt Powder,Sri Sri Tattva,1,200g,145
-supermarket@Guntur,Health Drink & Supplement,Weikfiled Drinking Chocolate,Weikfiled,1,500g,195
-supermarket@Guntur,Health Drink & Supplement,Badam Drink,Swastika,1,500g,260
-supermarket@Guntur,Health Drink & Supplement,Healthy Sattu Protein Mix,Qualinut Gourmet,1,100g,79
-supermarket@Guntur,Health Drink & Supplement,Natural Vita Mix - Immunity Boosting,Weikfiled,1,90g,279
-supermarket@Guntur,Health Drink & Supplement,Ragi Diet,SHREEMaTHA'S,1,500g,175
-supermarket@Guntur,Health Drink & Supplement,Drinking Chocolate - Original,Cadbury,1,500g,1200
-supermarket@Guntur,Health Drink & Supplement,Syrup - Milk Booster,Hersheys,1,450g,200
-supermarket@Guntur,Health Drink & Supplement,Whey Protein - Malt Beverage Health Drink,Amul Pro,1,500g,180
-supermarket@Guntur,Health Drink & Supplement,Ragi Malt - Rich In Protein & Calcium,Manna,1,200g,134
-supermarket@Guntur,Health Drink & Supplement,Glucose -D Energy Boost with Vitamin D,Dabur,1,500g,123
-supermarket@Guntur,Health Drink & Supplement,Millet Multigrain Health Drink,Melite,1,400g,180
-supermarket@Guntur,Health Drink & Supplement,Enfagrow A+ Nutritional Milk Powder,Enfagrow,1,400g,595
-supermarket@Guntur,Health Drink & Supplement,Mineral Water,Bisleri,1,1L,20
-supermarket@Guntur,Health Drink & Supplement,Mineral Water,kinley,1,1L,20
-supermarket@Guntur,Health Drink & Supplement,Natural Mineral Water,Himalayan,1,200ml,17
-supermarket@Guntur,Health Drink & Supplement,Copper Plus Water,Tata,1,1L,17
-supermarket@Guntur,Health Drink & Supplement,Alkaline Water For Drinking With 70 Minerals,evocus,1,500ml,100
+supermarket@Guntur,Cookies Rusk and Khari,Toastea Premium Bake Rusk,Britannia,2,150g,30,300g,90
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Milk,Tasties,1,200g,75
+supermarket@Guntur,Cookies Rusk and Khari,Khari - Maska,Tasties,1,200g,109
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Suji and Elaichi,Tasties,1,200g,39
+supermarket@Guntur,Cookies Rusk and Khari,Rusk Real Elaichi,Parle,1,300g,55
+supermarket@Guntur,Cookies Rusk and Khari,Toastea Premium Bake Rusk With Goodness Of Elaichi,Britannia,1,250g,45
+supermarket@Guntur,Cookies Rusk and Khari,Cheese Flavoured Cracker Biscuits - Family Pack,Malkist,1,144g,60
+supermarket@Guntur,Cookies Rusk and Khari,Chocobakes Choc Filled Cookies/Biscuits,Cadbury,1,300g,210
+supermarket@Guntur,Cookies Rusk and Khari,Traditional Jeera Bakery Biscuits,BB Popular,1,200g,145
+supermarket@Guntur,Cookies Rusk and Khari,Bakery Biscuit - Tooti Fruity,BB Popular,1,200g,145
+supermarket@Guntur,Cookies Rusk and Khari,Banana Pudding Cake - Sliced,Elite,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Enrobed Vanilla Dark Chocolate Dipped Cookies,Fresho Signature,1,75g,99
+supermarket@Guntur,Cookies Rusk and Khari,Center Filled Coffee Cookies,Fresho Signature,1,75g,49
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Suji Elaichi Light,Bhikhaaram Chandmal,1,400g,110
+supermarket@Guntur,Cookies Rusk and Khari,Cheese Flavoured Cracker Biscuits,Malkist,1,540g,180
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Ragi,Tasties,1,200g,130
+supermarket@Guntur,Cookies Rusk and Khari,Biscuits - Osmania,Tasties,1,200g,89
+supermarket@Guntur,Cookies Rusk and Khari,Jeera Ajwain Rusk,Tasties,1,200g,45
+supermarket@Guntur,Cookies Rusk and Khari,Choco Pie With Real Mango,Orion,1,168g,99
+supermarket@Guntur,Cookies Rusk and Khari,Biscuits - Cashew Nut,Tasties,1,200g,89
+supermarket@Guntur,Cookies Rusk and Khari,Bakery Biscuit - Choco Chips,BB Popular,1,200g,145
+supermarket@Guntur,Cookies Rusk and Khari,Biscuits - Badam Pista,Tasties,1,200g,99
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Classic,Elite,1,59g,10
+supermarket@Guntur,Cookies Rusk and Khari,Assorted Eggless Cookies,Fresho Signature,1,150g,239
+supermarket@Guntur,Cookies Rusk and Khari,Center Filled Dark Chocolate Cookies,Fresho Signature,1,75g,49
+supermarket@Guntur,Cookies Rusk and Khari,Bakery Biscuit - Ajwain,BB Popular,1,200g,145
+supermarket@Guntur,Cookies Rusk and Khari,Dark Chocolate Cookies,The Baker's Dozen,1,200g,149.31
+supermarket@Guntur,Cookies Rusk and Khari,French Heart,Tasties,1,200g,125
+supermarket@Guntur,Cookies Rusk and Khari,Almond Biscuit Sticks,Fresho Signature,1,150g,195
+supermarket@Guntur,Cookies Rusk and Khari,Biscotti - Chocolate Cashew,Fresho Signature,1,150g,159
+supermarket@Guntur,Cookies Rusk and Khari,Whole Wheat Rusk - Sweet,Nutribee,1,200g,100
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Pizza,Elite,1,100g,25
+supermarket@Guntur,Cookies Rusk and Khari,Bakery Biscuit - Badam,BB Popular,1,200g,145
+supermarket@Guntur,Cookies Rusk and Khari,English Short Bread,Freasho Signature,1,150g,159
+supermarket@Guntur,Cookies Rusk and Khari,Khari - Ajwain,Tasties,1,200g,180
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Foxtail Millet,e-millet,1,110g,35
+supermarket@Guntur,Cookies Rusk and Khari,Biscuit - Coconut,Milk Ma,1,200g,55
+supermarket@Guntur,Cookies Rusk and Khari,Biscotti - Almond,Fresho Signature,1,150g,159
+supermarket@Guntur,Cookies Rusk and Khari,The Ultimate Choco Chip Cookies,Orion,1,100g,60
+supermarket@Guntur,Cookies Rusk and Khari,Millet Rusk - Sweet,Nutribee,1,200g,115
+supermarket@Guntur,Cookies Rusk and Khari,Assorted Cookies,CookieMan,1,200g,150
+supermarket@Guntur,Cookies Rusk and Khari,Butter Cookies,Milk Ma,1,200g,45
+supermarket@Guntur,Cookies Rusk and Khari,Rusk-Muesli,Tasties,1,400g,112
+supermarket@Guntur,Cookies Rusk and Khari,Traditional Butter Cookies,Fresho Signature,1,150g,139
+supermarket@Guntur,Cookies Rusk and Khari,Dreams Carrot Pudding Cup Cake,Elite,1,149g,50
+supermarket@Guntur,Cookies Rusk and Khari,Peanut Butter Cookies,The Baker's Dozen,1,150g,189
+supermarket@Guntur,Cookies Rusk and Khari,Maska Chaska Cookies,Fresho Signature,1,150g,135
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Navagrain Millet,e-Millet,1,110g,35
+supermarket@Guntur,Cookies Rusk and Khari,Biscuit - Cashew,Milk Ma,1,200g,45
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Garlic,Tasties,1,200g,112
+supermarket@Guntur,Cookies Rusk and Khari,Rusk-Fruit,Milk Ma,1,150g,35
+supermarket@Guntur,Cookies Rusk and Khari,Danish Butter Cookies,Fresho Signature,1,400g,319
+supermarket@Guntur,Cookies Rusk and Khari,Ragi Delight,Milk Ma,1,150g,45
+supermarket@Guntur,Cookies Rusk and Khari,French Heart Puff Cookies,POLKA,1,350g,129
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Oatmeal,Fresho Signature,1,150g,139
+supermarket@Guntur,Cookies Rusk and Khari,Foxtail Millet With Honey Cookies,Millet Cookies,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Barnyard Millet,e-Millet,1,110g,35
+supermarket@Guntur,Cookies Rusk and Khari,Coconut Oats Cookies,The Baker's Dozen,1,150g,169
+supermarket@Guntur,Cookies Rusk and Khari,Biscuit - Salt,Milk Ma,1,200g,45
+supermarket@Guntur,Cookies Rusk and Khari,Whole Wheat Rusk - Chilli Garlic,Nutribee,1,200g,110
+supermarket@Guntur,Cookies Rusk and Khari,Salt With Ajwain,Millet Cookies,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Choco Chips Banana Cookies - Whole Wheat Flour,Fabbox,1,189g,198
+supermarket@Guntur,Cookies Rusk and Khari,Choc Chunk Cookies,CookieMan,1,120g,120
+supermarket@Guntur,Cookies Rusk and Khari,Butter Crunch Cookies,The Baker's Dozen,1,180g,169
+supermarket@Guntur,Cookies Rusk and Khari,Gluten Free Ragi,POLKA,1,325g,144
+supermarket@Guntur,Cookies Rusk and Khari,Milk Bikis Biscuit - Zero Trans Fat,Britannia,1,300g,55
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Chocochip,Fresho Signature,1,150g,149
+supermarket@Guntur,Cookies Rusk and Khari,Assorted Cookies - Fruit and Nut,CookieMan,1,400g,300
+supermarket@Guntur,Cookies Rusk and Khari,Multigrain Khari Puff - Fresh and Crispy,POLKA,1,300g,120
+supermarket@Guntur,Cookies Rusk and Khari,Enrobed Cinnamon Milk Chocolate Dipped Cookies,Fresho Signature,1,75g,99
+supermarket@Guntur,Cookies Rusk and Khari,Whole Wheat Rusk,Nutribee,1,200g,105
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Dark Chocochip,Fresho Signature,1,150g,159
+supermarket@Guntur,Cookies Rusk and Khari,Little Millet,Millet Cookies,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Chai Biscuits With Cardamom,Lal,1,160g,90
+supermarket@Guntur,Cookies Rusk and Khari,Pistachio Biscuit Sticks,Fresho Signature,1,150g,209
+supermarket@Guntur,Cookies Rusk and Khari,Coconut Macaroon Cookies,CookieMan,1,200g,249
+supermarket@Guntur,Cookies Rusk and Khari,Sugar Free Cookies - Crunchy,Vig Baker's,1,75g,50
+supermarket@Guntur,Cookies Rusk and Khari,Kaju Pista Cookies,Lal,1,160g,120
+supermarket@Guntur,Cookies Rusk and Khari,Brandy Snap Cookies - Flavoured,CookieMan,1,120g,99
+supermarket@Guntur,Cookies Rusk and Khari,Butter Cookies,Elite,1,75g,20
+supermarket@Guntur,Cookies Rusk and Khari,Low Gi (Palm Sugar),Millet Cookies,1,150g,80
+supermarket@Guntur,Cookies Rusk and Khari,Salt With Jeera,Millet Cookies,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Cashew Cookies,The Baker's Dozen,1,150g,169
+supermarket@Guntur,Cookies Rusk and Khari,Strawberry Cream Roll,POLKA,1,45g,30
+supermarket@Guntur,Cookies Rusk and Khari,Biscuit - Khara,Milk Ma,1,200g,45
+supermarket@Guntur,Cookies Rusk and Khari,Ragi Cookies,SHREEMATHA,1,160g,55
+supermarket@Guntur,Cookies Rusk and Khari,Fruit Cookies,Lal,1,160g,99
+supermarket@Guntur,Cookies Rusk and Khari,Double Chocolate Cookies,CookieMan,1,200g,250
+supermarket@Guntur,Cookies Rusk and Khari,Pista Biscotti,CookieMan,1,250g,295
+supermarket@Guntur,Cookies Rusk and Khari,Fruit and Nut Cookies,CookieMan,1,200g,249
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Dry Fruit,Tasties,1,300g,209
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Honey and Oats,Fresho Signature,1,150g,159
+supermarket@Guntur,Cookies Rusk and Khari,Nava Grains,Millet Cookies,1,150g,60
+supermarket@Guntur,Cookies Rusk and Khari,Nutty Choc Overload Chewy Cookies,CookieMan,1,250g,290
+supermarket@Guntur,Cookies Rusk and Khari,Whole Wheat Multigrain Cookies,Fresho Signature,1,150g,125
+supermarket@Guntur,Cookies Rusk and Khari,Mini Cookies - Lemon,Fresho Signature,1,100g,89
+supermarket@Guntur,Cookies Rusk and Khari,Choc Chip Cookies,CookieMan,1,200g,249
+supermarket@Guntur,Cookies Rusk and Khari,Pista Fingers,CookieMan,1,250g,430
+supermarket@Guntur,Cookies Rusk and Khari,Kaju Pista Cookies - Teatime Snack,POLKA,1,325g,180
+supermarket@Guntur,Cookies Rusk and Khari,Coconut Rice Crisps Cookies,Fresho Signature,1,150g,209
+supermarket@Guntur,Cookies Rusk and Khari,Biscuits - Moon,Tasties,1,200g,178
+supermarket@Guntur,Cookies Rusk and Khari,Khatai - Two In One,Tasties,1,250g,89
+supermarket@Guntur,Cookies Rusk and Khari,Cake Rusk - Tutti Frutti,Brownie Basket,1,100g,70
+supermarket@Guntur,Cookies Rusk and Khari,Jeera Biscuits - Crunchy,Vig Baker's,1,300g,110
+supermarket@Guntur,Cookies Rusk and Khari,Atta Biscuits - Crunchy,Vig Baker's,1,300g,110
+supermarket@Guntur,Cookies Rusk and Khari,Atta Zeera Cookies,Brownies Basket,1,200g,90
+supermarket@Guntur,Cookies Rusk and Khari,Atta Pista Cookies,Brownies Basket,1,200g,130
+supermarket@Guntur,Cookies Rusk and Khari,Cake Rusk - Chocolate,Fresho Signature,1,150g,99
+supermarket@Guntur,Cookies Rusk and Khari,Millet Rusk - Curry Leaf,Nuribee,1,200g,125
+supermarket@Guntur,Cookies Rusk and Khari,Milllet cookie,Nutribee,1,200g,125
+supermarket@Guntur,Cookies Rusk and Khari,Khatai - Badam,Tasties,1,300g,149
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Peanut Butter,Fresho Signature,1,150g,209
+supermarket@Guntur,Cookies Rusk and Khari,Nutty Cookies - Chewy,CookieMan,1,200g,390
+supermarket@Guntur,Cookies Rusk and Khari,Almond Fingers,CookieMan,1,250g,90
+supermarket@Guntur,Cookies Rusk and Khari,Millet Cookies - Apple Cinnamon Delight,Praana,1,45g,39
+supermarket@Guntur,Cookies Rusk and Khari,Almond Cookies - Crunchy,Vig Baker's,1,80g,65
+supermarket@Guntur,Cookies Rusk and Khari,Chocochip Cookies - Crunchy,Vig Baker's,1,150g,95
+supermarket@Guntur,Cookies Rusk and Khari,Atta Til Mexicana Cookies,Brownies Basket,1,200g,90
+supermarket@Guntur,Cookies Rusk and Khari,Atta Badam Cookies,Brownies Basket,1,200g,130
+supermarket@Guntur,Cookies Rusk and Khari,Atta Tutti Frutti Cookies,Brownies Basket,1,200g,90
+supermarket@Guntur,Cookies Rusk and Khari,Cookies - Honey,Tasties,1,400g,259
+supermarket@Guntur,Cookies Rusk and Khari,Coconut Cookies - Crunchy Snack,BATTER CHATTER,1,200g,130
+supermarket@Guntur,Cookies Rusk and Khari,Millet Cookies - Vanilla Choco Elite,Praana,1,45g,39
+supermarket@Guntur,Cookies Rusk and Khari,Oat and Kaju Cookies,POLKA,1,325g,180
+supermarket@Guntur,Cookies Rusk and Khari,Badam Khatai Cookies,POLKA,1,325g,144
+supermarket@Guntur,Cookies Rusk and Khari,Peanut Butter Nutty Cookies,Open Secret,1,75g,105
+supermarket@Guntur,Cookies Rusk and Khari,White Choco Cashew Nutty Cookies,Open Secret,1,75g,105
+supermarket@Guntur,Cookies Rusk and Khari,Choco Almond Nutty Cookies,Open Secret,1,75g,96
+supermarket@Guntur,Cookies Rusk and Khari,Butter Cookies - Sugar Free,Tasties,1,75g,42
+supermarket@Guntur,Cookies Rusk and Khari,Oatmeal Cookies - Sugar Free,Tasties,1,75g,49
+supermarket@Guntur,Cookies Rusk and Khari,Multigrain Cookies - Sugar Free,Tasties,1,75g,49
+supermarket@Guntur,Cookies Rusk and Khari,Chilli Garlic Butter Toast,Fresho Signature,1,100g,109
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Sooji Elaichi,Elite,1,182g,35
+supermarket@Guntur,Cookies Rusk and Khari,Rusk - Baby,Milk Ma,1,150g,30
+supermarket@Guntur,Cookies Rusk and Khari,Super Tasty Coffee Thins Biscuits,COFFEE JOY,1,50g,25
+supermarket@Guntur,Cookies Rusk and Khari,Garlic and Herb Toast,Fresho Signature,1,100g,109
+supermarket@Guntur,Cookies Rusk and Khari,Marori Khari Puff,POLKA,1,300g,120
+supermarket@Guntur,Cookies Rusk and Khari,Atta Biscuits - Crunchy,Vig Baker's,1,300g,110
+supermarket@Guntur,Cookies Rusk and Khari,Double Choc Chip Cookies,CookieMan,1,150g,199
+supermarket@Guntur,Cookies Rusk and Khari,Choc Chip Cookies,CookieMan,1,150g,199
+supermarket@Guntur,Cookies Rusk and Khari,Ginger Bread Cookies,Fresho Signature,1,150g,209
+supermarket@Guntur,Ice Creams and Desserts,Vanilla Magic Ice Cream,Amul,1,1L,180
+supermarket@Guntur,Ice Creams and Desserts,Chocolate Brownie Ice Cream,Amul,1,1L,215
+supermarket@Guntur,Ice Creams and Desserts,Tricone Choco Crunch Ice Cream,Amul,1,120ml,30
+supermarket@Guntur,Ice Creams and Desserts,Tricone Butterscotch Ice Cream,Amul,1,120ml,30
+supermarket@Guntur,Ice Creams and Desserts,Magnum Truffle Stick Ice Cream,kwality walls,1,80ml,90
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Anjeer with Chocolate Sauce,Amul,1,125ml,40
+supermarket@Guntur,Ice Creams and Desserts,Sundae Chocolate Magic Ice Cream,Amul,1,1L,200
+supermarket@Guntur,Ice Creams and Desserts,Rajbhog Ice Cream,Amul,1,125ml,40
+supermarket@Guntur,Ice Creams and Desserts,Butterscotch Bliss Ice Cream,Amul,1,1L,200
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Vanilla with Chocolate Sauce,Amul,1,125ml,35
+supermarket@Guntur,Ice Creams and Desserts,Ice Cubes - Fresh, Dr. Cubes,1,1kg,85
+supermarket@Guntur,Ice Creams and Desserts,Tender Coconut Frozen Dessert,kwality walls,1,100ml,50
+supermarket@Guntur,Ice Creams and Desserts,Gold Butterscotch Ice Cream,Amul,1,1L,235
+supermarket@Guntur,Ice Creams and Desserts,Double Sundae Choco Almond,Amul,1,1L,210
+supermarket@Guntur,Ice Creams and Desserts,Fruit 'N' Nut Fantasy Ice Cream,Amul,1,125ml,35
+supermarket@Guntur,Ice Creams and Desserts,Gold Vanilla Ice Cream,Amul,1,1L,210
+supermarket@Guntur,Ice Creams and Desserts,Gold King Alphonso Ice Cream,Amul,1,1L,235
+supermarket@Guntur,Ice Creams and Desserts,Trixy Cookie Cup,Kwality walls,1,110ml,70
+supermarket@Guntur,Ice Creams and Desserts,Oreo Cornetto,kwality walls,1,120ml,70
+supermarket@Guntur,Ice Creams and Desserts,Double Chocolate Cornetto Frozen Dessert,kwality walls,1,105ml,40
+supermarket@Guntur,Ice Creams and Desserts,Moroccan Dry Fruit Ice Cream - Real Milk,Amul,1,1L,250
+supermarket@Guntur,Ice Creams and Desserts,Tricone Two In One Ice Cream,Amul,1,120ml,35
+supermarket@Guntur,Ice Creams and Desserts,Tender Coconut Frozen Dessert,kwality walls,1,500ml,229
+supermarket@Guntur,Ice Creams and Desserts,Oreo and Cream Frozen Dessert,kwality walls,1,100ml,60
+supermarket@Guntur,Ice Creams and Desserts,Creme Delights Alphonso Mango Frozen Dessert,kwality walls,1,700ml,180
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - World Cone,Havmor,1,150ml,80
+supermarket@Guntur,Ice Creams and Desserts,Desi Kulfi,kwality walls,1,100ml,51
+supermarket@Guntur,Ice Creams and Desserts,Caramel Cookies Ice Cream,Amul,1,1L,200
+supermarket@Guntur,Ice Creams and Desserts,Blockbuster Triple Chocolate Stick Ice Cream,Havmor,1,90ml,70
+supermarket@Guntur,Ice Creams and Desserts,Matka Kulfi - Rich and Creamy,Cream Bell,1,90ml,50
+supermarket@Guntur,Ice Creams and Desserts,Desi Twist - Creamy Kulfi,kwality walls,1,700ml,249
+supermarket@Guntur,Ice Creams and Desserts,Roasted Badam Cone Ice Cream,Dairy day,1,120ml,60
+supermarket@Guntur,Ice Creams and Desserts,Cream Raspberry Cone Ice Cream,Cream Bell,1,130ml,50
+supermarket@Guntur,Ice Creams and Desserts,old Orange Salsa Ice Cream,Amul,1,1L,225
+supermarket@Guntur,Ice Creams and Desserts,Frozen Dessert - Feast Choco Bar,kwality walls,1,70ml,20
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Gajar Halwa Rich and Creamy,Dairy day,1,500ml,199
+supermarket@Guntur,Ice Creams and Desserts,Excotia Ice Cream - Arabian Delite,Dairy day,1,100ml,50
+supermarket@Guntur,Ice Creams and Desserts,Exotica Ice Cream - Rajbhog,Dairy day,1,100ml,60
+supermarket@Guntur,Ice Creams and Desserts,Golden Fantasy Ice Cream Cake - Rich Taste, Cream Bell,1,1L,500
+supermarket@Guntur,Ice Creams and Desserts,Cookie Magic Cone Ice Cream,Dairy day,1,120ml,60
+supermarket@Guntur,Ice Creams and Desserts,Almond Carnival Ice Cream,Havmor,1,700ml,300
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream Cake - Black Forest,Dairy Day,1,500ml,450
+supermarket@Guntur,Ice Creams and Desserts,Chocoholic Ice Cream,THE BROOKLYN CREAMERY,1,450ml,348
+supermarket@Guntur,Ice Creams and Desserts,Acai Berry Banana,THE BROOKLYN CREAMERY,1,450ml,450
+supermarket@Guntur,Ice Creams and Desserts,Chocolate Fudge Brownie,THE BROOKLYN CREAMERY,1,450ml,349
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Strawberry,Haagen-Dazs,1,473ml,780
+supermarket@Guntur,Ice Creams and Desserts,Premium Ice Cream - Fig Walnut,London Dairy,1,500ml,450
+supermarket@Guntur,Ice Creams and Desserts,Premium Ice Cream - Tiramisu,London Dairy,1,1L,810
+supermarket@Guntur,Ice Creams and Desserts,Premium Ice Cream - Kulfi,London Dairy,1,500ml,450
+supermarket@Guntur,Ice Creams and Desserts,Premium Ice Cream - Mocha Almond Fudge,London Dairy,1,1L,900
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Vanilla Lite,London Dairy,1,500ml,450
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Alphonso Mango,Baskin Robbbins,1,700ml,469
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Honey Nut Crunch,Baskin Robbbins,1,450ml,379
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Gold Medal Ribbon,Baskin Robbbins,1,450ml,389
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream Sundae - Mississippi Mud,Baskin Robbbins,1,165ml,125
+supermarket@Guntur,Ice Creams and Desserts,Sea Salt Caramel Ice Cream,THE BROOKLYN CREAMERY,1,450ml,349
+supermarket@Guntur,Ice Creams and Desserts,Sweet Cream Vanilla Ice Cream,THE BROOKLYN CREAMERY,1,450ml,349
+supermarket@Guntur,Ice Creams and Desserts,Choco-Molten Lava Cake,Pillsbury,1,90g,79
+supermarket@Guntur,Ice Creams and Desserts,Heavenly Raspberry and Vanilla Cheesecake,The Finishing Touch,1,200g,300
+supermarket@Guntur,Ice Creams and Desserts,Red Velvet Cake,Baskin Robbbins,1,500g,669
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Very Berry Strawberry,Baskin Robbbins,1,700ml,409
+supermarket@Guntur,Ice Creams and Desserts,Black Forest Ice Cream Cake,Baskin Robbbins,1,500g,649
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream Sticks - Cookies and Cream,Haagen-Dazs,1,80ml,200
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream Sundae - Fruit Overload,Baskin Robbbins,1,165ml,110
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Roasted Californain Almond,Baskin Robbbins,1,450ml,349
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream - Classic Vanilla,Baskin Robbbins,1,450ml,309
+supermarket@Guntur,Ice Creams and Desserts,Ice Cream Sticks - Strawberry and Cream,Haagen-Dazs,1,80ml,200
+supermarket@Guntur,Energy and Soft Drinks,Diet Coke Soft Drink,Coca Cola,1,300ml,40
+supermarket@Guntur,Energy and Soft Drinks,Original Taste Soft Drink - Refreshing,Coca Cola,1,1.25L,65
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink - Refreshing Strong,Thums Up,1,750ml,40
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Water - Club Soda,Kinely,1,750ml,20
+supermarket@Guntur,Energy and Soft Drinks,Zero Sugar Coke - No Calories,Coca Cola,1,300ml,40
+supermarket@Guntur,Energy and Soft Drinks,Black Soft Drink - Max Taste,Pepsi,1,250ml,35
+supermarket@Guntur,Energy and Soft Drinks,Energy Drink,RED BULL,1,250ml,480
+supermarket@Guntur,Energy and Soft Drinks,Soda - Original Ginger Ale,Schweppes,1,300ml,50
+supermarket@Guntur,Energy and Soft Drinks,Indian Tonic Water,Schweppes,1,300ml,50
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink,Pepsi,1,250ml,20
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink,Mountain Dew,1,250ml,35
+supermarket@Guntur,Energy and Soft Drinks,Soda - The Club,Bisleri,1,600ml,18
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink - With Added Orange Flavour,Mirinda,1,750ml,40
+supermarket@Guntur,Energy and Soft Drinks,Zero Lemon Lime Sparkling Water,paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Pop Goli Marble Soda Blueberry,DOBRA,1,50ml,45
+supermarket@Guntur,Energy and Soft Drinks,Pop Goli Marble Soda Kokum,DOBRA,1,225ml,60
+supermarket@Guntur,Energy and Soft Drinks,Pop Goli Marble Soda Orangelo,DOBRA,1,225ml,60
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Coffee - Dark Roast,Paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Pop Goli Marble Soda Nimbu,DOBRA,1,225ml,50
+supermarket@Guntur,Energy and Soft Drinks,Pop Goli Marble Soda Grape,DOBRA,1,225ml,50
+supermarket@Guntur,Energy and Soft Drinks,Energy Drink - Sugar Free,RED BULL,1,250ml,125
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Beverage - Tonic Water,JIMMY'S COCKTAILS,1,250ml,60
+supermarket@Guntur,Energy and Soft Drinks,Premium Sparkling Mixer - Mint Mojito,Schweppes,1,300ml,75
+supermarket@Guntur,Energy and Soft Drinks,Bitter Lemon Original Mixer,Schweppes,1,300ml,75
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Water - Green Apple,Paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Club Soda - Evervess,Lehar,1,750ml,20
+supermarket@Guntur,Energy and Soft Drinks,Sports Drink - Blue Bolt Flavour,Gatorade,1,500ml,50
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink - Lime Flavoured,Sprite,1,2.25ml,85
+supermarket@Guntur,Energy and Soft Drinks,Sportz Soft Drink - Lemon Flavour,Limca,1,500ml,40
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink - Lemon,7 Up,1,750ml,40
+supermarket@Guntur,Energy and Soft Drinks,Soft Drink - Orange Flavoured,Fanta,1,750ml,40
+supermarket@Guntur,Energy and Soft Drinks,Sports Drink - Orange Flavour,Gatorade,1,500ml,50
+supermarket@Guntur,Energy and Soft Drinks,Swag Can,Pepsi,1,250ml,35
+supermarket@Guntur,Energy and Soft Drinks,Swing Juicer Drink - Lush Lychee, paperboat swing,1,250ml,20
+supermarket@Guntur,Energy and Soft Drinks,Swing Juicer Drink - Zesty Pomegranate,Paperboat Swing,1,250ml,20
+supermarket@Guntur,Energy and Soft Drinks, Energy Drink,String,1,250ml,20
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Water - Cumin,Paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Swing Juicer Drink - Mixed Fruit Medley,Paperboat Swing,1,250ml,20
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Water - Ginger Lemon,Paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Spyci - Masala Maar Ke,Bisleri,1,160ml,10
+supermarket@Guntur,Energy and Soft Drinks,Instant Energy Health Drink - Tangy Orange, Glucon-D,1,200g,75
+supermarket@Guntur,Energy and Soft Drinks,Ultra Energy Drink - Zero Sugar,Monster,1,350ml,110
+supermarket@Guntur,Energy and Soft Drinks,Sparkling Tea - Lemon,Paper Boat,1,600ml,60
+supermarket@Guntur,Energy and Soft Drinks,Sports Drink - Lemon Flavour,Gatorade,1,500ml,50
+supermarket@Guntur,Energy and Soft Drinks,Charged - Berry Bolt 2X Caffeine,Coca Cola,1,300ml,50
+supermarket@Guntur,Energy and Soft Drinks,Fruitnik Electro+ ORS Apple Drink,Amrutanjan,1,200ml,35
+supermarket@Guntur,Energy and Soft Drinks,Apple Juice Based Drink,Appy,1,600ml,35
+supermarket@Guntur,Energy and Soft Drinks,Ale of Grapefruits - A Traditional Recipe,Gunsberg,1,330ml,99
+supermarket@Guntur,Energy and Soft Drinks,Indian Tonic Water - Natural Quinine,SepoyandCo.,1,200ml,95
+supermarket@Guntur,Energy and Soft Drinks,Energy Drink - Tropical Yellow Edition,RED BULL,1,250ml,115
+supermarket@Guntur,Energy and Soft Drinks,Instant Energy Health Drink - Nimbu Pani,Glucon-D,1,200g,75
+supermarket@Guntur,Energy and Soft Drinks,Spiced Grapefruit Tonic Water - Natural Quinine,SepoyandCo.,1,200ml,95
+supermarket@Guntur,Energy and Soft Drinks,Limonata - Limey Minty cooler,Bisleri,1,600ml,40
+supermarket@Guntur,Energy and Soft Drinks,Spyci - Masala Maar Ke,Bisleri,1,600ml,40
+supermarket@Guntur,Energy and Soft Drinks,Original Ginger Ale - Naturally Light,SepoyandCo.,1,200ml,95
+supermarket@Guntur,Energy and Soft Drinks,Pina Colada,andstirred,1,150ml,60
+supermarket@Guntur,Energy and Soft Drinks,Iced Tea - Peach,Blue Bird,1,400g,150
+supermarket@Guntur,Energy and Soft Drinks,Tonic Water - From The Makers Of Bailley,Bombay 99,1,250ml,50
+supermarket@Guntur,Energy and Soft Drinks,Non-Alcoholic Beer Bottle - Malt Beverage,Barbican,1,330ml,120
+supermarket@Guntur,Energy and Soft Drinks,Mint Tonic Water - Natural Quinine,SepoyandCo.,1,200ml,95
+supermarket@Guntur,Energy and Soft Drinks,Tzinga Classic - Caffeinated Energy Drink, Tzinga,1,250ml,50
+supermarket@Guntur,Energy and Soft Drinks,Green Apple Syrup - Tart and Sweet,GOODandMOORE,1,750ml,510
+supermarket@Guntur,Energy and Soft Drinks,Celebration Cocktail Pack ,JIMMY'S COCKTAILS,1,250ml,599
+supermarket@Guntur,Energy and Soft Drinks,Isotonic Sports Drink - Blue Rush,FITLETIC FUEL BETTER,1,500ml,60
+supermarket@Guntur,Energy and Soft Drinks,Cinnamon Flavoured Syrup,GOODandMOORE,1,750ml,690
+supermarket@Guntur,Energy and Soft Drinks,Isotonic Sports Drink - Orange,FITLETIC FUEL BETTER,1,500ml,60
+supermarket@Guntur,Energy and Soft Drinks,Non-Alcoholic Beverage - Low Calorie,Booch,1,250ml,108
+supermarket@Guntur,Energy and Soft Drinks,Glucose D,Moti's,1,50g,25
+supermarket@Guntur,Energy and Soft Drinks,Bloody Mary Non-Alcoholic Beverage,Lazy CocktailsandCo.,1,250ml,99
+supermarket@Guntur,Energy and Soft Drinks,Jalapeno Margarita Non-Alcoholic Beverage,Lazy CocktailsandCo.,1,250ml,99
+supermarket@Guntur,Energy and Soft Drinks,Fruit Drink - Wild Cranberry,Sante,1,250ml,60
+supermarket@Guntur,Health Drink and Supplement,Bournvita Chocolate Health Drink,Cadbury,1,2Kg,790
+supermarket@Guntur,Health Drink and Supplement,Drink Powder - Sports Stars First Choice,Boost,1,750g,449
+supermarket@Guntur,Health Drink and Supplement,Badam Drink Mix - Real Badam,MTR,1,450g,260
+supermarket@Guntur,Health Drink and Supplement,Health and Nutrition Drink,Horlicks,1,2kg,1059
+supermarket@Guntur,Health Drink and Supplement,Hot Chocolate Drink Powder Mix,Cadbury,1,400g,360
+supermarket@Guntur,Health Drink and Supplement,Chocolate Health Drink,Bournvita,1,75g,30
+supermarket@Guntur,Health Drink and Supplement,Nutritional Powder - Complete and Balanced,Pediasure,1,400g,655
+supermarket@Guntur,Health Drink and Supplement,High Protein Berry Full Hearty Milk Mix,Timios,1,250g,390
+supermarket@Guntur,Health Drink and Supplement,High Protein Banana Hearty Milk Mix,Timios,1,250g,380
+supermarket@Guntur,Health Drink and Supplement,Plant Protein Powder - Rich Chocolate Flavour,Tata GoFit,1,500g,1279
+supermarket@Guntur,Health Drink and Supplement,Plant Protein Powder - For Women,Tata GoFit,1,250g,849
+supermarket@Guntur,Health Drink and Supplement,Women's Plus Chocolate,Horlicks,1,400g,300
+supermarket@Guntur,Health Drink and Supplement,Health and Nutritional Drink - Original,Protinex,1,400g,675
+supermarket@Guntur,Health Drink and Supplement,Lite Health and Nutrition Drink,Horllicks,1,450g,345
+supermarket@Guntur,Health Drink and Supplement,Health and Nutritional Drink,Protinex,1,400g,625
+supermarket@Guntur,Health Drink and Supplement,Nutrition Drink - HealthEnergy and Sports,Boost,1,200g,135
+supermarket@Guntur,Health Drink and Supplement,Exotic Dark Hot Chocolate Drink Powder Mix,Hersheys,1,250g,215
+supermarket@Guntur,Health Drink and Supplement,Diabetes Care - Vanilla,Ensure,1,400g,850
+supermarket@Guntur,Health Drink and Supplement,Nutrition and Health Drink,Complan,1,500g,305
+supermarket@Guntur,Health Drink and Supplement,Protein Plus Chocolate,Horlicks,1,200g,340
+supermarket@Guntur,Health Drink and Supplement,Lactogrow Nutritious Milk Drink For Growing Children,Nestle,1,400g,360
+supermarket@Guntur,Health Drink and Supplement,Health Drink - Choco Caramel,Maltova,1,500g,280
+supermarket@Guntur,Health Drink and Supplement,Instant Energy Health Drink - Nimbu Pani,Glucon-D,1,400g,179
+supermarket@Guntur,Health Drink and Supplement,Strawberry Syrup,Hersheys,1,623g,230
+supermarket@Guntur,Health Drink and Supplement,Drinking Chocolate Powder,Weikfield,1,200g,120
+supermarket@Guntur,Health Drink and Supplement,Nutty Shake Mix Healthy Drink - Kesar Badam,Open Secret,1,225g,349
+supermarket@Guntur,Health Drink and Supplement,Mix - Badam Milk,Bambino,1,200g,110
+supermarket@Guntur,Health Drink and Supplement,Turmeric Latte - Golden Milk/Haldi Doodh,Nutty Yogi,1,125g,179
+supermarket@Guntur,Health Drink and Supplement,Ojasvita Malt Powder,Sri Sri Tattva,1,200g,145
+supermarket@Guntur,Health Drink and Supplement,Weikfiled Drinking Chocolate,Weikfiled,1,500g,195
+supermarket@Guntur,Health Drink and Supplement,Badam Drink,Swastika,1,500g,260
+supermarket@Guntur,Health Drink and Supplement,Healthy Sattu Protein Mix,Qualinut Gourmet,1,100g,79
+supermarket@Guntur,Health Drink and Supplement,Natural Vita Mix - Immunity Boosting,Weikfiled,1,90g,279
+supermarket@Guntur,Health Drink and Supplement,Ragi Diet,SHREEMaTHA'S,1,500g,175
+supermarket@Guntur,Health Drink and Supplement,Drinking Chocolate - Original,Cadbury,1,500g,1200
+supermarket@Guntur,Health Drink and Supplement,Syrup - Milk Booster,Hersheys,1,450g,200
+supermarket@Guntur,Health Drink and Supplement,Whey Protein - Malt Beverage Health Drink,Amul Pro,1,500g,180
+supermarket@Guntur,Health Drink and Supplement,Ragi Malt - Rich In Protein and Calcium,Manna,1,200g,134
+supermarket@Guntur,Health Drink and Supplement,Glucose -D Energy Boost with Vitamin D,Dabur,1,500g,123
+supermarket@Guntur,Health Drink and Supplement,Millet Multigrain Health Drink,Melite,1,400g,180
+supermarket@Guntur,Health Drink and Supplement,Enfagrow A+ Nutritional Milk Powder,Enfagrow,1,400g,595
+supermarket@Guntur,Health Drink and Supplement,Mineral Water,Bisleri,1,1L,20
+supermarket@Guntur,Health Drink and Supplement,Mineral Water,kinley,1,1L,20
+supermarket@Guntur,Health Drink and Supplement,Natural Mineral Water,Himalayan,1,200ml,17
+supermarket@Guntur,Health Drink and Supplement,Copper Plus Water,Tata,1,1L,17
+supermarket@Guntur,Health Drink and Supplement,Alkaline Water For Drinking With 70 Minerals,evocus,1,500ml,100
 supermarket@Guntur,Fruit Juice,Drink - Fresh 'N' Juicy Mango,Frooti,1,200ml,15
 supermarket@Guntur,Fruit Juice,Coconut Water Packed With Electrolytes,Raw Pressery,1,200ml,60
 supermarket@Guntur,Fruit Juice,Fruit Juice - Delight Mango,Tropicana,1,1L,105
@@ -427,218 +427,218 @@ supermarket@Guntur,Fruit Juice,Anar Pomegranate Juice,Paper Boat,1,1L,150
 supermarket@Guntur,Fruit Juice,Fruit Power - Coconut Water,Real Activ,1,1L,160
 supermarket@Guntur,Fruit Juice,Cold Extracted Juice - Mango,Raw Pressery,1,200ml,60
 supermarket@Guntur,Fruit Juice,Cold Extracted Juice - Fixed Fruit,Raw Pressery,1,2L,440
-supermarket@Guntur,Fruit Juice,Cold Extracted Juice - Fruit&Vegetable,Raw Pressery,1,2L,450
-supermarket@Guntur,BEAUTY & HYGIENE,Rose Face Powder - Sunscreen Warm Pink,Lakme,1,40g,185
-supermarket@Guntur,BEAUTY & HYGIENE,Perfecting Liquid Foundation Shell,Lakme,1,27ml,180
-supermarket@Guntur,BEAUTY & HYGIENE,Nail Colour Remover,Lakme,1,27ml,99
-supermarket@Guntur,BEAUTY & HYGIENE,Baby Lips Lip Balm-Pink Lolita,Maybelline New York,1,4g,199
-supermarket@Guntur,BEAUTY & HYGIENE,9 to 5 Complexion Care Cream - Beige,Lakme,1,9g,110
-supermarket@Guntur,BEAUTY & HYGIENE,Eyeconic Kajal Black Twist up pencil,Lakme,1,0.35g,190
-supermarket@Guntur,BEAUTY & HYGIENE,Insta Eye Liner - Black,lakme,1,9ml,145
-supermarket@Guntur,BEAUTY & HYGIENE,BB+ Cream - Rich In Vitamin,Ponds,1,30g,214
-supermarket@Guntur,BEAUTY & HYGIENE,Vegan Nail Lacquer -Naked Lunch,ColorBar,1,8ml,199
-supermarket@Guntur,BEAUTY & HYGIENE,Manish Malhotra Skin Awakening Foundation-Warm Amber,MyGlamm,1,34g,909
-supermarket@Guntur,BEAUTY & HYGIENE,Manish Malhotra Luminous Moisturizing Primer - Lightweight,MyGlamm,1,28ml,700
-supermarket@Guntur,BEAUTY & HYGIENE,Vita Hemp + Vitamin C Restoring Face Wash,ColorBar,1,150ml,495
-supermarket@Guntur,BEAUTY & HYGIENE,Ultra Vogue Matte Lipstick - snazzy,ColorBar,1,3.7g,750
-supermarket@Guntur,BEAUTY & HYGIENE,Hyper-Gloss Top Coat - Gold/Glitter,ColorFx,1,9ml,299
-supermarket@Guntur,BEAUTY & HYGIENE,Effortless Nail Enamel Remover,Color Fx,1,9ml,149
-supermarket@Guntur,BEAUTY & HYGIENE,Manish Malhotra Strobing Cream,MyGlamm,1,18ml,1550
-supermarket@Guntur,BEAUTY & HYGIENE,Absolute Loose Finishing Powder,Lakme,1,8g,700
-supermarket@Guntur,BEAUTY & HYGIENE,Absolute Creme Concealer,Lakme,1,9g,550
-supermarket@Guntur,BEAUTY & HYGIENE,Absolute Facelift Palette-Golden Hour,Lakme,1,15g,900
-supermarket@Guntur,BEAUTY & HYGIENE,Sexy Twosome Highlighter - Soft,ColorBar,1,8g,699
-supermarket@Guntur,BEAUTY & HYGIENE,9 To 5 Wet & Dry Compact - Dual Finish Almond,Lakme,1,9g,650
-supermarket@Guntur,BEAUTY & HYGIENE,Forever Matte Liquid Lip Colour -Cheery Love,lakme,1,5.6ml,349
-supermarket@Guntur,BEAUTY & HYGIENE,Intensive care Moisture Body Lotion - Dry Skin,Vaseline,1,600ml,575
-supermarket@Guntur,BEAUTY & HYGIENE, Intensive Care Cocoa Glow Body Lotion,Vaseline,1,400ml,435
-supermarket@Guntur,BEAUTY & HYGIENE,Cocoa Nourish Body Lotion,Nivea,1,1200ml,1557
-supermarket@Guntur,BEAUTY & HYGIENE,Intensive Care Aloe Fresh Body Lotion,Vaseline,1,400ml,435
-supermarket@Guntur,BEAUTY & HYGIENE,Triple Vitamin Moisturising Lotion,Ponds,1,275ml,330
-supermarket@Guntur,BEAUTY & HYGIENE,Body Milk Nourishing Lotion,Nivea,1,400ml,425
-supermarket@Guntur,BEAUTY & HYGIENE,Advanced Multivitamin Face Cream,Glow&Lovely,1,110g,246
-supermarket@Guntur,BEAUTY & HYGIENE,Advanced Multi Vitamin Face Cream,Fair&Lovely,1,9g,10
-supermarket@Guntur,BEAUTY & HYGIENE,Soft Light Moisturizer - With Vitamin E,Nivea,1,200ml,329
-supermarket@Guntur,BEAUTY & HYGIENE,Bright Beauty Spot-Less Fairness,Ponds,1,200g,213
-supermarket@Guntur,BEAUTY & HYGIENE,Purifying Neem Face Wash,Himalaya,1,300ml,345
-supermarket@Guntur,BEAUTY & HYGIENE,Radiance Boosting Cream With 24K Liquid Gold,Natures Essence,1,45g,350
-supermarket@Guntur,BEAUTY & HYGIENE,Age Renewal Cream With 0.3% Pro-Retinol,Natures Essence,1,45g,350
-supermarket@Guntur,BEAUTY & HYGIENE,Anti Pigmentation Cream With 10% Niacinamide,Natures Essence,1,45g,325
-supermarket@Guntur,BEAUTY & HYGIENE,Daily Brightening Cream with 2% Alpha Arbutin,Natures Essence,1,45g,325
-supermarket@Guntur,BEAUTY & HYGIENE,Almond Honey Deep Nourishing,VLCC,1,600ml,549
-supermarket@Guntur,BEAUTY & HYGIENE,Smoothing Body Cream,Deconstruct,1,200g,799
-supermarket@Guntur,BEAUTY & HYGIENE,Brightening Serum,Deconstruct,1,30ml,669
-supermarket@Guntur,BEAUTY & HYGIENE,Hyaluronic Acid Hydrating Facewash,Deconstruct,1,100ml,285
-supermarket@Guntur,BEAUTY & HYGIENE,Beginners Exfoliating Serum,Deconstruct,1,30ml,699
-supermarket@Guntur,BEAUTY & HYGIENE,Hydrating Serum,Deconstruct,1,30ml,699
-supermarket@Guntur,BEAUTY & HYGIENE,Vitamin C & Ferulic Acid Serum,Deconstruct,1,30ml,799
-supermarket@Guntur,BEAUTY & HYGIENE,Niacinamide Brightening Facewash,Deconstruct,1,100ml,299
-supermarket@Guntur,BEAUTY & HYGIENE,NMF Hydrating Moisturiser,Deconstruct,1,50g,349
-supermarket@Guntur,BEAUTY & HYGIENE,Skin Soothe Moisturizer With Ceramide,Deconstruct,1,50g,379
-supermarket@Guntur,BEAUTY & HYGIENE,Exfoliating Serum,Deconstruct,1,30ml,799
-supermarket@Guntur,BEAUTY & HYGIENE,Niacinamide Brightening Moisturizer,Deconstruct,1,50g,399
-supermarket@Guntur,BEAUTY & HYGIENE,Brightening Body Serum,Deconstruct,1,100ml,699
-supermarket@Guntur,BEAUTY & HYGIENE,Pore Control Serum - Exfoliates Skin,Deconstruct,1,30ml,799
-supermarket@Guntur,BEAUTY & HYGIENE,Clearing Serum - Reduces Spots,Deconstruct,1,30ml,699
-supermarket@Guntur,BEAUTY & HYGIENE,Salicylic Acid Oil Control Facewash,Deconstruct,1,100ml,299
-supermarket@Guntur,BEAUTY & HYGIENE,Breakout Control D.S. Serum,Deconstruct,1,30ml,799
-supermarket@Guntur,BEAUTY & HYGIENE,Luxurious Floral Body Scrub With Essential Oils,Love Beauty & Planet,1,200ml,525
-supermarket@Guntur,BEAUTY & HYGIENE,Luxurious Energizing Body Scrub With Essential Oils,Love Beauty & Planet,1,200ml,525
-supermarket@Guntur,BEAUTY & HYGIENE,Kumkumadi Face Wash,Soulflower,1,120ml,350
-supermarket@Guntur,BEAUTY & HYGIENE,Natural Under Eye Cream,BetterSelf,1,15g,349
-supermarket@Guntur,BEAUTY & HYGIENE,Natural Aloe Vera & Hyaluronic Acid Gel,BetterSelf,1,200g,749
-supermarket@Guntur,BEAUTY & HYGIENE,Nourishing Body lotion - Milk & Forest Honey,Better Body Bombay,1,300ml,599
-supermarket@Guntur,BEAUTY & HYGIENE,Acne Prevention Facial Scrub,Better Body Bombay,1,100g,499
-supermarket@Guntur,BEAUTY & HYGIENE,Energizing Daily Face - Blood Orange,Better Body Bombay,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Hydrating Daily Face -Aloe & Coconut,Better Body Bombay,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Calming Daily Facewash - Lavender & Chamomile,Better Body Bombay,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Lip Balm - Ultra Moisturising,Better Body Bombay,1,10g,300
-supermarket@Guntur,BEAUTY & HYGIENE,Flashfix Gentle Exfoliating Face Cleanser,Conscious Chemist,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Berry Bright Soothing & Calming Face Cleanser,Conscious Chemist,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Daily Disslove UltraLight Face Cleanser,Conscious Chemist,1,100ml,499
-supermarket@Guntur,BEAUTY & HYGIENE,Intensive Hydrating Body Cream ,Conscious Chemist,1,150ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Bumps Escape Body Exfoliating & Pigmentation Removal ,Conscious Chemist,1,100ml,399
-supermarket@Guntur,BEAUTY & HYGIENE,Pure Coconut Oil,Parachute,1,600ml,251
-supermarket@Guntur,BEAUTY & HYGIENE,Naturals Crème Hair Colour,Garnier,1,130ml,200
-supermarket@Guntur,BEAUTY & HYGIENE,Colour Naturals Crème Hair Colour,Garnier,1,130ml,200
-supermarket@Guntur,BEAUTY & HYGIENE,Hair Colour - Colour Naturals Crème,Garnier,1,130ml,200
-supermarket@Guntur,BEAUTY & HYGIENE,Nutritive Solutions Hair Fall Rescue Shampoo,Dove,1,650ml,629
-supermarket@Guntur,BEAUTY & HYGIENE,Hair Fall Rescue Shampoo,Dove,1,1L,749
-supermarket@Guntur,BEAUTY & HYGIENE,Keratin Smooth Pro Collection Shampoo - Keratin & Argan Oil,TRESemme,1,1L,776
-supermarket@Guntur,BEAUTY & HYGIENE,Hairwash Powder - Herbal,Meera,1,80g,75
-supermarket@Guntur,BEAUTY & HYGIENE,Casting Creme Gloss Hair Colour,Loreal Paris,1,152,630
-supermarket@Guntur,BEAUTY & HYGIENE,Stunning Black Shine Hair Shampoo,Sunsilk,1,650ml,615
-supermarket@Guntur,BEAUTY & HYGIENE,Daily Shine Shampoo,Dove,1,650ml,740
-supermarket@Guntur,BEAUTY & HYGIENE,Advansed Gold Coconut Hair Oil ,Parachute,1,400ml,235
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Volume,Batiste,1,200ml,749
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Radiant Rose Gold,Batiste,1,200ml,649
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Coconut & Exotic Tropical,Batiste,1,50ml,349
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Love Is Love,Batiste,1,200ml,649
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Tempt,Batiste,1,200ml,649
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Skinny Dip,Batiste,1,200ml,649
-supermarket@Guntur,BEAUTY & HYGIENE,Dry Shampoo - Self Love,Batiste,1,200ml,649
-supermarket@Guntur,BEAUTY & HYGIENE,Keratin Repair Protein Bond Plex,TRESemme,1,540ml,860
-supermarket@Guntur,BEAUTY & HYGIENE,Keratin Custard Hair Mask,ENN,1,100g,750
-supermarket@Guntur,BEAUTY & HYGIENE,Keratin Smooth Anti-Frizz Hair Serum,TRESemme,1,100ml,495
-supermarket@Guntur,BEAUTY & HYGIENE,Oval Hair Brush - Vogue Range,Gubb,1,1pc,300
-supermarket@Guntur,BEAUTY & HYGIENE,Paddle Hair Brush/Straightener,Gubb,1,1pc,400
-supermarket@Guntur,BEAUTY & HYGIENE,Onion Conditioner,VAADI HERBALS,1,110ml,145
-supermarket@Guntur,BEAUTY & HYGIENE,Protein Solutions Thick & Glossy Shampoo,Chick,1,650ml,459
-supermarket@Guntur,BEAUTY & HYGIENE,Rich Creme Hair Colour - Natural Black,Godrej Expert,1,80ml,117
-supermarket@Guntur,BEAUTY & HYGIENE,Rich Creme Hair Colour - Dark Brown,Godrej Expert,1,80ml,117
-supermarket@Guntur,BEAUTY & HYGIENE,Rich Creme Hair Colour - Burgundy,Godrej Expert,1,80ml,117
-supermarket@Guntur,BEAUTY & HYGIENE,Rich Creme Hair Colour - Natural Brown,Godrej Expert,1,80ml,117
-supermarket@Guntur,BEAUTY & HYGIENE,Onion Hair Oil - With Comb Applicator,Parachute Advansed,1,200ml,459
-supermarket@Guntur,BEAUTY & HYGIENE,Gloss Ultimate Ultra Shine Hair Serum,TRESemme,1,50ml,200
-supermarket@Guntur,BEAUTY & HYGIENE,Anti-Dandruff Shampoo - Anti Hairfall,Head & shoulders,1,72ml,79
-supermarket@Guntur,BEAUTY & HYGIENE,Bringha Oil - Reduce Hair Fall,Indulekha,1,100ml,317
-supermarket@Guntur,BEAUTY & HYGIENE,Hair Colour - Black Naturals,Garnier,1,40ml,42
-supermarket@Guntur,BEAUTY & HYGIENE,Smooth & Silky Anti-Dandruff Shampoo,Head & shoulders,1,650ml,586
-supermarket@Guntur,BEAUTY & HYGIENE,Excellence Creme Hair Colour,Loreal Paris,1,172ml,518
-supermarket@Guntur,BEAUTY & HYGIENE,L'Oreal Paris Excellence Creme Hair Colour,Loreal Paris,1,172ml,650
-supermarket@Guntur,BEAUTY & HYGIENE,Cool Menthol Anti-Dandruff Shampoo,Head & shoulders,1,650ml,586
-supermarket@Guntur,BEAUTY & HYGIENE,Lusciously Thick & Long Shampoo,Sunsilk,1,1L,712
-supermarket@Guntur,BEAUTY & HYGIENE,Anti-Hair Fall Shampoo With Bhirigaraj,Himalaya,1,700ml,599
-supermarket@Guntur,BEAUTY & HYGIENE,Anti-Hair Fall Shampoo,Himalaya,1,400ml,280
-supermarket@Guntur,BEAUTY & HYGIENE,Gentle Daily Care Protein Shampoo,Himalaya,1,100ml,75
-supermarket@Guntur,BEAUTY & HYGIENE,Hairfall Care Shampoo - Shikakai & Badam,Meera,2,180ml,170,650ml,493
-supermarket@Guntur,BEAUTY & HYGIENE,Vertical Hold Styling Hair Gel,Set Wet,1,100ml,75
-supermarket@Guntur,BEAUTY & HYGIENE,Strong & Long Health Shampoo,Clinic Plus,1,650ml,525
-supermarket@Guntur,BEAUTY & HYGIENE,Total Repair 5 Shampoo with Keratin XS,Loreal Paris,1,650ml,699
-supermarket@Guntur,BEAUTY & HYGIENE,Bringha Hair Cleanser - Prevents Hair Fall,Indullekha,1,340ml,432
-supermarket@Guntur,BEAUTY & HYGIENE,Keratin Smooth Pro Collection Conditioner,TRESemme,1,335ml,316
-supermarket@Guntur,BEAUTY & HYGIENE,Anti Dandruff Shampoo - Small Onion Fenugreek,Meera,1,180ml,174
-supermarket@Guntur,BEAUTY & HYGIENE,Men Hair Cream - Classic,Parachute Advansed,1,100g,67
-supermarket@Guntur,BEAUTY & HYGIENE,Advansed - Aloe Vera,Parachute,1,75ml,38
-supermarket@Guntur,BEAUTY & HYGIENE,Pro-V Advanced Solution Shampoo,Pantene,1,650ml,695
-supermarket@Guntur,BEAUTY & HYGIENE,Colour Protect Shampoo,Loreal Paris,1,75ml,89
-supermarket@Guntur,BEAUTY & HYGIENE,Strong & Long Health Shampoo,Clinic Plus,1,30ml,10
-supermarket@Guntur,BEAUTY & HYGIENE,Easy Hair Colour,Indica,1,25ml,40
-supermarket@Guntur,BEAUTY & HYGIENE,Hair Fall Defense Pro Collection Shampoo,TRESemme,1,1L,1035
-supermarket@Guntur,BEAUTY & HYGIENE,6 Oil Nourish Shampoo,Loreal Paris,3,650ml,789,340ml,338,1L,1129
-supermarket@Guntur,BEAUTY & HYGIENE,Lemon Fresh Anti-Dandruff Shampoo,Head & shoulders,2,180ml,197,72ml,79
-supermarket@Guntur,BEAUTY & HYGIENE,Ayurvedic Cool Oil,Navratna,2,100ml,80,500ml,297
-supermarket@Guntur,BEAUTY & HYGIENE,Egg Protein Shampoo,Clinic Plus,1,340ml,230
-supermarket@Guntur,BEAUTY & HYGIENE,Strong & Thick Health Shampoo,Clinic Plus,3,175ml,115,340ml,218,650ml,467
-supermarket@Guntur,BEAUTY & HYGIENE,Onion Shampoo - With Plant Keratin,Mamaearth,1,250ml,342
-supermarket@Guntur,Fragrances & Deos,Pearl & Beauty Women Deodorant Roll-On ,Nivea,1,100ml,298
-supermarket@Guntur,Fragrances & Deos,Whitening Smooth Skin Women Deodorant Roll-On ,Nivea,1,100ml,380
-supermarket@Guntur,Fragrances & Deos,Fresh Active Men Deodorant,Nivea,1,250ml,567
-supermarket@Guntur,Fragrances & Deos,Fresh Active Roll On,Nivea Men,1,100ml,398
-supermarket@Guntur,Fragrances & Deos,Eau De Perfume - Dynamo Premium,Park avenue,1,100ml,1200
-supermarket@Guntur,Fragrances & Deos,Eau De Perfume - Livewire Premium, Park avenue,1,100ml,1200
-supermarket@Guntur,Fragrances & Deos,Eau De Perfume - Discoverer Premium,Park avenue,1,100ml,1200
-supermarket@Guntur,Fragrances & Deos,Eau De Perfume - Founder Premium,Park avenue,1,100ml,1200
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Incense Limited Edition,Carlton London,1,100ml,1990
-supermarket@Guntur,Fragrances & Deos,Perfume Body Deodorant - Blush For Women,Carlton London,1,150ml,890
-supermarket@Guntur,Fragrances & Deos,Perfume Body Deodorant - Lush For Women,Carlton London,1,150ml,890
-supermarket@Guntur,Fragrances & Deos,Perfume Body Deodorant - Activ For Men,Carlton London,1,150ml,890
-supermarket@Guntur,Fragrances & Deos,Perfume Body Deodorant - Incense For Women,Carlton London,1,150ml,890
-supermarket@Guntur,Fragrances & Deos,Fragrance Mist - New Love Longlasting Fragrance,Carlton London,1,250ml,1490
-supermarket@Guntur,Fragrances & Deos,Fragrance Mist - Juicy Secrets Longlasting Fragrance,Carlton London,1,250ml,1490
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Escapade Forest Rouge,Skinn By Titan,1,100ml,2695
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Escapade Country Road,Skinn By Titan,1,100ml,2695
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Escapade Mediterranean Grove,Skinn By Titan,1,100ml,2695
-supermarket@Guntur,Fragrances & Deos,Body Perfume - Code Copper For Men,Wild Stone,1,150ml,325
-supermarket@Guntur,Fragrances & Deos,Body Perfume - Code Steel For Men,Wild Stone,1,150ml,325
-supermarket@Guntur,Fragrances & Deos,Body Perfume - Iron- Bronze & Stone For Men,Wild Stone,1,120ml,525
-supermarket@Guntur,Fragrances & Deos,Body Deodorant - Beyond For Men,Wild Stone,1,150ml,225
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Activ For Men,Carlton London,1,100ml,1890
-supermarket@Guntur,Fragrances & Deos,609 Eau De Parfum - Long-Lasting For Men,Carlton London,1,100ml,1790
-supermarket@Guntur,Fragrances & Deos,Escape Eau De Parfum - Long-Lasting For Women,Carlton London,1,100ml,1890
-supermarket@Guntur,Fragrances & Deos,Wicked Eau De Parfum - Long-Lasting For Women,Carlton London,1,30ml,1090
-supermarket@Guntur,Fragrances & Deos,Love Eau De Parfum - Long-Lasting For Women,Carlton London,1,30ml,1090
-supermarket@Guntur,Fragrances & Deos,Veronica Eau De Parfum - Long-Lasting For Women,Carlton London,1,50ml,1490
-supermarket@Guntur,Fragrances & Deos,Rebel Eau De Parfum - Long-Lasting For Men,Carlton London,1,50ml,1490
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Desire For Women,Carlton London,1,100ml,2190
-supermarket@Guntur,Fragrances & Deos,Eau De Parfum - Victory For Men,Carlton London,1,100ml,1190
-supermarket@Guntur,Fragrances & Deos,Amber Hues Eau De Parfum - Long Lasting,Engage,1,100ml,599
-supermarket@Guntur,Fragrances & Deos,Indigo Skies Eau De Parfum - Long Lasting,Engage,1,100ml,599
-supermarket@Guntur,Fragrances & Deos,One Soul Eau De Parfum - Long Lasting,Engage,1,100ml,599
-supermarket@Guntur,Fragrances & Deos,Fantasia Eau De Parfum - Long Lasting,Engage,1,100ml,599
-supermarket@Guntur,Fragrances & Deos,Verona Eau De Parfum - Long Lasting,Engage,1,100ml,599
-supermarket@Guntur,Fragrances & Deos,Woman Deo - Drizzle,Enagage,1,500ml,660
-supermarket@Guntur,Fragrances & Deos,Dark Temptation - Long Lasting,Axe,1,150ml,235
-supermarket@Guntur,Fragrances & Deos,Pulse - Long Lasting,Axe,1,150ml,235
-supermarket@Guntur,Fragrances & Deos,Signature Body Deodorant Spray - Intense,Axe,1,250ml,335
-supermarket@Guntur,Fragrances & Deos,Signature - Corporate Long Lasting,Axe,1,150ml,295
-supermarket@Guntur,Fragrances & Deos,Signature - Mysterious Long Lasting,Axe,1,150ml,295
-supermarket@Guntur,Fragrances & Deos,Signature - Dark Temptation Long Lasting,Axe,1,150ml,265
-supermarket@Guntur,Fragrances & Deos,Signature - Champion Long Lasting,Axe,1,150ml,295
-supermarket@Guntur,Fragrances & Deos,Body Spray - Provoke For Men,Axe,1,150ml,235
-supermarket@Guntur,Fragrances & Deos,Signature Gold Italian Bergamot & Amber,Axe,1,150ml,365
-supermarket@Guntur,Fragrances & Deos,Signature Gold Dark Vanilla & Oud,Axe,1,150ml,385
-supermarket@Guntur,Bath & Hand Wash,Cream Beauty Bathing Bar,Dove,1,100g,696
-supermarket@Guntur,Bath & Hand Wash,Pure & Gentle Bathing Bar,Pears,1,825g,544
-supermarket@Guntur,Bath & Hand Wash,Pure Sandalwood Oil Soap,Mysore Sandal,1,150g,82
-supermarket@Guntur,Bath & Hand Wash,Liquid Hand Wash - Skin Care,Dettol,1,1L,298
-supermarket@Guntur,Bath & Hand Wash,Bathing Soap - Ayurvedic Classic 18 Herbs,Medimix,1,125g,49
-supermarket@Guntur,Bath & Hand Wash,ntense Cool 2X Menthol Soap,Dettol,1,125g,309
-supermarket@Guntur,Bath & Hand Wash,Neem Tulsi & Aloe Vera Soap,Hamam,1,150g,66
-supermarket@Guntur,Bath & Hand Wash,Total Soap 100% Stronger Germ Protection,Lifebuoy,1,125g,36
-supermarket@Guntur,Bath & Hand Wash,Refreshing Deo Lime Bath Soap,Cinthol,1,100g,203
-supermarket@Guntur,Bath & Hand Wash,Bathing Soap - Ayurvedic,Chandrika,1,420g,185
-supermarket@Guntur,Bath & Hand Wash,Soft Glow Bath Soap - Rose & Vitamin E,Lux,1,150g,285
-supermarket@Guntur,Bath & Hand Wash,Lemon Fresh Soap 100% Stronger Germ Protection,Lifebuoy,1,100g,37
-supermarket@Guntur,Bath & Hand Wash, Neem Tulsi & Aloe Vera Soap 100% Pure Neem Oil,Hamam,1,100g,38
-supermarket@Guntur,Bath & Hand Wash,Oil-Clear & Glow Lemon Flower Soap Bar,Pears,1,75g,63
-supermarket@Guntur,Bath & Hand Wash,Sandal & Turmeric Bath Soap for Younger Looking & Glowing Skin,Santoor,1,125g,365
-supermarket@Guntur,Bath & Hand Wash,Original Deodorant & Complexion Soap,Cinthol,1,100g,55
-supermarket@Guntur,Bath & Hand Wash,Classic Sandalwood & Tulsi Hand Wash,Santoor,1,1.5L,199
-supermarket@Guntur,Bath & Hand Wash,Almond & Rose Soap Moisturizes & Cools Skin,Himalaya,1,75g,34
-supermarket@Guntur,Bath & Hand Wash,Honey & Cream Soap Nourishes & Moisturizes Skin,Himalaya,1,125g,58
-supermarket@Guntur,Bath & Hand Wash,Body Wash - Frangipani & Oil Shower Gel,Nivea,1,500ml,499
-supermarket@Guntur,Bath & Hand Wash,Health+ Bath Soap,Cinthol,1,100g,47
+supermarket@Guntur,Fruit Juice,Cold Extracted Juice - FruitandVegetable,Raw Pressery,1,2L,450
+supermarket@Guntur,BEAUTY and HYGIENE,Rose Face Powder - Sunscreen Warm Pink,Lakme,1,40g,185
+supermarket@Guntur,BEAUTY and HYGIENE,Perfecting Liquid Foundation Shell,Lakme,1,27ml,180
+supermarket@Guntur,BEAUTY and HYGIENE,Nail Colour Remover,Lakme,1,27ml,99
+supermarket@Guntur,BEAUTY and HYGIENE,Baby Lips Lip Balm-Pink Lolita,Maybelline New York,1,4g,199
+supermarket@Guntur,BEAUTY and HYGIENE,9 to 5 Complexion Care Cream - Beige,Lakme,1,9g,110
+supermarket@Guntur,BEAUTY and HYGIENE,Eyeconic Kajal Black Twist up pencil,Lakme,1,0.35g,190
+supermarket@Guntur,BEAUTY and HYGIENE,Insta Eye Liner - Black,lakme,1,9ml,145
+supermarket@Guntur,BEAUTY and HYGIENE,BB+ Cream - Rich In Vitamin,Ponds,1,30g,214
+supermarket@Guntur,BEAUTY and HYGIENE,Vegan Nail Lacquer -Naked Lunch,ColorBar,1,8ml,199
+supermarket@Guntur,BEAUTY and HYGIENE,Manish Malhotra Skin Awakening Foundation-Warm Amber,MyGlamm,1,34g,909
+supermarket@Guntur,BEAUTY and HYGIENE,Manish Malhotra Luminous Moisturizing Primer - Lightweight,MyGlamm,1,28ml,700
+supermarket@Guntur,BEAUTY and HYGIENE,Vita Hemp + Vitamin C Restoring Face Wash,ColorBar,1,150ml,495
+supermarket@Guntur,BEAUTY and HYGIENE,Ultra Vogue Matte Lipstick - snazzy,ColorBar,1,3.7g,750
+supermarket@Guntur,BEAUTY and HYGIENE,Hyper-Gloss Top Coat - Gold/Glitter,ColorFx,1,9ml,299
+supermarket@Guntur,BEAUTY and HYGIENE,Effortless Nail Enamel Remover,Color Fx,1,9ml,149
+supermarket@Guntur,BEAUTY and HYGIENE,Manish Malhotra Strobing Cream,MyGlamm,1,18ml,1550
+supermarket@Guntur,BEAUTY and HYGIENE,Absolute Loose Finishing Powder,Lakme,1,8g,700
+supermarket@Guntur,BEAUTY and HYGIENE,Absolute Creme Concealer,Lakme,1,9g,550
+supermarket@Guntur,BEAUTY and HYGIENE,Absolute Facelift Palette-Golden Hour,Lakme,1,15g,900
+supermarket@Guntur,BEAUTY and HYGIENE,Sexy Twosome Highlighter - Soft,ColorBar,1,8g,699
+supermarket@Guntur,BEAUTY and HYGIENE,9 To 5 Wet and Dry Compact - Dual Finish Almond,Lakme,1,9g,650
+supermarket@Guntur,BEAUTY and HYGIENE,Forever Matte Liquid Lip Colour -Cheery Love,lakme,1,5.6ml,349
+supermarket@Guntur,BEAUTY and HYGIENE,Intensive care Moisture Body Lotion - Dry Skin,Vaseline,1,600ml,575
+supermarket@Guntur,BEAUTY and HYGIENE, Intensive Care Cocoa Glow Body Lotion,Vaseline,1,400ml,435
+supermarket@Guntur,BEAUTY and HYGIENE,Cocoa Nourish Body Lotion,Nivea,1,1200ml,1557
+supermarket@Guntur,BEAUTY and HYGIENE,Intensive Care Aloe Fresh Body Lotion,Vaseline,1,400ml,435
+supermarket@Guntur,BEAUTY and HYGIENE,Triple Vitamin Moisturising Lotion,Ponds,1,275ml,330
+supermarket@Guntur,BEAUTY and HYGIENE,Body Milk Nourishing Lotion,Nivea,1,400ml,425
+supermarket@Guntur,BEAUTY and HYGIENE,Advanced Multivitamin Face Cream,GlowandLovely,1,110g,246
+supermarket@Guntur,BEAUTY and HYGIENE,Advanced Multi Vitamin Face Cream,FairandLovely,1,9g,10
+supermarket@Guntur,BEAUTY and HYGIENE,Soft Light Moisturizer - With Vitamin E,Nivea,1,200ml,329
+supermarket@Guntur,BEAUTY and HYGIENE,Bright Beauty Spot-Less Fairness,Ponds,1,200g,213
+supermarket@Guntur,BEAUTY and HYGIENE,Purifying Neem Face Wash,Himalaya,1,300ml,345
+supermarket@Guntur,BEAUTY and HYGIENE,Radiance Boosting Cream With 24K Liquid Gold,Natures Essence,1,45g,350
+supermarket@Guntur,BEAUTY and HYGIENE,Age Renewal Cream With 0.3% Pro-Retinol,Natures Essence,1,45g,350
+supermarket@Guntur,BEAUTY and HYGIENE,Anti Pigmentation Cream With 10% Niacinamide,Natures Essence,1,45g,325
+supermarket@Guntur,BEAUTY and HYGIENE,Daily Brightening Cream with 2% Alpha Arbutin,Natures Essence,1,45g,325
+supermarket@Guntur,BEAUTY and HYGIENE,Almond Honey Deep Nourishing,VLCC,1,600ml,549
+supermarket@Guntur,BEAUTY and HYGIENE,Smoothing Body Cream,Deconstruct,1,200g,799
+supermarket@Guntur,BEAUTY and HYGIENE,Brightening Serum,Deconstruct,1,30ml,669
+supermarket@Guntur,BEAUTY and HYGIENE,Hyaluronic Acid Hydrating Facewash,Deconstruct,1,100ml,285
+supermarket@Guntur,BEAUTY and HYGIENE,Beginners Exfoliating Serum,Deconstruct,1,30ml,699
+supermarket@Guntur,BEAUTY and HYGIENE,Hydrating Serum,Deconstruct,1,30ml,699
+supermarket@Guntur,BEAUTY and HYGIENE,Vitamin C and Ferulic Acid Serum,Deconstruct,1,30ml,799
+supermarket@Guntur,BEAUTY and HYGIENE,Niacinamide Brightening Facewash,Deconstruct,1,100ml,299
+supermarket@Guntur,BEAUTY and HYGIENE,NMF Hydrating Moisturiser,Deconstruct,1,50g,349
+supermarket@Guntur,BEAUTY and HYGIENE,Skin Soothe Moisturizer With Ceramide,Deconstruct,1,50g,379
+supermarket@Guntur,BEAUTY and HYGIENE,Exfoliating Serum,Deconstruct,1,30ml,799
+supermarket@Guntur,BEAUTY and HYGIENE,Niacinamide Brightening Moisturizer,Deconstruct,1,50g,399
+supermarket@Guntur,BEAUTY and HYGIENE,Brightening Body Serum,Deconstruct,1,100ml,699
+supermarket@Guntur,BEAUTY and HYGIENE,Pore Control Serum - Exfoliates Skin,Deconstruct,1,30ml,799
+supermarket@Guntur,BEAUTY and HYGIENE,Clearing Serum - Reduces Spots,Deconstruct,1,30ml,699
+supermarket@Guntur,BEAUTY and HYGIENE,Salicylic Acid Oil Control Facewash,Deconstruct,1,100ml,299
+supermarket@Guntur,BEAUTY and HYGIENE,Breakout Control D.S. Serum,Deconstruct,1,30ml,799
+supermarket@Guntur,BEAUTY and HYGIENE,Luxurious Floral Body Scrub With Essential Oils,Love Beauty and Planet,1,200ml,525
+supermarket@Guntur,BEAUTY and HYGIENE,Luxurious Energizing Body Scrub With Essential Oils,Love Beauty and Planet,1,200ml,525
+supermarket@Guntur,BEAUTY and HYGIENE,Kumkumadi Face Wash,Soulflower,1,120ml,350
+supermarket@Guntur,BEAUTY and HYGIENE,Natural Under Eye Cream,BetterSelf,1,15g,349
+supermarket@Guntur,BEAUTY and HYGIENE,Natural Aloe Vera and Hyaluronic Acid Gel,BetterSelf,1,200g,749
+supermarket@Guntur,BEAUTY and HYGIENE,Nourishing Body lotion - Milk and Forest Honey,Better Body Bombay,1,300ml,599
+supermarket@Guntur,BEAUTY and HYGIENE,Acne Prevention Facial Scrub,Better Body Bombay,1,100g,499
+supermarket@Guntur,BEAUTY and HYGIENE,Energizing Daily Face - Blood Orange,Better Body Bombay,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Hydrating Daily Face -Aloe and Coconut,Better Body Bombay,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Calming Daily Facewash - Lavender and Chamomile,Better Body Bombay,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Lip Balm - Ultra Moisturising,Better Body Bombay,1,10g,300
+supermarket@Guntur,BEAUTY and HYGIENE,Flashfix Gentle Exfoliating Face Cleanser,Conscious Chemist,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Berry Bright Soothing and Calming Face Cleanser,Conscious Chemist,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Daily Disslove UltraLight Face Cleanser,Conscious Chemist,1,100ml,499
+supermarket@Guntur,BEAUTY and HYGIENE,Intensive Hydrating Body Cream ,Conscious Chemist,1,150ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Bumps Escape Body Exfoliating and Pigmentation Removal ,Conscious Chemist,1,100ml,399
+supermarket@Guntur,BEAUTY and HYGIENE,Pure Coconut Oil,Parachute,1,600ml,251
+supermarket@Guntur,BEAUTY and HYGIENE,Naturals Crème Hair Colour,Garnier,1,130ml,200
+supermarket@Guntur,BEAUTY and HYGIENE,Colour Naturals Crème Hair Colour,Garnier,1,130ml,200
+supermarket@Guntur,BEAUTY and HYGIENE,Hair Colour - Colour Naturals Crème,Garnier,1,130ml,200
+supermarket@Guntur,BEAUTY and HYGIENE,Nutritive Solutions Hair Fall Rescue Shampoo,Dove,1,650ml,629
+supermarket@Guntur,BEAUTY and HYGIENE,Hair Fall Rescue Shampoo,Dove,1,1L,749
+supermarket@Guntur,BEAUTY and HYGIENE,Keratin Smooth Pro Collection Shampoo - Keratin and Argan Oil,TRESemme,1,1L,776
+supermarket@Guntur,BEAUTY and HYGIENE,Hairwash Powder - Herbal,Meera,1,80g,75
+supermarket@Guntur,BEAUTY and HYGIENE,Casting Creme Gloss Hair Colour,Loreal Paris,1,152,630
+supermarket@Guntur,BEAUTY and HYGIENE,Stunning Black Shine Hair Shampoo,Sunsilk,1,650ml,615
+supermarket@Guntur,BEAUTY and HYGIENE,Daily Shine Shampoo,Dove,1,650ml,740
+supermarket@Guntur,BEAUTY and HYGIENE,Advansed Gold Coconut Hair Oil ,Parachute,1,400ml,235
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Volume,Batiste,1,200ml,749
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Radiant Rose Gold,Batiste,1,200ml,649
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Coconut and Exotic Tropical,Batiste,1,50ml,349
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Love Is Love,Batiste,1,200ml,649
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Tempt,Batiste,1,200ml,649
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Skinny Dip,Batiste,1,200ml,649
+supermarket@Guntur,BEAUTY and HYGIENE,Dry Shampoo - Self Love,Batiste,1,200ml,649
+supermarket@Guntur,BEAUTY and HYGIENE,Keratin Repair Protein Bond Plex,TRESemme,1,540ml,860
+supermarket@Guntur,BEAUTY and HYGIENE,Keratin Custard Hair Mask,ENN,1,100g,750
+supermarket@Guntur,BEAUTY and HYGIENE,Keratin Smooth Anti-Frizz Hair Serum,TRESemme,1,100ml,495
+supermarket@Guntur,BEAUTY and HYGIENE,Oval Hair Brush - Vogue Range,Gubb,1,1pc,300
+supermarket@Guntur,BEAUTY and HYGIENE,Paddle Hair Brush/Straightener,Gubb,1,1pc,400
+supermarket@Guntur,BEAUTY and HYGIENE,Onion Conditioner,VAADI HERBALS,1,110ml,145
+supermarket@Guntur,BEAUTY and HYGIENE,Protein Solutions Thick and Glossy Shampoo,Chick,1,650ml,459
+supermarket@Guntur,BEAUTY and HYGIENE,Rich Creme Hair Colour - Natural Black,Godrej Expert,1,80ml,117
+supermarket@Guntur,BEAUTY and HYGIENE,Rich Creme Hair Colour - Dark Brown,Godrej Expert,1,80ml,117
+supermarket@Guntur,BEAUTY and HYGIENE,Rich Creme Hair Colour - Burgundy,Godrej Expert,1,80ml,117
+supermarket@Guntur,BEAUTY and HYGIENE,Rich Creme Hair Colour - Natural Brown,Godrej Expert,1,80ml,117
+supermarket@Guntur,BEAUTY and HYGIENE,Onion Hair Oil - With Comb Applicator,Parachute Advansed,1,200ml,459
+supermarket@Guntur,BEAUTY and HYGIENE,Gloss Ultimate Ultra Shine Hair Serum,TRESemme,1,50ml,200
+supermarket@Guntur,BEAUTY and HYGIENE,Anti-Dandruff Shampoo - Anti Hairfall,Head and shoulders,1,72ml,79
+supermarket@Guntur,BEAUTY and HYGIENE,Bringha Oil - Reduce Hair Fall,Indulekha,1,100ml,317
+supermarket@Guntur,BEAUTY and HYGIENE,Hair Colour - Black Naturals,Garnier,1,40ml,42
+supermarket@Guntur,BEAUTY and HYGIENE,Smooth and Silky Anti-Dandruff Shampoo,Head and shoulders,1,650ml,586
+supermarket@Guntur,BEAUTY and HYGIENE,Excellence Creme Hair Colour,Loreal Paris,1,172ml,518
+supermarket@Guntur,BEAUTY and HYGIENE,L'Oreal Paris Excellence Creme Hair Colour,Loreal Paris,1,172ml,650
+supermarket@Guntur,BEAUTY and HYGIENE,Cool Menthol Anti-Dandruff Shampoo,Head and shoulders,1,650ml,586
+supermarket@Guntur,BEAUTY and HYGIENE,Lusciously Thick and Long Shampoo,Sunsilk,1,1L,712
+supermarket@Guntur,BEAUTY and HYGIENE,Anti-Hair Fall Shampoo With Bhirigaraj,Himalaya,1,700ml,599
+supermarket@Guntur,BEAUTY and HYGIENE,Anti-Hair Fall Shampoo,Himalaya,1,400ml,280
+supermarket@Guntur,BEAUTY and HYGIENE,Gentle Daily Care Protein Shampoo,Himalaya,1,100ml,75
+supermarket@Guntur,BEAUTY and HYGIENE,Hairfall Care Shampoo - Shikakai and Badam,Meera,2,180ml,170,650ml,493
+supermarket@Guntur,BEAUTY and HYGIENE,Vertical Hold Styling Hair Gel,Set Wet,1,100ml,75
+supermarket@Guntur,BEAUTY and HYGIENE,Strong and Long Health Shampoo,Clinic Plus,1,650ml,525
+supermarket@Guntur,BEAUTY and HYGIENE,Total Repair 5 Shampoo with Keratin XS,Loreal Paris,1,650ml,699
+supermarket@Guntur,BEAUTY and HYGIENE,Bringha Hair Cleanser - Prevents Hair Fall,Indullekha,1,340ml,432
+supermarket@Guntur,BEAUTY and HYGIENE,Keratin Smooth Pro Collection Conditioner,TRESemme,1,335ml,316
+supermarket@Guntur,BEAUTY and HYGIENE,Anti Dandruff Shampoo - Small Onion Fenugreek,Meera,1,180ml,174
+supermarket@Guntur,BEAUTY and HYGIENE,Men Hair Cream - Classic,Parachute Advansed,1,100g,67
+supermarket@Guntur,BEAUTY and HYGIENE,Advansed - Aloe Vera,Parachute,1,75ml,38
+supermarket@Guntur,BEAUTY and HYGIENE,Pro-V Advanced Solution Shampoo,Pantene,1,650ml,695
+supermarket@Guntur,BEAUTY and HYGIENE,Colour Protect Shampoo,Loreal Paris,1,75ml,89
+supermarket@Guntur,BEAUTY and HYGIENE,Strong and Long Health Shampoo,Clinic Plus,1,30ml,10
+supermarket@Guntur,BEAUTY and HYGIENE,Easy Hair Colour,Indica,1,25ml,40
+supermarket@Guntur,BEAUTY and HYGIENE,Hair Fall Defense Pro Collection Shampoo,TRESemme,1,1L,1035
+supermarket@Guntur,BEAUTY and HYGIENE,6 Oil Nourish Shampoo,Loreal Paris,3,650ml,789,340ml,338,1L,1129
+supermarket@Guntur,BEAUTY and HYGIENE,Lemon Fresh Anti-Dandruff Shampoo,Head and shoulders,2,180ml,197,72ml,79
+supermarket@Guntur,BEAUTY and HYGIENE,Ayurvedic Cool Oil,Navratna,2,100ml,80,500ml,297
+supermarket@Guntur,BEAUTY and HYGIENE,Egg Protein Shampoo,Clinic Plus,1,340ml,230
+supermarket@Guntur,BEAUTY and HYGIENE,Strong and Thick Health Shampoo,Clinic Plus,3,175ml,115,340ml,218,650ml,467
+supermarket@Guntur,BEAUTY and HYGIENE,Onion Shampoo - With Plant Keratin,Mamaearth,1,250ml,342
+supermarket@Guntur,Fragrances and Deos,Pearl and Beauty Women Deodorant Roll-On ,Nivea,1,100ml,298
+supermarket@Guntur,Fragrances and Deos,Whitening Smooth Skin Women Deodorant Roll-On ,Nivea,1,100ml,380
+supermarket@Guntur,Fragrances and Deos,Fresh Active Men Deodorant,Nivea,1,250ml,567
+supermarket@Guntur,Fragrances and Deos,Fresh Active Roll On,Nivea Men,1,100ml,398
+supermarket@Guntur,Fragrances and Deos,Eau De Perfume - Dynamo Premium,Park avenue,1,100ml,1200
+supermarket@Guntur,Fragrances and Deos,Eau De Perfume - Livewire Premium, Park avenue,1,100ml,1200
+supermarket@Guntur,Fragrances and Deos,Eau De Perfume - Discoverer Premium,Park avenue,1,100ml,1200
+supermarket@Guntur,Fragrances and Deos,Eau De Perfume - Founder Premium,Park avenue,1,100ml,1200
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Incense Limited Edition,Carlton London,1,100ml,1990
+supermarket@Guntur,Fragrances and Deos,Perfume Body Deodorant - Blush For Women,Carlton London,1,150ml,890
+supermarket@Guntur,Fragrances and Deos,Perfume Body Deodorant - Lush For Women,Carlton London,1,150ml,890
+supermarket@Guntur,Fragrances and Deos,Perfume Body Deodorant - Activ For Men,Carlton London,1,150ml,890
+supermarket@Guntur,Fragrances and Deos,Perfume Body Deodorant - Incense For Women,Carlton London,1,150ml,890
+supermarket@Guntur,Fragrances and Deos,Fragrance Mist - New Love Longlasting Fragrance,Carlton London,1,250ml,1490
+supermarket@Guntur,Fragrances and Deos,Fragrance Mist - Juicy Secrets Longlasting Fragrance,Carlton London,1,250ml,1490
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Escapade Forest Rouge,Skinn By Titan,1,100ml,2695
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Escapade Country Road,Skinn By Titan,1,100ml,2695
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Escapade Mediterranean Grove,Skinn By Titan,1,100ml,2695
+supermarket@Guntur,Fragrances and Deos,Body Perfume - Code Copper For Men,Wild Stone,1,150ml,325
+supermarket@Guntur,Fragrances and Deos,Body Perfume - Code Steel For Men,Wild Stone,1,150ml,325
+supermarket@Guntur,Fragrances and Deos,Body Perfume - Iron- Bronze and Stone For Men,Wild Stone,1,120ml,525
+supermarket@Guntur,Fragrances and Deos,Body Deodorant - Beyond For Men,Wild Stone,1,150ml,225
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Activ For Men,Carlton London,1,100ml,1890
+supermarket@Guntur,Fragrances and Deos,609 Eau De Parfum - Long-Lasting For Men,Carlton London,1,100ml,1790
+supermarket@Guntur,Fragrances and Deos,Escape Eau De Parfum - Long-Lasting For Women,Carlton London,1,100ml,1890
+supermarket@Guntur,Fragrances and Deos,Wicked Eau De Parfum - Long-Lasting For Women,Carlton London,1,30ml,1090
+supermarket@Guntur,Fragrances and Deos,Love Eau De Parfum - Long-Lasting For Women,Carlton London,1,30ml,1090
+supermarket@Guntur,Fragrances and Deos,Veronica Eau De Parfum - Long-Lasting For Women,Carlton London,1,50ml,1490
+supermarket@Guntur,Fragrances and Deos,Rebel Eau De Parfum - Long-Lasting For Men,Carlton London,1,50ml,1490
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Desire For Women,Carlton London,1,100ml,2190
+supermarket@Guntur,Fragrances and Deos,Eau De Parfum - Victory For Men,Carlton London,1,100ml,1190
+supermarket@Guntur,Fragrances and Deos,Amber Hues Eau De Parfum - Long Lasting,Engage,1,100ml,599
+supermarket@Guntur,Fragrances and Deos,Indigo Skies Eau De Parfum - Long Lasting,Engage,1,100ml,599
+supermarket@Guntur,Fragrances and Deos,One Soul Eau De Parfum - Long Lasting,Engage,1,100ml,599
+supermarket@Guntur,Fragrances and Deos,Fantasia Eau De Parfum - Long Lasting,Engage,1,100ml,599
+supermarket@Guntur,Fragrances and Deos,Verona Eau De Parfum - Long Lasting,Engage,1,100ml,599
+supermarket@Guntur,Fragrances and Deos,Woman Deo - Drizzle,Enagage,1,500ml,660
+supermarket@Guntur,Fragrances and Deos,Dark Temptation - Long Lasting,Axe,1,150ml,235
+supermarket@Guntur,Fragrances and Deos,Pulse - Long Lasting,Axe,1,150ml,235
+supermarket@Guntur,Fragrances and Deos,Signature Body Deodorant Spray - Intense,Axe,1,250ml,335
+supermarket@Guntur,Fragrances and Deos,Signature - Corporate Long Lasting,Axe,1,150ml,295
+supermarket@Guntur,Fragrances and Deos,Signature - Mysterious Long Lasting,Axe,1,150ml,295
+supermarket@Guntur,Fragrances and Deos,Signature - Dark Temptation Long Lasting,Axe,1,150ml,265
+supermarket@Guntur,Fragrances and Deos,Signature - Champion Long Lasting,Axe,1,150ml,295
+supermarket@Guntur,Fragrances and Deos,Body Spray - Provoke For Men,Axe,1,150ml,235
+supermarket@Guntur,Fragrances and Deos,Signature Gold Italian Bergamot and Amber,Axe,1,150ml,365
+supermarket@Guntur,Fragrances and Deos,Signature Gold Dark Vanilla and Oud,Axe,1,150ml,385
+supermarket@Guntur,Bath and Hand Wash,Cream Beauty Bathing Bar,Dove,1,100g,696
+supermarket@Guntur,Bath and Hand Wash,Pure and Gentle Bathing Bar,Pears,1,825g,544
+supermarket@Guntur,Bath and Hand Wash,Pure Sandalwood Oil Soap,Mysore Sandal,1,150g,82
+supermarket@Guntur,Bath and Hand Wash,Liquid Hand Wash - Skin Care,Dettol,1,1L,298
+supermarket@Guntur,Bath and Hand Wash,Bathing Soap - Ayurvedic Classic 18 Herbs,Medimix,1,125g,49
+supermarket@Guntur,Bath and Hand Wash,ntense Cool 2X Menthol Soap,Dettol,1,125g,309
+supermarket@Guntur,Bath and Hand Wash,Neem Tulsi and Aloe Vera Soap,Hamam,1,150g,66
+supermarket@Guntur,Bath and Hand Wash,Total Soap 100% Stronger Germ Protection,Lifebuoy,1,125g,36
+supermarket@Guntur,Bath and Hand Wash,Refreshing Deo Lime Bath Soap,Cinthol,1,100g,203
+supermarket@Guntur,Bath and Hand Wash,Bathing Soap - Ayurvedic,Chandrika,1,420g,185
+supermarket@Guntur,Bath and Hand Wash,Soft Glow Bath Soap - Rose and Vitamin E,Lux,1,150g,285
+supermarket@Guntur,Bath and Hand Wash,Lemon Fresh Soap 100% Stronger Germ Protection,Lifebuoy,1,100g,37
+supermarket@Guntur,Bath and Hand Wash, Neem Tulsi and Aloe Vera Soap 100% Pure Neem Oil,Hamam,1,100g,38
+supermarket@Guntur,Bath and Hand Wash,Oil-Clear and Glow Lemon Flower Soap Bar,Pears,1,75g,63
+supermarket@Guntur,Bath and Hand Wash,Sandal and Turmeric Bath Soap for Younger Looking and Glowing Skin,Santoor,1,125g,365
+supermarket@Guntur,Bath and Hand Wash,Original Deodorant and Complexion Soap,Cinthol,1,100g,55
+supermarket@Guntur,Bath and Hand Wash,Classic Sandalwood and Tulsi Hand Wash,Santoor,1,1.5L,199
+supermarket@Guntur,Bath and Hand Wash,Almond and Rose Soap Moisturizes and Cools Skin,Himalaya,1,75g,34
+supermarket@Guntur,Bath and Hand Wash,Honey and Cream Soap Nourishes and Moisturizes Skin,Himalaya,1,125g,58
+supermarket@Guntur,Bath and Hand Wash,Body Wash - Frangipani and Oil Shower Gel,Nivea,1,500ml,499
+supermarket@Guntur,Bath and Hand Wash,Health+ Bath Soap,Cinthol,1,100g,47
 supermarket@Guntur,Oral Care,Strong Teeth Anticavity Toothpaste With Amino Shakti - Saver Pack,Colgate,1,500g,259
 supermarket@Guntur,Oral Care,Toothpaste - Active Salt Saver Pack,Colgate,1,660g,303
 supermarket@Guntur,Oral Care,MaxFresh Toothpaste Blue Gel Paste,Colgate,1,80g,63
 supermarket@Guntur,Oral Care,Toothpaste - Maxfresh Blue Peppermint Ice,Colgate,1,300g,224
 supermarket@Guntur,Oral Care,MaxFresh Toothpaste Red Gel Paste,Colgate,1,300g,204
 supermarket@Guntur,Oral Care,Mouthwash - Cool Mint,Listerine,1,80ml,48
-supermarket@Guntur,Oral Care,Toothpaste - Repair & Protect,Sensodyne,1,70g,195
+supermarket@Guntur,Oral Care,Toothpaste - Repair and Protect,Sensodyne,1,70g,195
 supermarket@Guntur,Oral Care,Toothpaste - Fresh Gel,Sensodyne,1,75g,125
 supermarket@Guntur,Oral Care,Toothpaste - Fresh Mint,Sensodyne,1,150g,220
-supermarket@Guntur,Oral Care,Vajradanti - Ayurvedic Medicine For Gums & Teeth,Viccco,1,100g,77
+supermarket@Guntur,Oral Care,Vajradanti - Ayurvedic Medicine For Gums and Teeth,Viccco,1,100g,77
 supermarket@Guntur,Oral Care,Sensitive Toothbrush - With Soft Rounded Bristles,Sensodyne,1,3pc,120
 supermarket@Guntur,Oral Care,Visible White Teeth Whitening Toothpaste,Colgate,1,50g,90
 supermarket@Guntur,Oral Care,Charcoal Clean Toothpaste Black Gel Paste,Colgate,1,240g,261
@@ -646,5 +646,5 @@ supermarket@Guntur,Oral Care,Complete Care Toothpaste,Himalaya,1,150g,89
 supermarket@Guntur,Oral Care,India's No.1 Ayurvedic Fluroide Free Paste,Dabur Red,1,400g,346
 supermarket@Guntur,Oral Care,ZigZag Anti-Bacterial Toothbrush - Medium,Colgate,1,6pc,120
 supermarket@Guntur,Oral Care,Bacterial Fighter Manual Tooth Brush - Cavity Defense,Oral-B,1,6pc,114
-supermarket@Guntur,Oral Care,Toothpowder - With Calcium & Minerals,Colgate,1,50g,32
+supermarket@Guntur,Oral Care,Toothpowder - With Calcium and Minerals,Colgate,1,50g,32
 supermarket@Guntur,Oral Care,Colgate ZigZag Charcoal Medium Bristle Toothbrush,Colgate,1,4pc,120

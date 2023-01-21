@@ -183,8 +183,9 @@ export default class CreateFPARequest extends Component {
                     onClick={() => {
                       this.addItem(index);
                     }}
+                    title={item.itemName}
                   >
-                    <>{item.itemName}</>
+                    {item.itemName}
                   </div>
                 );
               });
@@ -256,6 +257,7 @@ export default class CreateFPARequest extends Component {
                     <div
                       className="viewDivItem"
                       style={style}
+                      title={brand}
                       onClick={() => {
                         this.selectBrand(index);
                       }}
@@ -293,14 +295,16 @@ export default class CreateFPARequest extends Component {
         )
           .then((response) =>
             response.json().then((response) => {
-              this.setState({
-                activeType: {
-                  category: true,
-                  brand: false,
-                  name: this.state.categoriesList[index],
-                },
-                activeComponentItemsList: response.categoryItemsList,
-              });
+              if (response.message) {
+                this.setState({
+                  activeType: {
+                    category: true,
+                    brand: false,
+                    name: this.state.categoriesList[index],
+                  },
+                  activeComponentItemsList: response.categoryItemsList,
+                });
+              }
             })
           )
           .catch((err) => {
@@ -333,6 +337,7 @@ export default class CreateFPARequest extends Component {
                     <div
                       className="viewDivItem"
                       style={style}
+                      title={category}
                       onClick={() => {
                         this.selectCategory(index);
                       }}
@@ -402,6 +407,7 @@ export default class CreateFPARequest extends Component {
               <div
                 className="viewDivItem"
                 style={style}
+                title={item.itemName}
                 onClick={() => {
                   this.addCategoryItem(index);
                 }}
@@ -414,9 +420,16 @@ export default class CreateFPARequest extends Component {
       } else if (this.state.activeType.brand) {
         viewInfopanel = (
           <div className="viewInfo">
-            {this.state.activeType.name}
-            <button onClick={() => this.cancelActiveType()}>Cancel</button>
-            <button onClick={() => this.addBrand()}>Add Complete Brand</button>
+            <p className="typeName">{this.state.activeType.name}</p>
+            <button
+              className="typebutton"
+              onClick={() => this.cancelActiveType()}
+            >
+              Cancel
+            </button>
+            <button className="typebutton" onClick={() => this.addBrand()}>
+              Add Complete Brand
+            </button>
           </div>
         );
         activePanel = (
@@ -424,6 +437,7 @@ export default class CreateFPARequest extends Component {
             {this.state.activeComponentItemsList.map((item, index) => (
               <div
                 className="viewDivItem"
+                title={item.itemName}
                 style={style}
                 onClick={() => {
                   this.addBrandItem(index);

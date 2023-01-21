@@ -46,7 +46,6 @@ const searchItemController = (req, res) => {
 
   promise
     .then((listObjects) => {
-      console.log(listObjects);
       res.json({ responseStatus: true, listObjects: listObjects });
     })
     .catch(() => {

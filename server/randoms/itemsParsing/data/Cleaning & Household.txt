@@ -1,57 +1,57 @@
-supermarket@Guntur, Detergents & Dishwash, Matic Front Load Liquid Detergent, Surf Excel, 2, 3.2l, 635, 2l, 440
-supermarket@Guntur, Detergents & Dishwash, Matic Front Load Detergent Powder, Surf Excel, 4, 6kg, 1260, 4kg, 880, 1kg, 255, 2kg, 485
-supermarket@Guntur, Detergents & Dishwash, Dishwash Bar - Lemon, Vim, 3, 300g, 30, 125g, 9.5, 60g, 5
-supermarket@Guntur, Detergents & Dishwash, Easy Wash Detergent Powder, Surf Excel, 5, 3kg, 445, 500g, 79, 1.5kg, 218, 1kg, 158, 5kg, 660
-supermarket@Guntur, Detergents & Dishwash, Matic Top Load Detergent Powder, Surf Excel, 4, 2kg, 425, 4kg, 810, 1kg, 270, 6kg, 1160
-supermarket@Guntur, Detergents & Dishwash, Detergent Washing Powder - Matic Front Load, Ariel, 4, 2kg, 462, 1kg, 315, 4kg, 1342.25, 500g, 170
-supermarket@Guntur, Detergents & Dishwash, Detergent - Liquid Matic Top Load, Surf Excel, 1, 2l, 390
-supermarket@Guntur, Detergents & Dishwash, Dishwash Liquid Gel - Lemon, Vim, 5, 1.8l, 410, 500ml, 109, 900ml, 190, 140ml, 20, 2l, 395
-supermarket@Guntur, Detergents & Dishwash, Matic Liquid Detergent - Front Load, Ariel, 4, 500ml, 421.95, 2l, 532.4, 1l, 243.8, 2l, 421.95
-supermarket@Guntur, Detergents & Dishwash, Extra Power Detergent Washing Powder - Jasmine & Rose, Tide, 6, 7kg, 1085, 500g, 73, 2kg, 270, 1kg, 146, 6kg, 890.1, 5kg, 590.55
-supermarket@Guntur, Detergents & Dishwash, After Wash Fabric Conditioner - Morning Fresh, Comfort, 1, 2l, 460
-supermarket@Guntur, Detergents & Dishwash, After Wash Morning Fresh Fabric Conditioner, Comfort, 4, 210ml, 58, 860ml, 220, 430ml, 120, 1.6l, 395
-supermarket@Guntur, Detergents & Dishwash, Detergent Bar, Rin, 1, 110g, 10
-supermarket@Guntur, Detergents & Dishwash, Dishwash Liquid Gel - Lemon, Vim, 2, 750ml, 189, 250ml, 55
-supermarket@Guntur, Detergents & Dishwash, Cleaning Powder - Sabena, Sabena, 2, 450g, 15, 900g, 29
-supermarket@Guntur, Detergents & Dishwash, Detergent Washing Powder - Matic Top Load, Ariel, 4, 1kg, 290, 2kg, 416.5, 500g, 160, 4kg, 1152.75
-supermarket@Guntur, Detergents & Dishwash, Green Lemon & Jasmine Detergent Powder, Wheel, 1, 1kg, 76
-supermarket@Guntur, Detergents & Dishwash, Matic Liquid Detergent Top Load, Ariel, 4, 2l, 455.8, 1l, 213.85, 2l, 430, 500ml, 122
-supermarket@Guntur, Detergents & Dishwash, Quick Wash Detergent Powder, Surf Excel, 4, 1kg, 240, 2kg, 450, 4kg, 720, 500g, 120
-supermarket@Guntur, Detergents & Dishwash, Complete Detergent Washing Powder - Value Pack, Ariel, 4, 2kg, 700, 500g, 173, 4kg, 750, 1kg, 370
-supermarket@Guntur, Detergents & Dishwash, Dishwash Bar - Round Touch & Shine, Exo, 1, 700g, 155
-supermarket@Guntur, Detergents & Dishwash, After Wash Fabric Conditioner - Lily Fresh, Comfort, 1, 2l, 460
-supermarket@Guntur, Detergents & Dishwash, All In One Liquid Detergent Booster, Vanish, 3, 180ml, 65, 400ml, 109.25, 800ml, 216.2
-supermarket@Guntur, Detergents & Dishwash, Double Power Detergent Washing Powder, Tide, 5, 8kg, 890.1, 5kg, 571.5, 500g, 73, 2kg, 237, 1kg, 146
-supermarket@Guntur, Detergents & Dishwash, Dishwash Liquid - Lime - Pril, Pril, 3, 225ml, 60, 750ml, 158, 2l, 464
-supermarket@Guntur, Detergents & Dishwash, Surf Excel Detergent Bar, Surf Excel, 2, 150g, 22, 200g, 106.5
-supermarket@Guntur, Detergents & Dishwash, Rin Detergent Bar, Rin, 1, 250g, 25.5
-supermarket@Guntur, Detergents & Dishwash, Naturals Detergent Powder - Lemon & Chandan, Tide, 2, 1kg, 79, 500g, 41
-supermarket@Guntur, Detergents & Dishwash, After Wash Lily Fresh Fabric Conditioner, Comfort, 3, 1.6l, 395, 210ml, 55.5, 860ml, 191
-supermarket@Guntur, Detergents & Dishwash, Ala Fabric Whitener, Rin, 2, 200ml, 44, 500ml, 85
-supermarket@Guntur, Detergents & Dishwash, Matic Liquid Top Load, Surf Excel, 1, 1l, 198
-supermarket@Guntur, Detergents & Dishwash, Pitambari Shining Powder for brass copper and aluminum articles, Pitambari, 3, 200g, 60, 100g, 40, 1kg, 280
-supermarket@Guntur, Detergents & Dishwash, All in One Powder Detergent Booster, Vanish, 2, 200g, 104.5, 100g, 63
-supermarket@Guntur, Detergents & Dishwash, Liquid Detergent - Strong Formula, Genteel, 1, 1kg, 316
-supermarket@Guntur, Detergents & Dishwash, Dishwash Bar - Lemon, Vim, 1, 500g, 57.5
-supermarket@Guntur, Detergents & Dishwash, Dishwash Bar - Anti-Bacterial Round, EXO, 4, 250g, 32, 700g, 77, 300g, 30, 100g, 10
-supermarket@Guntur, Detergents & Dishwash, Matic Liquid Front Load, Surf Excel, 1, 1l, 225
+supermarket@Guntur, Detergents and Dishwash, Matic Front Load Liquid Detergent, Surf Excel, 2, 3.2l, 635, 2l, 440
+supermarket@Guntur, Detergents and Dishwash, Matic Front Load Detergent Powder, Surf Excel, 4, 6kg, 1260, 4kg, 880, 1kg, 255, 2kg, 485
+supermarket@Guntur, Detergents and Dishwash, Dishwash Bar - Lemon, Vim, 3, 300g, 30, 125g, 9.5, 60g, 5
+supermarket@Guntur, Detergents and Dishwash, Easy Wash Detergent Powder, Surf Excel, 5, 3kg, 445, 500g, 79, 1.5kg, 218, 1kg, 158, 5kg, 660
+supermarket@Guntur, Detergents and Dishwash, Matic Top Load Detergent Powder, Surf Excel, 4, 2kg, 425, 4kg, 810, 1kg, 270, 6kg, 1160
+supermarket@Guntur, Detergents and Dishwash, Detergent Washing Powder - Matic Front Load, Ariel, 4, 2kg, 462, 1kg, 315, 4kg, 1342.25, 500g, 170
+supermarket@Guntur, Detergents and Dishwash, Detergent - Liquid Matic Top Load, Surf Excel, 1, 2l, 390
+supermarket@Guntur, Detergents and Dishwash, Dishwash Liquid Gel - Lemon, Vim, 5, 1.8l, 410, 500ml, 109, 900ml, 190, 140ml, 20, 2l, 395
+supermarket@Guntur, Detergents and Dishwash, Matic Liquid Detergent - Front Load, Ariel, 4, 500ml, 421.95, 2l, 532.4, 1l, 243.8, 2l, 421.95
+supermarket@Guntur, Detergents and Dishwash, Extra Power Detergent Washing Powder - Jasmine and Rose, Tide, 6, 7kg, 1085, 500g, 73, 2kg, 270, 1kg, 146, 6kg, 890.1, 5kg, 590.55
+supermarket@Guntur, Detergents and Dishwash, After Wash Fabric Conditioner - Morning Fresh, Comfort, 1, 2l, 460
+supermarket@Guntur, Detergents and Dishwash, After Wash Morning Fresh Fabric Conditioner, Comfort, 4, 210ml, 58, 860ml, 220, 430ml, 120, 1.6l, 395
+supermarket@Guntur, Detergents and Dishwash, Detergent Bar, Rin, 1, 110g, 10
+supermarket@Guntur, Detergents and Dishwash, Dishwash Liquid Gel - Lemon, Vim, 2, 750ml, 189, 250ml, 55
+supermarket@Guntur, Detergents and Dishwash, Cleaning Powder - Sabena, Sabena, 2, 450g, 15, 900g, 29
+supermarket@Guntur, Detergents and Dishwash, Detergent Washing Powder - Matic Top Load, Ariel, 4, 1kg, 290, 2kg, 416.5, 500g, 160, 4kg, 1152.75
+supermarket@Guntur, Detergents and Dishwash, Green Lemon and Jasmine Detergent Powder, Wheel, 1, 1kg, 76
+supermarket@Guntur, Detergents and Dishwash, Matic Liquid Detergent Top Load, Ariel, 4, 2l, 455.8, 1l, 213.85, 2l, 430, 500ml, 122
+supermarket@Guntur, Detergents and Dishwash, Quick Wash Detergent Powder, Surf Excel, 4, 1kg, 240, 2kg, 450, 4kg, 720, 500g, 120
+supermarket@Guntur, Detergents and Dishwash, Complete Detergent Washing Powder - Value Pack, Ariel, 4, 2kg, 700, 500g, 173, 4kg, 750, 1kg, 370
+supermarket@Guntur, Detergents and Dishwash, Dishwash Bar - Round Touch and Shine, Exo, 1, 700g, 155
+supermarket@Guntur, Detergents and Dishwash, After Wash Fabric Conditioner - Lily Fresh, Comfort, 1, 2l, 460
+supermarket@Guntur, Detergents and Dishwash, All In One Liquid Detergent Booster, Vanish, 3, 180ml, 65, 400ml, 109.25, 800ml, 216.2
+supermarket@Guntur, Detergents and Dishwash, Double Power Detergent Washing Powder, Tide, 5, 8kg, 890.1, 5kg, 571.5, 500g, 73, 2kg, 237, 1kg, 146
+supermarket@Guntur, Detergents and Dishwash, Dishwash Liquid - Lime - Pril, Pril, 3, 225ml, 60, 750ml, 158, 2l, 464
+supermarket@Guntur, Detergents and Dishwash, Surf Excel Detergent Bar, Surf Excel, 2, 150g, 22, 200g, 106.5
+supermarket@Guntur, Detergents and Dishwash, Rin Detergent Bar, Rin, 1, 250g, 25.5
+supermarket@Guntur, Detergents and Dishwash, Naturals Detergent Powder - Lemon and Chandan, Tide, 2, 1kg, 79, 500g, 41
+supermarket@Guntur, Detergents and Dishwash, After Wash Lily Fresh Fabric Conditioner, Comfort, 3, 1.6l, 395, 210ml, 55.5, 860ml, 191
+supermarket@Guntur, Detergents and Dishwash, Ala Fabric Whitener, Rin, 2, 200ml, 44, 500ml, 85
+supermarket@Guntur, Detergents and Dishwash, Matic Liquid Top Load, Surf Excel, 1, 1l, 198
+supermarket@Guntur, Detergents and Dishwash, Pitambari Shining Powder for brass copper and aluminum articles, Pitambari, 3, 200g, 60, 100g, 40, 1kg, 280
+supermarket@Guntur, Detergents and Dishwash, All in One Powder Detergent Booster, Vanish, 2, 200g, 104.5, 100g, 63
+supermarket@Guntur, Detergents and Dishwash, Liquid Detergent - Strong Formula, Genteel, 1, 1kg, 316
+supermarket@Guntur, Detergents and Dishwash, Dishwash Bar - Lemon, Vim, 1, 500g, 57.5
+supermarket@Guntur, Detergents and Dishwash, Dishwash Bar - Anti-Bacterial Round, EXO, 4, 250g, 32, 700g, 77, 300g, 30, 100g, 10
+supermarket@Guntur, Detergents and Dishwash, Matic Liquid Front Load, Surf Excel, 1, 1l, 225
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Toilet Cleaner Liquid - Original, Harpic, 3, 500ml, 90, 1l, 184.5, 200ml, 38.5
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Citrus, Lizol, 5, 2l, 344, 1l, 190, 200ml, 40, 5l, 781.08, 500ml, 105.5
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Citrus, Lizol, 5, 2l, 344, 1l, 190, 200ml, 40, 5l, 781.08, 500ml, 105.5
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Bathroom Cleaner Liquid - Lemon, Harpic, 3, 500ml, 105, 1l, 172, 200ml, 49
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Floral, Lizol, 5, 500ml, 103, 2l, 387.03, 5l, 809.1, 200ml, 40, 1l, 198.85
-supermarket@Guntur, All Purpose Cleaners, White & Shine Disinfectant Toilet Cleaner Bleach, Harpic, 1, 500ml, 93.56
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Floral, Lizol, 5, 500ml, 103, 2l, 387.03, 5l, 809.1, 200ml, 40, 1l, 198.85
+supermarket@Guntur, All Purpose Cleaners, White and Shine Disinfectant Toilet Cleaner Bleach, Harpic, 1, 500ml, 93.56
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Liquid Floor/Surface Cleaner, Dettol, 3, 500ml, 164.05, 200ml, 98, 1l, 277.6
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid Refill Pack - Citrus, Lizol, 1, 1800ml, 352.5
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Lavender, Lizol, 3, 2l, 387.03, 500ml, 103, 1l, 196.5
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid Refill Pack - Citrus, Lizol, 1, 1800ml, 352.5
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Lavender, Lizol, 3, 2l, 387.03, 500ml, 103, 1l, 196.5
 supermarket@Guntur, All Purpose Cleaners, Flushmatic In-Cistern Toilet Cleaner Block Marine, Harpic, 3, 150g, 184, 100g, 146.3, 50g, 77.9
 supermarket@Guntur, All Purpose Cleaners, Herbal Floor Cleaner, Nimyle, 3, 2l, 236, 5l, 792, 500ml, 88.35
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Bathroom Cleaner Liquid Floral, Harpic, 3, 500ml, 105, 200ml, 46, 1l, 186
 supermarket@Guntur, All Purpose Cleaners, Toilet Cleaner - Fresh Guard Ocean Fresh, Domex, 2, 500ml, 102, 1l, 141
-supermarket@Guntur, All Purpose Cleaners, Glass & Surface Cleaner Liquid Refill, Colin, 1, 1l, 163
+supermarket@Guntur, All Purpose Cleaners, Glass and Surface Cleaner Liquid Refill, Colin, 1, 1l, 163
 supermarket@Guntur, All Purpose Cleaners, Bleaching Powder - Strong, Zermisol, 2, 200g, 24, 500g, 54
-supermarket@Guntur, All Purpose Cleaners, Kitchen Cleaner - Removes Tough Stains & Grease, Mr Muscle, 1, 450ml, 116
+supermarket@Guntur, All Purpose Cleaners, Kitchen Cleaner - Removes Tough Stains and Grease, Mr Muscle, 1, 450ml, 116
 supermarket@Guntur, All Purpose Cleaners, Toilet Cleaner Expert - Original, Domex, 2, 500ml, 102, 1l, 200
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Neem, Lizol, 3, 500ml, 110, 200ml, 40, 2l, 387.03
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Neem, Lizol, 3, 500ml, 110, 200ml, 40, 2l, 387.03
 supermarket@Guntur, All Purpose Cleaners, Dranex Drain Cleaner, Kiwi, 1, 50g, 126
 supermarket@Guntur, All Purpose Cleaners, Surface Disinfectant Spray, Savlon, 1, 170g, 123.75
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Floor Cleaner, Domex, 2, 1l, 170.5, 500ml, 114
@@ -59,9 +59,9 @@ supermarket@Guntur, All Purpose Cleaners, Germ Protection Multipurpose Thick, Sa
 supermarket@Guntur, All Purpose Cleaners, Strong Phenyl - Lemon, Pulp Wood, 1, 1l, 87.2
 supermarket@Guntur, All Purpose Cleaners, Anti-Microbial Floor Cleaner With Citronella Oil, Tazo, 1, 1l, 320
 supermarket@Guntur, All Purpose Cleaners, Toilet Cleaner - Non-Toxic, Herbal Strategi, 1, 2l, 522.5
-supermarket@Guntur, All Purpose Cleaners, Original & Pure Bleaching Powder, Pulp Wood, 2, 1kg, 109.65, 500g, 58.65
+supermarket@Guntur, All Purpose Cleaners, Original and Pure Bleaching Powder, Pulp Wood, 2, 1kg, 109.65, 500g, 58.65
 supermarket@Guntur, All Purpose Cleaners, Multi-Purpose Bathroom Cleaner With Peppermint Oil, Tazo, 1, 500ml, 175
-supermarket@Guntur, All Purpose Cleaners, Fruits & Veggie Wash With Clove Oil, Tazo, 1, 500ml, 189
+supermarket@Guntur, All Purpose Cleaners, Fruits and Veggie Wash With Clove Oil, Tazo, 1, 500ml, 189
 supermarket@Guntur, All Purpose Cleaners, Multi-Surface Cleaner With Ylang Ylang Oil, Tazo, 1, 500ml, 185
 supermarket@Guntur, All Purpose Cleaners, Toilet Roll - Easy Flush Ultra Soft, Soft Touch, 1, 400pcs, 475
 supermarket@Guntur, All Purpose Cleaners, Strong Phenyl - Sandal Removes, Pulp Wood, 1, 1l, 87.2
@@ -72,24 +72,24 @@ supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Lavender Fresh, Sri Sr
 supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Citric Lemon, Sri Sri Tattva, 1, 500ml, 81
 supermarket@Guntur, All Purpose Cleaners, Toilet Cleaner - Winter Green, Sri Sri Tattva, 1, 500ml, 76.5
 supermarket@Guntur, All Purpose Cleaners, Dranex Drain Cleaner, Kiwi, 1, 50g, 19.5
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid, Lizol, 1, 500ml, 110
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid, Lizol, 1, 500ml, 110
 supermarket@Guntur, All Purpose Cleaners, Liquid Disinfectant for Multi-Purpose Germ Protection, Dettol, 2, 200ml, 98, 500ml, 164.05
-supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Disinfectant & Insect Repellent, Herbal Strategi, 1, 2l, 361
-supermarket@Guntur, All Purpose Cleaners, Germ & Stain Blaster Disinfectant Toilet, Harpic, 1, 750ml, 140
+supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Disinfectant and Insect Repellent, Herbal Strategi, 1, 2l, 361
+supermarket@Guntur, All Purpose Cleaners, Germ and Stain Blaster Disinfectant Toilet, Harpic, 1, 750ml, 140
 supermarket@Guntur, All Purpose Cleaners, Perfumed Herbal Phenyle - Lemon, Smart Home, 3, 500ml, 44, 1l, 64, 5l, 281
-supermarket@Guntur, All Purpose Cleaners, White & Shine Disinfectant Toilet Cleaner Bleach, BB Home, 1, 500ml, 89
+supermarket@Guntur, All Purpose Cleaners, White and Shine Disinfectant Toilet Cleaner Bleach, BB Home, 1, 500ml, 89
 supermarket@Guntur, All Purpose Cleaners, Hygienic Toilet Cleaner Rim Block, Harpic, 1, 26g, 73.8
-supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Jasmine & Rose, Koparo Clean, 1, 1.8l, 851.73
-supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Lime & Lemongrass, Koparo Clean, 1, 1.8l, 851.73
+supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Jasmine and Rose, Koparo Clean, 1, 1.8l, 851.73
+supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Lime and Lemongrass, Koparo Clean, 1, 1.8l, 851.73
 supermarket@Guntur, All Purpose Cleaners, Perfumed Herbal Phenyle - Jasmine, Smart Home, 3, 500ml, 44, 1l, 64, 5l, 281
 supermarket@Guntur, All Purpose Cleaners, Cool Green 2 in 1 Perfumed Herbal Phenyle, Germisol, 2, 1l, 110, 500ml, 78
 supermarket@Guntur, All Purpose Cleaners, Disinfectant Kitchen Power Cleaner Liquid Spray, Lizol, 2, 250ml, 89, 450ml, 130
 supermarket@Guntur, All Purpose Cleaners, Black Phenyl, Germi Chek, 1, 450ml, 65
 supermarket@Guntur, All Purpose Cleaners, Black Disinfectant Fluid Phenyle, Germisol, 2, 200ml, 48, 500ml, 92
 supermarket@Guntur, All Purpose Cleaners, Gou-Clean Floor Herbal Cleaner, Gou Ganga, 3, 500ml, 50, 1l, 90, 5l, 350
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Pine, Lizol, 2, 2l, 387, 500ml, 110
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Pine, Lizol, 2, 2l, 387, 500ml, 110
 supermarket@Guntur, All Purpose Cleaners, Hygienic Toilet Cleaner Rim Block, Harpic, 1, 26g, 73.8
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid - Jasmine, Lizol, 4, 1l, 198.85, 2l, 387.03, 200ml, 40, 500ml, 110
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid - Jasmine, Lizol, 4, 1l, 198.85, 2l, 387.03, 200ml, 40, 500ml, 110
 supermarket@Guntur, All Purpose Cleaners, Floor Cleaner - Lavender, Mr Muscle, 2, 500ml, 98, 1050ml, 149
 supermarket@Guntur, All Purpose Cleaners, Floor Perfumed Herbal Deodorant Cleaner - Pine, Homey Home Fresh, 1, 1l, 50
 supermarket@Guntur, All Purpose Cleaners, Bathroom Cleaner Multi Surface and Shower Cleaning Spray, Harpic, 1, 400ml, 111.75
@@ -99,121 +99,121 @@ supermarket@Guntur, All Purpose Cleaners, Perfumed Herbal Phenyle - White, Smart
 supermarket@Guntur, All Purpose Cleaners, Phenyl - Mountain Magic (Herbal), Germisol, 2, 500ml, 78, 1l, 110
 supermarket@Guntur, All Purpose Cleaners, Bathroom Air Freshener Blocks - Lavender Meadow, Odonil, 1, 48g, 49.3
 supermarket@Guntur, All Purpose Cleaners, Flushmatic In-Cistern Toilet Cleaner Block, Harpic, 1, 100g, 143.22
-supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface & Floor Cleaner Liquid Refill Pack - Floral, Lizol, 1, 1800ml, 352.5
-supermarket@Guntur, Fresheners & Repellents, Cockroach Killer Spray, HIT, 2, 200ml, 100, 400ml, 199
-supermarket@Guntur, Fresheners & Repellents, Power Pocket - Bathroom Air Fragrance, Godrej Aer, 2, 50g, 240, 30g, 154
-supermarket@Guntur, Fresheners & Repellents, Mosquito & Fly Killer Spray, HIT, 2, 400ml, 218.25, 200ml, 111.55
-supermarket@Guntur, Fresheners & Repellents, Anti-Roach Gel - Cockroach Killer, HIT, 1, 20g, 222
-supermarket@Guntur, Fresheners & Repellents, Ultra Mosquito Repellant Refill pack of 6, All Out, 1, 45ml, 384
-supermarket@Guntur, Fresheners & Repellents, Herbal Ant Repellent - Non-Toxic, Herbal Strategi, 1, 200ml, 418
-supermarket@Guntur, Fresheners & Repellents, Herbal Lizard Repellent - Non-Toxic, Herbal Strategi, 1, 200ml, 418
-supermarket@Guntur, Fresheners & Repellents, Original & Pure Naphthalene Balls - Anti-Moth, Pulp Wood, 2, 500g, 194.65, 200g, 84.15
-supermarket@Guntur, Fresheners & Repellents, Glass Cleaner Spray pack of 2, Pulp Wood, 1, 500ml, 288.8
-supermarket@Guntur, Fresheners & Repellents, Concentrated Air Freshener - Plant-Based, Born Good, 1, 100ml, 599
-supermarket@Guntur, Fresheners & Repellents, Moodtherapy Collection - Relax & Unwind-Lavender, Ambipur, 1, 180g, 698
-supermarket@Guntur, Fresheners & Repellents, Mosquito & Fly Killer Spray - Lime, HIT, 3, 400ml, 237.65, 700ml, 319.8, 200ml, 121.25
-supermarket@Guntur, Fresheners & Repellents, Bathroom Air Freshener Blocks Mixed Fragrance, Odonil, 2, 48g, 163.2, 72g, 263.5
-supermarket@Guntur, Fresheners & Repellents, Room Air Freshener Spray - Citrus Fresh, Odonil, 2, 150ml, 90, 220ml, 99.71
-supermarket@Guntur, Fresheners & Repellents, 2-In-1 Mosquito and Cockroach Killer Spray, Mortein, 2, 400ml, 193.5, 600ml, 277.88
-supermarket@Guntur, Fresheners & Repellents, Naphthalene - Refined Balls, Ultra, 3, 100g, 48, 200g, 90, 500g, 240
-supermarket@Guntur, Fresheners & Repellents, Max Cockroach Killer SprayDeep Reach Maxi Wand, Baygon, 2, 200ml, 115, 400ml, 210
-supermarket@Guntur, Fresheners & Repellents, Bathroom Air Freshener Blocks - Orchid Dew, Odonil, 2, 48g, 54.52, 72g, 84.6
-supermarket@Guntur, Fresheners & Repellents, Urinal Cake, Hi-Fresh, 1, 80g, 54
-supermarket@Guntur, Fresheners & Repellents, Fast Card - Mosquito Repellent Paper, Good knight, 1, 10pcs, 9.7
-supermarket@Guntur, Fresheners & Repellents, Bathroom Air Freshener Blocks - Jasmine Mist, Odonil, 2, 72g, 84.6, 48g, 49.3
-supermarket@Guntur, Fresheners & Repellents, Touch N Fresh Wild Lavender Refill, Glade, 1, 12ml, 95
-supermarket@Guntur, Fresheners & Repellents, Chalk For Cockroaches, Laxman Rekhaa, 1, 1pc, 16
-supermarket@Guntur, Fresheners & Repellents, Power Pocket - Long Lasting Bathroom Fragrance, Godrej Aer, 1, 10g, 57
-supermarket@Guntur, Fresheners & Repellents, Zipper Air Freshener - Blissful Citrus, Odonil, 1, 10g, 51
-supermarket@Guntur, Fresheners & Repellents, Freshmatic Automatic Air Freshener Spray Refill, Airwick, 1, 250ml, 297
-supermarket@Guntur, Fresheners & Repellents, Cockroach Vanisher, Exit No Entry, 1, 50g, 65
-supermarket@Guntur, Fresheners & Repellents, Glue Board To Trap Rats - Big, M Stick, 1, 1pc, 120
-supermarket@Guntur, Fresheners & Repellents, Touch N Fresh Lemon Refill, Glade, 1, 12ml, 95
-supermarket@Guntur, Fresheners & Repellents, One Touch Air Purifier Freshener, Odonil, 2, 1pc, 118.75, 12ml, 90.25
-supermarket@Guntur, Fresheners & Repellents, Cockroach Killer Spray with Deep Reach Nozzle, Mortein, 1, 425ml, 202.5
-supermarket@Guntur, Fresheners & Repellents, Room Freshening Gelz - Lavender & musk, Odonil,  1, 75g, 70.4
-supermarket@Guntur, Fresheners & Repellents, Ultra Mosquito Repellant - Starter Pack, All Out, 1, 45ml, 89
-supermarket@Guntur, Fresheners & Repellents, Bathroom Air Freshener - Zipper, Odonil, 1, 10g, 51
-supermarket@Guntur, Fresheners & Repellents, Chalk Cockroach Killer, HIT, 1, 1pc, 15.52
-supermarket@Guntur, Fresheners & Repellents, Naturals Mosquito Repellent Spray, Odomos, 1, 100ml, 125
-supermarket@Guntur, Fresheners & Repellents, spray - Home & Office Air Freshener, Godrej Aer, 1, 220ml, 145.34
-supermarket@Guntur, Fresheners & Repellents, PowerGard Rat Kill Cake, Mortein, 1, 25g, 51.2
-supermarket@Guntur, Fresheners & Repellents, Bathroom Air Freshener Blocks - Lavender Meadow, Odonil, 1, 72g, 84.6
-supermarket@Guntur, Fresheners & Repellents, Ultra Mosquito Repellant Combi Pack, All Out, 1, 3pcs, 155
-supermarket@Guntur, Fresheners & Repellents, Air Effects Air Freshener Spray, Ambipur, 1, 275g, 275.08
-supermarket@Guntur, Fresheners & Repellents, Max Mosquito & Fly Killer Spray Lime, Baygon, 1, 400ml, 210
-supermarket@Guntur, Fresheners & Repellents, Zipper Air Freshener - Joyful Lavender, Odonil, 1, 30g, 148.75
-supermarket@Guntur, Fresheners & Repellents, Freshmatic Air Freshener Refill, Airwick, 2, 250ml, 297, 500ml, 582.12
-supermarket@Guntur, Fresheners & Repellents, Touch & Fresh Air Freshener Refill, Glade, 1, 12ml, 95
-supermarket@Guntur, Fresheners & Repellents, Gold Flash Mosquito Repellent Refill, Good knight, 1, 45ml, 218
-supermarket@Guntur, Fresheners & Repellents, Cockroach Insect Repellent Spray, BB Home Herbal, 1, 100ml, 160
-supermarket@Guntur, Fresheners & Repellents, Nature Room Freshening Gel, Odonil, 1, 75g, 76
-supermarket@Guntur, Fresheners & Repellents, Spray - Premium Air Freshener, Godrej Aer, 2, 220ml, 171.14, 440ml, 199
-supermarket@Guntur, Fresheners & Repellents, Naturals Non-Sticky Mosquito Repellent Cream, Odomos, 1, 100g, 105
-supermarket@Guntur, Mops- Brushes & Scrubs, Spin Mop Bucket With 360 Degree Rotation & 2 Refills, BB Home, 1, 1pc, 699
-supermarket@Guntur, Mops- Brushes & Scrubs, Sponge Wipes for kitchen cleaning, Scotch brite, 2, 3pcs, 197, 1pc, 75
-supermarket@Guntur, Mops- Brushes & Scrubs, Natural Grass Broom/Phool Jhadu, BB Home, 1, 1pc, 199
-supermarket@Guntur, Mops- Brushes & Scrubs, Spin Mop Refill + Mop Stick, BB Home, 1, 1pc, 299
-supermarket@Guntur, Mops- Brushes & Scrubs, Safal Steel Scrubber, Exo, 1, 1pc, 15
-supermarket@Guntur, Mops- Brushes & Scrubs, Premium Soft Grass Broom/Phool Jhadu, BB Home, 1, 1pc, 149
-supermarket@Guntur, Mops- Brushes & Scrubs, Silver Sparks Scrub Pad- Scrubber for Utensil cleaning, Scotch brite, 3, 2pcs, 18, 3pcs, 38, 1pc, 15
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrub Sponge Utensil Sponge Scrubber for Dishwash cleaning, Scotch brite, 2, 1pc, 25, 2pc, 60
-supermarket@Guntur, Mops- Brushes & Scrubs, Floor Mop - High Quality Sturdy, Gala, 1, 1pc, 240
-supermarket@Guntur, Mops- Brushes & Scrubs, Sponge Wipes for Kitchen cleaning, Scotch brite, 1, 5pcs, 300
-supermarket@Guntur, Mops- Brushes & Scrubs, No Dust Broom XL, Gala, 1, 1pc, 159
-supermarket@Guntur, Mops- Brushes & Scrubs, Ultra-Scrubs - For Kitchen Surface, Hiclean, 1, 1pc, 40
-supermarket@Guntur, Mops- Brushes & Scrubs, Coconut Kitchen Scrubbers - Natural, Healthy You, 1, 1pc, 20
-supermarket@Guntur, Mops- Brushes & Scrubs, Shine Floor Wiper With Sharp Rubber Blades, Chakaachak, 1, 1pc, 375
-supermarket@Guntur, Mops- Brushes & Scrubs, Rotolite Spin Bucket Mop For Floor, Chakaachak, 1, 1pc, 1199
-supermarket@Guntur, Mops- Brushes & Scrubs, Multipurpose Reusable Sponge Wipes - Super Absorbent, Bear Grips, 1, 6pcs, 319
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrubber - Non Stick Care, Gala, 1, 10g, 39
-supermarket@Guntur, Mops- Brushes & Scrubs, Kingkong Grass Broom VF, Gala, 1, 1pc, 208
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen Towels-2ply, Origami, 1, 4rolls, 330
-supermarket@Guntur, Mops- Brushes & Scrubs, Steel Scrubber Combo, Scotch brite, 1, 3pcs, 41
-supermarket@Guntur, Mops- Brushes & Scrubs, Bathroom Scrubber Brush for tile and floor cleaning, Scotch brite, 1, 1pc, 130
-supermarket@Guntur, Mops- Brushes & Scrubs, No-Dust Premium Broom, Scotch brite, 1, 1pc, 270
-supermarket@Guntur, Mops- Brushes & Scrubs, Silicon Gloves - For Multipurpose Use, SE7EN, 1, 1pc, 299
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrub Sponge Utensil Sponge Scrubber, Scotch brite, 1, 3pcs, 70.5
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrubber - Sponge Wipe, Gala, 3, 1pc, 70, 3pcs, 185, 5pcs, 190
-supermarket@Guntur, Mops- Brushes & Scrubs, Steel Scrubber Combo, Scotch brite, 1, 9pcs, 120
-supermarket@Guntur, Mops- Brushes & Scrubs, Bathroom Squeegee Plastic Wiper for bathroom, Scotch brite, 1, 1pc, 360
-supermarket@Guntur, Mops- Brushes & Scrubs, Chakra Stainless Steel Scrubber, Scotch brite, 1, 1pc, 18
-supermarket@Guntur, Mops- Brushes & Scrubs, Spin Mop Microfibre Refill, BB Home, 1, 2pcs, 149
-supermarket@Guntur, Mops- Brushes & Scrubs, Eazo Grass Broom - Long Handle, Chakaachak, 1, 300g, 79
-supermarket@Guntur, Mops- Brushes & Scrubs, Super Scrub - Hard, Gala, 2, 1pc, 45, 2pcs, 85
-supermarket@Guntur, Mops- Brushes & Scrubs, Orbit Deck Mop - High Quality, Gala, 1, 1pc, 195
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrub Pad Scrubber for Utensil Cleaning, Scotch brite, 1, 5pcs, 66.5
-supermarket@Guntur, Mops- Brushes & Scrubs, Cleaning/Kitchen Duster, Rise N Shine, 1, 4pcs, 99
-supermarket@Guntur, Mops- Brushes & Scrubs, Classic Spin Mop With Wheels & 2 Refills, Milton - Spotzero, 1, 1pc, 999
-supermarket@Guntur, Mops- Brushes & Scrubs, Toilet Brush - Double Hockey, Gala, 1, 1pc, 159
-supermarket@Guntur, Mops- Brushes & Scrubs, T - Mop Refill, Gala, 1, 1pc, 150
-supermarket@Guntur, Mops- Brushes & Scrubs, Magix Bathroom Wiper With 3 Feet Rod, Magix, 1, 1pc, 139
-supermarket@Guntur, Mops- Brushes & Scrubs, Gold Grass Broom, Magix, 1, 1pc, 129
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen Gloves Medium, Scotch brite, 1, 1pc, 130
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen Gloves Large, Scotch brite, 1, 1pc, 130
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen Gloves Small, Scotch brite, 1, 1pc, 130
-supermarket@Guntur, Mops- Brushes & Scrubs, Premium Toilet Brush, Scotch brite, 1, 1pc, 560
-supermarket@Guntur, Mops- Brushes & Scrubs, Premium Toilet Brush with holder for bathroom cleaning, Scotch brite, 1, 1pc, 900
-supermarket@Guntur, Mops- Brushes & Scrubs, No Dust Broom - 3x Longlasting, Gala, 1, 1pc, 139
-supermarket@Guntur, Mops- Brushes & Scrubs, Wiper Double Lip (Multicolor), Gala, 1, 1pc, 240
-supermarket@Guntur, Mops- Brushes & Scrubs, Non Scratch Sponge, Scotch brite, 1, 1pc, 50
-supermarket@Guntur, Mops- Brushes & Scrubs, Brush - Brushtile Hardy, Gala, 1, 1pc, 315
-supermarket@Guntur, Mops- Brushes & Scrubs, Toilet Brush Round Holder, Scotch brite, 1, 1pc, 280
-supermarket@Guntur, Mops- Brushes & Scrubs, Microfiber Cleaning Cloth, Gala, 1, 4pcs, 289
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen/Hand Towel - Assorted Colour, Rise N Shine, 1, 3pcs, 99
-supermarket@Guntur, Mops- Brushes & Scrubs, Power Scrub scrubber for super clean kitchen surfaces, Scotch brite, 1, 1pc, 50
-supermarket@Guntur, Mops- Brushes & Scrubs, Plastic Broom, Gala, 1, 1pc, 175
-supermarket@Guntur, Mops- Brushes & Scrubs, Floor Wiper With Plastic Handle, Gala, 1, 1pc, 235
-supermarket@Guntur, Mops- Brushes & Scrubs, Jet Scrubber Brush for Bathroom Tile cleaning, Scotch brite, 1, 1pc, 150
-supermarket@Guntur, Mops- Brushes & Scrubs, T Mop - Microfibre Red & Grey, Liao, 1, 1pc, 499
-supermarket@Guntur, Mops- Brushes & Scrubs, Premium Kitchen Towel, Scotch brite, 1, 3pcs, 180
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrubber - with Long Handle, Gala, 1, 1pc, 195
-supermarket@Guntur, Mops- Brushes & Scrubs, Mopping Cloth - Big, Raju's Cloth, 1, 1pc, 84.15
-supermarket@Guntur, Mops- Brushes & Scrubs, Kitchen/Hand Towel - Checked Print, Rise N Shine, 1, 5pcs, 125
-supermarket@Guntur, Mops- Brushes & Scrubs, Broom & Mop - Multi Utility Holder, Liao, 1, 1pc, 349
-supermarket@Guntur, Mops- Brushes & Scrubs, Microfiber Kitchen Wipe Cleaning Cloth for Kitchen, Scotch brite, 1, 1pc, 189
-supermarket@Guntur, Mops- Brushes & Scrubs, Toilet Cleaning Brush - Round, Liao, 1, 1pc, 199
-supermarket@Guntur, Mops- Brushes & Scrubs, Scrub-Net Sponge, Scotch brite, 1, 1pc, 50
-supermarket@Guntur, Mops- Brushes & Scrubs, Sink Brush - Heavy Duty D130062, Liao, 1, 1pc, 99
-supermarket@Guntur, Mops- Brushes & Scrubs, Cotton Handle Mop Refill, Scotch brite, 1, 1pc, 275
-supermarket@Guntur, Mops- Brushes & Scrubs, Cotton Handle Mop for Floor Cleaning, Scotch brite, 1, 1pc, 359
+supermarket@Guntur, All Purpose Cleaners, Disinfectant Surface and Floor Cleaner Liquid Refill Pack - Floral, Lizol, 1, 1800ml, 352.5
+supermarket@Guntur, Fresheners and Repellents, Cockroach Killer Spray, HIT, 2, 200ml, 100, 400ml, 199
+supermarket@Guntur, Fresheners and Repellents, Power Pocket - Bathroom Air Fragrance, Godrej Aer, 2, 50g, 240, 30g, 154
+supermarket@Guntur, Fresheners and Repellents, Mosquito and Fly Killer Spray, HIT, 2, 400ml, 218.25, 200ml, 111.55
+supermarket@Guntur, Fresheners and Repellents, Anti-Roach Gel - Cockroach Killer, HIT, 1, 20g, 222
+supermarket@Guntur, Fresheners and Repellents, Ultra Mosquito Repellant Refill pack of 6, All Out, 1, 45ml, 384
+supermarket@Guntur, Fresheners and Repellents, Herbal Ant Repellent - Non-Toxic, Herbal Strategi, 1, 200ml, 418
+supermarket@Guntur, Fresheners and Repellents, Herbal Lizard Repellent - Non-Toxic, Herbal Strategi, 1, 200ml, 418
+supermarket@Guntur, Fresheners and Repellents, Original and Pure Naphthalene Balls - Anti-Moth, Pulp Wood, 2, 500g, 194.65, 200g, 84.15
+supermarket@Guntur, Fresheners and Repellents, Glass Cleaner Spray pack of 2, Pulp Wood, 1, 500ml, 288.8
+supermarket@Guntur, Fresheners and Repellents, Concentrated Air Freshener - Plant-Based, Born Good, 1, 100ml, 599
+supermarket@Guntur, Fresheners and Repellents, Moodtherapy Collection - Relax and Unwind-Lavender, Ambipur, 1, 180g, 698
+supermarket@Guntur, Fresheners and Repellents, Mosquito and Fly Killer Spray - Lime, HIT, 3, 400ml, 237.65, 700ml, 319.8, 200ml, 121.25
+supermarket@Guntur, Fresheners and Repellents, Bathroom Air Freshener Blocks Mixed Fragrance, Odonil, 2, 48g, 163.2, 72g, 263.5
+supermarket@Guntur, Fresheners and Repellents, Room Air Freshener Spray - Citrus Fresh, Odonil, 2, 150ml, 90, 220ml, 99.71
+supermarket@Guntur, Fresheners and Repellents, 2-In-1 Mosquito and Cockroach Killer Spray, Mortein, 2, 400ml, 193.5, 600ml, 277.88
+supermarket@Guntur, Fresheners and Repellents, Naphthalene - Refined Balls, Ultra, 3, 100g, 48, 200g, 90, 500g, 240
+supermarket@Guntur, Fresheners and Repellents, Max Cockroach Killer SprayDeep Reach Maxi Wand, Baygon, 2, 200ml, 115, 400ml, 210
+supermarket@Guntur, Fresheners and Repellents, Bathroom Air Freshener Blocks - Orchid Dew, Odonil, 2, 48g, 54.52, 72g, 84.6
+supermarket@Guntur, Fresheners and Repellents, Urinal Cake, Hi-Fresh, 1, 80g, 54
+supermarket@Guntur, Fresheners and Repellents, Fast Card - Mosquito Repellent Paper, Good knight, 1, 10pcs, 9.7
+supermarket@Guntur, Fresheners and Repellents, Bathroom Air Freshener Blocks - Jasmine Mist, Odonil, 2, 72g, 84.6, 48g, 49.3
+supermarket@Guntur, Fresheners and Repellents, Touch N Fresh Wild Lavender Refill, Glade, 1, 12ml, 95
+supermarket@Guntur, Fresheners and Repellents, Chalk For Cockroaches, Laxman Rekhaa, 1, 1pc, 16
+supermarket@Guntur, Fresheners and Repellents, Power Pocket - Long Lasting Bathroom Fragrance, Godrej Aer, 1, 10g, 57
+supermarket@Guntur, Fresheners and Repellents, Zipper Air Freshener - Blissful Citrus, Odonil, 1, 10g, 51
+supermarket@Guntur, Fresheners and Repellents, Freshmatic Automatic Air Freshener Spray Refill, Airwick, 1, 250ml, 297
+supermarket@Guntur, Fresheners and Repellents, Cockroach Vanisher, Exit No Entry, 1, 50g, 65
+supermarket@Guntur, Fresheners and Repellents, Glue Board To Trap Rats - Big, M Stick, 1, 1pc, 120
+supermarket@Guntur, Fresheners and Repellents, Touch N Fresh Lemon Refill, Glade, 1, 12ml, 95
+supermarket@Guntur, Fresheners and Repellents, One Touch Air Purifier Freshener, Odonil, 2, 1pc, 118.75, 12ml, 90.25
+supermarket@Guntur, Fresheners and Repellents, Cockroach Killer Spray with Deep Reach Nozzle, Mortein, 1, 425ml, 202.5
+supermarket@Guntur, Fresheners and Repellents, Room Freshening Gelz - Lavender and musk, Odonil,  1, 75g, 70.4
+supermarket@Guntur, Fresheners and Repellents, Ultra Mosquito Repellant - Starter Pack, All Out, 1, 45ml, 89
+supermarket@Guntur, Fresheners and Repellents, Bathroom Air Freshener - Zipper, Odonil, 1, 10g, 51
+supermarket@Guntur, Fresheners and Repellents, Chalk Cockroach Killer, HIT, 1, 1pc, 15.52
+supermarket@Guntur, Fresheners and Repellents, Naturals Mosquito Repellent Spray, Odomos, 1, 100ml, 125
+supermarket@Guntur, Fresheners and Repellents, spray - Home and Office Air Freshener, Godrej Aer, 1, 220ml, 145.34
+supermarket@Guntur, Fresheners and Repellents, PowerGard Rat Kill Cake, Mortein, 1, 25g, 51.2
+supermarket@Guntur, Fresheners and Repellents, Bathroom Air Freshener Blocks - Lavender Meadow, Odonil, 1, 72g, 84.6
+supermarket@Guntur, Fresheners and Repellents, Ultra Mosquito Repellant Combi Pack, All Out, 1, 3pcs, 155
+supermarket@Guntur, Fresheners and Repellents, Air Effects Air Freshener Spray, Ambipur, 1, 275g, 275.08
+supermarket@Guntur, Fresheners and Repellents, Max Mosquito and Fly Killer Spray Lime, Baygon, 1, 400ml, 210
+supermarket@Guntur, Fresheners and Repellents, Zipper Air Freshener - Joyful Lavender, Odonil, 1, 30g, 148.75
+supermarket@Guntur, Fresheners and Repellents, Freshmatic Air Freshener Refill, Airwick, 2, 250ml, 297, 500ml, 582.12
+supermarket@Guntur, Fresheners and Repellents, Touch and Fresh Air Freshener Refill, Glade, 1, 12ml, 95
+supermarket@Guntur, Fresheners and Repellents, Gold Flash Mosquito Repellent Refill, Good knight, 1, 45ml, 218
+supermarket@Guntur, Fresheners and Repellents, Cockroach Insect Repellent Spray, BB Home Herbal, 1, 100ml, 160
+supermarket@Guntur, Fresheners and Repellents, Nature Room Freshening Gel, Odonil, 1, 75g, 76
+supermarket@Guntur, Fresheners and Repellents, Spray - Premium Air Freshener, Godrej Aer, 2, 220ml, 171.14, 440ml, 199
+supermarket@Guntur, Fresheners and Repellents, Naturals Non-Sticky Mosquito Repellent Cream, Odomos, 1, 100g, 105
+supermarket@Guntur, Mops- Brushes and Scrubs, Spin Mop Bucket With 360 Degree Rotation and 2 Refills, BB Home, 1, 1pc, 699
+supermarket@Guntur, Mops- Brushes and Scrubs, Sponge Wipes for kitchen cleaning, Scotch brite, 2, 3pcs, 197, 1pc, 75
+supermarket@Guntur, Mops- Brushes and Scrubs, Natural Grass Broom/Phool Jhadu, BB Home, 1, 1pc, 199
+supermarket@Guntur, Mops- Brushes and Scrubs, Spin Mop Refill + Mop Stick, BB Home, 1, 1pc, 299
+supermarket@Guntur, Mops- Brushes and Scrubs, Safal Steel Scrubber, Exo, 1, 1pc, 15
+supermarket@Guntur, Mops- Brushes and Scrubs, Premium Soft Grass Broom/Phool Jhadu, BB Home, 1, 1pc, 149
+supermarket@Guntur, Mops- Brushes and Scrubs, Silver Sparks Scrub Pad- Scrubber for Utensil cleaning, Scotch brite, 3, 2pcs, 18, 3pcs, 38, 1pc, 15
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrub Sponge Utensil Sponge Scrubber for Dishwash cleaning, Scotch brite, 2, 1pc, 25, 2pc, 60
+supermarket@Guntur, Mops- Brushes and Scrubs, Floor Mop - High Quality Sturdy, Gala, 1, 1pc, 240
+supermarket@Guntur, Mops- Brushes and Scrubs, Sponge Wipes for Kitchen cleaning, Scotch brite, 1, 5pcs, 300
+supermarket@Guntur, Mops- Brushes and Scrubs, No Dust Broom XL, Gala, 1, 1pc, 159
+supermarket@Guntur, Mops- Brushes and Scrubs, Ultra-Scrubs - For Kitchen Surface, Hiclean, 1, 1pc, 40
+supermarket@Guntur, Mops- Brushes and Scrubs, Coconut Kitchen Scrubbers - Natural, Healthy You, 1, 1pc, 20
+supermarket@Guntur, Mops- Brushes and Scrubs, Shine Floor Wiper With Sharp Rubber Blades, Chakaachak, 1, 1pc, 375
+supermarket@Guntur, Mops- Brushes and Scrubs, Rotolite Spin Bucket Mop For Floor, Chakaachak, 1, 1pc, 1199
+supermarket@Guntur, Mops- Brushes and Scrubs, Multipurpose Reusable Sponge Wipes - Super Absorbent, Bear Grips, 1, 6pcs, 319
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrubber - Non Stick Care, Gala, 1, 10g, 39
+supermarket@Guntur, Mops- Brushes and Scrubs, Kingkong Grass Broom VF, Gala, 1, 1pc, 208
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen Towels-2ply, Origami, 1, 4rolls, 330
+supermarket@Guntur, Mops- Brushes and Scrubs, Steel Scrubber Combo, Scotch brite, 1, 3pcs, 41
+supermarket@Guntur, Mops- Brushes and Scrubs, Bathroom Scrubber Brush for tile and floor cleaning, Scotch brite, 1, 1pc, 130
+supermarket@Guntur, Mops- Brushes and Scrubs, No-Dust Premium Broom, Scotch brite, 1, 1pc, 270
+supermarket@Guntur, Mops- Brushes and Scrubs, Silicon Gloves - For Multipurpose Use, SE7EN, 1, 1pc, 299
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrub Sponge Utensil Sponge Scrubber, Scotch brite, 1, 3pcs, 70.5
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrubber - Sponge Wipe, Gala, 3, 1pc, 70, 3pcs, 185, 5pcs, 190
+supermarket@Guntur, Mops- Brushes and Scrubs, Steel Scrubber Combo, Scotch brite, 1, 9pcs, 120
+supermarket@Guntur, Mops- Brushes and Scrubs, Bathroom Squeegee Plastic Wiper for bathroom, Scotch brite, 1, 1pc, 360
+supermarket@Guntur, Mops- Brushes and Scrubs, Chakra Stainless Steel Scrubber, Scotch brite, 1, 1pc, 18
+supermarket@Guntur, Mops- Brushes and Scrubs, Spin Mop Microfibre Refill, BB Home, 1, 2pcs, 149
+supermarket@Guntur, Mops- Brushes and Scrubs, Eazo Grass Broom - Long Handle, Chakaachak, 1, 300g, 79
+supermarket@Guntur, Mops- Brushes and Scrubs, Super Scrub - Hard, Gala, 2, 1pc, 45, 2pcs, 85
+supermarket@Guntur, Mops- Brushes and Scrubs, Orbit Deck Mop - High Quality, Gala, 1, 1pc, 195
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrub Pad Scrubber for Utensil Cleaning, Scotch brite, 1, 5pcs, 66.5
+supermarket@Guntur, Mops- Brushes and Scrubs, Cleaning/Kitchen Duster, Rise N Shine, 1, 4pcs, 99
+supermarket@Guntur, Mops- Brushes and Scrubs, Classic Spin Mop With Wheels and 2 Refills, Milton - Spotzero, 1, 1pc, 999
+supermarket@Guntur, Mops- Brushes and Scrubs, Toilet Brush - Double Hockey, Gala, 1, 1pc, 159
+supermarket@Guntur, Mops- Brushes and Scrubs, T - Mop Refill, Gala, 1, 1pc, 150
+supermarket@Guntur, Mops- Brushes and Scrubs, Magix Bathroom Wiper With 3 Feet Rod, Magix, 1, 1pc, 139
+supermarket@Guntur, Mops- Brushes and Scrubs, Gold Grass Broom, Magix, 1, 1pc, 129
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen Gloves Medium, Scotch brite, 1, 1pc, 130
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen Gloves Large, Scotch brite, 1, 1pc, 130
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen Gloves Small, Scotch brite, 1, 1pc, 130
+supermarket@Guntur, Mops- Brushes and Scrubs, Premium Toilet Brush, Scotch brite, 1, 1pc, 560
+supermarket@Guntur, Mops- Brushes and Scrubs, Premium Toilet Brush with holder for bathroom cleaning, Scotch brite, 1, 1pc, 900
+supermarket@Guntur, Mops- Brushes and Scrubs, No Dust Broom - 3x Longlasting, Gala, 1, 1pc, 139
+supermarket@Guntur, Mops- Brushes and Scrubs, Wiper Double Lip (Multicolor), Gala, 1, 1pc, 240
+supermarket@Guntur, Mops- Brushes and Scrubs, Non Scratch Sponge, Scotch brite, 1, 1pc, 50
+supermarket@Guntur, Mops- Brushes and Scrubs, Brush - Brushtile Hardy, Gala, 1, 1pc, 315
+supermarket@Guntur, Mops- Brushes and Scrubs, Toilet Brush Round Holder, Scotch brite, 1, 1pc, 280
+supermarket@Guntur, Mops- Brushes and Scrubs, Microfiber Cleaning Cloth, Gala, 1, 4pcs, 289
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen/Hand Towel - Assorted Colour, Rise N Shine, 1, 3pcs, 99
+supermarket@Guntur, Mops- Brushes and Scrubs, Power Scrub scrubber for super clean kitchen surfaces, Scotch brite, 1, 1pc, 50
+supermarket@Guntur, Mops- Brushes and Scrubs, Plastic Broom, Gala, 1, 1pc, 175
+supermarket@Guntur, Mops- Brushes and Scrubs, Floor Wiper With Plastic Handle, Gala, 1, 1pc, 235
+supermarket@Guntur, Mops- Brushes and Scrubs, Jet Scrubber Brush for Bathroom Tile cleaning, Scotch brite, 1, 1pc, 150
+supermarket@Guntur, Mops- Brushes and Scrubs, T Mop - Microfibre Red and Grey, Liao, 1, 1pc, 499
+supermarket@Guntur, Mops- Brushes and Scrubs, Premium Kitchen Towel, Scotch brite, 1, 3pcs, 180
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrubber - with Long Handle, Gala, 1, 1pc, 195
+supermarket@Guntur, Mops- Brushes and Scrubs, Mopping Cloth - Big, Raju's Cloth, 1, 1pc, 84.15
+supermarket@Guntur, Mops- Brushes and Scrubs, Kitchen/Hand Towel - Checked Print, Rise N Shine, 1, 5pcs, 125
+supermarket@Guntur, Mops- Brushes and Scrubs, Broom and Mop - Multi Utility Holder, Liao, 1, 1pc, 349
+supermarket@Guntur, Mops- Brushes and Scrubs, Microfiber Kitchen Wipe Cleaning Cloth for Kitchen, Scotch brite, 1, 1pc, 189
+supermarket@Guntur, Mops- Brushes and Scrubs, Toilet Cleaning Brush - Round, Liao, 1, 1pc, 199
+supermarket@Guntur, Mops- Brushes and Scrubs, Scrub-Net Sponge, Scotch brite, 1, 1pc, 50
+supermarket@Guntur, Mops- Brushes and Scrubs, Sink Brush - Heavy Duty D130062, Liao, 1, 1pc, 99
+supermarket@Guntur, Mops- Brushes and Scrubs, Cotton Handle Mop Refill, Scotch brite, 1, 1pc, 275
+supermarket@Guntur, Mops- Brushes and Scrubs, Cotton Handle Mop for Floor Cleaning, Scotch brite, 1, 1pc, 359

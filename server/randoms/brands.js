@@ -16,8 +16,6 @@ let promise = new Promise((resolve, reject) => {
         doc.itemsList.forEach((item) => {
           if (brandsList.indexOf(item.itemBrand) === -1) {
             brandsList.push(item.itemBrand);
-          } else {
-            console.log(item.itemBrand);
           }
         });
       });

@@ -127,14 +127,14 @@ export default class FPA extends Component {
         viewComponent = (
           <div className="fpalistdiv">
             {this.state.fpaRequests.map((request, index) => (
-              <div
-                className="fpaRequest"
-                key={index}
-                onClick={() => {
-                  this.selectedFPA(index);
-                }}
-              >
-                <p>{request.requestName}</p>
+              <div className="fpaRequest" key={index}>
+                <p
+                  onClick={() => {
+                    this.selectedFPA(index);
+                  }}
+                >
+                  {request.requestName}
+                </p>
                 <div className="fpaInfoDiv">
                   <p>Status : {request.status}</p>
                   <button

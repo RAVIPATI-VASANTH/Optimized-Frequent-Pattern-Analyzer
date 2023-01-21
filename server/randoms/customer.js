@@ -38,7 +38,7 @@ promise
     let today = new Date("2022-01-01");
     for (var i = 1; i <= 365; i++) {
       // console.log(`Day ${i}`);
-      var noofCustomersInADay = randomInt(1000, 1200);
+      var noofCustomersInADay = randomInt(100, 125);
       for (var j = 1; j < noofCustomersInADay; j++) {
         // console.log(`Day ${i} customer${j} ${today.toString()}`);
         // console.log(allTransactions.length);
@@ -94,7 +94,7 @@ promise
         allTransactions.push({
           userId: "supermarket@Guntur",
           itemsList: finalItems,
-          timeStamp: today.toString(),
+          timeStamp: new Date(today),
         });
       }
       today.setDate(today.getDate() + 1);
@@ -102,11 +102,11 @@ promise
 
     console.log(allTransactions.length);
 
-    // const database = client.db("MBAProjectDatabase");
-    // const transactions = database.collection("transactions");
-    // allTransactions.forEach((transacion) => {
-    //   transactions.insertOne(transacion);
-    // });
+    const database = client.db("MBAProjectDatabase");
+    const transactions = database.collection("transactions");
+    allTransactions.forEach((transacion) => {
+      transactions.insertOne(transacion);
+    });
   })
   .catch((text) => {
     console.log(text);

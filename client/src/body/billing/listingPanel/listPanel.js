@@ -54,8 +54,7 @@ export default class ListPanel extends Component {
         quantity: item.quantity,
       });
     });
-    let date = new Date();
-    let timeStamp = date.toString();
+    let timeStamp = new Date();
     return {
       userId: this.props.currentUser,
       itemsList: l,
