@@ -17,7 +17,6 @@ const startFPARequest = async function (itemsBluePrint, userId) {
   //   ["I1", "I2", "I3", "I5"],
   //   ["I1", "I2", "I3"],
   // ];
-
   // let fpPromise = new Promise((resolve, reject) => {
   //   let fp = new FPGrowth(transactions, 2, 2);
   //   let cpb = fp.start();
@@ -26,7 +25,6 @@ const startFPARequest = async function (itemsBluePrint, userId) {
   //     resolve(fplist);
   //   });
   // });
-
   // let transactionPromise = new Promise((resolve, reject) => {
   //   let transactionMap = [];
   //   transactions.forEach((transaction) => {
@@ -38,13 +36,11 @@ const startFPARequest = async function (itemsBluePrint, userId) {
   //   });
   //   resolve(transactionMap);
   // });
-
   // let [fplist, transactionMap] = await Promise.all([
   //   fpPromise,
   //   transactionPromise,
   // ]);
-  // // console.log(fplist, transactionMap);
-
+  // console.log(fplist, transactionMap);
   // let fps = new FPS(fplist, transactionMap);
   // let associationRuleList = fps.start();
   // console.log(associationRuleList);
@@ -62,21 +58,6 @@ const startFPARequest = async function (itemsBluePrint, userId) {
         transactions.push(t);
       });
       transactionsList = null;
-      // transactions = [
-      //   ["I1", "I2", "I5"],
-      //   ["I2", "I4"],
-      //   ["I2", "I3"],
-      //   ["I1", "I2", "I4"],
-      //   ["I1", "I3"],
-      //   ["I2", "I3"],
-      //   ["I1", "I3"],
-      //   ["I1", "I2", "I3", "I5"],
-      //   ["I1", "I2", "I3"],
-      // ];
-      // // console.log(transactions);
-
-      // let fp = new FPGrowth(transactions);
-      // let cpb = fp.start();
 
       let fpPromise = new Promise((resolve, reject) => {
         let fp = new FPGrowth(transactions, 20, 20);
@@ -86,7 +67,6 @@ const startFPARequest = async function (itemsBluePrint, userId) {
           resolve(fplist);
         });
       });
-
       let transactionPromise = new Promise((resolve, reject) => {
         let transactionMap = [];
         transactions.forEach((transaction) => {
@@ -98,7 +78,6 @@ const startFPARequest = async function (itemsBluePrint, userId) {
         });
         resolve(transactionMap);
       });
-
       let [fplist, transactionMap] = await Promise.all([
         fpPromise,
         transactionPromise,

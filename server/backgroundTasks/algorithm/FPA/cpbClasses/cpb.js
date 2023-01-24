@@ -64,6 +64,9 @@ class CPB {
         this.combinedCPB[key][key1] = obj;
       }
     }
+    console.log(this.conditionPatternBase);
+    console.log("&&&&&&&&&&&&&&&&&&&&&&");
+    console.log(this.combinedCPB);
   }
 
   start() {
