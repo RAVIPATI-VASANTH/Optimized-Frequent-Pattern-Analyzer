@@ -77,7 +77,7 @@ class FPGrowth {
     cpb.start();
     // all data need to be is in this.conditionPatternBase
     // if we can change the minimumSupport then change it and call the this.combineCPB.
-    // cpb.combineCPB();
+    cpb.combineCPB();
     return cpb;
   }
 }
