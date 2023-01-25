@@ -1,8 +1,11 @@
 const fpTree = require("./fpTree/fptree");
+const CPB = require("./cpbClasses/cpb");
 
 class FPGrowth {
-  constructor(transactions) {
+  constructor(transactions, support, confidence) {
     this.transactions = transactions;
+    this.minimumSupport = support;
+    this.minimumConfidence = confidence;
     this.itemscount = {};
     this.itemsOrderOfOccurance = {};
   }
@@ -65,11 +68,17 @@ class FPGrowth {
     this.transactions.forEach((element) => {
       this.fpTree.insertTransaction(element);
     });
-
-    console.log(
-      this.fpTree.root.value,
-      Object.keys(this.fpTree.root.childMap).length
-    );
+    // console.log(
+    //   this.fpTree.root.value,
+    //   Object.keys(this.fpTree.root.childMap).length
+    // );
+    console.log("fp constructed");
+    let cpb = new CPB(this.fpTree, this.itemscount, this.minimumSupport);
+    cpb.start();
+    // all data need to be is in this.conditionPatternBase
+    // if we can change the minimumSupport then change it and call the this.combineCPB.
+    // cpb.combineCPB();
+    return cpb;
   }
 }
 

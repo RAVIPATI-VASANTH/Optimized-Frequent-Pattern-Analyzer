@@ -3,14 +3,14 @@ const { MongoClient } = require("mongodb");
 const uri = "mongodb://127.0.0.1:27017";
 
 const getFinalTransactions = (transactions, itemsBluePrint) => {
-  let finalTransactions = [];
-  let itemNamesInBluePrint = [];
+  var finalTransactions = [];
+  var itemNamesInBluePrint = [];
   itemsBluePrint.selectedList.items.forEach((item) => {
     itemNamesInBluePrint.push(item.itemName);
   });
   for (var i = 0; i < transactions.length; i++) {
     for (var j = 0; j < transactions[i].length; j++) {
-      let curItem = transactions[i][j];
+      var curItem = transactions[i][j];
       if (
         itemsBluePrint.selectedList.categories.indexOf(curItem.categoryName) >=
         0

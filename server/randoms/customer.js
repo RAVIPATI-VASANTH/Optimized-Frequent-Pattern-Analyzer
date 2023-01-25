@@ -36,6 +36,7 @@ promise
   .then((categories) => {
     let allTransactions = [];
     let today = new Date("2022-01-01");
+    var count = 0;
     for (var i = 1; i <= 365; i++) {
       // console.log(`Day ${i}`);
       var noofCustomersInADay = randomInt(100, 125);
@@ -45,12 +46,13 @@ promise
         var finalItems = [];
         var randomCategories = [];
         var dummycategories = [...categories];
-        var randomCategoriesCount = randomInt(1, categories.length);
+        var randomCategoriesCount = randomInt(1, 5);
         while (randomCategories.length != randomCategoriesCount) {
           var index = randomInt(0, dummycategories.length - 1);
           randomCategories.push(dummycategories[index]);
           dummycategories.splice(index, 1);
         }
+        // console.log(randomCategories.length);
         //going to each category randomly selected
         for (var k = 0; k < randomCategories.length; k++) {
           var category = randomCategories[k];
@@ -97,10 +99,12 @@ promise
           timeStamp: new Date(today),
         });
       }
+      console.log(`Day ${i} transactios length ${finalItems.length}`);
+      count += finalItems.length;
       today.setDate(today.getDate() + 1);
     }
 
-    console.log(allTransactions.length);
+    console.log(allTransactions.length, count);
 
     const database = client.db("MBAProjectDatabase");
     const transactions = database.collection("transactions");
