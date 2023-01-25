@@ -2,8 +2,12 @@
 1) Get all Items to DB
 2) Get all Brands from items                        [DONE]
 3) create Transaction's code and write in Database  [DONE]
-4) Define a the Path for FPA Start Now tags to start of Algorithm and Implement Algorithm new 
-5) Apply the algorithm to Transactions
+4) Define a the Path for FPA Start Now tags to start of Algorithm and Implement Algorithm new [DONE]
+5) Apply the algorithm to Transactions [DONE]
+    =>create the db status and architecture for fpa data 
+    =>think about how to present the data 
+    =>make support count fixed but confidence can be changed any time
+    =>
 6) Designing the output of The FPA in UI
 7) Implement the UI in Tool
 8) Documentation and PPT

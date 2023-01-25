@@ -60,7 +60,7 @@ const startFPARequest = async function (itemsBluePrint, userId) {
       transactionsList = null;
 
       let fpPromise = new Promise((resolve, reject) => {
-        let fp = new FPGrowth(transactions, 20, 20);
+        let fp = new FPGrowth(transactions, 50, 20);
         let cpb = fp.start();
         let enhance = new Enhance(cpb);
         enhance.start().then((fplist) => {
@@ -82,10 +82,17 @@ const startFPARequest = async function (itemsBluePrint, userId) {
         fpPromise,
         transactionPromise,
       ]);
+      // console.log(fplist);
       console.log("before fps");
       let fps = new FPS(fplist, transactionMap);
       let associationRuleList = fps.start();
-      console.log("association rules length", associationRuleList.length);
+      // console.log("association rules length", associationRuleList.slice(1, 50));
+      associationRuleList.forEach((rule) => {
+        if (rule.confidence > 50) {
+          console.log(rule);
+        }
+      });
+      console.log(associationRuleList.length);
     }
   );
 };

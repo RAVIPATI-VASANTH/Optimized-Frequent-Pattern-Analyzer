@@ -9,6 +9,7 @@ class Enhance {
 
   async start() {
     // console.log(Object.keys(this.cpb.conditionPatternBase).length);
+    console.log(this.cpb.minimumSupport, "minimum support");
     let promisesList = [];
     console.log("started");
     // console.log(this.cpb.conditionPatternBase);
@@ -16,7 +17,7 @@ class Enhance {
       var obj = {};
       obj[key] = {};
       var promise = new Promise((resolve, reject) => {
-        console.log("promise");
+        // console.log("promise");
         values.forEach((element) => {
           if (obj[key].hasOwnProperty(element.branchNumber)) {
             element.path.forEach((item) => {
@@ -65,7 +66,7 @@ class Enhance {
         }
 
         //merging the equal pattern sets
-        let dummy = {};
+        var dummy = {};
         for (let i = 0; i < patternList.length; i++) {
           let temp = patternList[i].patternSet;
           temp.sort();
@@ -79,13 +80,13 @@ class Enhance {
         patternList = [];
         Object.keys(dummy).forEach((key) => {
           let d = new FrequentPattern(key.split(","), dummy[key]);
-          patternList.push(d);
+          if (d.count >= this.cpb.minimumSupport) patternList.push(d);
         });
         resolve(patternList);
       });
       promisesList.push(promise);
     }
-    console.log("promise started");
+    // console.log("promise started");
     const result = await Promise.all(promisesList);
     // console.log(result);
     result.forEach((obj) => {

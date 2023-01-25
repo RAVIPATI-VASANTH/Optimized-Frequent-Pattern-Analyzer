@@ -23,51 +23,51 @@ class CPB {
     });
   }
 
-  combineCPB() {
-    this.combinedCPB = {};
-    //Combining the CPB
-    for (const [key, values] of Object.entries(this.conditionPatternBase)) {
-      this.combinedCPB[key] = {};
-      values.forEach((element) => {
-        if (this.combinedCPB[key].hasOwnProperty(element.branchNumber)) {
-          element.path.forEach((item) => {
-            if (
-              this.combinedCPB[key][element.branchNumber].hasOwnProperty(item)
-            ) {
-              this.combinedCPB[key][element.branchNumber][item] +=
-                element.count;
-            } else {
-              this.combinedCPB[key][element.branchNumber][item] = element.count;
-            }
-          });
-        } else {
-          let dummy = {};
-          element.path.forEach((item) => {
-            dummy[item] = element.count;
-          });
-          if (Object.keys(dummy).length !== 0)
-            this.combinedCPB[key][element.branchNumber] = dummy;
-        }
-      });
-    }
+  // combineCPB() {
+  //   this.combinedCPB = {};
+  //   //Combining the CPB
+  //   for (const [key, values] of Object.entries(this.conditionPatternBase)) {
+  //     this.combinedCPB[key] = {};
+  //     values.forEach((element) => {
+  //       if (this.combinedCPB[key].hasOwnProperty(element.branchNumber)) {
+  //         element.path.forEach((item) => {
+  //           if (
+  //             this.combinedCPB[key][element.branchNumber].hasOwnProperty(item)
+  //           ) {
+  //             this.combinedCPB[key][element.branchNumber][item] +=
+  //               element.count;
+  //           } else {
+  //             this.combinedCPB[key][element.branchNumber][item] = element.count;
+  //           }
+  //         });
+  //       } else {
+  //         let dummy = {};
+  //         element.path.forEach((item) => {
+  //           dummy[item] = element.count;
+  //         });
+  //         if (Object.keys(dummy).length !== 0)
+  //           this.combinedCPB[key][element.branchNumber] = dummy;
+  //       }
+  //     });
+  //   }
 
-    //Removing the CPM lessthan the Minimum Support
-    for (const [key, values] of Object.entries(this.combinedCPB)) {
-      for (const [key1, value1] of Object.entries(values)) {
-        // this.combinedCPB[key][key1] = {};
-        let obj = {};
-        Object.keys(value1).forEach((key2) => {
-          if (value1[key2] >= this.minimumSupport) {
-            obj[key2] = value1[key2];
-          }
-        });
-        this.combinedCPB[key][key1] = obj;
-      }
-    }
-    console.log(this.conditionPatternBase);
-    console.log("&&&&&&&&&&&&&&&&&&&&&&");
-    console.log(this.combinedCPB);
-  }
+  //   //Removing the CPM lessthan the Minimum Support
+  //   for (const [key, values] of Object.entries(this.combinedCPB)) {
+  //     for (const [key1, value1] of Object.entries(values)) {
+  //       // this.combinedCPB[key][key1] = {};
+  //       let obj = {};
+  //       Object.keys(value1).forEach((key2) => {
+  //         if (value1[key2] >= this.minimumSupport) {
+  //           obj[key2] = value1[key2];
+  //         }
+  //       });
+  //       this.combinedCPB[key][key1] = obj;
+  //     }
+  //   }
+  //   console.log(this.conditionPatternBase);
+  //   console.log("&&&&&&&&&&&&&&&&&&&&&&");
+  //   console.log(this.combinedCPB);
+  // }
 
   start() {
     //Generating Condition Pattern Base
@@ -83,6 +83,7 @@ class CPB {
       index += 1;
     });
 
+    console.log("cpb completed");
     // console.log(this.conditionPatternBase);
     // this.combineCPB();
 
