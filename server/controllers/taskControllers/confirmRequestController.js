@@ -1,5 +1,5 @@
 const startFPARequest = require("./../../backgroundTasks/startFPARequest");
-
+const updateRequestStatus = require("./../../backgroundTasks/updateRequestStatus");
 const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
@@ -9,9 +9,11 @@ const confirmRequestController = (req, res) => {
     const client = new MongoClient(uri);
     async function confirmRequest() {
       try {
+        let result = { fpa: { status: "Processing", arList: [] } };
         let request = {
           ...JSON.parse(req.query.request),
           userId: req.query.userId,
+          result: result,
         };
         const database = client.db("MBAProjectDatabase");
         const retailerRequests = database.collection("retailerRequests");
@@ -35,6 +37,12 @@ const confirmRequestController = (req, res) => {
         });
         promise.then();
       }
+      updateRequestStatus(
+        req.query.userId,
+        itemsBluePrint.requestName,
+        "ALL",
+        "Processing"
+      );
       res.json({ message: true });
     })
     .catch((err) => {

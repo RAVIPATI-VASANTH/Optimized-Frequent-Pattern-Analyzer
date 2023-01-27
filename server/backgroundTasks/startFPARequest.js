@@ -1,9 +1,10 @@
 const FPGrowth = require("./algorithm/FPA/fpGrowth");
-// const CPB = require("./algorithm/FPA/cpbClasses/cpb");
+const updateARList = require("./updateARList");
+const updateRequestStatus = require("./updateRequestStatus");
 const Enhance = require("./algorithm/FPA/enhacedClasses/enhance");
 const gettransactionsFromBluePrint = require("./gettransactionsFromBluePrint");
 const FPS = require("./algorithm/FPA/fpClasses/fps");
-
+const removeUnListedAR = require("./removeUnListedAR");
 const startFPARequest = async function (itemsBluePrint, userId) {
   // let transactions = [];
   // transactions = [
@@ -44,57 +45,80 @@ const startFPARequest = async function (itemsBluePrint, userId) {
   // let fps = new FPS(fplist, transactionMap);
   // let associationRuleList = fps.start();
   // console.log(associationRuleList);
-
-  gettransactionsFromBluePrint(itemsBluePrint, userId).then(
-    async (transactionsList) => {
-      console.log("trabsactions are processed");
-      //processing the transactions with only the itemNames only
-      var transactions = [];
-      transactionsList.forEach((transaction) => {
-        let t = [];
-        transaction.forEach((item) => {
-          t.push(item.itemName);
-        });
-        transactions.push(t);
-      });
-      transactionsList = null;
-
-      let fpPromise = new Promise((resolve, reject) => {
-        let fp = new FPGrowth(transactions, 50, 20);
-        let cpb = fp.start();
-        let enhance = new Enhance(cpb);
-        enhance.start().then((fplist) => {
-          resolve(fplist);
-        });
-      });
-      let transactionPromise = new Promise((resolve, reject) => {
-        let transactionMap = [];
-        transactions.forEach((transaction) => {
-          var obj = {};
+  try {
+    gettransactionsFromBluePrint(itemsBluePrint, userId).then(
+      async (transactionsList) => {
+        //processing the transactions with only the itemNames only
+        var transactions = [];
+        transactionsList.forEach((transaction) => {
+          let t = [];
           transaction.forEach((item) => {
-            obj[item] = true;
+            t.push(item.itemName);
           });
-          transactionMap.push(obj);
+          transactions.push(t);
         });
-        resolve(transactionMap);
-      });
-      let [fplist, transactionMap] = await Promise.all([
-        fpPromise,
-        transactionPromise,
-      ]);
-      // console.log(fplist);
-      console.log("before fps");
-      let fps = new FPS(fplist, transactionMap);
-      let associationRuleList = fps.start();
-      // console.log("association rules length", associationRuleList.slice(1, 50));
-      associationRuleList.forEach((rule) => {
-        if (rule.confidence > 50) {
-          console.log(rule);
-        }
-      });
-      console.log(associationRuleList.length);
-    }
-  );
+        transactionsList = null;
+
+        let fpPromise = new Promise((resolve, reject) => {
+          let fp = new FPGrowth(
+            transactions,
+            itemsBluePrint.minSupport,
+            itemsBluePrint.minConfidence
+          );
+          let cpb = fp.start();
+          let enhance = new Enhance(cpb);
+          enhance.start().then((fplist) => {
+            resolve(fplist);
+          });
+        });
+        let transactionPromise = new Promise((resolve, reject) => {
+          let transactionMap = [];
+          transactions.forEach((transaction) => {
+            var obj = {};
+            transaction.forEach((item) => {
+              obj[item] = true;
+            });
+            transactionMap.push(obj);
+          });
+          resolve(transactionMap);
+        });
+        let [fplist, transactionMap] = await Promise.all([
+          fpPromise,
+          transactionPromise,
+        ]);
+        let fps = new FPS(fplist, transactionMap);
+        let associationRuleList = fps.start();
+        associationRuleList = await removeUnListedAR(
+          itemsBluePrint,
+          associationRuleList
+        );
+        let arList = [];
+        associationRuleList.list.forEach((rule) => {
+          arList.push({
+            lhs: rule.LHS,
+            rhs: rule.RHS,
+            confidence: rule.confidence,
+          });
+        });
+        associationRuleList.list = arList;
+        updateARList(userId, itemsBluePrint.requestName, associationRuleList);
+        updateRequestStatus(
+          userId,
+          itemsBluePrint.requestName,
+          "FULL",
+          "Completed"
+        );
+      }
+    );
+  } catch (err) {
+    console.log(err, "heap errpr");
+    updateRequestStatus(
+      userId,
+      itemsBluePrint.requestName,
+      "FPA",
+      "Some thing went Wrong"
+    );
+  }
 };
 
 module.exports = startFPARequest;

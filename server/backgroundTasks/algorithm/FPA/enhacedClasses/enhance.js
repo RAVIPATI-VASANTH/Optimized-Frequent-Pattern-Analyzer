@@ -9,9 +9,7 @@ class Enhance {
 
   async start() {
     // console.log(Object.keys(this.cpb.conditionPatternBase).length);
-    console.log(this.cpb.minimumSupport, "minimum support");
     let promisesList = [];
-    console.log("started");
     // console.log(this.cpb.conditionPatternBase);
     for (const [key, values] of Object.entries(this.cpb.conditionPatternBase)) {
       var obj = {};
@@ -94,7 +92,6 @@ class Enhance {
       this.fpList = [...this.fpList, ...obj];
     });
     // console.log(this.combinedCPB);
-    console.log("fplist returned");
     return this.fpList;
   }
 }

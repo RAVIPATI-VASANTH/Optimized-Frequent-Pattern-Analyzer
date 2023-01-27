@@ -28,9 +28,7 @@ class FPGrowth {
 
   start() {
     // getting items counts of each unique item
-    // console.log(this.transactions);
     this.itemscount = this.getCountsOfItems();
-    console.log("items Counted");
     // Sorting the each transaction as the this.itemsCount
     this.transactions.forEach((transaction) => {
       for (var i = 0; i < transaction.length; i++) {
@@ -60,19 +58,12 @@ class FPGrowth {
       }
     });
 
-    console.log("sorting completed");
-
     //Creating FP Tree
     this.fpTree = new fpTree();
     this.fpTree.setItemsCount(this.itemscount);
     this.transactions.forEach((element) => {
       this.fpTree.insertTransaction(element);
     });
-    // console.log(
-    //   this.fpTree.root.value,
-    //   Object.keys(this.fpTree.root.childMap).length
-    // );
-    console.log("fp constructed");
     let cpb = new CPB(this.fpTree, this.itemscount, this.minimumSupport);
     cpb.start();
     // all data need to be is in this.conditionPatternBase

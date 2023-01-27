@@ -1,0 +1,213 @@
+supermarket@Guntur, Oils and Vinegar, Extra Virgin Olive Oil, BORGES, 3, 1l, 675, 5l, 2820, 2l, 1375
+supermarket@Guntur, Oils and Vinegar, Extra Virgin Olive Oil, Disano, 3, 500ml, 259, 5l, 3309.7, 250ml, 214.5
+supermarket@Guntur, Oils and Vinegar, Figaro Olive Oil- Pure Olive Oil- Ideal for Indian Dishes- Imported from Spain- 500ml Tin, Figaro, 5, 200ml, 290, 2l, 1799, 5l, 3899, 500ml, 473, 1l, 803
+supermarket@Guntur, Oils and Vinegar, Extra Virgin Olive Oil, Del Monte, 2, 1l, 799, 500ml, 689
+supermarket@Guntur, Oils and Vinegar, Figaro Olive Oil- Pure Olive Oil- Ideal for Indian Dishes, Figaro, 2, 250ml, 375, 1l, 1199
+supermarket@Guntur, Oils and Vinegar, Organic Apple Cider Vinegar with Mother, Bragg, 2, 946ml, 954, 473ml, 621
+supermarket@Guntur, Oils and Vinegar, Canola Oil, BORGES, 2, 1l, 297.6, 5l, 1402.3
+supermarket@Guntur, Oils and Vinegar, Original Extra Virgin Olive Oil, BORGES, 3, 1l, 728, 250ml, 290, 500ml, 475
+supermarket@Guntur, Oils and Vinegar, Extra Light Olive Oil, Disano, 4, 4l, 2436, 5l, 3021.9, 2l, 1218, 1l, 653.95
+supermarket@Guntur, Oils and Vinegar, Apple Cider Vinegar with Mother, GoodDiet, 1, 500ml, 185
+supermarket@Guntur, Oils and Vinegar, Olive Oil - Pure Classic, BORGES, 1, 1l, 715.5
+supermarket@Guntur, Oils and Vinegar, Pomace Olive Oil, La Espanola, 2, 5l, 1969, 1l, 446
+supermarket@Guntur, Oils and Vinegar, Bertolli Extra Light Tasting Olive Oil- Deep Frying- Neutral Taste-Deep Fry, Bertolli, 3, 500ml, 449, 1l, 825.41, 2l, 1349.55
+supermarket@Guntur, Oils and Vinegar, Olive Pomace Oil, Del Monte, 2, 1l, 579, 5l, 2399
+supermarket@Guntur, Oils and Vinegar, Extra Virgin Olive Oil, Del Monte, 1, 250ml, 289
+supermarket@Guntur, Oils and Vinegar, Olive Oil - Extra Light, Disano, 1, 2l, 1307.9
+supermarket@Guntur, Oils and Vinegar, Olive Oil - Pomace, Cesar, 2, 5l, 2101, 1l, 435
+supermarket@Guntur, Oils and Vinegar, Olive Oil For Indian Cooking - Frying and Baking, BORGES, 3, 2l, 1248, 1l, 655, 4l, 2496
+supermarket@Guntur, Oils and Vinegar, Organic Cold Pressed Coconut Oil, GoodDiet, 2, 500ml, 325, 250ml, 219
+supermarket@Guntur, Oils and Vinegar, Extra Light Olive Oil, Del Monte, 3, 1l, 789, 2l, 1299, 5l, 3159
+supermarket@Guntur, Oils and Vinegar, Cold Pressed Virgin Coconut Oil, Disano, 3, 250ml, 179, 500ml, 319, 1l, 569
+supermarket@Guntur, Oils and Vinegar, Olive Oil - Pure, Disano, 1, 1l, 743.6
+supermarket@Guntur, Oils and Vinegar, Cold Pressed Coconut Oil - Natural, Sahasthra, 1, 1l, 513
+supermarket@Guntur, Dairy and Cheese, Cheese Slices, The Laughing Cow, 3, 100g, 99, 200g, 85, 408g, 361.5
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Natural, Epigamia, 4, 400g, 153, 510g, 238.5, 340g, 180.2, 85g, 53
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Blueberry, Epigamia, 3, 510g, 220.5, 340g, 166.6, 85g, 49
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Alphonso, Epigamia, 3, 510g, 195.75, 340g, 147.9, 85g, 43.5
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Strawberry, Epigamia, 3, 510g, 238.5, 340g, 180.2, 85g, 53
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Vanilla Bean, Epigamia, 1, 85g, 55
+supermarket@Guntur, Dairy and Cheese, Creamy Cheese Triangles, The Laughing Cow, 2, 120g, 114.75, 240g, 260
+supermarket@Guntur, Dairy and Cheese, Organic Tofu - Soy Paneer, MOOZ, 1, 200g, 90
+supermarket@Guntur, Dairy and Cheese, Parmesan Cheese, Kodai Cheese, 1, 200g, 475
+supermarket@Guntur, Dairy and Cheese, Chocolate Milkshake, Epigamia, 2, 540ml, 105, 180ml, 35
+supermarket@Guntur, Dairy and Cheese, Vanilla Milkshake, Epigamia, 2, 540ml, 105, 180ml, 35
+supermarket@Guntur, Dairy and Cheese, Artisanal Curd, Epigamia, 1, 400g, 100
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Mixed Berry, Epigamia, 1, 120g, 80
+supermarket@Guntur, Dairy and Cheese, Strawberry Milkshake, Epigamia, 2, 180ml, 35, 540ml, 105
+supermarket@Guntur, Dairy and Cheese, Artisanal Mishti Doi, Epigamia, 1, 80g, 29
+supermarket@Guntur, Dairy and Cheese, Fetta Cheese, Dairy Craft, 1, 200g, 285
+supermarket@Guntur, Dairy and Cheese, Tofu - Soy Paneer, R K Soya, 1, 200g, 85
+supermarket@Guntur, Dairy and Cheese, Colby Cheddar Cheese, Kodai Cheese, 1, 200g, 375
+supermarket@Guntur, Dairy and Cheese, Organic Vegetable Tofu - Soy Paneer, MOOZ, 1, 200g, 100
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt Smoothie - Blueberry, Epigamia, 2, 540ml, 204, 180ml, 80
+supermarket@Guntur, Dairy and Cheese, Cheese Spread - Plain, The Laughing Cow, 2, 540ml, 247, 180ml, 130
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt Smoothie - Strawberry, Epigamia, 2, 540ml, 178.5, 180ml, 70
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt Smoothie - Alphonso Mango, Epigamia, 2, 540ml, 178.5, 180ml, 70
+supermarket@Guntur, Dairy and Cheese, Vanilla Ice Cream - With Pecan, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Half Baked Chocolate and Vanilla Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Waffle Cone Together Vanilla Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Cookies On Cookie Dough Non-Dairy Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Blondie Brownie Vanilla and Chocolate Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Coconutterly Caramel'd Non-Dairy Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Baked Alaska Vanilla Ice Cream - With Marshmallow Swirls, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Cookie Dough S'Wich Up Vanilla Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Netflix and Chill'd Peanut Butter Ice Cream, BEN and JERRY'S, 1, 465g, 1799
+supermarket@Guntur, Dairy and Cheese, Almond Original Milk - Unsweetened, Only Earth, 1, 1l, 330
+supermarket@Guntur, Dairy and Cheese, Cheese Cubes, The Laughing Cow, 5, 120g, 99, 400g, 294.5, 600g, 441.75, 200g, 155, 1000g, 736.25
+supermarket@Guntur, Dairy and Cheese, Burrata - Cream Filled Mozarella Cheese, MOOZ, 1, 125g, 250
+supermarket@Guntur, Dairy and Cheese, Processed Cheddar Cheese, Kraft, 1, 190g, 550
+supermarket@Guntur, Dairy and Cheese, Organic Masala Tofu - Soy Paneer, MOOZ, 1, 200g, 100
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt - Mango, Epigamia, 1, 120g, 75
+supermarket@Guntur, Dairy and Cheese, Greek Yogurt Smoothie - Mulberry, Epigamia, 1, 180ml, 70
+supermarket@Guntur, Dairy and Cheese, Premium Fresh Mozzarella Cheese, MOOZ, 1, 250g, 300
+supermarket@Guntur, Dairy and Cheese, Cheddar Cheese, Kodai Cheese, 1, 200g, 375
+supermarket@Guntur, Dairy and Cheese, Premium Traditional Greek Feta Cheese, MOOZ, 1, 200g, 320
+supermarket@Guntur, Dairy and Cheese, Organic Peanut Chilli Tofu - Soy Paneer, MOOZ, 1, 200g, 100
+supermarket@Guntur, Dairy and Cheese, Natural Cream Cheese, La Cremella, 1, 200g, 260
+supermarket@Guntur, Dairy and Cheese, Diet Cheddar Cheese, Kodai Cheese, 1, 200g, 375
+supermarket@Guntur, Dairy and Cheese, Mozzarella Cheese - Slab, Kodai Cheese, 1, 200g, 375
+supermarket@Guntur, Dairy and Cheese, Premium Bocconcini Cheese, MOOZ, 1, 200g, 250
+supermarket@Guntur, Dairy and Cheese, Goat Cheese, Kodai Cheese, 1, 200g, 475
+supermarket@Guntur, Dairy and Cheese, Chocolate Coated Ice Cream Bar - Chocolate, THE BROOKLYN CREAMERY, 1, 4pcs, 350
+supermarket@Guntur, Dairy and Cheese, Sour Cream, MOOZ, 1, 150g, 200
+supermarket@Guntur, Dairy and Cheese, Premium Ice Cream - Vanilla, London Dairy, 1, 500ml, 450
+supermarket@Guntur, Dairy and Cheese, Tasty Cheddar Cheese, Kodai Cheese, 1, 200g, 275
+supermarket@Guntur, Dairy and Cheese, White Butter - Unsalted Premium, MOOZ, 1, 150g, 180
+supermarket@Guntur, Dairy and Cheese, Edam Cheese, Kodai Cheese, 1, 200g, 405
+supermarket@Guntur, Dairy and Cheese, Smoked Tofu, MOOZ, 1, 90g, 50
+supermarket@Guntur, Dairy and Cheese, Cheese Block, The Laughing Cow, 3, 400g, 263.5, 800g, 500.65, 200g, 110.55
+supermarket@Guntur, Dairy and Cheese, Sour Cream, RRO DAIRY, 1, 200g, 275
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Penne Rigate, BORGES, 1, 500g, 143.52
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Fusill, BORGES, 1, 500g, 143.52
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Spaghetti, BORGES, 1, 500g, 128.57
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Spaghetti, HappyChef, 2, 1kg, 200.78, 500g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Farfalle, BORGES, 1, 500g, 143.52
+supermarket@Guntur, Pasta Soup and Noodles, Ramen Noodles - Hot Chicken Flavour 2X Spicy, Samyang, 1, 140g, 130
+supermarket@Guntur, Pasta Soup and Noodles, Veg Hakka Noodles, Kims, 2, 500g, 100, 1kg, 175
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Mini Penne Rigate, BORGES, 1, 350g, 70.4
+supermarket@Guntur, Pasta Soup and Noodles, 100% Durum Wheat Pasta - Macaroni, HappyChef, 1, 500g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Shin Ramyun 5-In-1 Noodle Soup - Gourmet Spicy, NONGSHIM, 1, 600g, 525
+supermarket@Guntur, Pasta Soup and Noodles, Oriental Instant Noodles - The Original Vegetable Flavour, Koka, 1, 85g, 50
+supermarket@Guntur, Pasta Soup and Noodles, Kimchi Ramyun Soup Noodle, NONGSHIM, 1, 120g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Tricolor Fusill, BORGES, 1, 500g, 136.11
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Penne Rigate, Disano, 2, 1kg, 454.72, 500g, 232
+supermarket@Guntur, Pasta Soup and Noodles, Rice Paper Round - 22 cm, REAL THAI, 1, 100g, 170
+supermarket@Guntur, Pasta Soup and Noodles, Instant Noodles - The Chicken Flavour, Koka, 1, 85g, 60
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Spaghetti, Del Monte, 2, 500g, 211.65, 1kg, 414.3
+supermarket@Guntur, Pasta Soup and Noodles, 2x Spicy Hot Chicken Flavor Ramen - Instant Stir-Fried Noodle, Buldak, 1, 140g, 650
+supermarket@Guntur, Pasta Soup and Noodles, Quinoa Pasta - Rich In Dietary Fibre, Nutriplate India, 1, 200g, 250
+supermarket@Guntur, Pasta Soup and Noodles, Shin Ramyun Stir Fry Noodles - Gourmet Spicy, NONGSHIM, 1, 655g, 365
+supermarket@Guntur, Pasta Soup and Noodles, Pastalicious Fusilli - 100% Durum Wheat Semolina, Disano, 1, 400g, 99
+supermarket@Guntur, Pasta Soup and Noodles, 3x Spicy Hot Chicken Flavor Ramen - Instant Stir-Fried Noodle, Buldak, 1, 140g, 750
+supermarket@Guntur, Pasta Soup and Noodles, Buldak Instant Noodles - Hot Chicken Flavour Ramen, Samyang, 1, 140g, 650
+supermarket@Guntur, Pasta Soup and Noodles, Whole Wheat Pasta - Penne Rigat, BORGES, 1, 500g, 164.03
+supermarket@Guntur, Pasta Soup and Noodles, Whole Wheat Atta Noodles, Kims, 2, 500g, 110, 1kg, 185
+supermarket@Guntur, Pasta Soup and Noodles, Ramen Noodles - Hot Chicken Flavour, Samyang, 1, 140g, 130
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Mini Fusilli, BORGES, 1, 350g, 70.4
+supermarket@Guntur, Pasta Soup and Noodles, Durum Wheat Pasta - Penne Rigate, Del Monte, 1, 500g, 211.65
+supermarket@Guntur, Pasta Soup and Noodles, 100% Durum Whole Wheat Pasta - Penne, HappyChef, 1, 500g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Pasta - Fusilli Whole Wheat, HappyChef, 2, 1kg, 200.78, 500g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Shin Red Super Spicy Noodles, NONGSHIM, 1, 120g, 109
+supermarket@Guntur, Pasta Soup and Noodles, Oriental Instant Noodles - Fried MI Goreng, Koka, 1, 85g, 60
+supermarket@Guntur, Pasta Soup and Noodles, Soon Veggie Ramyun Noodle Soup - Gourmet Mild, NONGSHIM, 1, 520g, 525
+supermarket@Guntur, Pasta Soup and Noodles, Pasta - Multi-Millet, HappyChef, 2, 500g, 149, 1kg, 267.01
+supermarket@Guntur, Pasta Soup and Noodles, 100% Durum Wheat Pasta - Penne Rigate, HappyChef, 1, 500g, 109
+supermarket@Guntur, Cereals and Breakfast, Muesli - Dark Chocolate and Cranberry, Yoga Bar, 3, 40g, 27, 400g, 299, 700g, 430
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar - Chocolate Chunk Nut, Yoga Bar, 2, 38g, 38, 380g, 360
+supermarket@Guntur, Cereals and Breakfast, Muesli - Fruits Nuts and Seeds, Yoga Bar, 3, 400g, 299, 700g, 454.09, 40g, 27.9
+supermarket@Guntur, Cereals and Breakfast, Breakfast Protein Bar - Almond Coconut, Yoga Bar, 2, 50g, 49, 300g, 290
+supermarket@Guntur, Cereals and Breakfast, 20g Whey Protein Bar - Kesar Almond Fudge, GoodDiet, 3, 65g, 109, 260g, 379.76, 130g, 199.03
+supermarket@Guntur, Cereals and Breakfast, 20g Whey Protein Bar - Coconut, GoodDiet, 3, 65g, 109, 260g, 379.76, 130g, 199.03
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar - Vanilla Almond Healthy Snack, Yoga Bar, 1, 38g, 38
+supermarket@Guntur, Cereals and Breakfast, Rolled Oats - Gluten Free, True Elements, 1, 1.2kg, 422.4
+supermarket@Guntur, Cereals and Breakfast, 20g Whey Protein Bar - Cranberry Orange, GoodDiet, 3, 65g, 109, 260g, 379.76, 130g, 199.03
+supermarket@Guntur, Cereals and Breakfast, 100% Rolled Oats - High In Fibre, Yoga Bar, 2, 400g, 179.1, 1.02kg, 338.1
+supermarket@Guntur, Cereals and Breakfast, Breakfast Protein Bars - Apple Cinnamon, Yoga Bar, 2, 50g, 278.4, 300g, 278.4
+supermarket@Guntur, Cereals and Breakfast, Protein Bars - Cranberry, The Whole Truth, 2, 52g, 83, 312g, 498
+supermarket@Guntur, Cereals and Breakfast, Super Oats - No Added Sugar, Yoga Bar, 2, 700g, 444.11, 400g, 299
+supermarket@Guntur, Cereals and Breakfast, 20g Whey Protein Bar - Double Chocolate Caramel, GoodDiet, 3, 65g, 109, 260g, 379.76, 130g, 199.03
+supermarket@Guntur, Cereals and Breakfast, Rolled Oats - Gluten Free -Graminway, Graminway, 1, 400g, 142.5
+supermarket@Guntur, Cereals and Breakfast, Jawar Flakes - Essential Vitamins and Antioxidants, Nutriplate India, 1, 500g, 250
+supermarket@Guntur, Cereals and Breakfast, Bajra Flakes - Rich In Micronutrients, Nutriplate India, 1, 500g, 250
+supermarket@Guntur, Cereals and Breakfast, Granola and Nutriseed Energy Balls - Healthy Snack, Nutriplate India, 1, 500g, 250
+supermarket@Guntur, Cereals and Breakfast, Breakfast Protein Bars - Apricot Fig Healthy Snack, Yoga Bar, 2, 50g, 49, 300g, 278.4
+supermarket@Guntur, Cereals and Breakfast, Oats - Rolled, By Nature, 2, 200g, 84.15, 500g, 161.5
+supermarket@Guntur, Cereals and Breakfast, Breakfast Protein Bars - Blueberry Pie, Yoga Bar, 2, 50g, 49, 300g, 278.4
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar Cinnamon and Apple, GoodDiet, 2, 38g, 29, 76g, 49.01
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar Chocolate Chunk Vanilla, GoodDiet, 2, 38g, 29, 76g, 49.01
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar - Nuts and Seeds, Yoga Bar, 1, 38g, 38
+supermarket@Guntur, Cereals and Breakfast, Breakfast Protein Bars - Assorted Healthy Snack, Yoga Bar, 1, 300g, 278.4
+supermarket@Guntur, Cereals and Breakfast, Protein Bars - Coconut Cocoa, The Whole Truth, 2, 52g, 83, 312g, 498
+supermarket@Guntur, Cereals and Breakfast, 20g Protein Bars - Assorted No Added Sugar, Yoga Bar, 1, 420g, 704.06
+supermarket@Guntur, Cereals and Breakfast, Multigrain Energy Bar Blueberry Delight, GoodDiet, 2, 38g, 29, 76g, 49.01
+supermarket@Guntur, Cereals and Breakfast, Oats - Dark Chocolate Healthy High In Fibre, Yoga Bar, 2, 400g, 198, 1kg, 499.59
+supermarket@Guntur, Cereals and Breakfast, Healthy Snack - Choco Almond + Protein, Mojo Bar, 1, 32g, 45
+supermarket@Guntur, Cooking and Baking Needs, Coconut Milk - UHT Classic, Kara, 1, 200ml, 75
+supermarket@Guntur, Cooking and Baking Needs, Hommade - Coconut Milk, Dabur, 3, 600ml, 196.5, 200ml, 65.5, 400ml, 131
+supermarket@Guntur, Cooking and Baking Needs, Cocoa Powder, Hersheys, 1, 255g, 256.5
+supermarket@Guntur, Cooking and Baking Needs, Coconut Milk - 17-19%, REAL THAI, 1, 400ml, 209
+supermarket@Guntur, Cooking and Baking Needs, Sabudana, Nonandrai Bholanath, 1, 500g, 120
+supermarket@Guntur, Cooking and Baking Needs, Flax Seed Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Chia Sesame Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Moringa Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Curry Leaf Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Chana Dal Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Idly Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Andhra Style Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Garlic Chutney Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Calcium Lactate Powder, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Drinking Chocolate - 100% Natural, Rage Coffee, 1, 100g, 263.2
+supermarket@Guntur, Cooking and Baking Needs, Spanish Saffron - 100% Pure, MURANO, 1, 1g, 500
+supermarket@Guntur, Cooking and Baking Needs, Crushed Tomatoes - With Basil and Oregano, Spc, 1, 400g, 275
+supermarket@Guntur, Cooking and Baking Needs, Gulab Jamun - Dessert Mix, Puramate, 1, 175g, 130
+supermarket@Guntur, Cooking and Baking Needs, Guar Gum Powder - Natural Gluten Free Food Thickener, Flavour Drum, 1, 250g, 170
+supermarket@Guntur, Cooking and Baking Needs, Soya Lecithin Powder - Used As Natural Thickener In Sauces, Flavour Drum, 1, 200g, 382.5
+supermarket@Guntur, Cooking and Baking Needs, Oats Flour - High Fibre, True Elements, 1, 1kg, 300
+supermarket@Guntur, Cooking and Baking Needs, Jowar Atta/ Sorghum - High In Dietary Fibre, True Elements, 1, 1kg, 200
+supermarket@Guntur, Cooking and Baking Needs, Bajra Atta/Pearl Millet - High Fibre, True Elements, 1, 1kg, 200
+supermarket@Guntur, Cooking and Baking Needs, Ragi Atta/ Finger Millet - High Fibre, True Elements, 1, 1kg, 150
+supermarket@Guntur, Cooking and Baking Needs, Quinoa Flour - Rich In Dietary Fibre, True Elements, 1, 1kg, 720
+supermarket@Guntur, Cooking and Baking Needs, Peanut Chutney Powder - Adds Flavour, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Chia Seeds Chutney Powder - Adds Flavour, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Soya Lecithin Liquid, Flavour Drum, 1, 200g, 212.5
+supermarket@Guntur, Cooking and Baking Needs, Almond Flour Mix - Gluten Free Low GI Diabetic Friendly, Sugar Watchers, 1, 200g, 170
+supermarket@Guntur, Cooking and Baking Needs, Multi Millet idli mix - Super Soft, Auric, 1, 200g, 150
+supermarket@Guntur, Cooking and Baking Needs, Millet Low GI Instant Khichdi Mix - Diabetic Friendly, Sugar Watchers, 1, 150g, 127.5
+supermarket@Guntur, Cooking and Baking Needs, Millet Low GI Bese Bele Bath Mix - Diabetic Friendly, Sugar Watchers, 1, 150g, 127.5
+supermarket@Guntur, Cooking and Baking Needs, Multi Millet Dosa Mix - Rich In Protein and Calcium, Auric, 1, 200g, 150
+supermarket@Guntur, Cooking and Baking Needs, Rajgira Ke Atta - Gluten Free, Graminway, 1, 450g, 99
+supermarket@Guntur, Tinned and Processed Food, Beanz - Baked Beans In Tomato Sauce, Heinz, 1, 415, 150
+supermarket@Guntur, Tinned and Processed Food, Sliced Jalapenos, HappyChef, 1, 350g, 135
+supermarket@Guntur, Tinned and Processed Food, Chickpeas, HappyChef, 1, 450g, 95
+supermarket@Guntur, Tinned and Processed Food, Premium Grated Coconut, Sampige, 1, 200g, 70
+supermarket@Guntur, Tinned and Processed Food, Pitted Green Olives, HappyChef, 1, 360g, 185
+supermarket@Guntur, Tinned and Processed Food, Urad Dal - Split, Sri Sri Tattva, 1, 1kg, 166.5
+supermarket@Guntur, Tinned and Processed Food, Split Pigeon Pea Toor Dal - Rich In Protein and Folic Acid, Sri Sri Tattva, 1, 1kg, 162
+supermarket@Guntur, Tinned and Processed Food, Crushed Tomatoes - 100% Aussie Grown, Spc, 1, 410g, 275
+supermarket@Guntur, Tinned and Processed Food, Sliced Black Olives, HappyChef, 1, 220ml, 155
+supermarket@Guntur, Tinned and Processed Food, Pitted Black Olives, HappyChef, 1, 220ml, 155
+supermarket@Guntur, Tinned and Processed Food, Baked Beans In Rich Tomato Sauce, HappyChef, 1, 450g, 125
+supermarket@Guntur, Tinned and Processed Food, Olives - Green Pitted, BORGES, 1, 285g, 202.5
+supermarket@Guntur, Tinned and Processed Food, Olives - Green Pitted - Figaro, Figaro, 1, 420g, 229
+supermarket@Guntur, Tinned and Processed Food, Olives - Black Sliced, Figaro, 1, 450g, 229
+supermarket@Guntur, Tinned and Processed Food, Olives - Black Pitted, Figaro, 1, 420g, 249
+supermarket@Guntur, Tinned and Processed Food, Slice Jalapenos Slice, Habit, 1, 680g, 180
+supermarket@Guntur, Tinned and Processed Food, Plain Green Olives, Figaro, 1, 450g, 229
+supermarket@Guntur, Tinned and Processed Food, Sliced Cucumber Burger Chips, HappyChef, 1, 350g, 95
+supermarket@Guntur, Tinned and Processed Food, Soya Veg Chaap, Organic Nation, 1, 850g, 261.75
+supermarket@Guntur, Tinned and Processed Food, Pure Olive Oil - Classic, BORGES, 1, 2l, 1404
+supermarket@Guntur, Tinned and Processed Food, Gherkins - Whole, Neo, 1, 480g, 144
+supermarket@Guntur, Tinned and Processed Food, Sliced Red Paprika, HappyChef, 1, 350g, 105
+supermarket@Guntur, Tinned and Processed Food, Fiesta - Fruit Cocktail, Del Monte, 2, 850g, 270, 439g, 165
+supermarket@Guntur, Tinned and Processed Food, Shittake Mushroom, Abbies, 1, 100g, 337.5
+supermarket@Guntur, Tinned and Processed Food, Baked Beans In Tomato Sauce, Neo, 1, 450g, 126
+supermarket@Guntur, Tinned and Processed Food, Refried Beans - Fat Free, Old El Paso, 1, 453g, 450
+supermarket@Guntur, Tinned and Processed Food, Burger Chips - Sliced Gherkins, Neo, 1, 350g, 135
+supermarket@Guntur, Tinned and Processed Food, Pizza Topping, HappyChef, 1, 350g, 135
+supermarket@Guntur, Tinned and Processed Food, Foul Mudammas - Grade A, American Garden, 1, 400g, 149
+supermarket@Guntur, Tinned and Processed Food, Bacon Bits Luncheon Ham - Protein Rich, KELLY'S, 1, 100g, 180
+supermarket@Guntur, Tinned and Processed Food, Kimchi - Cabbage and Carrot Tangy and Sour Condiment, Neo, 1, 460g, 371.25
+supermarket@Guntur, Tinned and Processed Food, Olives Pitted - Green, American Garden, 1, 450g, 250
+supermarket@Guntur, Tinned and Processed Food, Spanish Olives - Pitted Black, Fragata, 1, 440g, 295
+supermarket@Guntur, Tinned and Processed Food, Hot and Sweet Relish, HappyChef, 1, 340g, 105
