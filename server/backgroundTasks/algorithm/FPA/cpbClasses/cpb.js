@@ -83,7 +83,6 @@ class CPB {
       index += 1;
     });
 
-    console.log("cpb completed");
     // console.log(this.conditionPatternBase);
     // this.combineCPB();
 

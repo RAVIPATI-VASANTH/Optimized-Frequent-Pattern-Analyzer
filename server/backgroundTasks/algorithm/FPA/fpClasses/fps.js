@@ -36,11 +36,9 @@ class FPS {
   }
 
   start() {
-    console.log("fps started");
     let associationRuleList = [];
-    console.log(this.fplist.length);
+    let v = 0;
     this.fplist.forEach((fp) => {
-      // console.log("fp");
       let allSubsets = this.getAllSubsets(fp.patternSet);
       allSubsets.forEach((subset) => {
         if (subset.length !== 0) {
@@ -60,7 +58,6 @@ class FPS {
         }
       });
     });
-    console.log("AR returned");
     return associationRuleList;
   }
 }

@@ -68,7 +68,7 @@ const gettransactionsFromBluePrint = async (itemsBluePrint, userId) => {
           transactionsList = getFinalTransactions(t, itemsBluePrint);
         } else if (itemsBluePrint.date.to) {
           //to date
-          console.log("to date");
+          // console.log("to date");
           let to = new Date(itemsBluePrint.date.to);
           let cursor = transactions.find({
             userId: userId,
@@ -81,7 +81,7 @@ const gettransactionsFromBluePrint = async (itemsBluePrint, userId) => {
           transactionsList = getFinalTransactions(t, itemsBluePrint);
         } else {
           //No to date and No from date
-          console.log("no date");
+          // console.log("no date");
           let cursor = transactions.find({
             userId: userId,
           });
