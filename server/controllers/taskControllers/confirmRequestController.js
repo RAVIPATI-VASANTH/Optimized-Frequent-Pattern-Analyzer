@@ -9,7 +9,10 @@ const confirmRequestController = (req, res) => {
     const client = new MongoClient(uri);
     async function confirmRequest() {
       try {
-        let result = { fpa: { status: "Processing", arList: [] } };
+        let result = {
+          fpa: { status: "Processing", arList: [] },
+          brands: { status: "Processing", brandsList: [] },
+        };
         let request = {
           ...JSON.parse(req.query.request),
           userId: req.query.userId,

@@ -27,12 +27,13 @@ const getFPARequestsController = (req, res) => {
         );
         await cursor.forEach((document) => {
           fpaRequests.push({
+            userId: req.query.userId,
             requestName: document.requestName,
             status: document.status,
-            minSupport: document.minSupport,
-            minConfidence: document.minConfidence,
+            // minSupport: document.minSupport,
+            // minConfidence: document.minConfidence,
             discountStatus: document.discountStatus,
-            selectedList: document.selectedList,
+            // selectedList: document.selectedList,
           });
         });
         await client.close();

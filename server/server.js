@@ -19,6 +19,7 @@ const getCategoryItemsRouter = require("./routers/taskRouters/getCategoryItemsRo
 const getBrandItemsRouter = require("./routers/taskRouters/getBrandItemsRouter");
 const confirmRequestRouter = require("./routers/taskRouters/confirmRequestRouter");
 const cancelFPARequestRouter = require("./routers/taskRouters/cancelFPARequestRouter");
+const getFPARequestInfoRouter = require("./routers/taskRouters/getFPARequestInfoRouter.js");
 
 const cors = require("cors");
 const corsOptions = {
@@ -47,5 +48,6 @@ server.use(getCategoryItemsRouter);
 server.use(getBrandItemsRouter);
 server.use(confirmRequestRouter);
 server.use(cancelFPARequestRouter);
+server.use(getFPARequestInfoRouter);
 
 server.listen(5000, console.log("server started"));

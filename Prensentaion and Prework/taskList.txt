@@ -22,7 +22,7 @@
 
 #Getting Brand Usage over Others
     =>gather all items of request
-    =>gether all the brands 
+    =>gather all the brands 
     =>classify the brands which are in same category
     =>now find the probabilities of each brands in each category and display them
 
