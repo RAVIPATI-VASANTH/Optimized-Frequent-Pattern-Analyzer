@@ -1,31 +1,29 @@
 import React, { Component } from "react";
+import FpaInfoPanel from "./subPanels/fpaInfoPanel";
+import BrandInfoPanel from "./subPanels/brandInfoPanel";
+import FpaInfo from "./subPanels/fpaInfo";
 
 export default class FPARequest extends Component {
   constructor(props) {
     super(props);
     this.state = {
       request: {},
+      panel: 0,
     };
   }
 
-  componentDidMount() {
-    fetch(
-      `http://127.0.0.1:5000/getFPARequestInfo?userId=${this.props.fpaActive.userId}&requestName=${this.props.fpaActive.requestName}`,
-      { method: "POST" }
-    ).then((res) =>
-      res.json().then((res) => {
-        if (res.message) {
-          console.log(res.request);
-        } else {
-          console.log(res.text);
-        }
-      })
-    );
-  }
-
-  // componentDidUpdate() {}
-
   render() {
+    let analysisView;
+    if (this.state.panel === 0) {
+      analysisView = <FpaInfo fpaActive={this.props.fpaActive}></FpaInfo>;
+    } else if (this.state.panel === 1)
+      analysisView = (
+        <FpaInfoPanel fpaActive={this.props.fpaActive}></FpaInfoPanel>
+      );
+    else if (this.state.panel === 2)
+      analysisView = (
+        <BrandInfoPanel fpaActive={this.props.fpaActive}></BrandInfoPanel>
+      );
     return (
       <div>
         <div className="infoBar">
@@ -39,10 +37,14 @@ export default class FPARequest extends Component {
             Back
           </button>
         </div>
-        <div className="fpaInfoDiv">FPA</div>
-        <div className="timelineInfoDiv">TimeLines</div>
-        <div className="discountInfoDiv">Discount</div>
-        <div className="brandInfoDiv">Brand Status</div>
+        <div className="selectionBar">
+          <button onClick={() => this.setState({ panel: 0 })}>Info</button>
+          <button onClick={() => this.setState({ panel: 1 })}>FP - Sets</button>
+          <button onClick={() => this.setState({ panel: 2 })}>
+            Brand Analysis
+          </button>
+        </div>
+        <div className="analysisView">{analysisView}</div>
       </div>
     );
   }

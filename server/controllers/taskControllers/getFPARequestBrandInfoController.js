@@ -2,13 +2,11 @@ const { MongoClient } = require("mongodb");
 
 const uri = "mongodb://127.0.0.1:27017";
 
-const getFPARequestInfoController = (req, res) => {
+const getFPARequestBrandInfoController = (req, res) => {
   let promise = new Promise((resolve, reject) => {
     const client = new MongoClient(uri);
 
-    async function getFPARequestInfo() {
-      // console.log("he");
-      // req = JSON.parse(req.query);
+    async function getFPARequestBrandInfo() {
       try {
         let request = {};
         // console.log(req.query);
@@ -21,12 +19,12 @@ const getFPARequestInfoController = (req, res) => {
         request = { ...cursor };
         const { result, ...newRequest } = request;
         await client.close();
-        resolve(result.fpa);
+        resolve(result.brands);
       } finally {
       }
     }
 
-    getFPARequestInfo().catch((err) => {
+    getFPARequestBrandInfo().catch((err) => {
       console.dir;
       console.log(err);
       reject(err);
@@ -34,11 +32,11 @@ const getFPARequestInfoController = (req, res) => {
   });
   promise
     .then((request) => {
-      res.json({ message: true, fpaInfo: request });
+      res.json({ message: true, brandsInfo: request });
     })
     .catch((text) => {
       res.json({ message: false, text: text });
     });
 };
 
-module.exports = getFPARequestInfoController;
+module.exports = getFPARequestBrandInfoController;
