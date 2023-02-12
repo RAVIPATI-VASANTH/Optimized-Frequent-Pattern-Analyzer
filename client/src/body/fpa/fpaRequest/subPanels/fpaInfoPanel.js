@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+import "./../../../../css/fpaInfoPanel.css";
+//note sone css sre taken directly from other files with out import
 
 export default class FpaInfoPanel extends Component {
   constructor(props) {
@@ -10,6 +12,7 @@ export default class FpaInfoPanel extends Component {
       list: [],
       displayList: [],
       signal: false,
+      sortOrder: 1,
     };
   }
 
@@ -24,9 +27,38 @@ export default class FpaInfoPanel extends Component {
           l.push(arRule);
       });
     }
-    this.setState({
-      displayList: l,
-    });
+    this.setState(
+      {
+        displayList: l,
+      },
+      this.sortARList()
+    );
+  }
+
+  compareAR(ar1, ar2) {
+    if (ar1.confidence < ar2.confidence) {
+      return -1;
+    }
+    if (ar1.confidence < ar2.confidence) {
+      return 1;
+    }
+    return 0;
+  }
+
+  sortARList() {
+    let l = this.state.displayList;
+    l.sort(this.compareAR);
+    if (this.state.sortOrder === 1) {
+      this.setState({
+        displayList: l,
+        sortOrder: 0,
+      });
+    } else {
+      this.setState({
+        displayList: l.reverse(),
+        sortOrder: 1,
+      });
+    }
   }
 
   componentDidMount() {
@@ -54,27 +86,36 @@ export default class FpaInfoPanel extends Component {
   }
 
   render() {
-    let displayList;
+    let displayList = <></>;
     displayList = (
-      <div>
+      <div className="listedSelectedItems">
         {this.state.displayList.map((ar) => (
-          <div>
-            <p>{ar.lhs.toString()}</p>
-            <p>{ar.rhs.toString()}</p>
-            <p>{ar.confidence}</p>
+          <div className="eachAR">
+            <p className="lrhs">
+              {ar.lhs.map((item) => (
+                <p className="itemNameInfoPanel">{item}</p>
+              ))}
+            </p>
+            <p className="lrhs">
+              {ar.rhs.map((item) => (
+                <p className="itemNameInfoPanel">{item}</p>
+              ))}
+            </p>
+            <p className="confidenceDisplay">{ar.confidence}</p>
           </div>
         ))}
       </div>
     );
 
     return (
-      <div>
-        <div>
-          <p>Status : {this.state.status}</p>
-          <div>
-            <p>Confidence</p>
-            <label>min</label>
+      <div className="fpaInfoARPanel">
+        <div className="infoTags">
+          <p className="infoBarLabels">Status : {this.state.status}</p>
+          <div className="confidenceDiv">
+            <p className="infoBarLabels">Confidence</p>
+            <label className="infoBarLabels">min</label>
             <input
+              className="rangeInput"
               type="number"
               value={this.state.min}
               onChange={(event) => {
@@ -83,8 +124,9 @@ export default class FpaInfoPanel extends Component {
                 });
               }}
             />
-            <label>max</label>
+            <label className="infoBarLabels">max</label>
             <input
+              className="rangeInput"
               type="number"
               value={this.state.max}
               onChange={(event) => {
@@ -93,11 +135,18 @@ export default class FpaInfoPanel extends Component {
                 });
               }}
             />
-            <button onClick={() => this.updateARList()}>apply</button>
-            <p>results in range : {this.state.displayList.length}</p>
+            <button className="applyButton" onClick={() => this.updateARList()}>
+              apply
+            </button>
+            <button className="applyButton" onClick={() => this.sortARList()}>
+              sort
+            </button>
           </div>
+          <p className="infoBarLabels">
+            results in range : {this.state.displayList.length}
+          </p>
         </div>
-        <>{displayList}</>
+        {displayList}
       </div>
     );
   }

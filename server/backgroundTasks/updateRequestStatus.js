@@ -15,6 +15,11 @@ const updateRequestStatus = async (userId, requestName, type, message) => {
       { userId: userId, requestName: requestName },
       { $set: { "result.fpa.status": message } }
     );
+  } else if (type === "BRAND") {
+    await retailerRequests.updateOne(
+      { userId: userId, requestName: requestName },
+      { $set: { "result.brands.status": message } }
+    );
   }
 };
 

@@ -1,0 +1,77 @@
+.fpaInfoPanel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.infoTags {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.listedSelectedItems {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+  border-radius: 5px;
+  width: 98%;
+  height: 49rem;
+  overflow: hidden;
+  overflow-y: auto;
+  margin: 0rem 1rem 1rem 1rem;
+}
+
+.typeLabel {
+  width: fit-content;
+  padding: 0.3rem 1rem;
+  margin-top: 1rem;
+  border-radius: 5px;
+  color: white;
+  background-color: #181a1e;
+  font-size: 2rem;
+  font-weight: bold;
+  align-self: center;
+  border: none;
+}
+
+.listedItem {
+  width: fit-content;
+  padding: 0.3rem 1rem;
+  margin: 0rem;
+  border-radius: 5px;
+  color: #181a1e;
+  background-color: #fbce2e;
+  font-size: 2rem;
+  font-weight: bold;
+  align-self: center;
+  border: none;
+}
+
+.candbGrids {
+  width: 98%;
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  padding: 0rem 1rem;
+}
+
+.itemsFlex {
+  width: 98%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0rem 1rem;
+}
+
+.eachItemDiv {
+  display: flex;
+  width: 80%;
+  flex-direction: row;
+  background-color: #fbce2e;
+  justify-content: space-evenly;
+  border-radius: 5px;
+  margin: 0.5rem;
+}

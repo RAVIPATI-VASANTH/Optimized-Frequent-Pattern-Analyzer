@@ -10,8 +10,8 @@ const confirmRequestController = (req, res) => {
     async function confirmRequest() {
       try {
         let result = {
-          fpa: { status: "Processing", arList: [] },
-          brands: { status: "Processing", brandsList: [] },
+          fpa: { status: "Draft", arList: { min: 0, max: 0, list: [] } },
+          brands: { status: "Draft", brandsList: [] },
         };
         let request = {
           ...JSON.parse(req.query.request),
@@ -33,19 +33,32 @@ const confirmRequestController = (req, res) => {
   promise
     .then(() => {
       let itemsBluePrint = JSON.parse(req.query.request);
+      console.log(itemsBluePrint);
       if (itemsBluePrint.status === "Start Now") {
         let promise = new Promise((resolve, reject) => {
           startFPARequest(itemsBluePrint, req.query.userId);
           resolve();
         });
         promise.then();
+        updateRequestStatus(
+          req.query.userId,
+          itemsBluePrint.requestName,
+          "ALL",
+          "Processing"
+        );
+        updateRequestStatus(
+          req.query.userId,
+          itemsBluePrint.requestName,
+          "FPA",
+          "Processing"
+        );
+        updateRequestStatus(
+          req.query.userId,
+          itemsBluePrint.requestName,
+          "BRAND",
+          "Processing"
+        );
       }
-      updateRequestStatus(
-        req.query.userId,
-        itemsBluePrint.requestName,
-        "ALL",
-        "Processing"
-      );
       res.json({ message: true });
     })
     .catch((err) => {

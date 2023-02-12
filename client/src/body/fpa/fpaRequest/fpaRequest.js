@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import FpaInfoPanel from "./subPanels/fpaInfoPanel";
 import BrandInfoPanel from "./subPanels/brandInfoPanel";
 import FpaInfo from "./subPanels/fpaInfo";
+import "./../../../css/fpaRequest.css";
 
 export default class FPARequest extends Component {
   constructor(props) {
@@ -24,25 +25,52 @@ export default class FPARequest extends Component {
       analysisView = (
         <BrandInfoPanel fpaActive={this.props.fpaActive}></BrandInfoPanel>
       );
+
+    let selectionBarButtons = [];
+    let className = "selectionBarButton";
+    if (this.state.panel === 0) {
+      className = "selectionBarButtonActive";
+    }
+    selectionBarButtons.push(
+      <button className={className} onClick={() => this.setState({ panel: 0 })}>
+        Info
+      </button>
+    );
+
+    className = "selectionBarButton";
+    if (this.state.panel === 1) {
+      className = "selectionBarButtonActive";
+    }
+    selectionBarButtons.push(
+      <button className={className} onClick={() => this.setState({ panel: 1 })}>
+        FP - Sets
+      </button>
+    );
+
+    className = "selectionBarButton";
+    if (this.state.panel === 2) {
+      className = "selectionBarButtonActive";
+    }
+    selectionBarButtons.push(
+      <button className={className} onClick={() => this.setState({ panel: 2 })}>
+        Brand Analysis
+      </button>
+    );
     return (
-      <div>
+      <div className="fpaRequestNew">
         <div className="infoBar">
-          <p>{this.props.fpaActive.requestName}</p>
-          <p>Status : {this.props.fpaActive.status}</p>
+          <p className="infoBarLabels">{this.props.fpaActive.requestName}</p>
           <button
+            className="fpaBackButton"
             onClick={() => {
               this.props.setFPAActiveToNull();
             }}
           >
-            Back
+            back
           </button>
         </div>
         <div className="selectionBar">
-          <button onClick={() => this.setState({ panel: 0 })}>Info</button>
-          <button onClick={() => this.setState({ panel: 1 })}>FP - Sets</button>
-          <button onClick={() => this.setState({ panel: 2 })}>
-            Brand Analysis
-          </button>
+          {selectionBarButtons.map((button) => button)}
         </div>
         <div className="analysisView">{analysisView}</div>
       </div>

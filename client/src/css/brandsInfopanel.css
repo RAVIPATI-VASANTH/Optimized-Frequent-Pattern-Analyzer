@@ -1,0 +1,45 @@
+.brandsInfopanel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.listedSelectedBrandItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.brandsListInfoDiv {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: white;
+  border-radius: 5px;
+  width: 20%;
+  height: 49rem;
+  overflow: hidden;
+  overflow-y: auto;
+  margin: 0rem 1rem 1rem 1rem;
+}
+
+.eachCategory {
+  background-color: #fbce2e;
+  border-radius: 5px;
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.statisticDiv {
+  width: 75%;
+  background-color: white;
+  border-radius: 5px;
+  height: 49rem;
+  overflow: hidden;
+  overflow-y: auto;
+}
