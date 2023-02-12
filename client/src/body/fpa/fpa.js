@@ -174,6 +174,7 @@ export default class FPA extends Component {
     if (this.state.fpaActive === null) {
       display = viewComponent;
     } else {
+      createButton = <></>;
       display = (
         <FPARequest
           fpaActive={this.state.fpaActive}

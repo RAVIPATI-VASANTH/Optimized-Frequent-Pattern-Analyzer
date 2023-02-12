@@ -9,6 +9,7 @@ const getBrandStatesFromBluePrint = require("./algorithm/brands/getBrandStatesFr
 const updateBrandsList = require("./algorithm/brands/updateBrandsList");
 
 const startFPARequest = async function (itemsBluePrint, userId) {
+  // console.log("work started");
   // let transactions = [];
   // transactions = [
   //   ["I1", "I2", "I5"],
@@ -49,6 +50,7 @@ const startFPARequest = async function (itemsBluePrint, userId) {
   // let associationRuleList = fps.start();
   // console.log(associationRuleList);
   try {
+    // console.log("work started");
     gettransactionsFromBluePrint(itemsBluePrint, userId).then(
       async (transactionsList) => {
         //processing the transactions with only the itemNames only

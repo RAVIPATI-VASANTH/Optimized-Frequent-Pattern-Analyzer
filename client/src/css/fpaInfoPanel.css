@@ -1,0 +1,66 @@
+.fpaInfoARPanel {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.confidenceDiv {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rangeInput {
+  width: 5rem;
+  border-radius: 5px;
+  height: 2.5rem;
+  border: 1.5px solid black;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.applyButton {
+  border-radius: 5px;
+  color: white;
+  background-color: #181a1e;
+  font-size: 2rem;
+  font-weight: bold;
+  cursor: pointer;
+  align-self: center;
+  border: none;
+  margin-left: 1rem;
+}
+
+.eachAR {
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+  justify-content: space-between;
+  margin: 1rem 0;
+  border-radius: 5px;
+  align-self: center;
+}
+
+.lrhs {
+  padding: 0.2rem;
+  width: 35%;
+  height: max-content;
+  background-color: #fbce2e;
+  font-size: 1.6rem;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.itemNameInfoPanel {
+  margin: 0rem;
+  padding: 0rem;
+}
+
+.confidenceDisplay {
+  width: 20%;
+  align-self: center;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
