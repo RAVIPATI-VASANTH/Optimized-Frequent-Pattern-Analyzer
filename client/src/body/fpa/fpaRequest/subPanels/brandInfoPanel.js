@@ -53,7 +53,6 @@ export default class BrandInfoPanel extends Component {
   }
 
   render() {
-    console.log(this.state.selectedCategory);
     let brandsInfo = <div></div>;
     let category = "None";
     if (this.state.brandsList.length !== 0) {
